@@ -15,5 +15,5 @@ to get automatic updates set up at some point, but they are not available yet.
 
 This is an unofficial, one-man project with no connection to Nintendo or its affiliates or any other developers or
 rightsholders. Nintendo, Nintendo Music, Nintendo Switch Online, and all other trademarks referenced by the names in
-this metadata are the property of Nintendo Co, Ltd., its subsidiaries and/or affiliates, and/or other developers or
+this metadata are the property of Nintendo Co., Ltd., its subsidiaries and/or affiliates, and/or other developers or
 rightsholders.
