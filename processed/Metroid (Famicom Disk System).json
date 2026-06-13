@@ -1,0 +1,284 @@
+{
+  "nameEnUS": "Metroid (Famicom Disk System)",
+  "id": "a6460660-a9ed-4013-afc7-ae9f5c55921a",
+  "hardware": "Nintendo Entertainment System",
+  "lastRetrieved": 1781315072,
+  "name": {
+    "en-US": "Metroid (Famicom Disk System)",
+    "ja-JP": "メトロイド",
+    "en-GB": "Metroid (Famicom Disk System)",
+    "fr-FR": "Metroid (Famicom Disk System)",
+    "fr-CA": "Metroid (Famicom Disk System)",
+    "de-DE": "Metroid (Famicom Disk System)",
+    "nl-NL": "Metroid (Famicom Disk System)",
+    "it-IT": "Metroid (Famicom Disk System)",
+    "pt-PT": "Metroid (Famicom Disk System)",
+    "pt-BR": "Metroid (Famicom Disk System)",
+    "es-ES": "Metroid (Famicom Disk System)",
+    "es-MX": "Metroid (Famicom Disk System)",
+    "ru-RU": "Metroid (Famicom Disk System)",
+    "ko-KR": "Metroid (Famicom Disk System)",
+    "zh-CN": "Metroid (Famicom Disk System)",
+    "zh-TW": "Metroid (Famicom Disk System)"
+  },
+  "allTracksPlaylistId": "793b7895-0257-4626-b547-5550eb1e0f1f",
+  "tracks": [
+    {
+      "id": "561dab56-c0d1-4ea7-9272-673fccf5910b",
+      "name": {
+        "en-US": "Title Screen",
+        "ja-JP": "タイトルBGM",
+        "en-GB": "Title Screen",
+        "fr-FR": "Title Screen",
+        "fr-CA": "Title Screen",
+        "de-DE": "Title Screen",
+        "nl-NL": "Title Screen",
+        "it-IT": "Title Screen",
+        "pt-PT": "Title Screen",
+        "pt-BR": "Title Screen",
+        "es-ES": "Title Screen",
+        "es-MX": "Title Screen",
+        "ru-RU": "Title Screen",
+        "ko-KR": "Title Screen",
+        "zh-CN": "Title Screen",
+        "zh-TW": "Title Screen"
+      }
+    },
+    {
+      "id": "3bc94320-ba6c-49ef-a832-83f820c2baa5",
+      "name": {
+        "en-US": "Samus Appears",
+        "ja-JP": "サムス登場ジングル",
+        "en-GB": "Samus Appears",
+        "fr-FR": "Samus Appears",
+        "fr-CA": "Samus Appears",
+        "de-DE": "Samus Appears",
+        "nl-NL": "Samus Appears",
+        "it-IT": "Samus Appears",
+        "pt-PT": "Samus Appears",
+        "pt-BR": "Samus Appears",
+        "es-ES": "Samus Appears",
+        "es-MX": "Samus Appears",
+        "ru-RU": "Samus Appears",
+        "ko-KR": "Samus Appears",
+        "zh-CN": "Samus Appears",
+        "zh-TW": "Samus Appears"
+      }
+    },
+    {
+      "id": "6656be3c-7b55-4fca-8d59-b9e5b8fdc139",
+      "name": {
+        "en-US": "Brinstar (Rocky Zone)",
+        "ja-JP": "ブリンスタ（岩ステージ）",
+        "en-GB": "Brinstar (Rocky Zone)",
+        "fr-FR": "Brinstar (Rocky Zone)",
+        "fr-CA": "Brinstar (Rocky Zone)",
+        "de-DE": "Brinstar (Rocky Zone)",
+        "nl-NL": "Brinstar (Rocky Zone)",
+        "it-IT": "Brinstar (Rocky Zone)",
+        "pt-PT": "Brinstar (Rocky Zone)",
+        "pt-BR": "Brinstar (Rocky Zone)",
+        "es-ES": "Brinstar (Rocky Zone)",
+        "es-MX": "Brinstar (Rocky Zone)",
+        "ru-RU": "Brinstar (Rocky Zone)",
+        "ko-KR": "Brinstar (Rocky Zone)",
+        "zh-CN": "Brinstar (Rocky Zone)",
+        "zh-TW": "Brinstar (Rocky Zone)"
+      }
+    },
+    {
+      "id": "ba05680d-50f1-4adf-bd0d-617cdcea9fab",
+      "name": {
+        "en-US": "Miniboss Hideout I: Kraid",
+        "ja-JP": "小ボス部屋（I）～クレイド",
+        "en-GB": "Miniboss Hideout I: Kraid",
+        "fr-FR": "Miniboss Hideout I: Kraid",
+        "fr-CA": "Miniboss Hideout I: Kraid",
+        "de-DE": "Miniboss Hideout I: Kraid",
+        "nl-NL": "Miniboss Hideout I: Kraid",
+        "it-IT": "Miniboss Hideout I: Kraid",
+        "pt-PT": "Miniboss Hideout I: Kraid",
+        "pt-BR": "Miniboss Hideout I: Kraid",
+        "es-ES": "Miniboss Hideout I: Kraid",
+        "es-MX": "Miniboss Hideout I: Kraid",
+        "ru-RU": "Miniboss Hideout I: Kraid",
+        "ko-KR": "Miniboss Hideout I: Kraid",
+        "zh-CN": "Miniboss Hideout I: Kraid",
+        "zh-TW": "Miniboss Hideout I: Kraid"
+      }
+    },
+    {
+      "id": "b5b55b2e-ad50-414e-9ed2-3f7fa7dc98e1",
+      "name": {
+        "en-US": "Norfair (Fire Zone)",
+        "ja-JP": "ノルフェア（炎ステージ）",
+        "en-GB": "Norfair (Fire Zone)",
+        "fr-FR": "Norfair (Fire Zone)",
+        "fr-CA": "Norfair (Fire Zone)",
+        "de-DE": "Norfair (Fire Zone)",
+        "nl-NL": "Norfair (Fire Zone)",
+        "it-IT": "Norfair (Fire Zone)",
+        "pt-PT": "Norfair (Fire Zone)",
+        "pt-BR": "Norfair (Fire Zone)",
+        "es-ES": "Norfair (Fire Zone)",
+        "es-MX": "Norfair (Fire Zone)",
+        "ru-RU": "Norfair (Fire Zone)",
+        "ko-KR": "Norfair (Fire Zone)",
+        "zh-CN": "Norfair (Fire Zone)",
+        "zh-TW": "Norfair (Fire Zone)"
+      }
+    },
+    {
+      "id": "82a1644a-22c5-4d86-8478-82fa9693e6e5",
+      "name": {
+        "en-US": "Miniboss Hideout II: Ridley",
+        "ja-JP": "小ボス部屋（II）～リドリー",
+        "en-GB": "Miniboss Hideout II: Ridley",
+        "fr-FR": "Miniboss Hideout II: Ridley",
+        "fr-CA": "Miniboss Hideout II: Ridley",
+        "de-DE": "Miniboss Hideout II: Ridley",
+        "nl-NL": "Miniboss Hideout II: Ridley",
+        "it-IT": "Miniboss Hideout II: Ridley",
+        "pt-PT": "Miniboss Hideout II: Ridley",
+        "pt-BR": "Miniboss Hideout II: Ridley",
+        "es-ES": "Miniboss Hideout II: Ridley",
+        "es-MX": "Miniboss Hideout II: Ridley",
+        "ru-RU": "Miniboss Hideout II: Ridley",
+        "ko-KR": "Miniboss Hideout II: Ridley",
+        "zh-CN": "Miniboss Hideout II: Ridley",
+        "zh-TW": "Miniboss Hideout II: Ridley"
+      }
+    },
+    {
+      "id": "95b3f163-657c-4577-98c2-a4f1818e5216",
+      "name": {
+        "en-US": "Stillness",
+        "ja-JP": "静寂",
+        "en-GB": "Stillness",
+        "fr-FR": "Stillness",
+        "fr-CA": "Stillness",
+        "de-DE": "Stillness",
+        "nl-NL": "Stillness",
+        "it-IT": "Stillness",
+        "pt-PT": "Stillness",
+        "pt-BR": "Stillness",
+        "es-ES": "Stillness",
+        "es-MX": "Stillness",
+        "ru-RU": "Stillness",
+        "ko-KR": "Stillness",
+        "zh-CN": "Stillness",
+        "zh-TW": "Stillness"
+      }
+    },
+    {
+      "id": "a36c4401-09d5-4195-bd44-463e11d7d574",
+      "name": {
+        "en-US": "Item Obtained",
+        "ja-JP": "アイテム取得ジングル",
+        "en-GB": "Item Obtained",
+        "fr-FR": "Item Obtained",
+        "fr-CA": "Item Obtained",
+        "de-DE": "Item Obtained",
+        "nl-NL": "Item Obtained",
+        "it-IT": "Item Obtained",
+        "pt-PT": "Item Obtained",
+        "pt-BR": "Item Obtained",
+        "es-ES": "Item Obtained",
+        "es-MX": "Item Obtained",
+        "ru-RU": "Item Obtained",
+        "ko-KR": "Item Obtained",
+        "zh-CN": "Item Obtained",
+        "zh-TW": "Item Obtained"
+      }
+    },
+    {
+      "id": "790ba89e-ffc9-4870-b562-78b903e13a38",
+      "name": {
+        "en-US": "Tourian (Central Base)",
+        "ja-JP": "ツーリアン（基地ステージ）",
+        "en-GB": "Tourian (Central Base)",
+        "fr-FR": "Tourian (Central Base)",
+        "fr-CA": "Tourian (Central Base)",
+        "de-DE": "Tourian (Central Base)",
+        "nl-NL": "Tourian (Central Base)",
+        "it-IT": "Tourian (Central Base)",
+        "pt-PT": "Tourian (Central Base)",
+        "pt-BR": "Tourian (Central Base)",
+        "es-ES": "Tourian (Central Base)",
+        "es-MX": "Tourian (Central Base)",
+        "ru-RU": "Tourian (Central Base)",
+        "ko-KR": "Tourian (Central Base)",
+        "zh-CN": "Tourian (Central Base)",
+        "zh-TW": "Tourian (Central Base)"
+      }
+    },
+    {
+      "id": "1a709026-2602-4b8d-b3c9-0683c39f7a1c",
+      "name": {
+        "en-US": "Zebetite",
+        "ja-JP": "ゼーベタイト",
+        "en-GB": "Zebetite",
+        "fr-FR": "Zebetite",
+        "fr-CA": "Zebetite",
+        "de-DE": "Zebetite",
+        "nl-NL": "Zebetite",
+        "it-IT": "Zebetite",
+        "pt-PT": "Zebetite",
+        "pt-BR": "Zebetite",
+        "es-ES": "Zebetite",
+        "es-MX": "Zebetite",
+        "ru-RU": "Zebetite",
+        "ko-KR": "Zebetite",
+        "zh-CN": "Zebetite",
+        "zh-TW": "Zebetite"
+      }
+    },
+    {
+      "id": "dccfedf4-df9a-4036-80fc-97bae709cbf3",
+      "name": {
+        "en-US": "Escape",
+        "ja-JP": "脱出",
+        "en-GB": "Escape",
+        "fr-FR": "Escape",
+        "fr-CA": "Escape",
+        "de-DE": "Escape",
+        "nl-NL": "Escape",
+        "it-IT": "Escape",
+        "pt-PT": "Escape",
+        "pt-BR": "Escape",
+        "es-ES": "Escape",
+        "es-MX": "Escape",
+        "ru-RU": "Escape",
+        "ko-KR": "Escape",
+        "zh-CN": "Escape",
+        "zh-TW": "Escape"
+      }
+    },
+    {
+      "id": "e7dd02a1-909d-4b54-a72c-3ba1b1aff5fb",
+      "name": {
+        "en-US": "Ending",
+        "ja-JP": "エンディング",
+        "en-GB": "Ending",
+        "fr-FR": "Ending",
+        "fr-CA": "Ending",
+        "de-DE": "Ending",
+        "nl-NL": "Ending",
+        "it-IT": "Ending",
+        "pt-PT": "Ending",
+        "pt-BR": "Ending",
+        "es-ES": "Ending",
+        "es-MX": "Ending",
+        "ru-RU": "Ending",
+        "ko-KR": "Ending",
+        "zh-CN": "Ending",
+        "zh-TW": "Ending"
+      }
+    }
+  ],
+  "localesWithDistinctTrackNames": [
+    "ja-JP",
+    "en-US"
+  ],
+  "localesWithDistinctTrackNamesCount": 2
+}

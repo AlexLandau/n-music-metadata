@@ -1,0 +1,242 @@
+{
+  "nameEnUS": "Duck Hunt",
+  "id": "42f7e035-28b8-4f6b-b61f-e17b27ec1ef9",
+  "hardware": "Nintendo Entertainment System",
+  "lastRetrieved": 1781313135,
+  "name": {
+    "en-US": "Duck Hunt",
+    "ja-JP": "ダックハント",
+    "en-GB": "Duck Hunt",
+    "fr-FR": "Duck Hunt",
+    "fr-CA": "Duck Hunt",
+    "de-DE": "Duck Hunt",
+    "nl-NL": "Duck Hunt",
+    "it-IT": "Duck Hunt",
+    "pt-PT": "Duck Hunt",
+    "pt-BR": "Duck Hunt",
+    "es-ES": "Duck Hunt",
+    "es-MX": "Duck Hunt",
+    "ru-RU": "Duck Hunt",
+    "ko-KR": "Duck Hunt",
+    "zh-CN": "Duck Hunt",
+    "zh-TW": "Duck Hunt"
+  },
+  "allTracksPlaylistId": "0502b528-609a-4d5a-b3df-34bd0fd80be5",
+  "tracks": [
+    {
+      "id": "955e0341-f7ac-4ad4-ac9b-2787156a1fcd",
+      "name": {
+        "en-US": "Title BGM",
+        "ja-JP": "タイトルBGM",
+        "en-GB": "Title BGM",
+        "fr-FR": "Title BGM",
+        "fr-CA": "Title BGM",
+        "de-DE": "Title BGM",
+        "nl-NL": "Title BGM",
+        "it-IT": "Title BGM",
+        "pt-PT": "Title BGM",
+        "pt-BR": "Title BGM",
+        "es-ES": "Title BGM",
+        "es-MX": "Title BGM",
+        "ru-RU": "Title BGM",
+        "ko-KR": "Title BGM",
+        "zh-CN": "Title BGM",
+        "zh-TW": "Title BGM"
+      }
+    },
+    {
+      "id": "30fbdea7-150b-4bc6-9f3b-15da39338355",
+      "name": {
+        "en-US": "Game A/B Start",
+        "ja-JP": "ゲーム A/B スタート",
+        "en-GB": "Game A/B Start",
+        "fr-FR": "Game A/B Start",
+        "fr-CA": "Game A/B Start",
+        "de-DE": "Game A/B Start",
+        "nl-NL": "Game A/B Start",
+        "it-IT": "Game A/B Start",
+        "pt-PT": "Game A/B Start",
+        "pt-BR": "Game A/B Start",
+        "es-ES": "Game A/B Start",
+        "es-MX": "Game A/B Start",
+        "ru-RU": "Game A/B Start",
+        "ko-KR": "Game A/B Start",
+        "zh-CN": "Game A/B Start",
+        "zh-TW": "Game A/B Start"
+      }
+    },
+    {
+      "id": "8d6c6786-0519-4d94-8913-cbd0aeffbc80",
+      "name": {
+        "en-US": "Dog",
+        "ja-JP": "猟犬",
+        "en-GB": "Dog",
+        "fr-FR": "Dog",
+        "fr-CA": "Dog",
+        "de-DE": "Dog",
+        "nl-NL": "Dog",
+        "it-IT": "Dog",
+        "pt-PT": "Dog",
+        "pt-BR": "Dog",
+        "es-ES": "Dog",
+        "es-MX": "Dog",
+        "ru-RU": "Dog",
+        "ko-KR": "Dog",
+        "zh-CN": "Dog",
+        "zh-TW": "Dog"
+      }
+    },
+    {
+      "id": "a9577186-886b-420e-b97a-ea967b36ffdc",
+      "name": {
+        "en-US": "Duck",
+        "ja-JP": "ダック",
+        "en-GB": "Duck",
+        "fr-FR": "Duck",
+        "fr-CA": "Duck",
+        "de-DE": "Duck",
+        "nl-NL": "Duck",
+        "it-IT": "Duck",
+        "pt-PT": "Duck",
+        "pt-BR": "Duck",
+        "es-ES": "Duck",
+        "es-MX": "Duck",
+        "ru-RU": "Duck",
+        "ko-KR": "Duck",
+        "zh-CN": "Duck",
+        "zh-TW": "Duck"
+      }
+    },
+    {
+      "id": "040923d7-115d-4d16-85a9-d90cf164904b",
+      "name": {
+        "en-US": "Got a Duck!",
+        "ja-JP": "ダックゲット！",
+        "en-GB": "Got a Duck!",
+        "fr-FR": "Got a Duck!",
+        "fr-CA": "Got a Duck!",
+        "de-DE": "Got a Duck!",
+        "nl-NL": "Got a Duck!",
+        "it-IT": "Got a Duck!",
+        "pt-PT": "Got a Duck!",
+        "pt-BR": "Got a Duck!",
+        "es-ES": "Got a Duck!",
+        "es-MX": "Got a Duck!",
+        "ru-RU": "Got a Duck!",
+        "ko-KR": "Got a Duck!",
+        "zh-CN": "Got a Duck!",
+        "zh-TW": "Got a Duck!"
+      }
+    },
+    {
+      "id": "ba0ffc7f-3ede-432e-b13b-1a1bc11e415b",
+      "name": {
+        "en-US": "Clear",
+        "ja-JP": "クリア",
+        "en-GB": "Clear",
+        "fr-FR": "Clear",
+        "fr-CA": "Clear",
+        "de-DE": "Clear",
+        "nl-NL": "Clear",
+        "it-IT": "Clear",
+        "pt-PT": "Clear",
+        "pt-BR": "Clear",
+        "es-ES": "Clear",
+        "es-MX": "Clear",
+        "ru-RU": "Clear",
+        "ko-KR": "Clear",
+        "zh-CN": "Clear",
+        "zh-TW": "Clear"
+      }
+    },
+    {
+      "id": "39039e68-8bd8-4953-86ca-232c92f67bdf",
+      "name": {
+        "en-US": "Perfect",
+        "ja-JP": "パーフェクト",
+        "en-GB": "Perfect",
+        "fr-FR": "Perfect",
+        "fr-CA": "Perfect",
+        "de-DE": "Perfect",
+        "nl-NL": "Perfect",
+        "it-IT": "Perfect",
+        "pt-PT": "Perfect",
+        "pt-BR": "Perfect",
+        "es-ES": "Perfect",
+        "es-MX": "Perfect",
+        "ru-RU": "Perfect",
+        "ko-KR": "Perfect",
+        "zh-CN": "Perfect",
+        "zh-TW": "Perfect"
+      }
+    },
+    {
+      "id": "59613349-d3ee-4c6c-9d79-ba257297dcb5",
+      "name": {
+        "en-US": "Miss",
+        "ja-JP": "ミス",
+        "en-GB": "Miss",
+        "fr-FR": "Miss",
+        "fr-CA": "Miss",
+        "de-DE": "Miss",
+        "nl-NL": "Miss",
+        "it-IT": "Miss",
+        "pt-PT": "Miss",
+        "pt-BR": "Miss",
+        "es-ES": "Miss",
+        "es-MX": "Miss",
+        "ru-RU": "Miss",
+        "ko-KR": "Miss",
+        "zh-CN": "Miss",
+        "zh-TW": "Miss"
+      }
+    },
+    {
+      "id": "f62fb69a-4e16-4e33-93ff-4f2bf7f86f8d",
+      "name": {
+        "en-US": "Game C Start",
+        "ja-JP": "ゲーム C スタート",
+        "en-GB": "Game C Start",
+        "fr-FR": "Game C Start",
+        "fr-CA": "Game C Start",
+        "de-DE": "Game C Start",
+        "nl-NL": "Game C Start",
+        "it-IT": "Game C Start",
+        "pt-PT": "Game C Start",
+        "pt-BR": "Game C Start",
+        "es-ES": "Game C Start",
+        "es-MX": "Game C Start",
+        "ru-RU": "Game C Start",
+        "ko-KR": "Game C Start",
+        "zh-CN": "Game C Start",
+        "zh-TW": "Game C Start"
+      }
+    },
+    {
+      "id": "192b4feb-fff6-4a65-87fd-b535e4d18d7f",
+      "name": {
+        "en-US": "Game Over",
+        "ja-JP": "ゲームオーバー",
+        "en-GB": "Game Over",
+        "fr-FR": "Game Over",
+        "fr-CA": "Game Over",
+        "de-DE": "Game Over",
+        "nl-NL": "Game Over",
+        "it-IT": "Game Over",
+        "pt-PT": "Game Over",
+        "pt-BR": "Game Over",
+        "es-ES": "Game Over",
+        "es-MX": "Game Over",
+        "ru-RU": "Game Over",
+        "ko-KR": "Game Over",
+        "zh-CN": "Game Over",
+        "zh-TW": "Game Over"
+      }
+    }
+  ],
+  "localesWithDistinctTrackNames": [
+    "ja-JP",
+    "en-US"
+  ],
+  "localesWithDistinctTrackNamesCount": 2
+}

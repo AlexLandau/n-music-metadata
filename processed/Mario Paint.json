@@ -1,0 +1,431 @@
+{
+  "nameEnUS": "Mario Paint",
+  "id": "66760fd8-dda3-465a-86c8-21ebb25cc4ce",
+  "hardware": "Super Nintendo Entertainment System",
+  "lastRetrieved": 1781312735,
+  "name": {
+    "en-US": "Mario Paint",
+    "ja-JP": "マリオペイント",
+    "en-GB": "Mario Paint",
+    "fr-FR": "Mario Paint",
+    "fr-CA": "Mario Paint",
+    "de-DE": "Mario Paint",
+    "nl-NL": "Mario Paint",
+    "it-IT": "Mario Paint",
+    "pt-PT": "Mario Paint",
+    "pt-BR": "Mario Paint",
+    "es-ES": "Mario Paint",
+    "es-MX": "Mario Paint",
+    "ru-RU": "Mario Paint",
+    "ko-KR": "Mario Paint",
+    "zh-CN": "Mario Paint",
+    "zh-TW": "Mario Paint"
+  },
+  "allTracksPlaylistId": "3eac0b7f-b35e-480c-b32b-a02281102a0d",
+  "tracks": [
+    {
+      "id": "53427b75-9111-459b-8d26-5e9fc020edd1",
+      "name": {
+        "en-US": "Title Theme 1",
+        "ja-JP": "マリオペイント タイトル1",
+        "en-GB": "Title Theme 1",
+        "fr-FR": "Title Theme 1",
+        "fr-CA": "Title Theme 1",
+        "de-DE": "Title Theme 1",
+        "nl-NL": "Title Theme 1",
+        "it-IT": "Title Theme 1",
+        "pt-PT": "Title Theme 1",
+        "pt-BR": "Title Theme 1",
+        "es-ES": "Title Theme 1",
+        "es-MX": "Title Theme 1",
+        "ru-RU": "Title Theme 1",
+        "ko-KR": "Title Theme 1",
+        "zh-CN": "Title Theme 1",
+        "zh-TW": "Title Theme 1"
+      }
+    },
+    {
+      "id": "a141511b-002b-41f3-b087-e23664fbf667",
+      "name": {
+        "en-US": "Title Theme 2",
+        "ja-JP": "マリオペイント タイトル2",
+        "en-GB": "Title Theme 2",
+        "fr-FR": "Title Theme 2",
+        "fr-CA": "Title Theme 2",
+        "de-DE": "Title Theme 2",
+        "nl-NL": "Title Theme 2",
+        "it-IT": "Title Theme 2",
+        "pt-PT": "Title Theme 2",
+        "pt-BR": "Title Theme 2",
+        "es-ES": "Title Theme 2",
+        "es-MX": "Title Theme 2",
+        "ru-RU": "Title Theme 2",
+        "ko-KR": "Title Theme 2",
+        "zh-CN": "Title Theme 2",
+        "zh-TW": "Title Theme 2"
+      }
+    },
+    {
+      "id": "b884c67f-9464-493a-ac58-af095ed5f063",
+      "name": {
+        "en-US": "Title Theme 3",
+        "ja-JP": "マリオペイント タイトル3",
+        "en-GB": "Title Theme 3",
+        "fr-FR": "Title Theme 3",
+        "fr-CA": "Title Theme 3",
+        "de-DE": "Title Theme 3",
+        "nl-NL": "Title Theme 3",
+        "it-IT": "Title Theme 3",
+        "pt-PT": "Title Theme 3",
+        "pt-BR": "Title Theme 3",
+        "es-ES": "Title Theme 3",
+        "es-MX": "Title Theme 3",
+        "ru-RU": "Title Theme 3",
+        "ko-KR": "Title Theme 3",
+        "zh-CN": "Title Theme 3",
+        "zh-TW": "Title Theme 3"
+      }
+    },
+    {
+      "id": "9b1a577c-c315-4555-bda1-197bda1b1ad0",
+      "name": {
+        "en-US": "Opening 1",
+        "ja-JP": "オープニングデモ1",
+        "en-GB": "Opening 1",
+        "fr-FR": "Opening 1",
+        "fr-CA": "Opening 1",
+        "de-DE": "Opening 1",
+        "nl-NL": "Opening 1",
+        "it-IT": "Opening 1",
+        "pt-PT": "Opening 1",
+        "pt-BR": "Opening 1",
+        "es-ES": "Opening 1",
+        "es-MX": "Opening 1",
+        "ru-RU": "Opening 1",
+        "ko-KR": "Opening 1",
+        "zh-CN": "Opening 1",
+        "zh-TW": "Opening 1"
+      }
+    },
+    {
+      "id": "7c301b72-9daf-4996-980f-b921b0c2121e",
+      "name": {
+        "en-US": "Opening 2",
+        "ja-JP": "オープニングデモ2",
+        "en-GB": "Opening 2",
+        "fr-FR": "Opening 2",
+        "fr-CA": "Opening 2",
+        "de-DE": "Opening 2",
+        "nl-NL": "Opening 2",
+        "it-IT": "Opening 2",
+        "pt-PT": "Opening 2",
+        "pt-BR": "Opening 2",
+        "es-ES": "Opening 2",
+        "es-MX": "Opening 2",
+        "ru-RU": "Opening 2",
+        "ko-KR": "Opening 2",
+        "zh-CN": "Opening 2",
+        "zh-TW": "Opening 2"
+      }
+    },
+    {
+      "id": "f76e385a-fa70-40f9-b79f-00c8e33d5c09",
+      "name": {
+        "en-US": "Drawing Board 1",
+        "ja-JP": "お絵描きスクリーン1",
+        "en-GB": "Drawing Board 1",
+        "fr-FR": "Drawing Board 1",
+        "fr-CA": "Drawing Board 1",
+        "de-DE": "Drawing Board 1",
+        "nl-NL": "Drawing Board 1",
+        "it-IT": "Drawing Board 1",
+        "pt-PT": "Drawing Board 1",
+        "pt-BR": "Drawing Board 1",
+        "es-ES": "Drawing Board 1",
+        "es-MX": "Drawing Board 1",
+        "ru-RU": "Drawing Board 1",
+        "ko-KR": "Drawing Board 1",
+        "zh-CN": "Drawing Board 1",
+        "zh-TW": "Drawing Board 1"
+      }
+    },
+    {
+      "id": "b351ee3e-4ce2-48f7-866f-a1b79815f6d3",
+      "name": {
+        "en-US": "Drawing Board 2",
+        "ja-JP": "お絵描きスクリーン2",
+        "en-GB": "Drawing Board 2",
+        "fr-FR": "Drawing Board 2",
+        "fr-CA": "Drawing Board 2",
+        "de-DE": "Drawing Board 2",
+        "nl-NL": "Drawing Board 2",
+        "it-IT": "Drawing Board 2",
+        "pt-PT": "Drawing Board 2",
+        "pt-BR": "Drawing Board 2",
+        "es-ES": "Drawing Board 2",
+        "es-MX": "Drawing Board 2",
+        "ru-RU": "Drawing Board 2",
+        "ko-KR": "Drawing Board 2",
+        "zh-CN": "Drawing Board 2",
+        "zh-TW": "Drawing Board 2"
+      }
+    },
+    {
+      "id": "e620bc70-10f5-4fa8-ae35-d8ec08a2d271",
+      "name": {
+        "en-US": "Drawing Board 3",
+        "ja-JP": "お絵描きスクリーン3",
+        "en-GB": "Drawing Board 3",
+        "fr-FR": "Drawing Board 3",
+        "fr-CA": "Drawing Board 3",
+        "de-DE": "Drawing Board 3",
+        "nl-NL": "Drawing Board 3",
+        "it-IT": "Drawing Board 3",
+        "pt-PT": "Drawing Board 3",
+        "pt-BR": "Drawing Board 3",
+        "es-ES": "Drawing Board 3",
+        "es-MX": "Drawing Board 3",
+        "ru-RU": "Drawing Board 3",
+        "ko-KR": "Drawing Board 3",
+        "zh-CN": "Drawing Board 3",
+        "zh-TW": "Drawing Board 3"
+      }
+    },
+    {
+      "id": "4802fd73-1e7c-4973-af8b-68aa79982201",
+      "name": {
+        "en-US": "Special Stamp",
+        "ja-JP": "スペシャルスタンプ",
+        "en-GB": "Special Stamp",
+        "fr-FR": "Special Stamp",
+        "fr-CA": "Special Stamp",
+        "de-DE": "Special Stamp",
+        "nl-NL": "Special Stamp",
+        "it-IT": "Special Stamp",
+        "pt-PT": "Special Stamp",
+        "pt-BR": "Special Stamp",
+        "es-ES": "Special Stamp",
+        "es-MX": "Special Stamp",
+        "ru-RU": "Special Stamp",
+        "ko-KR": "Special Stamp",
+        "zh-CN": "Special Stamp",
+        "zh-TW": "Special Stamp"
+      }
+    },
+    {
+      "id": "bceceb9c-653a-43ed-b3c3-1e56030a990f",
+      "name": {
+        "en-US": "Precomposed Melody 1",
+        "ja-JP": "サウンドコラージュ1",
+        "en-GB": "Precomposed Melody 1",
+        "fr-FR": "Precomposed Melody 1",
+        "fr-CA": "Precomposed Melody 1",
+        "de-DE": "Precomposed Melody 1",
+        "nl-NL": "Precomposed Melody 1",
+        "it-IT": "Precomposed Melody 1",
+        "pt-PT": "Precomposed Melody 1",
+        "pt-BR": "Precomposed Melody 1",
+        "es-ES": "Precomposed Melody 1",
+        "es-MX": "Precomposed Melody 1",
+        "ru-RU": "Precomposed Melody 1",
+        "ko-KR": "Precomposed Melody 1",
+        "zh-CN": "Precomposed Melody 1",
+        "zh-TW": "Precomposed Melody 1"
+      }
+    },
+    {
+      "id": "bf9458e3-79a3-45c9-9fd5-675b8e156545",
+      "name": {
+        "en-US": "Precomposed Melody 2",
+        "ja-JP": "サウンドコラージュ2",
+        "en-GB": "Precomposed Melody 2",
+        "fr-FR": "Precomposed Melody 2",
+        "fr-CA": "Precomposed Melody 2",
+        "de-DE": "Precomposed Melody 2",
+        "nl-NL": "Precomposed Melody 2",
+        "it-IT": "Precomposed Melody 2",
+        "pt-PT": "Precomposed Melody 2",
+        "pt-BR": "Precomposed Melody 2",
+        "es-ES": "Precomposed Melody 2",
+        "es-MX": "Precomposed Melody 2",
+        "ru-RU": "Precomposed Melody 2",
+        "ko-KR": "Precomposed Melody 2",
+        "zh-CN": "Precomposed Melody 2",
+        "zh-TW": "Precomposed Melody 2"
+      }
+    },
+    {
+      "id": "e9a338f0-c2af-4722-a6d5-6a6e5e2ba84e",
+      "name": {
+        "en-US": "Precomposed Melody 3",
+        "ja-JP": "サウンドコラージュ3",
+        "en-GB": "Precomposed Melody 3",
+        "fr-FR": "Precomposed Melody 3",
+        "fr-CA": "Precomposed Melody 3",
+        "de-DE": "Precomposed Melody 3",
+        "nl-NL": "Precomposed Melody 3",
+        "it-IT": "Precomposed Melody 3",
+        "pt-PT": "Precomposed Melody 3",
+        "pt-BR": "Precomposed Melody 3",
+        "es-ES": "Precomposed Melody 3",
+        "es-MX": "Precomposed Melody 3",
+        "ru-RU": "Precomposed Melody 3",
+        "ko-KR": "Precomposed Melody 3",
+        "zh-CN": "Precomposed Melody 3",
+        "zh-TW": "Precomposed Melody 3"
+      }
+    },
+    {
+      "id": "73fc934a-8a1d-4d02-81da-16e120fb96ce",
+      "name": {
+        "en-US": "Save & Load",
+        "ja-JP": "セーブ＆ロード",
+        "en-GB": "Save & Load",
+        "fr-FR": "Save & Load",
+        "fr-CA": "Save & Load",
+        "de-DE": "Save & Load",
+        "nl-NL": "Save & Load",
+        "it-IT": "Save & Load",
+        "pt-PT": "Save & Load",
+        "pt-BR": "Save & Load",
+        "es-ES": "Save & Load",
+        "es-MX": "Save & Load",
+        "ru-RU": "Save & Load",
+        "ko-KR": "Save & Load",
+        "zh-CN": "Save & Load",
+        "zh-TW": "Save & Load"
+      }
+    },
+    {
+      "id": "634c1c81-af44-4028-b763-f26466ffa823",
+      "name": {
+        "en-US": "Gnat Attack: Level 1",
+        "ja-JP": "ハエタタキ：レベル1",
+        "en-GB": "Gnat Attack: Level 1",
+        "fr-FR": "Gnat Attack: Level 1",
+        "fr-CA": "Gnat Attack: Level 1",
+        "de-DE": "Gnat Attack: Level 1",
+        "nl-NL": "Gnat Attack: Level 1",
+        "it-IT": "Gnat Attack: Level 1",
+        "pt-PT": "Gnat Attack: Level 1",
+        "pt-BR": "Gnat Attack: Level 1",
+        "es-ES": "Gnat Attack: Level 1",
+        "es-MX": "Gnat Attack: Level 1",
+        "ru-RU": "Gnat Attack: Level 1",
+        "ko-KR": "Gnat Attack: Level 1",
+        "zh-CN": "Gnat Attack: Level 1",
+        "zh-TW": "Gnat Attack: Level 1"
+      }
+    },
+    {
+      "id": "2d4e7b87-716a-43bc-8b1c-61abe6540234",
+      "name": {
+        "en-US": "Gnat Attack: Level 2",
+        "ja-JP": "ハエタタキ：レベル2",
+        "en-GB": "Gnat Attack: Level 2",
+        "fr-FR": "Gnat Attack: Level 2",
+        "fr-CA": "Gnat Attack: Level 2",
+        "de-DE": "Gnat Attack: Level 2",
+        "nl-NL": "Gnat Attack: Level 2",
+        "it-IT": "Gnat Attack: Level 2",
+        "pt-PT": "Gnat Attack: Level 2",
+        "pt-BR": "Gnat Attack: Level 2",
+        "es-ES": "Gnat Attack: Level 2",
+        "es-MX": "Gnat Attack: Level 2",
+        "ru-RU": "Gnat Attack: Level 2",
+        "ko-KR": "Gnat Attack: Level 2",
+        "zh-CN": "Gnat Attack: Level 2",
+        "zh-TW": "Gnat Attack: Level 2"
+      }
+    },
+    {
+      "id": "5f7ddd74-e9d0-4e02-b79b-b6c399fdba3e",
+      "name": {
+        "en-US": "Gnat Attack: Level 3",
+        "ja-JP": "ハエタタキ：レベル3",
+        "en-GB": "Gnat Attack: Level 3",
+        "fr-FR": "Gnat Attack: Level 3",
+        "fr-CA": "Gnat Attack: Level 3",
+        "de-DE": "Gnat Attack: Level 3",
+        "nl-NL": "Gnat Attack: Level 3",
+        "it-IT": "Gnat Attack: Level 3",
+        "pt-PT": "Gnat Attack: Level 3",
+        "pt-BR": "Gnat Attack: Level 3",
+        "es-ES": "Gnat Attack: Level 3",
+        "es-MX": "Gnat Attack: Level 3",
+        "ru-RU": "Gnat Attack: Level 3",
+        "ko-KR": "Gnat Attack: Level 3",
+        "zh-CN": "Gnat Attack: Level 3",
+        "zh-TW": "Gnat Attack: Level 3"
+      }
+    },
+    {
+      "id": "2c2f19b6-c9e6-4e8c-8a78-b2b9ced6671e",
+      "name": {
+        "en-US": "Gnat Attack: King Watinga",
+        "ja-JP": "ハエタタキ：ボス",
+        "en-GB": "Gnat Attack: King Watinga",
+        "fr-FR": "Gnat Attack: King Watinga",
+        "fr-CA": "Gnat Attack: King Watinga",
+        "de-DE": "Gnat Attack: King Watinga",
+        "nl-NL": "Gnat Attack: King Watinga",
+        "it-IT": "Gnat Attack: King Watinga",
+        "pt-PT": "Gnat Attack: King Watinga",
+        "pt-BR": "Gnat Attack: King Watinga",
+        "es-ES": "Gnat Attack: King Watinga",
+        "es-MX": "Gnat Attack: King Watinga",
+        "ru-RU": "Gnat Attack: King Watinga",
+        "ko-KR": "Gnat Attack: King Watinga",
+        "zh-CN": "Gnat Attack: King Watinga",
+        "zh-TW": "Gnat Attack: King Watinga"
+      }
+    },
+    {
+      "id": "4a10b99a-59a3-49a1-9dfd-26d1bd9e81ff",
+      "name": {
+        "en-US": "Gnat Attack: Stage Clear",
+        "ja-JP": "ハエタタキ：ステージクリア",
+        "en-GB": "Gnat Attack: Stage Clear",
+        "fr-FR": "Gnat Attack: Stage Clear",
+        "fr-CA": "Gnat Attack: Stage Clear",
+        "de-DE": "Gnat Attack: Stage Clear",
+        "nl-NL": "Gnat Attack: Stage Clear",
+        "it-IT": "Gnat Attack: Stage Clear",
+        "pt-PT": "Gnat Attack: Stage Clear",
+        "pt-BR": "Gnat Attack: Stage Clear",
+        "es-ES": "Gnat Attack: Stage Clear",
+        "es-MX": "Gnat Attack: Stage Clear",
+        "ru-RU": "Gnat Attack: Stage Clear",
+        "ko-KR": "Gnat Attack: Stage Clear",
+        "zh-CN": "Gnat Attack: Stage Clear",
+        "zh-TW": "Gnat Attack: Stage Clear"
+      }
+    },
+    {
+      "id": "cd7b27e5-3088-48a0-bb71-745dcbb16973",
+      "name": {
+        "en-US": "Gnat Attack: Game Over",
+        "ja-JP": "ハエタタキ：ゲームオーバー",
+        "en-GB": "Gnat Attack: Game Over",
+        "fr-FR": "Gnat Attack: Game Over",
+        "fr-CA": "Gnat Attack: Game Over",
+        "de-DE": "Gnat Attack: Game Over",
+        "nl-NL": "Gnat Attack: Game Over",
+        "it-IT": "Gnat Attack: Game Over",
+        "pt-PT": "Gnat Attack: Game Over",
+        "pt-BR": "Gnat Attack: Game Over",
+        "es-ES": "Gnat Attack: Game Over",
+        "es-MX": "Gnat Attack: Game Over",
+        "ru-RU": "Gnat Attack: Game Over",
+        "ko-KR": "Gnat Attack: Game Over",
+        "zh-CN": "Gnat Attack: Game Over",
+        "zh-TW": "Gnat Attack: Game Over"
+      }
+    }
+  ],
+  "localesWithDistinctTrackNames": [
+    "ja-JP",
+    "en-US"
+  ],
+  "localesWithDistinctTrackNamesCount": 2
+}

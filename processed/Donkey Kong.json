@@ -1,0 +1,263 @@
+{
+  "nameEnUS": "Donkey Kong",
+  "id": "a8c16748-1e0e-469a-b561-1f7698c73c78",
+  "hardware": "Nintendo Entertainment System",
+  "lastRetrieved": 1781313381,
+  "name": {
+    "en-US": "Donkey Kong",
+    "ja-JP": "ドンキーコング",
+    "en-GB": "Donkey Kong",
+    "fr-FR": "Donkey Kong",
+    "fr-CA": "Donkey Kong",
+    "de-DE": "Donkey Kong",
+    "nl-NL": "Donkey Kong",
+    "it-IT": "Donkey Kong",
+    "pt-PT": "Donkey Kong",
+    "pt-BR": "Donkey Kong",
+    "es-ES": "Donkey Kong",
+    "es-MX": "Donkey Kong",
+    "ru-RU": "Donkey Kong",
+    "ko-KR": "동키콩",
+    "zh-CN": "Donkey Kong",
+    "zh-TW": "Donkey Kong"
+  },
+  "allTracksPlaylistId": "da29d5ed-1117-456c-a29e-b00d08a886bd",
+  "tracks": [
+    {
+      "id": "cf3122d2-8293-4a8f-b9f7-9e10d8732e1c",
+      "name": {
+        "en-US": "Title BGM",
+        "ja-JP": "タイトルBGM",
+        "en-GB": "Title BGM",
+        "fr-FR": "Title BGM",
+        "fr-CA": "Title BGM",
+        "de-DE": "Title BGM",
+        "nl-NL": "Title BGM",
+        "it-IT": "Title BGM",
+        "pt-PT": "Title BGM",
+        "pt-BR": "Title BGM",
+        "es-ES": "Title BGM",
+        "es-MX": "Title BGM",
+        "ru-RU": "Title BGM",
+        "ko-KR": "Title BGM",
+        "zh-CN": "Title BGM",
+        "zh-TW": "Title BGM"
+      }
+    },
+    {
+      "id": "05dc44f2-cfd7-45d6-bfe8-a8225dedc11e",
+      "name": {
+        "en-US": "Game Start",
+        "ja-JP": "ゲーム開始",
+        "en-GB": "Game Start",
+        "fr-FR": "Game Start",
+        "fr-CA": "Game Start",
+        "de-DE": "Game Start",
+        "nl-NL": "Game Start",
+        "it-IT": "Game Start",
+        "pt-PT": "Game Start",
+        "pt-BR": "Game Start",
+        "es-ES": "Game Start",
+        "es-MX": "Game Start",
+        "ru-RU": "Game Start",
+        "ko-KR": "Game Start",
+        "zh-CN": "Game Start",
+        "zh-TW": "Game Start"
+      }
+    },
+    {
+      "id": "6e57a285-9275-4ebe-9a8b-c7def13f03b3",
+      "name": {
+        "en-US": "Round Start BGM",
+        "ja-JP": "各面開始BGM",
+        "en-GB": "Round Start BGM",
+        "fr-FR": "Round Start BGM",
+        "fr-CA": "Round Start BGM",
+        "de-DE": "Round Start BGM",
+        "nl-NL": "Round Start BGM",
+        "it-IT": "Round Start BGM",
+        "pt-PT": "Round Start BGM",
+        "pt-BR": "Round Start BGM",
+        "es-ES": "Round Start BGM",
+        "es-MX": "Round Start BGM",
+        "ru-RU": "Round Start BGM",
+        "ko-KR": "Round Start BGM",
+        "zh-CN": "Round Start BGM",
+        "zh-TW": "Round Start BGM"
+      }
+    },
+    {
+      "id": "3d033b22-b6e2-4ae3-b1cd-af1a5e0360f3",
+      "name": {
+        "en-US": "Round 1 BGM",
+        "ja-JP": "1面BGM",
+        "en-GB": "Round 1 BGM",
+        "fr-FR": "Round 1 BGM",
+        "fr-CA": "Round 1 BGM",
+        "de-DE": "Round 1 BGM",
+        "nl-NL": "Round 1 BGM",
+        "it-IT": "Round 1 BGM",
+        "pt-PT": "Round 1 BGM",
+        "pt-BR": "Round 1 BGM",
+        "es-ES": "Round 1 BGM",
+        "es-MX": "Round 1 BGM",
+        "ru-RU": "Round 1 BGM",
+        "ko-KR": "Round 1 BGM",
+        "zh-CN": "Round 1 BGM",
+        "zh-TW": "Round 1 BGM"
+      }
+    },
+    {
+      "id": "2a356db0-f393-4f59-80c3-10eebc0d5171",
+      "name": {
+        "en-US": "Hammer BGM",
+        "ja-JP": "ハンマーBGM",
+        "en-GB": "Hammer BGM",
+        "fr-FR": "Hammer BGM",
+        "fr-CA": "Hammer BGM",
+        "de-DE": "Hammer BGM",
+        "nl-NL": "Hammer BGM",
+        "it-IT": "Hammer BGM",
+        "pt-PT": "Hammer BGM",
+        "pt-BR": "Hammer BGM",
+        "es-ES": "Hammer BGM",
+        "es-MX": "Hammer BGM",
+        "ru-RU": "Hammer BGM",
+        "ko-KR": "Hammer BGM",
+        "zh-CN": "Hammer BGM",
+        "zh-TW": "Hammer BGM"
+      }
+    },
+    {
+      "id": "32afaae9-021d-4434-b1a2-6a23a8b7fe11",
+      "name": {
+        "en-US": "Round 1 and 2 Clear",
+        "ja-JP": "1面／2面クリア",
+        "en-GB": "Round 1 and 2 Clear",
+        "fr-FR": "Round 1 and 2 Clear",
+        "fr-CA": "Round 1 and 2 Clear",
+        "de-DE": "Round 1 and 2 Clear",
+        "nl-NL": "Round 1 and 2 Clear",
+        "it-IT": "Round 1 and 2 Clear",
+        "pt-PT": "Round 1 and 2 Clear",
+        "pt-BR": "Round 1 and 2 Clear",
+        "es-ES": "Round 1 and 2 Clear",
+        "es-MX": "Round 1 and 2 Clear",
+        "ru-RU": "Round 1 and 2 Clear",
+        "ko-KR": "Round 1 and 2 Clear",
+        "zh-CN": "Round 1 and 2 Clear",
+        "zh-TW": "Round 1 and 2 Clear"
+      }
+    },
+    {
+      "id": "22dbf7c5-f1e4-4890-b3e1-846b26ee5fc5",
+      "name": {
+        "en-US": "Round 2 BGM",
+        "ja-JP": "2面BGM",
+        "en-GB": "Round 2 BGM",
+        "fr-FR": "Round 2 BGM",
+        "fr-CA": "Round 2 BGM",
+        "de-DE": "Round 2 BGM",
+        "nl-NL": "Round 2 BGM",
+        "it-IT": "Round 2 BGM",
+        "pt-PT": "Round 2 BGM",
+        "pt-BR": "Round 2 BGM",
+        "es-ES": "Round 2 BGM",
+        "es-MX": "Round 2 BGM",
+        "ru-RU": "Round 2 BGM",
+        "ko-KR": "Round 2 BGM",
+        "zh-CN": "Round 2 BGM",
+        "zh-TW": "Round 2 BGM"
+      }
+    },
+    {
+      "id": "b3e52521-5b9e-478a-8c49-ba4a107fdcd4",
+      "name": {
+        "en-US": "Player Down",
+        "ja-JP": "ミス",
+        "en-GB": "Player Down",
+        "fr-FR": "Player Down",
+        "fr-CA": "Player Down",
+        "de-DE": "Player Down",
+        "nl-NL": "Player Down",
+        "it-IT": "Player Down",
+        "pt-PT": "Player Down",
+        "pt-BR": "Player Down",
+        "es-ES": "Player Down",
+        "es-MX": "Player Down",
+        "ru-RU": "Player Down",
+        "ko-KR": "Player Down",
+        "zh-CN": "Player Down",
+        "zh-TW": "Player Down"
+      }
+    },
+    {
+      "id": "4ff63f3e-3960-4e2c-99c4-4d9f01ecc24b",
+      "name": {
+        "en-US": "Round 3 BGM",
+        "ja-JP": "3面BGM",
+        "en-GB": "Round 3 BGM",
+        "fr-FR": "Round 3 BGM",
+        "fr-CA": "Round 3 BGM",
+        "de-DE": "Round 3 BGM",
+        "nl-NL": "Round 3 BGM",
+        "it-IT": "Round 3 BGM",
+        "pt-PT": "Round 3 BGM",
+        "pt-BR": "Round 3 BGM",
+        "es-ES": "Round 3 BGM",
+        "es-MX": "Round 3 BGM",
+        "ru-RU": "Round 3 BGM",
+        "ko-KR": "Round 3 BGM",
+        "zh-CN": "Round 3 BGM",
+        "zh-TW": "Round 3 BGM"
+      }
+    },
+    {
+      "id": "06077d24-6b2a-4a4f-802d-8818725f387a",
+      "name": {
+        "en-US": "Hurry Up!",
+        "ja-JP": "ハリーアップ！",
+        "en-GB": "Hurry Up!",
+        "fr-FR": "Hurry Up!",
+        "fr-CA": "Hurry Up!",
+        "de-DE": "Hurry Up!",
+        "nl-NL": "Hurry Up!",
+        "it-IT": "Hurry Up!",
+        "pt-PT": "Hurry Up!",
+        "pt-BR": "Hurry Up!",
+        "es-ES": "Hurry Up!",
+        "es-MX": "Hurry Up!",
+        "ru-RU": "Hurry Up!",
+        "ko-KR": "Hurry Up!",
+        "zh-CN": "Hurry Up!",
+        "zh-TW": "Hurry Up!"
+      }
+    },
+    {
+      "id": "168b19fc-1445-4ef3-8b4a-d716772f7eeb",
+      "name": {
+        "en-US": "Round 3 Clear",
+        "ja-JP": "3面クリア",
+        "en-GB": "Round 3 Clear",
+        "fr-FR": "Round 3 Clear",
+        "fr-CA": "Round 3 Clear",
+        "de-DE": "Round 3 Clear",
+        "nl-NL": "Round 3 Clear",
+        "it-IT": "Round 3 Clear",
+        "pt-PT": "Round 3 Clear",
+        "pt-BR": "Round 3 Clear",
+        "es-ES": "Round 3 Clear",
+        "es-MX": "Round 3 Clear",
+        "ru-RU": "Round 3 Clear",
+        "ko-KR": "Round 3 Clear",
+        "zh-CN": "Round 3 Clear",
+        "zh-TW": "Round 3 Clear"
+      }
+    }
+  ],
+  "localesWithDistinctTrackNames": [
+    "ja-JP",
+    "en-US"
+  ],
+  "localesWithDistinctTrackNamesCount": 2
+}

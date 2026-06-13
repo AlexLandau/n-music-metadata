@@ -1,0 +1,284 @@
+{
+  "nameEnUS": "The Legend of Zelda",
+  "id": "c85ce588-41ef-47f9-a208-1693a8b27a29",
+  "hardware": "Nintendo Entertainment System",
+  "lastRetrieved": 1781313747,
+  "name": {
+    "en-US": "The Legend of Zelda",
+    "ja-JP": "ゼルダの伝説１（カセット版）",
+    "en-GB": "The Legend of Zelda",
+    "fr-FR": "The Legend of Zelda",
+    "fr-CA": "The Legend of Zelda",
+    "de-DE": "The Legend of Zelda",
+    "nl-NL": "The Legend of Zelda",
+    "it-IT": "The Legend of Zelda",
+    "pt-PT": "The Legend of Zelda",
+    "pt-BR": "The Legend of Zelda",
+    "es-ES": "The Legend of Zelda",
+    "es-MX": "The Legend of Zelda",
+    "ru-RU": "The Legend of Zelda",
+    "ko-KR": "The Legend of Zelda",
+    "zh-CN": "The Legend of Zelda",
+    "zh-TW": "The Legend of Zelda (NES)"
+  },
+  "allTracksPlaylistId": "d0cf2809-67a2-4814-a313-76014e834b1b",
+  "tracks": [
+    {
+      "id": "e4836022-d604-4ce5-8b21-9ee882fc0849",
+      "name": {
+        "en-US": "Title Theme",
+        "ja-JP": "タイトルBGM",
+        "en-GB": "Title Theme",
+        "fr-FR": "Title Theme",
+        "fr-CA": "Title Theme",
+        "de-DE": "Title Theme",
+        "nl-NL": "Title Theme",
+        "it-IT": "Title Theme",
+        "pt-PT": "Title Theme",
+        "pt-BR": "Title Theme",
+        "es-ES": "Title Theme",
+        "es-MX": "Title Theme",
+        "ru-RU": "Title Theme",
+        "ko-KR": "Title Theme",
+        "zh-CN": "Title Theme",
+        "zh-TW": "Title Theme"
+      }
+    },
+    {
+      "id": "6ac85bbe-4b9b-463d-8d4c-cdf195efd4c1",
+      "name": {
+        "en-US": "Overworld Theme",
+        "ja-JP": "地上BGM",
+        "en-GB": "Overworld Theme",
+        "fr-FR": "Overworld Theme",
+        "fr-CA": "Overworld Theme",
+        "de-DE": "Overworld Theme",
+        "nl-NL": "Overworld Theme",
+        "it-IT": "Overworld Theme",
+        "pt-PT": "Overworld Theme",
+        "pt-BR": "Overworld Theme",
+        "es-ES": "Overworld Theme",
+        "es-MX": "Overworld Theme",
+        "ru-RU": "Overworld Theme",
+        "ko-KR": "Overworld Theme",
+        "zh-CN": "Overworld Theme",
+        "zh-TW": "Overworld Theme"
+      }
+    },
+    {
+      "id": "a328d73d-6893-4c21-99d0-4316aaf2eb51",
+      "name": {
+        "en-US": "Puzzle Solved",
+        "ja-JP": "謎解き正解音",
+        "en-GB": "Puzzle Solved",
+        "fr-FR": "Puzzle Solved",
+        "fr-CA": "Puzzle Solved",
+        "de-DE": "Puzzle Solved",
+        "nl-NL": "Puzzle Solved",
+        "it-IT": "Puzzle Solved",
+        "pt-PT": "Puzzle Solved",
+        "pt-BR": "Puzzle Solved",
+        "es-ES": "Puzzle Solved",
+        "es-MX": "Puzzle Solved",
+        "ru-RU": "Puzzle Solved",
+        "ko-KR": "Puzzle Solved",
+        "zh-CN": "Puzzle Solved",
+        "zh-TW": "Puzzle Solved"
+      }
+    },
+    {
+      "id": "db1bae7d-f918-47e6-91f6-afa70b8c0754",
+      "name": {
+        "en-US": "Important Item Acquired",
+        "ja-JP": "宝物キャッチファンファーレ",
+        "en-GB": "Important Item Acquired",
+        "fr-FR": "Important Item Acquired",
+        "fr-CA": "Important Item Acquired",
+        "de-DE": "Important Item Acquired",
+        "nl-NL": "Important Item Acquired",
+        "it-IT": "Important Item Acquired",
+        "pt-PT": "Important Item Acquired",
+        "pt-BR": "Important Item Acquired",
+        "es-ES": "Important Item Acquired",
+        "es-MX": "Important Item Acquired",
+        "ru-RU": "Important Item Acquired",
+        "ko-KR": "Important Item Acquired",
+        "zh-CN": "Important Item Acquired",
+        "zh-TW": "Important Item Acquired"
+      }
+    },
+    {
+      "id": "1a185134-294d-4503-b8d0-4d2e68e994af",
+      "name": {
+        "en-US": "Underworld Theme",
+        "ja-JP": "地下BGM",
+        "en-GB": "Underworld Theme",
+        "fr-FR": "Underworld Theme",
+        "fr-CA": "Underworld Theme",
+        "de-DE": "Underworld Theme",
+        "nl-NL": "Underworld Theme",
+        "it-IT": "Underworld Theme",
+        "pt-PT": "Underworld Theme",
+        "pt-BR": "Underworld Theme",
+        "es-ES": "Underworld Theme",
+        "es-MX": "Underworld Theme",
+        "ru-RU": "Underworld Theme",
+        "ko-KR": "Underworld Theme",
+        "zh-CN": "Underworld Theme",
+        "zh-TW": "Underworld Theme"
+      }
+    },
+    {
+      "id": "66976da7-8d5b-4528-b7c9-8080b97c7bb4",
+      "name": {
+        "en-US": "Got a Triforce Fragment",
+        "ja-JP": "トライフォースキャッチファンファーレ",
+        "en-GB": "Got a Triforce Fragment",
+        "fr-FR": "Got a Triforce Fragment",
+        "fr-CA": "Got a Triforce Fragment",
+        "de-DE": "Got a Triforce Fragment",
+        "nl-NL": "Got a Triforce Fragment",
+        "it-IT": "Got a Triforce Fragment",
+        "pt-PT": "Got a Triforce Fragment",
+        "pt-BR": "Got a Triforce Fragment",
+        "es-ES": "Got a Triforce Fragment",
+        "es-MX": "Got a Triforce Fragment",
+        "ru-RU": "Got a Triforce Fragment",
+        "ko-KR": "Got a Triforce Fragment",
+        "zh-CN": "Got a Triforce Fragment",
+        "zh-TW": "Got a Triforce Fragment"
+      }
+    },
+    {
+      "id": "2c9eb939-e965-4e21-9250-cfc0d0183f5f",
+      "name": {
+        "en-US": "Recorder Melody",
+        "ja-JP": "笛",
+        "en-GB": "Recorder Melody",
+        "fr-FR": "Recorder Melody",
+        "fr-CA": "Recorder Melody",
+        "de-DE": "Recorder Melody",
+        "nl-NL": "Recorder Melody",
+        "it-IT": "Recorder Melody",
+        "pt-PT": "Recorder Melody",
+        "pt-BR": "Recorder Melody",
+        "es-ES": "Recorder Melody",
+        "es-MX": "Recorder Melody",
+        "ru-RU": "Recorder Melody",
+        "ko-KR": "Recorder Melody",
+        "zh-CN": "Recorder Melody",
+        "zh-TW": "Recorder Melody"
+      }
+    },
+    {
+      "id": "30c377c5-dda7-4801-925b-5b146c53f6ab",
+      "name": {
+        "en-US": "Game Over",
+        "ja-JP": "ゲームオーバー",
+        "en-GB": "Game Over",
+        "fr-FR": "Game Over",
+        "fr-CA": "Game Over",
+        "de-DE": "Game Over",
+        "nl-NL": "Game Over",
+        "it-IT": "Game Over",
+        "pt-PT": "Game Over",
+        "pt-BR": "Game Over",
+        "es-ES": "Game Over",
+        "es-MX": "Game Over",
+        "ru-RU": "Game Over",
+        "ko-KR": "Game Over",
+        "zh-CN": "Game Over",
+        "zh-TW": "Game Over"
+      }
+    },
+    {
+      "id": "aef58bb6-c464-42fb-acf4-566132c94063",
+      "name": {
+        "en-US": "Death Mountain Theme",
+        "ja-JP": "デスマウンテンBGM",
+        "en-GB": "Death Mountain Theme",
+        "fr-FR": "Death Mountain Theme",
+        "fr-CA": "Death Mountain Theme",
+        "de-DE": "Death Mountain Theme",
+        "nl-NL": "Death Mountain Theme",
+        "it-IT": "Death Mountain Theme",
+        "pt-PT": "Death Mountain Theme",
+        "pt-BR": "Death Mountain Theme",
+        "es-ES": "Death Mountain Theme",
+        "es-MX": "Death Mountain Theme",
+        "ru-RU": "Death Mountain Theme",
+        "ko-KR": "Death Mountain Theme",
+        "zh-CN": "Death Mountain Theme",
+        "zh-TW": "Death Mountain Theme"
+      }
+    },
+    {
+      "id": "914c7be7-6540-404f-8294-24f7186c13ad",
+      "name": {
+        "en-US": "Ganon Is Defeated",
+        "ja-JP": "ガノン登場および倒したときのファンファーレ",
+        "en-GB": "Ganon Is Defeated",
+        "fr-FR": "Ganon Is Defeated",
+        "fr-CA": "Ganon Is Defeated",
+        "de-DE": "Ganon Is Defeated",
+        "nl-NL": "Ganon Is Defeated",
+        "it-IT": "Ganon Is Defeated",
+        "pt-PT": "Ganon Is Defeated",
+        "pt-BR": "Ganon Is Defeated",
+        "es-ES": "Ganon Is Defeated",
+        "es-MX": "Ganon Is Defeated",
+        "ru-RU": "Ganon Is Defeated",
+        "ko-KR": "Ganon Is Defeated",
+        "zh-CN": "Ganon Is Defeated",
+        "zh-TW": "Ganon Is Defeated"
+      }
+    },
+    {
+      "id": "5228aa9c-d60f-4fcd-9ab0-7bbd1e717728",
+      "name": {
+        "en-US": "Zelda Is Saved",
+        "ja-JP": "ゼルダを助けたときのファンファーレ",
+        "en-GB": "Zelda Is Saved",
+        "fr-FR": "Zelda Is Saved",
+        "fr-CA": "Zelda Is Saved",
+        "de-DE": "Zelda Is Saved",
+        "nl-NL": "Zelda Is Saved",
+        "it-IT": "Zelda Is Saved",
+        "pt-PT": "Zelda Is Saved",
+        "pt-BR": "Zelda Is Saved",
+        "es-ES": "Zelda Is Saved",
+        "es-MX": "Zelda Is Saved",
+        "ru-RU": "Zelda Is Saved",
+        "ko-KR": "Zelda Is Saved",
+        "zh-CN": "Zelda Is Saved",
+        "zh-TW": "Zelda Is Saved"
+      }
+    },
+    {
+      "id": "405e2721-72e6-497a-bda5-8d5a43db8912",
+      "name": {
+        "en-US": "Ending Theme",
+        "ja-JP": "エンディングテーマ",
+        "en-GB": "Ending Theme",
+        "fr-FR": "Ending Theme",
+        "fr-CA": "Ending Theme",
+        "de-DE": "Ending Theme",
+        "nl-NL": "Ending Theme",
+        "it-IT": "Ending Theme",
+        "pt-PT": "Ending Theme",
+        "pt-BR": "Ending Theme",
+        "es-ES": "Ending Theme",
+        "es-MX": "Ending Theme",
+        "ru-RU": "Ending Theme",
+        "ko-KR": "Ending Theme",
+        "zh-CN": "Ending Theme",
+        "zh-TW": "Ending Theme"
+      }
+    }
+  ],
+  "localesWithDistinctTrackNames": [
+    "ja-JP",
+    "en-US"
+  ],
+  "localesWithDistinctTrackNamesCount": 2
+}

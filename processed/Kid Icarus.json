@@ -1,0 +1,284 @@
+{
+  "nameEnUS": "Kid Icarus",
+  "id": "6ae77b03-e589-430c-ae59-c695fee12d38",
+  "hardware": "Nintendo Entertainment System",
+  "lastRetrieved": 1781313610,
+  "name": {
+    "en-US": "Kid Icarus",
+    "ja-JP": "光神話 パルテナの鏡（NES版）",
+    "en-GB": "Kid Icarus",
+    "fr-FR": "Kid Icarus",
+    "fr-CA": "Kid Icarus",
+    "de-DE": "Kid Icarus",
+    "nl-NL": "Kid Icarus",
+    "it-IT": "Kid Icarus",
+    "pt-PT": "Kid Icarus",
+    "pt-BR": "Kid Icarus",
+    "es-ES": "Kid Icarus",
+    "es-MX": "Kid Icarus",
+    "ru-RU": "Kid Icarus",
+    "ko-KR": "키드 이카루스",
+    "zh-CN": "Kid Icarus",
+    "zh-TW": "Kid Icarus (NES)"
+  },
+  "allTracksPlaylistId": "9b01f47f-43f1-4d58-a9a8-2fbda9baf169",
+  "tracks": [
+    {
+      "id": "5de18281-cb91-471c-8fe6-36f9ae9b638c",
+      "name": {
+        "en-US": "Title Theme",
+        "ja-JP": "タイトルBGM",
+        "en-GB": "Title Theme",
+        "fr-FR": "Title Theme",
+        "fr-CA": "Title Theme",
+        "de-DE": "Title Theme",
+        "nl-NL": "Title Theme",
+        "it-IT": "Title Theme",
+        "pt-PT": "Title Theme",
+        "pt-BR": "Title Theme",
+        "es-ES": "Title Theme",
+        "es-MX": "Title Theme",
+        "ru-RU": "Title Theme",
+        "ko-KR": "Title Theme",
+        "zh-CN": "Title Theme",
+        "zh-TW": "Title Theme"
+      }
+    },
+    {
+      "id": "517740a9-19ff-4f4c-ac85-b302d13926a1",
+      "name": {
+        "en-US": "Stage 1",
+        "ja-JP": "ステージ 1",
+        "en-GB": "Stage 1",
+        "fr-FR": "Stage 1",
+        "fr-CA": "Stage 1",
+        "de-DE": "Stage 1",
+        "nl-NL": "Stage 1",
+        "it-IT": "Stage 1",
+        "pt-PT": "Stage 1",
+        "pt-BR": "Stage 1",
+        "es-ES": "Stage 1",
+        "es-MX": "Stage 1",
+        "ru-RU": "Stage 1",
+        "ko-KR": "Stage 1",
+        "zh-CN": "Stage 1",
+        "zh-TW": "Stage 1"
+      }
+    },
+    {
+      "id": "79027101-43ff-4f38-9168-22974feb30c3",
+      "name": {
+        "en-US": "Boss BGM",
+        "ja-JP": "ボス",
+        "en-GB": "Boss BGM",
+        "fr-FR": "Boss BGM",
+        "fr-CA": "Boss BGM",
+        "de-DE": "Boss BGM",
+        "nl-NL": "Boss BGM",
+        "it-IT": "Boss BGM",
+        "pt-PT": "Boss BGM",
+        "pt-BR": "Boss BGM",
+        "es-ES": "Boss BGM",
+        "es-MX": "Boss BGM",
+        "ru-RU": "Boss BGM",
+        "ko-KR": "Boss BGM",
+        "zh-CN": "Boss BGM",
+        "zh-TW": "Boss BGM"
+      }
+    },
+    {
+      "id": "53e82475-d7be-471d-92f2-6bf31187bcfd",
+      "name": {
+        "en-US": "Stage Clear",
+        "ja-JP": "ステージクリア",
+        "en-GB": "Stage Clear",
+        "fr-FR": "Stage Clear",
+        "fr-CA": "Stage Clear",
+        "de-DE": "Stage Clear",
+        "nl-NL": "Stage Clear",
+        "it-IT": "Stage Clear",
+        "pt-PT": "Stage Clear",
+        "pt-BR": "Stage Clear",
+        "es-ES": "Stage Clear",
+        "es-MX": "Stage Clear",
+        "ru-RU": "Stage Clear",
+        "ko-KR": "Stage Clear",
+        "zh-CN": "Stage Clear",
+        "zh-TW": "Stage Clear"
+      }
+    },
+    {
+      "id": "9d7f189e-311d-4e21-86d0-38d0980c5819",
+      "name": {
+        "en-US": "Stage 2",
+        "ja-JP": "ステージ 2",
+        "en-GB": "Stage 2",
+        "fr-FR": "Stage 2",
+        "fr-CA": "Stage 2",
+        "de-DE": "Stage 2",
+        "nl-NL": "Stage 2",
+        "it-IT": "Stage 2",
+        "pt-PT": "Stage 2",
+        "pt-BR": "Stage 2",
+        "es-ES": "Stage 2",
+        "es-MX": "Stage 2",
+        "ru-RU": "Stage 2",
+        "ko-KR": "Stage 2",
+        "zh-CN": "Stage 2",
+        "zh-TW": "Stage 2"
+      }
+    },
+    {
+      "id": "20df412d-e0d3-4a2d-a4f2-3d3b808b9ac5",
+      "name": {
+        "en-US": "Fortress",
+        "ja-JP": "迷宮",
+        "en-GB": "Fortress",
+        "fr-FR": "Fortress",
+        "fr-CA": "Fortress",
+        "de-DE": "Fortress",
+        "nl-NL": "Fortress",
+        "it-IT": "Fortress",
+        "pt-PT": "Fortress",
+        "pt-BR": "Fortress",
+        "es-ES": "Fortress",
+        "es-MX": "Fortress",
+        "ru-RU": "Fortress",
+        "ko-KR": "Fortress",
+        "zh-CN": "Fortress",
+        "zh-TW": "Fortress"
+      }
+    },
+    {
+      "id": "62e45e26-cc3f-4943-a032-611cf015092f",
+      "name": {
+        "en-US": "Stage 3",
+        "ja-JP": "ステージ 3",
+        "en-GB": "Stage 3",
+        "fr-FR": "Stage 3",
+        "fr-CA": "Stage 3",
+        "de-DE": "Stage 3",
+        "nl-NL": "Stage 3",
+        "it-IT": "Stage 3",
+        "pt-PT": "Stage 3",
+        "pt-BR": "Stage 3",
+        "es-ES": "Stage 3",
+        "es-MX": "Stage 3",
+        "ru-RU": "Stage 3",
+        "ko-KR": "Stage 3",
+        "zh-CN": "Stage 3",
+        "zh-TW": "Stage 3"
+      }
+    },
+    {
+      "id": "9f54f58d-b1bb-498a-bef3-42a96875c324",
+      "name": {
+        "en-US": "Reaper's Theme",
+        "ja-JP": "死神のテーマ",
+        "en-GB": "Reaper's Theme",
+        "fr-FR": "Reaper's Theme",
+        "fr-CA": "Reaper's Theme",
+        "de-DE": "Reaper's Theme",
+        "nl-NL": "Reaper's Theme",
+        "it-IT": "Reaper's Theme",
+        "pt-PT": "Reaper's Theme",
+        "pt-BR": "Reaper's Theme",
+        "es-ES": "Reaper's Theme",
+        "es-MX": "Reaper's Theme",
+        "ru-RU": "Reaper's Theme",
+        "ko-KR": "Reaper's Theme",
+        "zh-CN": "Reaper's Theme",
+        "zh-TW": "Reaper's Theme"
+      }
+    },
+    {
+      "id": "2d7292c6-55d4-47ed-a49f-db142201612d",
+      "name": {
+        "en-US": "Game Over",
+        "ja-JP": "ゲームオーバー",
+        "en-GB": "Game Over",
+        "fr-FR": "Game Over",
+        "fr-CA": "Game Over",
+        "de-DE": "Game Over",
+        "nl-NL": "Game Over",
+        "it-IT": "Game Over",
+        "pt-PT": "Game Over",
+        "pt-BR": "Game Over",
+        "es-ES": "Game Over",
+        "es-MX": "Game Over",
+        "ru-RU": "Game Over",
+        "ko-KR": "Game Over",
+        "zh-CN": "Game Over",
+        "zh-TW": "Game Over"
+      }
+    },
+    {
+      "id": "691a2f99-98ae-4e51-a7ce-691a4e950274",
+      "name": {
+        "en-US": "Stage 4",
+        "ja-JP": "ステージ 4",
+        "en-GB": "Stage 4",
+        "fr-FR": "Stage 4",
+        "fr-CA": "Stage 4",
+        "de-DE": "Stage 4",
+        "nl-NL": "Stage 4",
+        "it-IT": "Stage 4",
+        "pt-PT": "Stage 4",
+        "pt-BR": "Stage 4",
+        "es-ES": "Stage 4",
+        "es-MX": "Stage 4",
+        "ru-RU": "Stage 4",
+        "ko-KR": "Stage 4",
+        "zh-CN": "Stage 4",
+        "zh-TW": "Stage 4"
+      }
+    },
+    {
+      "id": "4b934358-aca1-4a84-b0c0-df47f39e0633",
+      "name": {
+        "en-US": "Final Boss BGM",
+        "ja-JP": "ラストボス",
+        "en-GB": "Final Boss BGM",
+        "fr-FR": "Final Boss BGM",
+        "fr-CA": "Final Boss BGM",
+        "de-DE": "Final Boss BGM",
+        "nl-NL": "Final Boss BGM",
+        "it-IT": "Final Boss BGM",
+        "pt-PT": "Final Boss BGM",
+        "pt-BR": "Final Boss BGM",
+        "es-ES": "Final Boss BGM",
+        "es-MX": "Final Boss BGM",
+        "ru-RU": "Final Boss BGM",
+        "ko-KR": "Final Boss BGM",
+        "zh-CN": "Final Boss BGM",
+        "zh-TW": "Final Boss BGM"
+      }
+    },
+    {
+      "id": "2b356749-5376-4a87-bdc0-ebc78764c7eb",
+      "name": {
+        "en-US": "Ending Theme",
+        "ja-JP": "エンディング",
+        "en-GB": "Ending Theme",
+        "fr-FR": "Ending Theme",
+        "fr-CA": "Ending Theme",
+        "de-DE": "Ending Theme",
+        "nl-NL": "Ending Theme",
+        "it-IT": "Ending Theme",
+        "pt-PT": "Ending Theme",
+        "pt-BR": "Ending Theme",
+        "es-ES": "Ending Theme",
+        "es-MX": "Ending Theme",
+        "ru-RU": "Ending Theme",
+        "ko-KR": "Ending Theme",
+        "zh-CN": "Ending Theme",
+        "zh-TW": "Ending Theme"
+      }
+    }
+  ],
+  "localesWithDistinctTrackNames": [
+    "ja-JP",
+    "en-US"
+  ],
+  "localesWithDistinctTrackNamesCount": 2
+}

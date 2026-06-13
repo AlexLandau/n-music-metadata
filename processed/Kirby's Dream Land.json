@@ -1,0 +1,347 @@
+{
+  "nameEnUS": "Kirby's Dream Land",
+  "id": "6c8da15c-c4d1-4f39-9bad-bbaa9bf44fd8",
+  "hardware": "Game Boy",
+  "lastRetrieved": 1781314996,
+  "name": {
+    "en-US": "Kirby's Dream Land",
+    "ja-JP": "星のカービィ",
+    "en-GB": "Kirby's Dream Land",
+    "fr-FR": "Kirby's Dream Land",
+    "fr-CA": "Kirby's Dream Land",
+    "de-DE": "Kirby's Dream Land",
+    "nl-NL": "Kirby's Dream Land",
+    "it-IT": "Kirby's Dream Land",
+    "pt-PT": "Kirby's Dream Land",
+    "pt-BR": "Kirby's Dream Land",
+    "es-ES": "Kirby's Dream Land",
+    "es-MX": "Kirby's Dream Land",
+    "ru-RU": "Kirby's Dream Land",
+    "ko-KR": "Kirby's Dream Land",
+    "zh-CN": "Kirby's Dream Land",
+    "zh-TW": "Kirby's Dream Land"
+  },
+  "allTracksPlaylistId": "53d0de87-8a34-4f7d-b828-d930f7ae20a9",
+  "tracks": [
+    {
+      "id": "768b8a25-5174-4340-9cce-dbb571efe571",
+      "name": {
+        "en-US": "Welcome To Dream Land",
+        "ja-JP": "タイトル",
+        "en-GB": "Welcome To Dream Land",
+        "fr-FR": "Welcome To Dream Land",
+        "fr-CA": "Welcome To Dream Land",
+        "de-DE": "Welcome To Dream Land",
+        "nl-NL": "Welcome To Dream Land",
+        "it-IT": "Welcome To Dream Land",
+        "pt-PT": "Welcome To Dream Land",
+        "pt-BR": "Welcome To Dream Land",
+        "es-ES": "Welcome To Dream Land",
+        "es-MX": "Welcome To Dream Land",
+        "ru-RU": "Welcome To Dream Land",
+        "ko-KR": "Welcome To Dream Land",
+        "zh-CN": "Welcome To Dream Land",
+        "zh-TW": "Welcome To Dream Land"
+      }
+    },
+    {
+      "id": "d4ecd7ea-621d-4e1b-9a2f-d8c736959949",
+      "name": {
+        "en-US": "Green Greens",
+        "ja-JP": "GREEN GREENS",
+        "en-GB": "Green Greens",
+        "fr-FR": "Green Greens",
+        "fr-CA": "Green Greens",
+        "de-DE": "Green Greens",
+        "nl-NL": "Green Greens",
+        "it-IT": "Green Greens",
+        "pt-PT": "Green Greens",
+        "pt-BR": "Green Greens",
+        "es-ES": "Green Greens",
+        "es-MX": "Green Greens",
+        "ru-RU": "Green Greens",
+        "ko-KR": "Green Greens",
+        "zh-CN": "Green Greens",
+        "zh-TW": "Green Greens"
+      }
+    },
+    {
+      "id": "6efa8dd0-84e4-486c-a2ce-17cbf3b6419b",
+      "name": {
+        "en-US": "Boss Theme",
+        "ja-JP": "ボスのテーマ",
+        "en-GB": "Boss Theme",
+        "fr-FR": "Boss Theme",
+        "fr-CA": "Boss Theme",
+        "de-DE": "Boss Theme",
+        "nl-NL": "Boss Theme",
+        "it-IT": "Boss Theme",
+        "pt-PT": "Boss Theme",
+        "pt-BR": "Boss Theme",
+        "es-ES": "Boss Theme",
+        "es-MX": "Boss Theme",
+        "ru-RU": "Boss Theme",
+        "ko-KR": "Boss Theme",
+        "zh-CN": "Boss Theme",
+        "zh-TW": "Boss Theme"
+      }
+    },
+    {
+      "id": "938d6082-7d1c-4160-b139-0e7f5a102d12",
+      "name": {
+        "en-US": "Sparkling Stars",
+        "ja-JP": "きらきらぼし",
+        "en-GB": "Sparkling Stars",
+        "fr-FR": "Sparkling Stars",
+        "fr-CA": "Sparkling Stars",
+        "de-DE": "Sparkling Stars",
+        "nl-NL": "Sparkling Stars",
+        "it-IT": "Sparkling Stars",
+        "pt-PT": "Sparkling Stars",
+        "pt-BR": "Sparkling Stars",
+        "es-ES": "Sparkling Stars",
+        "es-MX": "Sparkling Stars",
+        "ru-RU": "Sparkling Stars",
+        "ko-KR": "Sparkling Stars",
+        "zh-CN": "Sparkling Stars",
+        "zh-TW": "Sparkling Stars"
+      }
+    },
+    {
+      "id": "c52fbcc8-e7d2-4ee4-b6d9-53e70ba635a0",
+      "name": {
+        "en-US": "Kirby Dance",
+        "ja-JP": "カービィダンス",
+        "en-GB": "Kirby Dance",
+        "fr-FR": "Kirby Dance",
+        "fr-CA": "Kirby Dance",
+        "de-DE": "Kirby Dance",
+        "nl-NL": "Kirby Dance",
+        "it-IT": "Kirby Dance",
+        "pt-PT": "Kirby Dance",
+        "pt-BR": "Kirby Dance",
+        "es-ES": "Kirby Dance",
+        "es-MX": "Kirby Dance",
+        "ru-RU": "Kirby Dance",
+        "ko-KR": "Kirby Dance",
+        "zh-CN": "Kirby Dance",
+        "zh-TW": "Kirby Dance"
+      }
+    },
+    {
+      "id": "c7ace98f-cb1a-4e84-b305-ea78cbbd77e3",
+      "name": {
+        "en-US": "Castle Lololo",
+        "ja-JP": "CASTLE LOLOLO",
+        "en-GB": "Castle Lololo",
+        "fr-FR": "Castle Lololo",
+        "fr-CA": "Castle Lololo",
+        "de-DE": "Castle Lololo",
+        "nl-NL": "Castle Lololo",
+        "it-IT": "Castle Lololo",
+        "pt-PT": "Castle Lololo",
+        "pt-BR": "Castle Lololo",
+        "es-ES": "Castle Lololo",
+        "es-MX": "Castle Lololo",
+        "ru-RU": "Castle Lololo",
+        "ko-KR": "Castle Lololo",
+        "zh-CN": "Castle Lololo",
+        "zh-TW": "Castle Lololo"
+      }
+    },
+    {
+      "id": "7d841b2f-f8f6-4191-aad0-0b1ad295a22f",
+      "name": {
+        "en-US": "Invincible",
+        "ja-JP": "無敵",
+        "en-GB": "Invincible",
+        "fr-FR": "Invincible",
+        "fr-CA": "Invincible",
+        "de-DE": "Invincible",
+        "nl-NL": "Invincible",
+        "it-IT": "Invincible",
+        "pt-PT": "Invincible",
+        "pt-BR": "Invincible",
+        "es-ES": "Invincible",
+        "es-MX": "Invincible",
+        "ru-RU": "Invincible",
+        "ko-KR": "Invincible",
+        "zh-CN": "Invincible",
+        "zh-TW": "Invincible"
+      }
+    },
+    {
+      "id": "b86f178d-7bbe-40c7-89ba-c6e09f854c47",
+      "name": {
+        "en-US": "Float Islands",
+        "ja-JP": "FLOAT ISLANDS",
+        "en-GB": "Float Islands",
+        "fr-FR": "Float Islands",
+        "fr-CA": "Float Islands",
+        "de-DE": "Float Islands",
+        "nl-NL": "Float Islands",
+        "it-IT": "Float Islands",
+        "pt-PT": "Float Islands",
+        "pt-BR": "Float Islands",
+        "es-ES": "Float Islands",
+        "es-MX": "Float Islands",
+        "ru-RU": "Float Islands",
+        "ko-KR": "Float Islands",
+        "zh-CN": "Float Islands",
+        "zh-TW": "Float Islands"
+      }
+    },
+    {
+      "id": "d2640c2c-c6ff-47b3-afe0-6e4066f18502",
+      "name": {
+        "en-US": "Shooting",
+        "ja-JP": "やきいもシューティング",
+        "en-GB": "Shooting",
+        "fr-FR": "Shooting",
+        "fr-CA": "Shooting",
+        "de-DE": "Shooting",
+        "nl-NL": "Shooting",
+        "it-IT": "Shooting",
+        "pt-PT": "Shooting",
+        "pt-BR": "Shooting",
+        "es-ES": "Shooting",
+        "es-MX": "Shooting",
+        "ru-RU": "Shooting",
+        "ko-KR": "Shooting",
+        "zh-CN": "Shooting",
+        "zh-TW": "Shooting"
+      }
+    },
+    {
+      "id": "027e2887-2263-4ff9-9e7a-191986560583",
+      "name": {
+        "en-US": "Bubbly Clouds",
+        "ja-JP": "BUBBLY CLOUDS",
+        "en-GB": "Bubbly Clouds",
+        "fr-FR": "Bubbly Clouds",
+        "fr-CA": "Bubbly Clouds",
+        "de-DE": "Bubbly Clouds",
+        "nl-NL": "Bubbly Clouds",
+        "it-IT": "Bubbly Clouds",
+        "pt-PT": "Bubbly Clouds",
+        "pt-BR": "Bubbly Clouds",
+        "es-ES": "Bubbly Clouds",
+        "es-MX": "Bubbly Clouds",
+        "ru-RU": "Bubbly Clouds",
+        "ko-KR": "Bubbly Clouds",
+        "zh-CN": "Bubbly Clouds",
+        "zh-TW": "Bubbly Clouds"
+      }
+    },
+    {
+      "id": "488e0c78-37bc-4aca-9cff-c535974e3b46",
+      "name": {
+        "en-US": "Defeat",
+        "ja-JP": "ヤラレ",
+        "en-GB": "Defeat",
+        "fr-FR": "Defeat",
+        "fr-CA": "Defeat",
+        "de-DE": "Defeat",
+        "nl-NL": "Defeat",
+        "it-IT": "Defeat",
+        "pt-PT": "Defeat",
+        "pt-BR": "Defeat",
+        "es-ES": "Defeat",
+        "es-MX": "Defeat",
+        "ru-RU": "Defeat",
+        "ko-KR": "Defeat",
+        "zh-CN": "Defeat",
+        "zh-TW": "Defeat"
+      }
+    },
+    {
+      "id": "1096c313-c3a7-4ae6-b84f-9e20fab0af7e",
+      "name": {
+        "en-US": "Game Over",
+        "ja-JP": "Game Over",
+        "en-GB": "Game Over",
+        "fr-FR": "Game Over",
+        "fr-CA": "Game Over",
+        "de-DE": "Game Over",
+        "nl-NL": "Game Over",
+        "it-IT": "Game Over",
+        "pt-PT": "Game Over",
+        "pt-BR": "Game Over",
+        "es-ES": "Game Over",
+        "es-MX": "Game Over",
+        "ru-RU": "Game Over",
+        "ko-KR": "Game Over",
+        "zh-CN": "Game Over",
+        "zh-TW": "Game Over"
+      }
+    },
+    {
+      "id": "56c31270-3b86-42c6-a0d4-d118a5f65234",
+      "name": {
+        "en-US": "Boss Game Select",
+        "ja-JP": "ボスゲームセレクト",
+        "en-GB": "Boss Game Select",
+        "fr-FR": "Boss Game Select",
+        "fr-CA": "Boss Game Select",
+        "de-DE": "Boss Game Select",
+        "nl-NL": "Boss Game Select",
+        "it-IT": "Boss Game Select",
+        "pt-PT": "Boss Game Select",
+        "pt-BR": "Boss Game Select",
+        "es-ES": "Boss Game Select",
+        "es-MX": "Boss Game Select",
+        "ru-RU": "Boss Game Select",
+        "ko-KR": "Boss Game Select",
+        "zh-CN": "Boss Game Select",
+        "zh-TW": "Boss Game Select"
+      }
+    },
+    {
+      "id": "5dc1d781-d66a-4052-b827-2976460785eb",
+      "name": {
+        "en-US": "Mt. DeDeDe",
+        "ja-JP": "Mt. DeDeDe",
+        "en-GB": "Mt. DeDeDe",
+        "fr-FR": "Mt. DeDeDe",
+        "fr-CA": "Mt. DeDeDe",
+        "de-DE": "Mt. DeDeDe",
+        "nl-NL": "Mt. DeDeDe",
+        "it-IT": "Mt. DeDeDe",
+        "pt-PT": "Mt. DeDeDe",
+        "pt-BR": "Mt. DeDeDe",
+        "es-ES": "Mt. DeDeDe",
+        "es-MX": "Mt. DeDeDe",
+        "ru-RU": "Mt. DeDeDe",
+        "ko-KR": "Mt. DeDeDe",
+        "zh-CN": "Mt. DeDeDe",
+        "zh-TW": "Mt. DeDeDe"
+      }
+    },
+    {
+      "id": "dce2dfd1-3b78-42e0-802e-a9f730ba70f4",
+      "name": {
+        "en-US": "A New Wind for Tomorrow",
+        "ja-JP": "あしたはあしたのかぜがふく",
+        "en-GB": "A New Wind for Tomorrow",
+        "fr-FR": "A New Wind for Tomorrow",
+        "fr-CA": "A New Wind for Tomorrow",
+        "de-DE": "A New Wind for Tomorrow",
+        "nl-NL": "A New Wind for Tomorrow",
+        "it-IT": "A New Wind for Tomorrow",
+        "pt-PT": "A New Wind for Tomorrow",
+        "pt-BR": "A New Wind for Tomorrow",
+        "es-ES": "A New Wind for Tomorrow",
+        "es-MX": "A New Wind for Tomorrow",
+        "ru-RU": "A New Wind for Tomorrow",
+        "ko-KR": "A New Wind for Tomorrow",
+        "zh-CN": "A New Wind for Tomorrow",
+        "zh-TW": "A New Wind for Tomorrow"
+      }
+    }
+  ],
+  "localesWithDistinctTrackNames": [
+    "ja-JP",
+    "en-US"
+  ],
+  "localesWithDistinctTrackNamesCount": 2
+}

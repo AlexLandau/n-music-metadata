@@ -1,0 +1,242 @@
+{
+  "nameEnUS": "Mario Bros.",
+  "id": "f7371874-f738-4e10-97e8-674cffcfea14",
+  "hardware": "Nintendo Entertainment System",
+  "lastRetrieved": 1781313282,
+  "name": {
+    "en-US": "Mario Bros.",
+    "ja-JP": "マリオブラザーズ",
+    "en-GB": "Mario Bros.",
+    "fr-FR": "Mario Bros.",
+    "fr-CA": "Mario Bros.",
+    "de-DE": "Mario Bros.",
+    "nl-NL": "Mario Bros.",
+    "it-IT": "Mario Bros.",
+    "pt-PT": "Mario Bros.",
+    "pt-BR": "Mario Bros.",
+    "es-ES": "Mario Bros.",
+    "es-MX": "Mario Bros.",
+    "ru-RU": "Mario Bros.",
+    "ko-KR": "마리오브라더스",
+    "zh-CN": "Mario Bros.",
+    "zh-TW": "Mario Bros."
+  },
+  "allTracksPlaylistId": "f9720ce6-594b-450d-b386-a05271626198",
+  "tracks": [
+    {
+      "id": "bd1486a8-117e-4120-91cb-e56ef6242ea6",
+      "name": {
+        "en-US": "Title BGM",
+        "ja-JP": "タイトルBGM",
+        "en-GB": "Title BGM",
+        "fr-FR": "Title BGM",
+        "fr-CA": "Title BGM",
+        "de-DE": "Title BGM",
+        "nl-NL": "Title BGM",
+        "it-IT": "Title BGM",
+        "pt-PT": "Title BGM",
+        "pt-BR": "Title BGM",
+        "es-ES": "Title BGM",
+        "es-MX": "Title BGM",
+        "ru-RU": "Title BGM",
+        "ko-KR": "Title BGM",
+        "zh-CN": "Title BGM",
+        "zh-TW": "Title BGM"
+      }
+    },
+    {
+      "id": "81d7c183-c71a-45ef-9050-df68919aee28",
+      "name": {
+        "en-US": "Game Start",
+        "ja-JP": "ゲームスタート",
+        "en-GB": "Game Start",
+        "fr-FR": "Game Start",
+        "fr-CA": "Game Start",
+        "de-DE": "Game Start",
+        "nl-NL": "Game Start",
+        "it-IT": "Game Start",
+        "pt-PT": "Game Start",
+        "pt-BR": "Game Start",
+        "es-ES": "Game Start",
+        "es-MX": "Game Start",
+        "ru-RU": "Game Start",
+        "ko-KR": "Game Start",
+        "zh-CN": "Game Start",
+        "zh-TW": "Game Start"
+      }
+    },
+    {
+      "id": "ab777778-43ab-4b92-9116-671b08152887",
+      "name": {
+        "en-US": "Player Down",
+        "ja-JP": "ミス",
+        "en-GB": "Player Down",
+        "fr-FR": "Player Down",
+        "fr-CA": "Player Down",
+        "de-DE": "Player Down",
+        "nl-NL": "Player Down",
+        "it-IT": "Player Down",
+        "pt-PT": "Player Down",
+        "pt-BR": "Player Down",
+        "es-ES": "Player Down",
+        "es-MX": "Player Down",
+        "ru-RU": "Player Down",
+        "ko-KR": "Player Down",
+        "zh-CN": "Player Down",
+        "zh-TW": "Player Down"
+      }
+    },
+    {
+      "id": "f311342b-7dec-4e53-b440-765f1141d8a6",
+      "name": {
+        "en-US": "Restart",
+        "ja-JP": "リスタート",
+        "en-GB": "Restart",
+        "fr-FR": "Restart",
+        "fr-CA": "Restart",
+        "de-DE": "Restart",
+        "nl-NL": "Restart",
+        "it-IT": "Restart",
+        "pt-PT": "Restart",
+        "pt-BR": "Restart",
+        "es-ES": "Restart",
+        "es-MX": "Restart",
+        "ru-RU": "Restart",
+        "ko-KR": "Restart",
+        "zh-CN": "Restart",
+        "zh-TW": "Restart"
+      }
+    },
+    {
+      "id": "54c38a10-6901-4cd4-925f-1dab3ab71c3a",
+      "name": {
+        "en-US": "Clear",
+        "ja-JP": "クリア",
+        "en-GB": "Clear",
+        "fr-FR": "Clear",
+        "fr-CA": "Clear",
+        "de-DE": "Clear",
+        "nl-NL": "Clear",
+        "it-IT": "Clear",
+        "pt-PT": "Clear",
+        "pt-BR": "Clear",
+        "es-ES": "Clear",
+        "es-MX": "Clear",
+        "ru-RU": "Clear",
+        "ko-KR": "Clear",
+        "zh-CN": "Clear",
+        "zh-TW": "Clear"
+      }
+    },
+    {
+      "id": "7c1cf7b2-e3b2-48c2-a1c8-4d7a0721c219",
+      "name": {
+        "en-US": "Game Start (Phase 2 Onward)",
+        "ja-JP": "ゲームスタート（2面以降）",
+        "en-GB": "Game Start (Phase 2 Onward)",
+        "fr-FR": "Game Start (Phase 2 Onward)",
+        "fr-CA": "Game Start (Phase 2 Onward)",
+        "de-DE": "Game Start (Phase 2 Onward)",
+        "nl-NL": "Game Start (Phase 2 Onward)",
+        "it-IT": "Game Start (Phase 2 Onward)",
+        "pt-PT": "Game Start (Phase 2 Onward)",
+        "pt-BR": "Game Start (Phase 2 Onward)",
+        "es-ES": "Game Start (Phase 2 Onward)",
+        "es-MX": "Game Start (Phase 2 Onward)",
+        "ru-RU": "Game Start (Phase 2 Onward)",
+        "ko-KR": "Game Start (Phase 2 Onward)",
+        "zh-CN": "Game Start (Phase 2 Onward)",
+        "zh-TW": "Game Start (Phase 2 Onward)"
+      }
+    },
+    {
+      "id": "49188890-7b1b-47eb-aa22-0d66113b9043",
+      "name": {
+        "en-US": "Extra Points",
+        "ja-JP": "エキストラスコア",
+        "en-GB": "Extra Points",
+        "fr-FR": "Extra Points",
+        "fr-CA": "Extra Points",
+        "de-DE": "Extra Points",
+        "nl-NL": "Extra Points",
+        "it-IT": "Extra Points",
+        "pt-PT": "Extra Points",
+        "pt-BR": "Extra Points",
+        "es-ES": "Extra Points",
+        "es-MX": "Extra Points",
+        "ru-RU": "Extra Points",
+        "ko-KR": "Extra Points",
+        "zh-CN": "Extra Points",
+        "zh-TW": "Extra Points"
+      }
+    },
+    {
+      "id": "9fd73003-3b88-474c-9377-4264efddb5d1",
+      "name": {
+        "en-US": "Bonus Round",
+        "ja-JP": "ボーナス面",
+        "en-GB": "Bonus Round",
+        "fr-FR": "Bonus Round",
+        "fr-CA": "Bonus Round",
+        "de-DE": "Bonus Round",
+        "nl-NL": "Bonus Round",
+        "it-IT": "Bonus Round",
+        "pt-PT": "Bonus Round",
+        "pt-BR": "Bonus Round",
+        "es-ES": "Bonus Round",
+        "es-MX": "Bonus Round",
+        "ru-RU": "Bonus Round",
+        "ko-KR": "Bonus Round",
+        "zh-CN": "Bonus Round",
+        "zh-TW": "Bonus Round"
+      }
+    },
+    {
+      "id": "185944dc-4169-457d-872e-027f93eb41ae",
+      "name": {
+        "en-US": "Perfect Score",
+        "ja-JP": "パーフェクトスコア",
+        "en-GB": "Perfect Score",
+        "fr-FR": "Perfect Score",
+        "fr-CA": "Perfect Score",
+        "de-DE": "Perfect Score",
+        "nl-NL": "Perfect Score",
+        "it-IT": "Perfect Score",
+        "pt-PT": "Perfect Score",
+        "pt-BR": "Perfect Score",
+        "es-ES": "Perfect Score",
+        "es-MX": "Perfect Score",
+        "ru-RU": "Perfect Score",
+        "ko-KR": "Perfect Score",
+        "zh-CN": "Perfect Score",
+        "zh-TW": "Perfect Score"
+      }
+    },
+    {
+      "id": "c2c05fa2-6235-40a9-850e-901dbc961ff9",
+      "name": {
+        "en-US": "Game Over",
+        "ja-JP": "ゲームオーバー",
+        "en-GB": "Game Over",
+        "fr-FR": "Game Over",
+        "fr-CA": "Game Over",
+        "de-DE": "Game Over",
+        "nl-NL": "Game Over",
+        "it-IT": "Game Over",
+        "pt-PT": "Game Over",
+        "pt-BR": "Game Over",
+        "es-ES": "Game Over",
+        "es-MX": "Game Over",
+        "ru-RU": "Game Over",
+        "ko-KR": "Game Over",
+        "zh-CN": "Game Over",
+        "zh-TW": "Game Over"
+      }
+    }
+  ],
+  "localesWithDistinctTrackNames": [
+    "ja-JP",
+    "en-US"
+  ],
+  "localesWithDistinctTrackNamesCount": 2
+}

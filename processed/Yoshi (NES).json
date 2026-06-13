@@ -1,0 +1,263 @@
+{
+  "nameEnUS": "Yoshi (NES)",
+  "id": "2ca23f58-c461-4a93-925f-0c7be7829cf6",
+  "hardware": "Nintendo Entertainment System",
+  "lastRetrieved": 1781311729,
+  "name": {
+    "en-US": "Yoshi (NES)",
+    "ja-JP": "ヨッシーのたまご（ファミコン版）",
+    "en-GB": "Yoshi (NES)",
+    "fr-FR": "Yoshi (NES)",
+    "fr-CA": "Yoshi (NES)",
+    "de-DE": "Yoshi (NES)",
+    "nl-NL": "Yoshi (NES)",
+    "it-IT": "Yoshi (NES)",
+    "pt-PT": "Yoshi (NES)",
+    "pt-BR": "Yoshi (NES)",
+    "es-ES": "Yoshi (NES)",
+    "es-MX": "Yoshi (NES)",
+    "ru-RU": "Yoshi (NES)",
+    "ko-KR": "요시의 알(NES)",
+    "zh-CN": "Yoshi (NES)",
+    "zh-TW": "Yoshi (NES)"
+  },
+  "allTracksPlaylistId": "77281da3-a565-454c-b44c-1de90d1bb652",
+  "tracks": [
+    {
+      "id": "ae7baaca-fca8-4b57-bdfc-5979fc024d65",
+      "name": {
+        "en-US": "Title Screen",
+        "ja-JP": "タイトル",
+        "en-GB": "Title Screen",
+        "fr-FR": "Title Screen",
+        "fr-CA": "Title Screen",
+        "de-DE": "Title Screen",
+        "nl-NL": "Title Screen",
+        "it-IT": "Title Screen",
+        "pt-PT": "Title Screen",
+        "pt-BR": "Title Screen",
+        "es-ES": "Title Screen",
+        "es-MX": "Title Screen",
+        "ru-RU": "Title Screen",
+        "ko-KR": "Title Screen",
+        "zh-CN": "Title Screen",
+        "zh-TW": "Title Screen"
+      }
+    },
+    {
+      "id": "41275350-b0b4-4b1b-8da0-3be617d7667c",
+      "name": {
+        "en-US": "Mushroom BGM",
+        "ja-JP": "キノコBGM",
+        "en-GB": "Mushroom BGM",
+        "fr-FR": "Mushroom BGM",
+        "fr-CA": "Mushroom BGM",
+        "de-DE": "Mushroom BGM",
+        "nl-NL": "Mushroom BGM",
+        "it-IT": "Mushroom BGM",
+        "pt-PT": "Mushroom BGM",
+        "pt-BR": "Mushroom BGM",
+        "es-ES": "Mushroom BGM",
+        "es-MX": "Mushroom BGM",
+        "ru-RU": "Mushroom BGM",
+        "ko-KR": "Mushroom BGM",
+        "zh-CN": "Mushroom BGM",
+        "zh-TW": "Mushroom BGM"
+      }
+    },
+    {
+      "id": "8aecf17e-7ec1-4617-b2df-141259fa9c5d",
+      "name": {
+        "en-US": "Flower BGM",
+        "ja-JP": "フラワーBGM",
+        "en-GB": "Flower BGM",
+        "fr-FR": "Flower BGM",
+        "fr-CA": "Flower BGM",
+        "de-DE": "Flower BGM",
+        "nl-NL": "Flower BGM",
+        "it-IT": "Flower BGM",
+        "pt-PT": "Flower BGM",
+        "pt-BR": "Flower BGM",
+        "es-ES": "Flower BGM",
+        "es-MX": "Flower BGM",
+        "ru-RU": "Flower BGM",
+        "ko-KR": "Flower BGM",
+        "zh-CN": "Flower BGM",
+        "zh-TW": "Flower BGM"
+      }
+    },
+    {
+      "id": "65c5033d-8846-4df7-a16c-9e640fd2f415",
+      "name": {
+        "en-US": "Star BGM",
+        "ja-JP": "スターBGM",
+        "en-GB": "Star BGM",
+        "fr-FR": "Star BGM",
+        "fr-CA": "Star BGM",
+        "de-DE": "Star BGM",
+        "nl-NL": "Star BGM",
+        "it-IT": "Star BGM",
+        "pt-PT": "Star BGM",
+        "pt-BR": "Star BGM",
+        "es-ES": "Star BGM",
+        "es-MX": "Star BGM",
+        "ru-RU": "Star BGM",
+        "ko-KR": "Star BGM",
+        "zh-CN": "Star BGM",
+        "zh-TW": "Star BGM"
+      }
+    },
+    {
+      "id": "1d284224-c800-4fdb-9a3d-a3d25e480d2d",
+      "name": {
+        "en-US": "B-Type Clear",
+        "ja-JP": "B TYPE CLEAR",
+        "en-GB": "B-Type Clear",
+        "fr-FR": "B-Type Clear",
+        "fr-CA": "B-Type Clear",
+        "de-DE": "B-Type Clear",
+        "nl-NL": "B-Type Clear",
+        "it-IT": "B-Type Clear",
+        "pt-PT": "B-Type Clear",
+        "pt-BR": "B-Type Clear",
+        "es-ES": "B-Type Clear",
+        "es-MX": "B-Type Clear",
+        "ru-RU": "B-Type Clear",
+        "ko-KR": "B-Type Clear",
+        "zh-CN": "B-Type Clear",
+        "zh-TW": "B-Type Clear"
+      }
+    },
+    {
+      "id": "44947321-21f3-4f6e-a1c7-fb88e6528b9c",
+      "name": {
+        "en-US": "Congratulations!",
+        "ja-JP": "CONGRATULATIONS!",
+        "en-GB": "Congratulations!",
+        "fr-FR": "Congratulations!",
+        "fr-CA": "Congratulations!",
+        "de-DE": "Congratulations!",
+        "nl-NL": "Congratulations!",
+        "it-IT": "Congratulations!",
+        "pt-PT": "Congratulations!",
+        "pt-BR": "Congratulations!",
+        "es-ES": "Congratulations!",
+        "es-MX": "Congratulations!",
+        "ru-RU": "Congratulations!",
+        "ko-KR": "Congratulations!",
+        "zh-CN": "Congratulations!",
+        "zh-TW": "Congratulations!"
+      }
+    },
+    {
+      "id": "58476cae-654f-4448-a758-87ba92181165",
+      "name": {
+        "en-US": "Game Over",
+        "ja-JP": "ゲームオーバー",
+        "en-GB": "Game Over",
+        "fr-FR": "Game Over",
+        "fr-CA": "Game Over",
+        "de-DE": "Game Over",
+        "nl-NL": "Game Over",
+        "it-IT": "Game Over",
+        "pt-PT": "Game Over",
+        "pt-BR": "Game Over",
+        "es-ES": "Game Over",
+        "es-MX": "Game Over",
+        "ru-RU": "Game Over",
+        "ko-KR": "Game Over",
+        "zh-CN": "Game Over",
+        "zh-TW": "Game Over"
+      }
+    },
+    {
+      "id": "120efc17-ded4-4fd3-a62e-3b81b6f4b4da",
+      "name": {
+        "en-US": "Vs. Menu",
+        "ja-JP": "対戦メニュー",
+        "en-GB": "Vs. Menu",
+        "fr-FR": "Vs. Menu",
+        "fr-CA": "Vs. Menu",
+        "de-DE": "Vs. Menu",
+        "nl-NL": "Vs. Menu",
+        "it-IT": "Vs. Menu",
+        "pt-PT": "Vs. Menu",
+        "pt-BR": "Vs. Menu",
+        "es-ES": "Vs. Menu",
+        "es-MX": "Vs. Menu",
+        "ru-RU": "Vs. Menu",
+        "ko-KR": "Vs. Menu",
+        "zh-CN": "Vs. Menu",
+        "zh-TW": "Vs. Menu"
+      }
+    },
+    {
+      "id": "e72ec11c-3e08-427f-9e80-d1c248c77d27",
+      "name": {
+        "en-US": "Vs. BGM",
+        "ja-JP": "対戦BGM",
+        "en-GB": "Vs. BGM",
+        "fr-FR": "Vs. BGM",
+        "fr-CA": "Vs. BGM",
+        "de-DE": "Vs. BGM",
+        "nl-NL": "Vs. BGM",
+        "it-IT": "Vs. BGM",
+        "pt-PT": "Vs. BGM",
+        "pt-BR": "Vs. BGM",
+        "es-ES": "Vs. BGM",
+        "es-MX": "Vs. BGM",
+        "ru-RU": "Vs. BGM",
+        "ko-KR": "Vs. BGM",
+        "zh-CN": "Vs. BGM",
+        "zh-TW": "Vs. BGM"
+      }
+    },
+    {
+      "id": "28017502-466a-492b-a84b-cd0b54f57b46",
+      "name": {
+        "en-US": "One Game Won",
+        "ja-JP": "1ゲーム勝利",
+        "en-GB": "One Game Won",
+        "fr-FR": "One Game Won",
+        "fr-CA": "One Game Won",
+        "de-DE": "One Game Won",
+        "nl-NL": "One Game Won",
+        "it-IT": "One Game Won",
+        "pt-PT": "One Game Won",
+        "pt-BR": "One Game Won",
+        "es-ES": "One Game Won",
+        "es-MX": "One Game Won",
+        "ru-RU": "One Game Won",
+        "ko-KR": "One Game Won",
+        "zh-CN": "One Game Won",
+        "zh-TW": "One Game Won"
+      }
+    },
+    {
+      "id": "18b79bf0-ca4d-4aba-acc5-566e8da8d150",
+      "name": {
+        "en-US": "Three Games Won",
+        "ja-JP": "3ゲーム勝利",
+        "en-GB": "Three Games Won",
+        "fr-FR": "Three Games Won",
+        "fr-CA": "Three Games Won",
+        "de-DE": "Three Games Won",
+        "nl-NL": "Three Games Won",
+        "it-IT": "Three Games Won",
+        "pt-PT": "Three Games Won",
+        "pt-BR": "Three Games Won",
+        "es-ES": "Three Games Won",
+        "es-MX": "Three Games Won",
+        "ru-RU": "Three Games Won",
+        "ko-KR": "Three Games Won",
+        "zh-CN": "Three Games Won",
+        "zh-TW": "Three Games Won"
+      }
+    }
+  ],
+  "localesWithDistinctTrackNames": [
+    "ja-JP",
+    "en-US"
+  ],
+  "localesWithDistinctTrackNamesCount": 2
+}

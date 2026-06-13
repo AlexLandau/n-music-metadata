@@ -1,0 +1,242 @@
+{
+  "nameEnUS": "Gyromite",
+  "id": "85b83fcd-b5cf-4583-89a4-089f9e65caff",
+  "hardware": "Nintendo Entertainment System",
+  "lastRetrieved": 1781312785,
+  "name": {
+    "en-US": "Gyromite",
+    "ja-JP": "ファミリーコンピュータ ロボット ジャイロセット",
+    "en-GB": "Gyromite",
+    "fr-FR": "Gyromite",
+    "fr-CA": "Gyromite",
+    "de-DE": "Gyromite",
+    "nl-NL": "Gyromite",
+    "it-IT": "Gyromite",
+    "pt-PT": "Gyromite",
+    "pt-BR": "Gyromite",
+    "es-ES": "Gyromite",
+    "es-MX": "Gyromite",
+    "ru-RU": "Gyromite",
+    "ko-KR": "Gyromite",
+    "zh-CN": "Gyromite",
+    "zh-TW": "Gyromite"
+  },
+  "allTracksPlaylistId": "cedded28-bced-45aa-92c2-a8e9418e8588",
+  "tracks": [
+    {
+      "id": "02c5b2dd-69d2-489e-a5b1-622a5cb17acb",
+      "name": {
+        "en-US": "Title BGM",
+        "ja-JP": "タイトルBGM",
+        "en-GB": "Title BGM",
+        "fr-FR": "Title BGM",
+        "fr-CA": "Title BGM",
+        "de-DE": "Title BGM",
+        "nl-NL": "Title BGM",
+        "it-IT": "Title BGM",
+        "pt-PT": "Title BGM",
+        "pt-BR": "Title BGM",
+        "es-ES": "Title BGM",
+        "es-MX": "Title BGM",
+        "ru-RU": "Title BGM",
+        "ko-KR": "Title BGM",
+        "zh-CN": "Title BGM",
+        "zh-TW": "Title BGM"
+      }
+    },
+    {
+      "id": "969f6b70-8479-4116-831b-d5d6cca4a524",
+      "name": {
+        "en-US": "Test BGM",
+        "ja-JP": "TEST BGM",
+        "en-GB": "Test BGM",
+        "fr-FR": "Test BGM",
+        "fr-CA": "Test BGM",
+        "de-DE": "Test BGM",
+        "nl-NL": "Test BGM",
+        "it-IT": "Test BGM",
+        "pt-PT": "Test BGM",
+        "pt-BR": "Test BGM",
+        "es-ES": "Test BGM",
+        "es-MX": "Test BGM",
+        "ru-RU": "Test BGM",
+        "ko-KR": "Test BGM",
+        "zh-CN": "Test BGM",
+        "zh-TW": "Test BGM"
+      }
+    },
+    {
+      "id": "19ea2e51-ff16-4d35-bf7d-0b6647dfd6eb",
+      "name": {
+        "en-US": "Direct BGM",
+        "ja-JP": "DIRECT BGM",
+        "en-GB": "Direct BGM",
+        "fr-FR": "Direct BGM",
+        "fr-CA": "Direct BGM",
+        "de-DE": "Direct BGM",
+        "nl-NL": "Direct BGM",
+        "it-IT": "Direct BGM",
+        "pt-PT": "Direct BGM",
+        "pt-BR": "Direct BGM",
+        "es-ES": "Direct BGM",
+        "es-MX": "Direct BGM",
+        "ru-RU": "Direct BGM",
+        "ko-KR": "Direct BGM",
+        "zh-CN": "Direct BGM",
+        "zh-TW": "Direct BGM"
+      }
+    },
+    {
+      "id": "3bd33c20-1b8d-4802-89ba-ca96138c8472",
+      "name": {
+        "en-US": "Game A Start",
+        "ja-JP": "GAME A スタート",
+        "en-GB": "Game A Start",
+        "fr-FR": "Game A Start",
+        "fr-CA": "Game A Start",
+        "de-DE": "Game A Start",
+        "nl-NL": "Game A Start",
+        "it-IT": "Game A Start",
+        "pt-PT": "Game A Start",
+        "pt-BR": "Game A Start",
+        "es-ES": "Game A Start",
+        "es-MX": "Game A Start",
+        "ru-RU": "Game A Start",
+        "ko-KR": "Game A Start",
+        "zh-CN": "Game A Start",
+        "zh-TW": "Game A Start"
+      }
+    },
+    {
+      "id": "efb4ccc8-6450-4681-8088-141f255b6e70",
+      "name": {
+        "en-US": "Game A BGM",
+        "ja-JP": "GAME A BGM",
+        "en-GB": "Game A BGM",
+        "fr-FR": "Game A BGM",
+        "fr-CA": "Game A BGM",
+        "de-DE": "Game A BGM",
+        "nl-NL": "Game A BGM",
+        "it-IT": "Game A BGM",
+        "pt-PT": "Game A BGM",
+        "pt-BR": "Game A BGM",
+        "es-ES": "Game A BGM",
+        "es-MX": "Game A BGM",
+        "ru-RU": "Game A BGM",
+        "ko-KR": "Game A BGM",
+        "zh-CN": "Game A BGM",
+        "zh-TW": "Game A BGM"
+      }
+    },
+    {
+      "id": "633dcb73-8259-43b1-b46c-3b48382b03d1",
+      "name": {
+        "en-US": "Hurry Up!",
+        "ja-JP": "ハリーアップ！",
+        "en-GB": "Hurry Up!",
+        "fr-FR": "Hurry Up!",
+        "fr-CA": "Hurry Up!",
+        "de-DE": "Hurry Up!",
+        "nl-NL": "Hurry Up!",
+        "it-IT": "Hurry Up!",
+        "pt-PT": "Hurry Up!",
+        "pt-BR": "Hurry Up!",
+        "es-ES": "Hurry Up!",
+        "es-MX": "Hurry Up!",
+        "ru-RU": "Hurry Up!",
+        "ko-KR": "Hurry Up!",
+        "zh-CN": "Hurry Up!",
+        "zh-TW": "Hurry Up!"
+      }
+    },
+    {
+      "id": "1e76dbff-19c3-4dad-ad49-2871057b7ebb",
+      "name": {
+        "en-US": "Game A Clear",
+        "ja-JP": "GAME A クリア",
+        "en-GB": "Game A Clear",
+        "fr-FR": "Game A Clear",
+        "fr-CA": "Game A Clear",
+        "de-DE": "Game A Clear",
+        "nl-NL": "Game A Clear",
+        "it-IT": "Game A Clear",
+        "pt-PT": "Game A Clear",
+        "pt-BR": "Game A Clear",
+        "es-ES": "Game A Clear",
+        "es-MX": "Game A Clear",
+        "ru-RU": "Game A Clear",
+        "ko-KR": "Game A Clear",
+        "zh-CN": "Game A Clear",
+        "zh-TW": "Game A Clear"
+      }
+    },
+    {
+      "id": "494ea324-350d-4461-8d52-4d3b08ba5e79",
+      "name": {
+        "en-US": "Game B BGM",
+        "ja-JP": "GAME B BGM",
+        "en-GB": "Game B BGM",
+        "fr-FR": "Game B BGM",
+        "fr-CA": "Game B BGM",
+        "de-DE": "Game B BGM",
+        "nl-NL": "Game B BGM",
+        "it-IT": "Game B BGM",
+        "pt-PT": "Game B BGM",
+        "pt-BR": "Game B BGM",
+        "es-ES": "Game B BGM",
+        "es-MX": "Game B BGM",
+        "ru-RU": "Game B BGM",
+        "ko-KR": "Game B BGM",
+        "zh-CN": "Game B BGM",
+        "zh-TW": "Game B BGM"
+      }
+    },
+    {
+      "id": "9d7872ae-b0ad-45ea-81d9-1aafbe29fd3a",
+      "name": {
+        "en-US": "Game B Clear",
+        "ja-JP": "GAME B クリア",
+        "en-GB": "Game B Clear",
+        "fr-FR": "Game B Clear",
+        "fr-CA": "Game B Clear",
+        "de-DE": "Game B Clear",
+        "nl-NL": "Game B Clear",
+        "it-IT": "Game B Clear",
+        "pt-PT": "Game B Clear",
+        "pt-BR": "Game B Clear",
+        "es-ES": "Game B Clear",
+        "es-MX": "Game B Clear",
+        "ru-RU": "Game B Clear",
+        "ko-KR": "Game B Clear",
+        "zh-CN": "Game B Clear",
+        "zh-TW": "Game B Clear"
+      }
+    },
+    {
+      "id": "f1993c75-f68d-4a2b-a8a6-007ebe4cedca",
+      "name": {
+        "en-US": "Game Over",
+        "ja-JP": "ゲームオーバー",
+        "en-GB": "Game Over",
+        "fr-FR": "Game Over",
+        "fr-CA": "Game Over",
+        "de-DE": "Game Over",
+        "nl-NL": "Game Over",
+        "it-IT": "Game Over",
+        "pt-PT": "Game Over",
+        "pt-BR": "Game Over",
+        "es-ES": "Game Over",
+        "es-MX": "Game Over",
+        "ru-RU": "Game Over",
+        "ko-KR": "Game Over",
+        "zh-CN": "Game Over",
+        "zh-TW": "Game Over"
+      }
+    }
+  ],
+  "localesWithDistinctTrackNames": [
+    "ja-JP",
+    "en-US"
+  ],
+  "localesWithDistinctTrackNamesCount": 2
+}

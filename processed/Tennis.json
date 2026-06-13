@@ -1,0 +1,158 @@
+{
+  "nameEnUS": "Tennis",
+  "id": "84b6564a-da3c-49b3-b629-a66de128271f",
+  "hardware": "Nintendo Entertainment System",
+  "lastRetrieved": 1781313209,
+  "name": {
+    "en-US": "Tennis",
+    "ja-JP": "テニス",
+    "en-GB": "Tennis",
+    "fr-FR": "Tennis",
+    "fr-CA": "Tennis",
+    "de-DE": "Tennis",
+    "nl-NL": "Tennis",
+    "it-IT": "Tennis",
+    "pt-PT": "Tennis",
+    "pt-BR": "Tennis",
+    "es-ES": "Tennis",
+    "es-MX": "Tennis",
+    "ru-RU": "Tennis",
+    "ko-KR": "Tennis",
+    "zh-CN": "Tennis",
+    "zh-TW": "Tennis"
+  },
+  "allTracksPlaylistId": "98fdc867-9d94-4883-abe4-8bb96560e08a",
+  "tracks": [
+    {
+      "id": "897cce0b-31ca-4b51-970b-56be52248d6e",
+      "name": {
+        "en-US": "Title BGM",
+        "ja-JP": "タイトルBGM",
+        "en-GB": "Title BGM",
+        "fr-FR": "Title BGM",
+        "fr-CA": "Title BGM",
+        "de-DE": "Title BGM",
+        "nl-NL": "Title BGM",
+        "it-IT": "Title BGM",
+        "pt-PT": "Title BGM",
+        "pt-BR": "Title BGM",
+        "es-ES": "Title BGM",
+        "es-MX": "Title BGM",
+        "ru-RU": "Title BGM",
+        "ko-KR": "Title BGM",
+        "zh-CN": "Title BGM",
+        "zh-TW": "Title BGM"
+      }
+    },
+    {
+      "id": "0ec305fe-cf64-4221-87bd-fd5c216d81b2",
+      "name": {
+        "en-US": "Game Win A",
+        "ja-JP": "1ゲーム取得A",
+        "en-GB": "Game Win A",
+        "fr-FR": "Game Win A",
+        "fr-CA": "Game Win A",
+        "de-DE": "Game Win A",
+        "nl-NL": "Game Win A",
+        "it-IT": "Game Win A",
+        "pt-PT": "Game Win A",
+        "pt-BR": "Game Win A",
+        "es-ES": "Game Win A",
+        "es-MX": "Game Win A",
+        "ru-RU": "Game Win A",
+        "ko-KR": "Game Win A",
+        "zh-CN": "Game Win A",
+        "zh-TW": "Game Win A"
+      }
+    },
+    {
+      "id": "467a447a-07c4-4c1e-8e7e-468d58751554",
+      "name": {
+        "en-US": "Game Win B",
+        "ja-JP": "1ゲーム取得B",
+        "en-GB": "Game Win B",
+        "fr-FR": "Game Win B",
+        "fr-CA": "Game Win B",
+        "de-DE": "Game Win B",
+        "nl-NL": "Game Win B",
+        "it-IT": "Game Win B",
+        "pt-PT": "Game Win B",
+        "pt-BR": "Game Win B",
+        "es-ES": "Game Win B",
+        "es-MX": "Game Win B",
+        "ru-RU": "Game Win B",
+        "ko-KR": "Game Win B",
+        "zh-CN": "Game Win B",
+        "zh-TW": "Game Win B"
+      }
+    },
+    {
+      "id": "b9a57bac-cafa-4196-b070-9187fcd1f3da",
+      "name": {
+        "en-US": "Set Win",
+        "ja-JP": "ゲームセット勝利",
+        "en-GB": "Set Win",
+        "fr-FR": "Set Win",
+        "fr-CA": "Set Win",
+        "de-DE": "Set Win",
+        "nl-NL": "Set Win",
+        "it-IT": "Set Win",
+        "pt-PT": "Set Win",
+        "pt-BR": "Set Win",
+        "es-ES": "Set Win",
+        "es-MX": "Set Win",
+        "ru-RU": "Set Win",
+        "ko-KR": "Set Win",
+        "zh-CN": "Set Win",
+        "zh-TW": "Set Win"
+      }
+    },
+    {
+      "id": "ae0474c6-617c-4d61-ace0-b0d892887a05",
+      "name": {
+        "en-US": "Set Loss",
+        "ja-JP": "ゲームセット敗北",
+        "en-GB": "Set Loss",
+        "fr-FR": "Set Loss",
+        "fr-CA": "Set Loss",
+        "de-DE": "Set Loss",
+        "nl-NL": "Set Loss",
+        "it-IT": "Set Loss",
+        "pt-PT": "Set Loss",
+        "pt-BR": "Set Loss",
+        "es-ES": "Set Loss",
+        "es-MX": "Set Loss",
+        "ru-RU": "Set Loss",
+        "ko-KR": "Set Loss",
+        "zh-CN": "Set Loss",
+        "zh-TW": "Set Loss"
+      }
+    },
+    {
+      "id": "2bf335f9-7460-425b-96dd-47d729b41929",
+      "name": {
+        "en-US": "Victory Cup BGM",
+        "ja-JP": "優勝杯BGM",
+        "en-GB": "Victory Cup BGM",
+        "fr-FR": "Victory Cup BGM",
+        "fr-CA": "Victory Cup BGM",
+        "de-DE": "Victory Cup BGM",
+        "nl-NL": "Victory Cup BGM",
+        "it-IT": "Victory Cup BGM",
+        "pt-PT": "Victory Cup BGM",
+        "pt-BR": "Victory Cup BGM",
+        "es-ES": "Victory Cup BGM",
+        "es-MX": "Victory Cup BGM",
+        "ru-RU": "Victory Cup BGM",
+        "ko-KR": "Victory Cup BGM",
+        "zh-CN": "Victory Cup BGM",
+        "zh-TW": "Victory Cup BGM"
+      }
+    }
+  ],
+  "localesWithDistinctTrackNames": [
+    "ja-JP",
+    "en-US"
+  ],
+  "localesWithDistinctTrackNamesCount": 2
+}

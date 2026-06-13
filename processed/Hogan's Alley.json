@@ -1,0 +1,263 @@
+{
+  "nameEnUS": "Hogan's Alley",
+  "id": "11654335-64f6-4293-8115-01141c92d991",
+  "hardware": "Nintendo Entertainment System",
+  "lastRetrieved": 1781313084,
+  "name": {
+    "en-US": "Hogan's Alley",
+    "ja-JP": "ホーガンズアレイ",
+    "en-GB": "Hogan's Alley",
+    "fr-FR": "Hogan's Alley",
+    "fr-CA": "Hogan's Alley",
+    "de-DE": "Hogan's Alley",
+    "nl-NL": "Hogan's Alley",
+    "it-IT": "Hogan's Alley",
+    "pt-PT": "Hogan's Alley",
+    "pt-BR": "Hogan's Alley",
+    "es-ES": "Hogan's Alley",
+    "es-MX": "Hogan's Alley",
+    "ru-RU": "Hogan's Alley",
+    "ko-KR": "Hogan's Alley",
+    "zh-CN": "Hogan's Alley",
+    "zh-TW": "Hogan's Alley"
+  },
+  "allTracksPlaylistId": "8516f836-c90e-4377-b1f6-b785a3660516",
+  "tracks": [
+    {
+      "id": "4b350f76-4f44-4dd2-8f65-0d47fee2e41a",
+      "name": {
+        "en-US": "Title BGM",
+        "ja-JP": "タイトルBGM",
+        "en-GB": "Title BGM",
+        "fr-FR": "Title BGM",
+        "fr-CA": "Title BGM",
+        "de-DE": "Title BGM",
+        "nl-NL": "Title BGM",
+        "it-IT": "Title BGM",
+        "pt-PT": "Title BGM",
+        "pt-BR": "Title BGM",
+        "es-ES": "Title BGM",
+        "es-MX": "Title BGM",
+        "ru-RU": "Title BGM",
+        "ko-KR": "Title BGM",
+        "zh-CN": "Title BGM",
+        "zh-TW": "Title BGM"
+      }
+    },
+    {
+      "id": "75f4fd61-96f2-4552-a316-54f4ef1f6706",
+      "name": {
+        "en-US": "Instruction BGM",
+        "ja-JP": "デモBGM",
+        "en-GB": "Instruction BGM",
+        "fr-FR": "Instruction BGM",
+        "fr-CA": "Instruction BGM",
+        "de-DE": "Instruction BGM",
+        "nl-NL": "Instruction BGM",
+        "it-IT": "Instruction BGM",
+        "pt-PT": "Instruction BGM",
+        "pt-BR": "Instruction BGM",
+        "es-ES": "Instruction BGM",
+        "es-MX": "Instruction BGM",
+        "ru-RU": "Instruction BGM",
+        "ko-KR": "Instruction BGM",
+        "zh-CN": "Instruction BGM",
+        "zh-TW": "Instruction BGM"
+      }
+    },
+    {
+      "id": "18f72017-9d4b-496a-8bf6-fe3ff489b85d",
+      "name": {
+        "en-US": "Game Start",
+        "ja-JP": "ゲームスタート",
+        "en-GB": "Game Start",
+        "fr-FR": "Game Start",
+        "fr-CA": "Game Start",
+        "de-DE": "Game Start",
+        "nl-NL": "Game Start",
+        "it-IT": "Game Start",
+        "pt-PT": "Game Start",
+        "pt-BR": "Game Start",
+        "es-ES": "Game Start",
+        "es-MX": "Game Start",
+        "ru-RU": "Game Start",
+        "ko-KR": "Game Start",
+        "zh-CN": "Game Start",
+        "zh-TW": "Game Start"
+      }
+    },
+    {
+      "id": "0ed1fa8e-18dd-4515-9f6e-dfebc54803b6",
+      "name": {
+        "en-US": "A Panel Appears",
+        "ja-JP": "パネル出現",
+        "en-GB": "A Panel Appears",
+        "fr-FR": "A Panel Appears",
+        "fr-CA": "A Panel Appears",
+        "de-DE": "A Panel Appears",
+        "nl-NL": "A Panel Appears",
+        "it-IT": "A Panel Appears",
+        "pt-PT": "A Panel Appears",
+        "pt-BR": "A Panel Appears",
+        "es-ES": "A Panel Appears",
+        "es-MX": "A Panel Appears",
+        "ru-RU": "A Panel Appears",
+        "ko-KR": "A Panel Appears",
+        "zh-CN": "A Panel Appears",
+        "zh-TW": "A Panel Appears"
+      }
+    },
+    {
+      "id": "9c77f747-2538-48d6-bcf7-41f38a6d8a54",
+      "name": {
+        "en-US": "Hit",
+        "ja-JP": "成功",
+        "en-GB": "Hit",
+        "fr-FR": "Hit",
+        "fr-CA": "Hit",
+        "de-DE": "Hit",
+        "nl-NL": "Hit",
+        "it-IT": "Hit",
+        "pt-PT": "Hit",
+        "pt-BR": "Hit",
+        "es-ES": "Hit",
+        "es-MX": "Hit",
+        "ru-RU": "Hit",
+        "ko-KR": "Hit",
+        "zh-CN": "Hit",
+        "zh-TW": "Hit"
+      }
+    },
+    {
+      "id": "d6f9fa99-fce8-484a-9c0b-1ffb99306782",
+      "name": {
+        "en-US": "Miss",
+        "ja-JP": "ミス",
+        "en-GB": "Miss",
+        "fr-FR": "Miss",
+        "fr-CA": "Miss",
+        "de-DE": "Miss",
+        "nl-NL": "Miss",
+        "it-IT": "Miss",
+        "pt-PT": "Miss",
+        "pt-BR": "Miss",
+        "es-ES": "Miss",
+        "es-MX": "Miss",
+        "ru-RU": "Miss",
+        "ko-KR": "Miss",
+        "zh-CN": "Miss",
+        "zh-TW": "Miss"
+      }
+    },
+    {
+      "id": "ab0e27b2-ba45-4924-9086-3a7346c02e9c",
+      "name": {
+        "en-US": "Scene Transition (Game B)",
+        "ja-JP": "シーン移動（GAME B）",
+        "en-GB": "Scene Transition (Game B)",
+        "fr-FR": "Scene Transition (Game B)",
+        "fr-CA": "Scene Transition (Game B)",
+        "de-DE": "Scene Transition (Game B)",
+        "nl-NL": "Scene Transition (Game B)",
+        "it-IT": "Scene Transition (Game B)",
+        "pt-PT": "Scene Transition (Game B)",
+        "pt-BR": "Scene Transition (Game B)",
+        "es-ES": "Scene Transition (Game B)",
+        "es-MX": "Scene Transition (Game B)",
+        "ru-RU": "Scene Transition (Game B)",
+        "ko-KR": "Scene Transition (Game B)",
+        "zh-CN": "Scene Transition (Game B)",
+        "zh-TW": "Scene Transition (Game B)"
+      }
+    },
+    {
+      "id": "12af5e2c-4ea4-48dc-afc7-dc5236fd4183",
+      "name": {
+        "en-US": "Round Clear (Game B)",
+        "ja-JP": "ラウンドクリア（GAME B）",
+        "en-GB": "Round Clear (Game B)",
+        "fr-FR": "Round Clear (Game B)",
+        "fr-CA": "Round Clear (Game B)",
+        "de-DE": "Round Clear (Game B)",
+        "nl-NL": "Round Clear (Game B)",
+        "it-IT": "Round Clear (Game B)",
+        "pt-PT": "Round Clear (Game B)",
+        "pt-BR": "Round Clear (Game B)",
+        "es-ES": "Round Clear (Game B)",
+        "es-MX": "Round Clear (Game B)",
+        "ru-RU": "Round Clear (Game B)",
+        "ko-KR": "Round Clear (Game B)",
+        "zh-CN": "Round Clear (Game B)",
+        "zh-TW": "Round Clear (Game B)"
+      }
+    },
+    {
+      "id": "5d85d680-b028-42ba-95e0-6ed9029ec9ee",
+      "name": {
+        "en-US": "Round Clear (Game C)",
+        "ja-JP": "ラウンドクリア（GAME C）",
+        "en-GB": "Round Clear (Game C)",
+        "fr-FR": "Round Clear (Game C)",
+        "fr-CA": "Round Clear (Game C)",
+        "de-DE": "Round Clear (Game C)",
+        "nl-NL": "Round Clear (Game C)",
+        "it-IT": "Round Clear (Game C)",
+        "pt-PT": "Round Clear (Game C)",
+        "pt-BR": "Round Clear (Game C)",
+        "es-ES": "Round Clear (Game C)",
+        "es-MX": "Round Clear (Game C)",
+        "ru-RU": "Round Clear (Game C)",
+        "ko-KR": "Round Clear (Game C)",
+        "zh-CN": "Round Clear (Game C)",
+        "zh-TW": "Round Clear (Game C)"
+      }
+    },
+    {
+      "id": "e5afc123-b7a1-4d9d-9030-da615a68d04f",
+      "name": {
+        "en-US": "Sharpshooter!",
+        "ja-JP": "(SUPER) SHARP SHOOTER!",
+        "en-GB": "Sharpshooter!",
+        "fr-FR": "Sharpshooter!",
+        "fr-CA": "Sharpshooter!",
+        "de-DE": "Sharpshooter!",
+        "nl-NL": "Sharpshooter!",
+        "it-IT": "Sharpshooter!",
+        "pt-PT": "Sharpshooter!",
+        "pt-BR": "Sharpshooter!",
+        "es-ES": "Sharpshooter!",
+        "es-MX": "Sharpshooter!",
+        "ru-RU": "Sharpshooter!",
+        "ko-KR": "Sharpshooter!",
+        "zh-CN": "Sharpshooter!",
+        "zh-TW": "Sharpshooter!"
+      }
+    },
+    {
+      "id": "a303b21d-ef7c-4ff8-a133-9a04f48556f9",
+      "name": {
+        "en-US": "Game Over",
+        "ja-JP": "ゲームオーバー",
+        "en-GB": "Game Over",
+        "fr-FR": "Game Over",
+        "fr-CA": "Game Over",
+        "de-DE": "Game Over",
+        "nl-NL": "Game Over",
+        "it-IT": "Game Over",
+        "pt-PT": "Game Over",
+        "pt-BR": "Game Over",
+        "es-ES": "Game Over",
+        "es-MX": "Game Over",
+        "ru-RU": "Game Over",
+        "ko-KR": "Game Over",
+        "zh-CN": "Game Over",
+        "zh-TW": "Game Over"
+      }
+    }
+  ],
+  "localesWithDistinctTrackNames": [
+    "ja-JP",
+    "en-US"
+  ],
+  "localesWithDistinctTrackNamesCount": 2
+}

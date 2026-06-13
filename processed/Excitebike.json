@@ -1,0 +1,158 @@
+{
+  "nameEnUS": "Excitebike",
+  "id": "07c679cb-ba16-45e1-ad13-38db720f1c56",
+  "hardware": "Nintendo Entertainment System",
+  "lastRetrieved": 1781312934,
+  "name": {
+    "en-US": "Excitebike",
+    "ja-JP": "エキサイトバイク",
+    "en-GB": "Excitebike",
+    "fr-FR": "Excitebike",
+    "fr-CA": "Excitebike",
+    "de-DE": "Excitebike",
+    "nl-NL": "Excitebike",
+    "it-IT": "Excitebike",
+    "pt-PT": "Excitebike",
+    "pt-BR": "Excitebike",
+    "es-ES": "Excitebike",
+    "es-MX": "Excitebike",
+    "ru-RU": "Excitebike",
+    "ko-KR": "Excitebike",
+    "zh-CN": "Excitebike",
+    "zh-TW": "Excitebike"
+  },
+  "allTracksPlaylistId": "fd98a1a9-73c5-4cd8-b2cf-ff102a21bb4f",
+  "tracks": [
+    {
+      "id": "8cafda31-bba9-4c40-8759-ac4289bc5523",
+      "name": {
+        "en-US": "Title BGM 1",
+        "ja-JP": "タイトルBGM1",
+        "en-GB": "Title BGM 1",
+        "fr-FR": "Title BGM 1",
+        "fr-CA": "Title BGM 1",
+        "de-DE": "Title BGM 1",
+        "nl-NL": "Title BGM 1",
+        "it-IT": "Title BGM 1",
+        "pt-PT": "Title BGM 1",
+        "pt-BR": "Title BGM 1",
+        "es-ES": "Title BGM 1",
+        "es-MX": "Title BGM 1",
+        "ru-RU": "Title BGM 1",
+        "ko-KR": "Title BGM 1",
+        "zh-CN": "Title BGM 1",
+        "zh-TW": "Title BGM 1"
+      }
+    },
+    {
+      "id": "afdee623-6ca9-4796-b96f-9035b7e0a1ba",
+      "name": {
+        "en-US": "Title BGM 2",
+        "ja-JP": "タイトルBGM2",
+        "en-GB": "Title BGM 2",
+        "fr-FR": "Title BGM 2",
+        "fr-CA": "Title BGM 2",
+        "de-DE": "Title BGM 2",
+        "nl-NL": "Title BGM 2",
+        "it-IT": "Title BGM 2",
+        "pt-PT": "Title BGM 2",
+        "pt-BR": "Title BGM 2",
+        "es-ES": "Title BGM 2",
+        "es-MX": "Title BGM 2",
+        "ru-RU": "Title BGM 2",
+        "ko-KR": "Title BGM 2",
+        "zh-CN": "Title BGM 2",
+        "zh-TW": "Title BGM 2"
+      }
+    },
+    {
+      "id": "8168d567-ef1d-477b-9742-27e99c29dccb",
+      "name": {
+        "en-US": "Title BGM 3",
+        "ja-JP": "タイトルBGM3",
+        "en-GB": "Title BGM 3",
+        "fr-FR": "Title BGM 3",
+        "fr-CA": "Title BGM 3",
+        "de-DE": "Title BGM 3",
+        "nl-NL": "Title BGM 3",
+        "it-IT": "Title BGM 3",
+        "pt-PT": "Title BGM 3",
+        "pt-BR": "Title BGM 3",
+        "es-ES": "Title BGM 3",
+        "es-MX": "Title BGM 3",
+        "ru-RU": "Title BGM 3",
+        "ko-KR": "Title BGM 3",
+        "zh-CN": "Title BGM 3",
+        "zh-TW": "Title BGM 3"
+      }
+    },
+    {
+      "id": "1f113b0d-6e3b-4537-a5ac-271b898b757c",
+      "name": {
+        "en-US": "Title BGM 4",
+        "ja-JP": "タイトルBGM4",
+        "en-GB": "Title BGM 4",
+        "fr-FR": "Title BGM 4",
+        "fr-CA": "Title BGM 4",
+        "de-DE": "Title BGM 4",
+        "nl-NL": "Title BGM 4",
+        "it-IT": "Title BGM 4",
+        "pt-PT": "Title BGM 4",
+        "pt-BR": "Title BGM 4",
+        "es-ES": "Title BGM 4",
+        "es-MX": "Title BGM 4",
+        "ru-RU": "Title BGM 4",
+        "ko-KR": "Title BGM 4",
+        "zh-CN": "Title BGM 4",
+        "zh-TW": "Title BGM 4"
+      }
+    },
+    {
+      "id": "efd55b08-6304-4e0e-bc44-3ccdfbe948c7",
+      "name": {
+        "en-US": "Start BGM",
+        "ja-JP": "スタートBGM",
+        "en-GB": "Start BGM",
+        "fr-FR": "Start BGM",
+        "fr-CA": "Start BGM",
+        "de-DE": "Start BGM",
+        "nl-NL": "Start BGM",
+        "it-IT": "Start BGM",
+        "pt-PT": "Start BGM",
+        "pt-BR": "Start BGM",
+        "es-ES": "Start BGM",
+        "es-MX": "Start BGM",
+        "ru-RU": "Start BGM",
+        "ko-KR": "Start BGM",
+        "zh-CN": "Start BGM",
+        "zh-TW": "Start BGM"
+      }
+    },
+    {
+      "id": "3f698cd1-1660-4feb-9a5c-1b720c24e3f8",
+      "name": {
+        "en-US": "Winners Podium BGM",
+        "ja-JP": "表彰台BGM",
+        "en-GB": "Winners Podium BGM",
+        "fr-FR": "Winners Podium BGM",
+        "fr-CA": "Winners Podium BGM",
+        "de-DE": "Winners Podium BGM",
+        "nl-NL": "Winners Podium BGM",
+        "it-IT": "Winners Podium BGM",
+        "pt-PT": "Winners Podium BGM",
+        "pt-BR": "Winners Podium BGM",
+        "es-ES": "Winners Podium BGM",
+        "es-MX": "Winners Podium BGM",
+        "ru-RU": "Winners Podium BGM",
+        "ko-KR": "Winners Podium BGM",
+        "zh-CN": "Winners Podium BGM",
+        "zh-TW": "Winners Podium BGM"
+      }
+    }
+  ],
+  "localesWithDistinctTrackNames": [
+    "ja-JP",
+    "en-US"
+  ],
+  "localesWithDistinctTrackNamesCount": 2
+}

@@ -1,0 +1,158 @@
+{
+  "nameEnUS": "Wrecking Crew",
+  "id": "b96501dc-b61d-4a7a-9ec2-7c0f32f2b09f",
+  "hardware": "Nintendo Entertainment System",
+  "lastRetrieved": 1781312834,
+  "name": {
+    "en-US": "Wrecking Crew",
+    "ja-JP": "レッキングクルー",
+    "en-GB": "Wrecking Crew",
+    "fr-FR": "Wrecking Crew",
+    "fr-CA": "Wrecking Crew",
+    "de-DE": "Wrecking Crew",
+    "nl-NL": "Wrecking Crew",
+    "it-IT": "Wrecking Crew",
+    "pt-PT": "Wrecking Crew",
+    "pt-BR": "Wrecking Crew",
+    "es-ES": "Wrecking Crew",
+    "es-MX": "Wrecking Crew",
+    "ru-RU": "Wrecking Crew",
+    "ko-KR": "Wrecking Crew",
+    "zh-CN": "Wrecking Crew",
+    "zh-TW": "Wrecking Crew"
+  },
+  "allTracksPlaylistId": "65ce3d1e-805f-46bf-979c-63e6a4f17633",
+  "tracks": [
+    {
+      "id": "eb59cc86-9e55-47a2-bf20-2d8d8dc62d01",
+      "name": {
+        "en-US": "Game Start",
+        "ja-JP": "ゲームスタート",
+        "en-GB": "Game Start",
+        "fr-FR": "Game Start",
+        "fr-CA": "Game Start",
+        "de-DE": "Game Start",
+        "nl-NL": "Game Start",
+        "it-IT": "Game Start",
+        "pt-PT": "Game Start",
+        "pt-BR": "Game Start",
+        "es-ES": "Game Start",
+        "es-MX": "Game Start",
+        "ru-RU": "Game Start",
+        "ko-KR": "Game Start",
+        "zh-CN": "Game Start",
+        "zh-TW": "Game Start"
+      }
+    },
+    {
+      "id": "da6fcc8a-cceb-414f-8382-8864ad85f984",
+      "name": {
+        "en-US": "Phase BGM",
+        "ja-JP": "ステージBGM",
+        "en-GB": "Phase BGM",
+        "fr-FR": "Phase BGM",
+        "fr-CA": "Phase BGM",
+        "de-DE": "Phase BGM",
+        "nl-NL": "Phase BGM",
+        "it-IT": "Phase BGM",
+        "pt-PT": "Phase BGM",
+        "pt-BR": "Phase BGM",
+        "es-ES": "Phase BGM",
+        "es-MX": "Phase BGM",
+        "ru-RU": "Phase BGM",
+        "ko-KR": "Phase BGM",
+        "zh-CN": "Phase BGM",
+        "zh-TW": "Phase BGM"
+      }
+    },
+    {
+      "id": "6d20964c-2c24-4376-989e-0a6219773ff4",
+      "name": {
+        "en-US": "Phase Clear",
+        "ja-JP": "ステージクリア",
+        "en-GB": "Phase Clear",
+        "fr-FR": "Phase Clear",
+        "fr-CA": "Phase Clear",
+        "de-DE": "Phase Clear",
+        "nl-NL": "Phase Clear",
+        "it-IT": "Phase Clear",
+        "pt-PT": "Phase Clear",
+        "pt-BR": "Phase Clear",
+        "es-ES": "Phase Clear",
+        "es-MX": "Phase Clear",
+        "ru-RU": "Phase Clear",
+        "ko-KR": "Phase Clear",
+        "zh-CN": "Phase Clear",
+        "zh-TW": "Phase Clear"
+      }
+    },
+    {
+      "id": "d08dabb1-f153-4f8b-9ee0-2cdc2a47b93f",
+      "name": {
+        "en-US": "Bonus Phase",
+        "ja-JP": "ボーナスステージ",
+        "en-GB": "Bonus Phase",
+        "fr-FR": "Bonus Phase",
+        "fr-CA": "Bonus Phase",
+        "de-DE": "Bonus Phase",
+        "nl-NL": "Bonus Phase",
+        "it-IT": "Bonus Phase",
+        "pt-PT": "Bonus Phase",
+        "pt-BR": "Bonus Phase",
+        "es-ES": "Bonus Phase",
+        "es-MX": "Bonus Phase",
+        "ru-RU": "Bonus Phase",
+        "ko-KR": "Bonus Phase",
+        "zh-CN": "Bonus Phase",
+        "zh-TW": "Bonus Phase"
+      }
+    },
+    {
+      "id": "2ea3f4d2-e86b-48d8-a2d2-07d3469d5b44",
+      "name": {
+        "en-US": "Golden Hammer",
+        "ja-JP": "ゴールデンハンマー",
+        "en-GB": "Golden Hammer",
+        "fr-FR": "Golden Hammer",
+        "fr-CA": "Golden Hammer",
+        "de-DE": "Golden Hammer",
+        "nl-NL": "Golden Hammer",
+        "it-IT": "Golden Hammer",
+        "pt-PT": "Golden Hammer",
+        "pt-BR": "Golden Hammer",
+        "es-ES": "Golden Hammer",
+        "es-MX": "Golden Hammer",
+        "ru-RU": "Golden Hammer",
+        "ko-KR": "Golden Hammer",
+        "zh-CN": "Golden Hammer",
+        "zh-TW": "Golden Hammer"
+      }
+    },
+    {
+      "id": "f7b9ca7f-07ab-4445-8c3f-036a115cc5db",
+      "name": {
+        "en-US": "Game Over",
+        "ja-JP": "ゲームオーバー",
+        "en-GB": "Game Over",
+        "fr-FR": "Game Over",
+        "fr-CA": "Game Over",
+        "de-DE": "Game Over",
+        "nl-NL": "Game Over",
+        "it-IT": "Game Over",
+        "pt-PT": "Game Over",
+        "pt-BR": "Game Over",
+        "es-ES": "Game Over",
+        "es-MX": "Game Over",
+        "ru-RU": "Game Over",
+        "ko-KR": "Game Over",
+        "zh-CN": "Game Over",
+        "zh-TW": "Game Over"
+      }
+    }
+  ],
+  "localesWithDistinctTrackNames": [
+    "ja-JP",
+    "en-US"
+  ],
+  "localesWithDistinctTrackNamesCount": 2
+}

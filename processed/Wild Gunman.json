@@ -1,0 +1,284 @@
+{
+  "nameEnUS": "Wild Gunman",
+  "id": "1861e528-96d6-4400-b402-7a0e13b29c25",
+  "hardware": "Nintendo Entertainment System",
+  "lastRetrieved": 1781313159,
+  "name": {
+    "en-US": "Wild Gunman",
+    "ja-JP": "ワイルドガンマン",
+    "en-GB": "Wild Gunman",
+    "fr-FR": "Wild Gunman",
+    "fr-CA": "Wild Gunman",
+    "de-DE": "Wild Gunman",
+    "nl-NL": "Wild Gunman",
+    "it-IT": "Wild Gunman",
+    "pt-PT": "Wild Gunman",
+    "pt-BR": "Wild Gunman",
+    "es-ES": "Wild Gunman",
+    "es-MX": "Wild Gunman",
+    "ru-RU": "Wild Gunman",
+    "ko-KR": "Wild Gunman",
+    "zh-CN": "Wild Gunman",
+    "zh-TW": "Wild Gunman"
+  },
+  "allTracksPlaylistId": "6104a611-0273-423f-ba9c-ef751575dd83",
+  "tracks": [
+    {
+      "id": "910b1952-cb3b-4701-a947-967314b5fd51",
+      "name": {
+        "en-US": "Title BGM",
+        "ja-JP": "タイトルBGM",
+        "en-GB": "Title BGM",
+        "fr-FR": "Title BGM",
+        "fr-CA": "Title BGM",
+        "de-DE": "Title BGM",
+        "nl-NL": "Title BGM",
+        "it-IT": "Title BGM",
+        "pt-PT": "Title BGM",
+        "pt-BR": "Title BGM",
+        "es-ES": "Title BGM",
+        "es-MX": "Title BGM",
+        "ru-RU": "Title BGM",
+        "ko-KR": "Title BGM",
+        "zh-CN": "Title BGM",
+        "zh-TW": "Title BGM"
+      }
+    },
+    {
+      "id": "01a51f76-76ad-4151-a024-6dcd8d6a76b1",
+      "name": {
+        "en-US": "Game A/B Start",
+        "ja-JP": "GAME A/B スタート",
+        "en-GB": "Game A/B Start",
+        "fr-FR": "Game A/B Start",
+        "fr-CA": "Game A/B Start",
+        "de-DE": "Game A/B Start",
+        "nl-NL": "Game A/B Start",
+        "it-IT": "Game A/B Start",
+        "pt-PT": "Game A/B Start",
+        "pt-BR": "Game A/B Start",
+        "es-ES": "Game A/B Start",
+        "es-MX": "Game A/B Start",
+        "ru-RU": "Game A/B Start",
+        "ko-KR": "Game A/B Start",
+        "zh-CN": "Game A/B Start",
+        "zh-TW": "Game A/B Start"
+      }
+    },
+    {
+      "id": "51dbe11b-31d9-4fce-b7dc-8db68aba5ef9",
+      "name": {
+        "en-US": "Gunmen on the Move",
+        "ja-JP": "ガンファイト 移動",
+        "en-GB": "Gunmen on the Move",
+        "fr-FR": "Gunmen on the Move",
+        "fr-CA": "Gunmen on the Move",
+        "de-DE": "Gunmen on the Move",
+        "nl-NL": "Gunmen on the Move",
+        "it-IT": "Gunmen on the Move",
+        "pt-PT": "Gunmen on the Move",
+        "pt-BR": "Gunmen on the Move",
+        "es-ES": "Gunmen on the Move",
+        "es-MX": "Gunmen on the Move",
+        "ru-RU": "Gunmen on the Move",
+        "ko-KR": "Gunmen on the Move",
+        "zh-CN": "Gunmen on the Move",
+        "zh-TW": "Gunmen on the Move"
+      }
+    },
+    {
+      "id": "b1d75479-563e-45e4-becb-3a1735c756e1",
+      "name": {
+        "en-US": "Gunmen at the Ready",
+        "ja-JP": "ガンファイト 静止",
+        "en-GB": "Gunmen at the Ready",
+        "fr-FR": "Gunmen at the Ready",
+        "fr-CA": "Gunmen at the Ready",
+        "de-DE": "Gunmen at the Ready",
+        "nl-NL": "Gunmen at the Ready",
+        "it-IT": "Gunmen at the Ready",
+        "pt-PT": "Gunmen at the Ready",
+        "pt-BR": "Gunmen at the Ready",
+        "es-ES": "Gunmen at the Ready",
+        "es-MX": "Gunmen at the Ready",
+        "ru-RU": "Gunmen at the Ready",
+        "ko-KR": "Gunmen at the Ready",
+        "zh-CN": "Gunmen at the Ready",
+        "zh-TW": "Gunmen at the Ready"
+      }
+    },
+    {
+      "id": "1a6554b6-b771-4c44-9c0e-c3de0fc8ef38",
+      "name": {
+        "en-US": "FIRE!!",
+        "ja-JP": "FIRE!!",
+        "en-GB": "FIRE!!",
+        "fr-FR": "FIRE!!",
+        "fr-CA": "FIRE!!",
+        "de-DE": "FIRE!!",
+        "nl-NL": "FIRE!!",
+        "it-IT": "FIRE!!",
+        "pt-PT": "FIRE!!",
+        "pt-BR": "FIRE!!",
+        "es-ES": "FIRE!!",
+        "es-MX": "FIRE!!",
+        "ru-RU": "FIRE!!",
+        "ko-KR": "FIRE!!",
+        "zh-CN": "FIRE!!",
+        "zh-TW": "FIRE!!"
+      }
+    },
+    {
+      "id": "0c94bd38-e602-4f94-ba5d-ac38f2cef9a6",
+      "name": {
+        "en-US": "Hit",
+        "ja-JP": "命中",
+        "en-GB": "Hit",
+        "fr-FR": "Hit",
+        "fr-CA": "Hit",
+        "de-DE": "Hit",
+        "nl-NL": "Hit",
+        "it-IT": "Hit",
+        "pt-PT": "Hit",
+        "pt-BR": "Hit",
+        "es-ES": "Hit",
+        "es-MX": "Hit",
+        "ru-RU": "Hit",
+        "ko-KR": "Hit",
+        "zh-CN": "Hit",
+        "zh-TW": "Hit"
+      }
+    },
+    {
+      "id": "4834a95a-103b-482f-91bf-6f7677352a09",
+      "name": {
+        "en-US": "YOU WON!!",
+        "ja-JP": "YOU WON!!",
+        "en-GB": "YOU WON!!",
+        "fr-FR": "YOU WON!!",
+        "fr-CA": "YOU WON!!",
+        "de-DE": "YOU WON!!",
+        "nl-NL": "YOU WON!!",
+        "it-IT": "YOU WON!!",
+        "pt-PT": "YOU WON!!",
+        "pt-BR": "YOU WON!!",
+        "es-ES": "YOU WON!!",
+        "es-MX": "YOU WON!!",
+        "ru-RU": "YOU WON!!",
+        "ko-KR": "YOU WON!!",
+        "zh-CN": "YOU WON!!",
+        "zh-TW": "YOU WON!!"
+      }
+    },
+    {
+      "id": "c0deb435-af5f-4a43-a359-be3c016585ab",
+      "name": {
+        "en-US": "FOUL!!",
+        "ja-JP": "FOUL!!",
+        "en-GB": "FOUL!!",
+        "fr-FR": "FOUL!!",
+        "fr-CA": "FOUL!!",
+        "de-DE": "FOUL!!",
+        "nl-NL": "FOUL!!",
+        "it-IT": "FOUL!!",
+        "pt-PT": "FOUL!!",
+        "pt-BR": "FOUL!!",
+        "es-ES": "FOUL!!",
+        "es-MX": "FOUL!!",
+        "ru-RU": "FOUL!!",
+        "ko-KR": "FOUL!!",
+        "zh-CN": "FOUL!!",
+        "zh-TW": "FOUL!!"
+      }
+    },
+    {
+      "id": "1d6ce488-8b83-45e1-9589-085066c8a13e",
+      "name": {
+        "en-US": "Game C Start",
+        "ja-JP": "GAME C スタート",
+        "en-GB": "Game C Start",
+        "fr-FR": "Game C Start",
+        "fr-CA": "Game C Start",
+        "de-DE": "Game C Start",
+        "nl-NL": "Game C Start",
+        "it-IT": "Game C Start",
+        "pt-PT": "Game C Start",
+        "pt-BR": "Game C Start",
+        "es-ES": "Game C Start",
+        "es-MX": "Game C Start",
+        "ru-RU": "Game C Start",
+        "ko-KR": "Game C Start",
+        "zh-CN": "Game C Start",
+        "zh-TW": "Game C Start"
+      }
+    },
+    {
+      "id": "3e9598ed-5143-4aeb-8a46-f5144b0f9fe7",
+      "name": {
+        "en-US": "Window/Door Open",
+        "ja-JP": "窓/扉 オープン",
+        "en-GB": "Window/Door Open",
+        "fr-FR": "Window/Door Open",
+        "fr-CA": "Window/Door Open",
+        "de-DE": "Window/Door Open",
+        "nl-NL": "Window/Door Open",
+        "it-IT": "Window/Door Open",
+        "pt-PT": "Window/Door Open",
+        "pt-BR": "Window/Door Open",
+        "es-ES": "Window/Door Open",
+        "es-MX": "Window/Door Open",
+        "ru-RU": "Window/Door Open",
+        "ko-KR": "Window/Door Open",
+        "zh-CN": "Window/Door Open",
+        "zh-TW": "Window/Door Open"
+      }
+    },
+    {
+      "id": "e1fde76e-1ec0-4042-978b-27caca3e9f34",
+      "name": {
+        "en-US": "YOU LOST!!",
+        "ja-JP": "YOU LOST!!",
+        "en-GB": "YOU LOST!!",
+        "fr-FR": "YOU LOST!!",
+        "fr-CA": "YOU LOST!!",
+        "de-DE": "YOU LOST!!",
+        "nl-NL": "YOU LOST!!",
+        "it-IT": "YOU LOST!!",
+        "pt-PT": "YOU LOST!!",
+        "pt-BR": "YOU LOST!!",
+        "es-ES": "YOU LOST!!",
+        "es-MX": "YOU LOST!!",
+        "ru-RU": "YOU LOST!!",
+        "ko-KR": "YOU LOST!!",
+        "zh-CN": "YOU LOST!!",
+        "zh-TW": "YOU LOST!!"
+      }
+    },
+    {
+      "id": "064076af-1434-4c63-9710-5af3db19ad3e",
+      "name": {
+        "en-US": "Game Over",
+        "ja-JP": "ゲームオーバー",
+        "en-GB": "Game Over",
+        "fr-FR": "Game Over",
+        "fr-CA": "Game Over",
+        "de-DE": "Game Over",
+        "nl-NL": "Game Over",
+        "it-IT": "Game Over",
+        "pt-PT": "Game Over",
+        "pt-BR": "Game Over",
+        "es-ES": "Game Over",
+        "es-MX": "Game Over",
+        "ru-RU": "Game Over",
+        "ko-KR": "Game Over",
+        "zh-CN": "Game Over",
+        "zh-TW": "Game Over"
+      }
+    }
+  ],
+  "localesWithDistinctTrackNames": [
+    "ja-JP",
+    "en-US"
+  ],
+  "localesWithDistinctTrackNamesCount": 2
+}

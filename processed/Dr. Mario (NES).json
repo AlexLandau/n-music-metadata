@@ -1,0 +1,242 @@
+{
+  "nameEnUS": "Dr. Mario (NES)",
+  "id": "8b8f87d1-4a54-4ab1-a644-e82aaae5e8a8",
+  "hardware": "Nintendo Entertainment System",
+  "lastRetrieved": 1781313902,
+  "name": {
+    "en-US": "Dr. Mario (NES)",
+    "ja-JP": "ドクターマリオ（ファミコン版）",
+    "en-GB": "Dr. Mario (NES)",
+    "fr-FR": "Dr. Mario (NES)",
+    "fr-CA": "Dr. Mario (NES)",
+    "de-DE": "Dr. Mario (NES)",
+    "nl-NL": "Dr. Mario (NES)",
+    "it-IT": "Dr. Mario (NES)",
+    "pt-PT": "Dr. Mario (NES)",
+    "pt-BR": "Dr. Mario (NES)",
+    "es-ES": "Dr. Mario (NES)",
+    "es-MX": "Dr. Mario (NES)",
+    "ru-RU": "Dr. Mario (NES)",
+    "ko-KR": "Dr. Mario (NES)",
+    "zh-CN": "Dr. Mario (NES)",
+    "zh-TW": "Dr. Mario (NES)"
+  },
+  "allTracksPlaylistId": "7dba3190-8be3-40f2-bb7a-ab87f3146e77",
+  "tracks": [
+    {
+      "id": "d7c1b507-5bbf-46df-90f3-7eba3bbfbbe0",
+      "name": {
+        "en-US": "Title Screen",
+        "ja-JP": "タイトルBGM",
+        "en-GB": "Title Screen",
+        "fr-FR": "Title Screen",
+        "fr-CA": "Title Screen",
+        "de-DE": "Title Screen",
+        "nl-NL": "Title Screen",
+        "it-IT": "Title Screen",
+        "pt-PT": "Title Screen",
+        "pt-BR": "Title Screen",
+        "es-ES": "Title Screen",
+        "es-MX": "Title Screen",
+        "ru-RU": "Title Screen",
+        "ko-KR": "Title Screen",
+        "zh-CN": "Title Screen",
+        "zh-TW": "Title Screen"
+      }
+    },
+    {
+      "id": "b5562aa6-86f2-4b2e-a5a9-645a6cb46c7f",
+      "name": {
+        "en-US": "Selection Screen",
+        "ja-JP": "セレクト",
+        "en-GB": "Selection Screen",
+        "fr-FR": "Selection Screen",
+        "fr-CA": "Selection Screen",
+        "de-DE": "Selection Screen",
+        "nl-NL": "Selection Screen",
+        "it-IT": "Selection Screen",
+        "pt-PT": "Selection Screen",
+        "pt-BR": "Selection Screen",
+        "es-ES": "Selection Screen",
+        "es-MX": "Selection Screen",
+        "ru-RU": "Selection Screen",
+        "ko-KR": "Selection Screen",
+        "zh-CN": "Selection Screen",
+        "zh-TW": "Selection Screen"
+      }
+    },
+    {
+      "id": "3dc9230f-e54f-4240-ba3f-74a55650b86b",
+      "name": {
+        "en-US": "Fever",
+        "ja-JP": "Fever",
+        "en-GB": "Fever",
+        "fr-FR": "Fever",
+        "fr-CA": "Fever",
+        "de-DE": "Fever",
+        "nl-NL": "Fever",
+        "it-IT": "Fever",
+        "pt-PT": "Fever",
+        "pt-BR": "Fever",
+        "es-ES": "Fever",
+        "es-MX": "Fever",
+        "ru-RU": "Fever",
+        "ko-KR": "Fever",
+        "zh-CN": "Fever",
+        "zh-TW": "Fever"
+      }
+    },
+    {
+      "id": "360d8cf3-841e-4f1d-9afa-7eea91d79042",
+      "name": {
+        "en-US": "Fever Clear",
+        "ja-JP": "Fever クリア",
+        "en-GB": "Fever Clear",
+        "fr-FR": "Fever Clear",
+        "fr-CA": "Fever Clear",
+        "de-DE": "Fever Clear",
+        "nl-NL": "Fever Clear",
+        "it-IT": "Fever Clear",
+        "pt-PT": "Fever Clear",
+        "pt-BR": "Fever Clear",
+        "es-ES": "Fever Clear",
+        "es-MX": "Fever Clear",
+        "ru-RU": "Fever Clear",
+        "ko-KR": "Fever Clear",
+        "zh-CN": "Fever Clear",
+        "zh-TW": "Fever Clear"
+      }
+    },
+    {
+      "id": "0fc23f70-0c6a-4e79-b6aa-e8de6fd79c4c",
+      "name": {
+        "en-US": "Chill",
+        "ja-JP": "Chill",
+        "en-GB": "Chill",
+        "fr-FR": "Chill",
+        "fr-CA": "Chill",
+        "de-DE": "Chill",
+        "nl-NL": "Chill",
+        "it-IT": "Chill",
+        "pt-PT": "Chill",
+        "pt-BR": "Chill",
+        "es-ES": "Chill",
+        "es-MX": "Chill",
+        "ru-RU": "Chill",
+        "ko-KR": "Chill",
+        "zh-CN": "Chill",
+        "zh-TW": "Chill"
+      }
+    },
+    {
+      "id": "44abe951-3fb8-4785-919a-0a2884f33ad6",
+      "name": {
+        "en-US": "Chill Clear",
+        "ja-JP": "Chill クリア",
+        "en-GB": "Chill Clear",
+        "fr-FR": "Chill Clear",
+        "fr-CA": "Chill Clear",
+        "de-DE": "Chill Clear",
+        "nl-NL": "Chill Clear",
+        "it-IT": "Chill Clear",
+        "pt-PT": "Chill Clear",
+        "pt-BR": "Chill Clear",
+        "es-ES": "Chill Clear",
+        "es-MX": "Chill Clear",
+        "ru-RU": "Chill Clear",
+        "ko-KR": "Chill Clear",
+        "zh-CN": "Chill Clear",
+        "zh-TW": "Chill Clear"
+      }
+    },
+    {
+      "id": "e382f37f-6f51-4a29-b3db-e1fb7b792c07",
+      "name": {
+        "en-US": "Game Over",
+        "ja-JP": "ゲームオーバー",
+        "en-GB": "Game Over",
+        "fr-FR": "Game Over",
+        "fr-CA": "Game Over",
+        "de-DE": "Game Over",
+        "nl-NL": "Game Over",
+        "it-IT": "Game Over",
+        "pt-PT": "Game Over",
+        "pt-BR": "Game Over",
+        "es-ES": "Game Over",
+        "es-MX": "Game Over",
+        "ru-RU": "Game Over",
+        "ko-KR": "Game Over",
+        "zh-CN": "Game Over",
+        "zh-TW": "Game Over"
+      }
+    },
+    {
+      "id": "3ef2bba8-a6b9-4158-89bc-1463072c9d1a",
+      "name": {
+        "en-US": "Vs. Game Over",
+        "ja-JP": "VS ゲームオーバー",
+        "en-GB": "Vs. Game Over",
+        "fr-FR": "Vs. Game Over",
+        "fr-CA": "Vs. Game Over",
+        "de-DE": "Vs. Game Over",
+        "nl-NL": "Vs. Game Over",
+        "it-IT": "Vs. Game Over",
+        "pt-PT": "Vs. Game Over",
+        "pt-BR": "Vs. Game Over",
+        "es-ES": "Vs. Game Over",
+        "es-MX": "Vs. Game Over",
+        "ru-RU": "Vs. Game Over",
+        "ko-KR": "Vs. Game Over",
+        "zh-CN": "Vs. Game Over",
+        "zh-TW": "Vs. Game Over"
+      }
+    },
+    {
+      "id": "e95d4f3f-5ff5-4aa5-bef9-e03f3242da1d",
+      "name": {
+        "en-US": "Level 20 Low Clear & Ending",
+        "ja-JP": "Level 20 LOW クリア～エンディング",
+        "en-GB": "Level 20 Low Clear & Ending",
+        "fr-FR": "Level 20 Low Clear & Ending",
+        "fr-CA": "Level 20 Low Clear & Ending",
+        "de-DE": "Level 20 Low Clear & Ending",
+        "nl-NL": "Level 20 Low Clear & Ending",
+        "it-IT": "Level 20 Low Clear & Ending",
+        "pt-PT": "Level 20 Low Clear & Ending",
+        "pt-BR": "Level 20 Low Clear & Ending",
+        "es-ES": "Level 20 Low Clear & Ending",
+        "es-MX": "Level 20 Low Clear & Ending",
+        "ru-RU": "Level 20 Low Clear & Ending",
+        "ko-KR": "Level 20 Low Clear & Ending",
+        "zh-CN": "Level 20 Low Clear & Ending",
+        "zh-TW": "Level 20 Low Clear & Ending"
+      }
+    },
+    {
+      "id": "544255c8-ccf5-4c4a-bcbc-fe6ef8c903f1",
+      "name": {
+        "en-US": "Level 20 Hi Clear (UFO) & Ending",
+        "ja-JP": "Level 20 HI クリア(UFO)～エンディング",
+        "en-GB": "Level 20 Hi Clear (UFO) & Ending",
+        "fr-FR": "Level 20 Hi Clear (UFO) & Ending",
+        "fr-CA": "Level 20 Hi Clear (UFO) & Ending",
+        "de-DE": "Level 20 Hi Clear (UFO) & Ending",
+        "nl-NL": "Level 20 Hi Clear (UFO) & Ending",
+        "it-IT": "Level 20 Hi Clear (UFO) & Ending",
+        "pt-PT": "Level 20 Hi Clear (UFO) & Ending",
+        "pt-BR": "Level 20 Hi Clear (UFO) & Ending",
+        "es-ES": "Level 20 Hi Clear (UFO) & Ending",
+        "es-MX": "Level 20 Hi Clear (UFO) & Ending",
+        "ru-RU": "Level 20 Hi Clear (UFO) & Ending",
+        "ko-KR": "Level 20 Hi Clear (UFO) & Ending",
+        "zh-CN": "Level 20 Hi Clear (UFO) & Ending",
+        "zh-TW": "Level 20 Hi Clear (UFO) & Ending"
+      }
+    }
+  ],
+  "localesWithDistinctTrackNames": [
+    "ja-JP",
+    "en-US"
+  ],
+  "localesWithDistinctTrackNamesCount": 2
+}

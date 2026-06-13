@@ -1,0 +1,200 @@
+{
+  "nameEnUS": "Donkey Kong Jr. Math",
+  "id": "26878345-edda-465b-b2a2-ad9a1b702e73",
+  "hardware": "Nintendo Entertainment System",
+  "lastRetrieved": 1781313234,
+  "name": {
+    "en-US": "Donkey Kong Jr. Math",
+    "ja-JP": "ドンキーコングJR.の算数遊び",
+    "en-GB": "Donkey Kong Jr. Math",
+    "fr-FR": "Donkey Kong Jr. Math",
+    "fr-CA": "Donkey Kong Jr. Math",
+    "de-DE": "Donkey Kong Jr. Math",
+    "nl-NL": "Donkey Kong Jr. Math",
+    "it-IT": "Donkey Kong Jr. Math",
+    "pt-PT": "Donkey Kong Jr. Math",
+    "pt-BR": "Donkey Kong Jr. Math",
+    "es-ES": "Donkey Kong Jr. Math",
+    "es-MX": "Donkey Kong Jr. Math",
+    "ru-RU": "Donkey Kong Jr. Math",
+    "ko-KR": "Donkey Kong Jr. Math",
+    "zh-CN": "Donkey Kong Jr. Math",
+    "zh-TW": "Donkey Kong Jr. Math"
+  },
+  "allTracksPlaylistId": "83236664-0ae3-4172-bfe3-71282778a3eb",
+  "tracks": [
+    {
+      "id": "eb4afabf-e470-4c03-a5d3-6cefbd6ceec6",
+      "name": {
+        "en-US": "Title BGM",
+        "ja-JP": "タイトルBGM",
+        "en-GB": "Title BGM",
+        "fr-FR": "Title BGM",
+        "fr-CA": "Title BGM",
+        "de-DE": "Title BGM",
+        "nl-NL": "Title BGM",
+        "it-IT": "Title BGM",
+        "pt-PT": "Title BGM",
+        "pt-BR": "Title BGM",
+        "es-ES": "Title BGM",
+        "es-MX": "Title BGM",
+        "ru-RU": "Title BGM",
+        "ko-KR": "Title BGM",
+        "zh-CN": "Title BGM",
+        "zh-TW": "Title BGM"
+      }
+    },
+    {
+      "id": "26bdd6b7-42fb-4b4f-ad93-22043e157e7a",
+      "name": {
+        "en-US": "Game Start",
+        "ja-JP": "ゲームスタート",
+        "en-GB": "Game Start",
+        "fr-FR": "Game Start",
+        "fr-CA": "Game Start",
+        "de-DE": "Game Start",
+        "nl-NL": "Game Start",
+        "it-IT": "Game Start",
+        "pt-PT": "Game Start",
+        "pt-BR": "Game Start",
+        "es-ES": "Game Start",
+        "es-MX": "Game Start",
+        "ru-RU": "Game Start",
+        "ko-KR": "Game Start",
+        "zh-CN": "Game Start",
+        "zh-TW": "Game Start"
+      }
+    },
+    {
+      "id": "34f4fd51-b453-4122-8f78-aba1aa526fe9",
+      "name": {
+        "en-US": "Calculate BGM",
+        "ja-JP": "計算BGM",
+        "en-GB": "Calculate BGM",
+        "fr-FR": "Calculate BGM",
+        "fr-CA": "Calculate BGM",
+        "de-DE": "Calculate BGM",
+        "nl-NL": "Calculate BGM",
+        "it-IT": "Calculate BGM",
+        "pt-PT": "Calculate BGM",
+        "pt-BR": "Calculate BGM",
+        "es-ES": "Calculate BGM",
+        "es-MX": "Calculate BGM",
+        "ru-RU": "Calculate BGM",
+        "ko-KR": "Calculate BGM",
+        "zh-CN": "Calculate BGM",
+        "zh-TW": "Calculate BGM"
+      }
+    },
+    {
+      "id": "7a9b5c0c-12c5-427e-b0d1-2e176b82bc36",
+      "name": {
+        "en-US": "Player Down",
+        "ja-JP": "ミス",
+        "en-GB": "Player Down",
+        "fr-FR": "Player Down",
+        "fr-CA": "Player Down",
+        "de-DE": "Player Down",
+        "nl-NL": "Player Down",
+        "it-IT": "Player Down",
+        "pt-PT": "Player Down",
+        "pt-BR": "Player Down",
+        "es-ES": "Player Down",
+        "es-MX": "Player Down",
+        "ru-RU": "Player Down",
+        "ko-KR": "Player Down",
+        "zh-CN": "Player Down",
+        "zh-TW": "Player Down"
+      }
+    },
+    {
+      "id": "7aa395d1-df72-4a3b-96d3-e2f43a19b4ad",
+      "name": {
+        "en-US": "Exercise BGM",
+        "ja-JP": "練習BGM",
+        "en-GB": "Exercise BGM",
+        "fr-FR": "Exercise BGM",
+        "fr-CA": "Exercise BGM",
+        "de-DE": "Exercise BGM",
+        "nl-NL": "Exercise BGM",
+        "it-IT": "Exercise BGM",
+        "pt-PT": "Exercise BGM",
+        "pt-BR": "Exercise BGM",
+        "es-ES": "Exercise BGM",
+        "es-MX": "Exercise BGM",
+        "ru-RU": "Exercise BGM",
+        "ko-KR": "Exercise BGM",
+        "zh-CN": "Exercise BGM",
+        "zh-TW": "Exercise BGM"
+      }
+    },
+    {
+      "id": "462ecb12-c0ad-4ce8-acb5-96e36ca57c56",
+      "name": {
+        "en-US": "Correct Answer",
+        "ja-JP": "正解",
+        "en-GB": "Correct Answer",
+        "fr-FR": "Correct Answer",
+        "fr-CA": "Correct Answer",
+        "de-DE": "Correct Answer",
+        "nl-NL": "Correct Answer",
+        "it-IT": "Correct Answer",
+        "pt-PT": "Correct Answer",
+        "pt-BR": "Correct Answer",
+        "es-ES": "Correct Answer",
+        "es-MX": "Correct Answer",
+        "ru-RU": "Correct Answer",
+        "ko-KR": "Correct Answer",
+        "zh-CN": "Correct Answer",
+        "zh-TW": "Correct Answer"
+      }
+    },
+    {
+      "id": "1ccb0108-9877-43d9-8f52-4b5bc0b3681c",
+      "name": {
+        "en-US": "Give Up",
+        "ja-JP": "ギブアップ",
+        "en-GB": "Give Up",
+        "fr-FR": "Give Up",
+        "fr-CA": "Give Up",
+        "de-DE": "Give Up",
+        "nl-NL": "Give Up",
+        "it-IT": "Give Up",
+        "pt-PT": "Give Up",
+        "pt-BR": "Give Up",
+        "es-ES": "Give Up",
+        "es-MX": "Give Up",
+        "ru-RU": "Give Up",
+        "ko-KR": "Give Up",
+        "zh-CN": "Give Up",
+        "zh-TW": "Give Up"
+      }
+    },
+    {
+      "id": "2be6904b-7b8a-417d-94de-9ee7e192ea32",
+      "name": {
+        "en-US": "Game Over",
+        "ja-JP": "ゲームオーバー",
+        "en-GB": "Game Over",
+        "fr-FR": "Game Over",
+        "fr-CA": "Game Over",
+        "de-DE": "Game Over",
+        "nl-NL": "Game Over",
+        "it-IT": "Game Over",
+        "pt-PT": "Game Over",
+        "pt-BR": "Game Over",
+        "es-ES": "Game Over",
+        "es-MX": "Game Over",
+        "ru-RU": "Game Over",
+        "ko-KR": "Game Over",
+        "zh-CN": "Game Over",
+        "zh-TW": "Game Over"
+      }
+    }
+  ],
+  "localesWithDistinctTrackNames": [
+    "ja-JP",
+    "en-US"
+  ],
+  "localesWithDistinctTrackNamesCount": 2
+}

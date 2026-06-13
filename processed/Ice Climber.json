@@ -1,0 +1,158 @@
+{
+  "nameEnUS": "Ice Climber",
+  "id": "7fac41f7-34c7-4384-a5f7-fdfbeddbcecc",
+  "hardware": "Nintendo Entertainment System",
+  "lastRetrieved": 1781312885,
+  "name": {
+    "en-US": "Ice Climber",
+    "ja-JP": "アイスクライマー",
+    "en-GB": "Ice Climber",
+    "fr-FR": "Ice Climber",
+    "fr-CA": "Ice Climber",
+    "de-DE": "Ice Climber",
+    "nl-NL": "Ice Climber",
+    "it-IT": "Ice Climber",
+    "pt-PT": "Ice Climber",
+    "pt-BR": "Ice Climber",
+    "es-ES": "Ice Climber",
+    "es-MX": "Ice Climber",
+    "ru-RU": "Ice Climber",
+    "ko-KR": "Ice Climber",
+    "zh-CN": "Ice Climber",
+    "zh-TW": "Ice Climber"
+  },
+  "allTracksPlaylistId": "f9e4f923-be70-4e85-9a46-4bcf8dcbdc99",
+  "tracks": [
+    {
+      "id": "5b2c686b-85e1-459d-828a-6e45acdb2755",
+      "name": {
+        "en-US": "Title BGM / Bonus Round",
+        "ja-JP": "タイトルBGM / ボーナスステージ",
+        "en-GB": "Title BGM / Bonus Round",
+        "fr-FR": "Title BGM / Bonus Round",
+        "fr-CA": "Title BGM / Bonus Round",
+        "de-DE": "Title BGM / Bonus Round",
+        "nl-NL": "Title BGM / Bonus Round",
+        "it-IT": "Title BGM / Bonus Round",
+        "pt-PT": "Title BGM / Bonus Round",
+        "pt-BR": "Title BGM / Bonus Round",
+        "es-ES": "Title BGM / Bonus Round",
+        "es-MX": "Title BGM / Bonus Round",
+        "ru-RU": "Title BGM / Bonus Round",
+        "ko-KR": "Title BGM / Bonus Round",
+        "zh-CN": "Title BGM / Bonus Round",
+        "zh-TW": "Title BGM / Bonus Round"
+      }
+    },
+    {
+      "id": "24928b7c-affb-4faf-a327-fbaa1d56aee8",
+      "name": {
+        "en-US": "Game Start",
+        "ja-JP": "ゲームスタート",
+        "en-GB": "Game Start",
+        "fr-FR": "Game Start",
+        "fr-CA": "Game Start",
+        "de-DE": "Game Start",
+        "nl-NL": "Game Start",
+        "it-IT": "Game Start",
+        "pt-PT": "Game Start",
+        "pt-BR": "Game Start",
+        "es-ES": "Game Start",
+        "es-MX": "Game Start",
+        "ru-RU": "Game Start",
+        "ko-KR": "Game Start",
+        "zh-CN": "Game Start",
+        "zh-TW": "Game Start"
+      }
+    },
+    {
+      "id": "c88b0a68-e440-415d-9dc5-a630408bb09c",
+      "name": {
+        "en-US": "Mountain BGM",
+        "ja-JP": "MOUNTAIN BGM",
+        "en-GB": "Mountain BGM",
+        "fr-FR": "Mountain BGM",
+        "fr-CA": "Mountain BGM",
+        "de-DE": "Mountain BGM",
+        "nl-NL": "Mountain BGM",
+        "it-IT": "Mountain BGM",
+        "pt-PT": "Mountain BGM",
+        "pt-BR": "Mountain BGM",
+        "es-ES": "Mountain BGM",
+        "es-MX": "Mountain BGM",
+        "ru-RU": "Mountain BGM",
+        "ko-KR": "Mountain BGM",
+        "zh-CN": "Mountain BGM",
+        "zh-TW": "Mountain BGM"
+      }
+    },
+    {
+      "id": "d213e0f5-b419-478f-9d90-04a713a35bb2",
+      "name": {
+        "en-US": "Stage Clear",
+        "ja-JP": "ステージクリア",
+        "en-GB": "Stage Clear",
+        "fr-FR": "Stage Clear",
+        "fr-CA": "Stage Clear",
+        "de-DE": "Stage Clear",
+        "nl-NL": "Stage Clear",
+        "it-IT": "Stage Clear",
+        "pt-PT": "Stage Clear",
+        "pt-BR": "Stage Clear",
+        "es-ES": "Stage Clear",
+        "es-MX": "Stage Clear",
+        "ru-RU": "Stage Clear",
+        "ko-KR": "Stage Clear",
+        "zh-CN": "Stage Clear",
+        "zh-TW": "Stage Clear"
+      }
+    },
+    {
+      "id": "782c5eb1-aac8-4636-8d7f-036a5eb5eeff",
+      "name": {
+        "en-US": "Player Down",
+        "ja-JP": "ミス",
+        "en-GB": "Player Down",
+        "fr-FR": "Player Down",
+        "fr-CA": "Player Down",
+        "de-DE": "Player Down",
+        "nl-NL": "Player Down",
+        "it-IT": "Player Down",
+        "pt-PT": "Player Down",
+        "pt-BR": "Player Down",
+        "es-ES": "Player Down",
+        "es-MX": "Player Down",
+        "ru-RU": "Player Down",
+        "ko-KR": "Player Down",
+        "zh-CN": "Player Down",
+        "zh-TW": "Player Down"
+      }
+    },
+    {
+      "id": "7bc7b3d4-de8f-4e18-8ac8-77b139e7dcdc",
+      "name": {
+        "en-US": "Game Over",
+        "ja-JP": "ゲームオーバー",
+        "en-GB": "Game Over",
+        "fr-FR": "Game Over",
+        "fr-CA": "Game Over",
+        "de-DE": "Game Over",
+        "nl-NL": "Game Over",
+        "it-IT": "Game Over",
+        "pt-PT": "Game Over",
+        "pt-BR": "Game Over",
+        "es-ES": "Game Over",
+        "es-MX": "Game Over",
+        "ru-RU": "Game Over",
+        "ko-KR": "Game Over",
+        "zh-CN": "Game Over",
+        "zh-TW": "Game Over"
+      }
+    }
+  ],
+  "localesWithDistinctTrackNames": [
+    "ja-JP",
+    "en-US"
+  ],
+  "localesWithDistinctTrackNamesCount": 2
+}

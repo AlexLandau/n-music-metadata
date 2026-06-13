@@ -1,0 +1,368 @@
+{
+  "nameEnUS": "Super Mario Bros.",
+  "id": "4cf411d1-7917-40b5-9f53-bfa2052d7b64",
+  "hardware": "Nintendo Entertainment System",
+  "lastRetrieved": 1781315098,
+  "name": {
+    "en-US": "Super Mario Bros.",
+    "ja-JP": "スーパーマリオブラザーズ",
+    "en-GB": "Super Mario Bros.",
+    "fr-FR": "Super Mario Bros.",
+    "fr-CA": "Super Mario Bros.",
+    "de-DE": "Super Mario Bros.",
+    "nl-NL": "Super Mario Bros.",
+    "it-IT": "Super Mario Bros.",
+    "pt-PT": "Super Mario Bros.",
+    "pt-BR": "Super Mario Bros.",
+    "es-ES": "Super Mario Bros.",
+    "es-MX": "Super Mario Bros.",
+    "ru-RU": "Super Mario Bros.",
+    "ko-KR": "슈퍼 마리오브라더스",
+    "zh-CN": "Super Mario Bros.",
+    "zh-TW": "Super Mario Bros."
+  },
+  "allTracksPlaylistId": "2d6c8161-31ad-479a-bb69-15008ea7563e",
+  "tracks": [
+    {
+      "id": "efc61259-826b-401d-92ec-17fb452bd6c2",
+      "name": {
+        "en-US": "Ground BGM",
+        "ja-JP": "地上BGM",
+        "en-GB": "Ground BGM",
+        "fr-FR": "Ground BGM",
+        "fr-CA": "Ground BGM",
+        "de-DE": "Ground BGM",
+        "nl-NL": "Ground BGM",
+        "it-IT": "Ground BGM",
+        "pt-PT": "Ground BGM",
+        "pt-BR": "Ground BGM",
+        "es-ES": "Ground BGM",
+        "es-MX": "Ground BGM",
+        "ru-RU": "Ground BGM",
+        "ko-KR": "Ground BGM",
+        "zh-CN": "Ground BGM",
+        "zh-TW": "Ground BGM"
+      }
+    },
+    {
+      "id": "1114ae28-ee49-46a4-915e-e4bc73a644c8",
+      "name": {
+        "en-US": "Timer Warning",
+        "ja-JP": "タイムアップ警告音",
+        "en-GB": "Timer Warning",
+        "fr-FR": "Timer Warning",
+        "fr-CA": "Timer Warning",
+        "de-DE": "Timer Warning",
+        "nl-NL": "Timer Warning",
+        "it-IT": "Timer Warning",
+        "pt-PT": "Timer Warning",
+        "pt-BR": "Timer Warning",
+        "es-ES": "Timer Warning",
+        "es-MX": "Timer Warning",
+        "ru-RU": "Timer Warning",
+        "ko-KR": "Timer Warning",
+        "zh-CN": "Timer Warning",
+        "zh-TW": "Timer Warning"
+      }
+    },
+    {
+      "id": "bb088d31-4e78-45e1-956c-9a1f5a11b172",
+      "name": {
+        "en-US": "\"Hurry Up!\" Ground BGM",
+        "ja-JP": "地上BGM（ハリーアップ）",
+        "en-GB": "\"Hurry Up!\" Ground BGM",
+        "fr-FR": "\"Hurry Up!\" Ground BGM",
+        "fr-CA": "\"Hurry Up!\" Ground BGM",
+        "de-DE": "\"Hurry Up!\" Ground BGM",
+        "nl-NL": "\"Hurry Up!\" Ground BGM",
+        "it-IT": "\"Hurry Up!\" Ground BGM",
+        "pt-PT": "\"Hurry Up!\" Ground BGM",
+        "pt-BR": "\"Hurry Up!\" Ground BGM",
+        "es-ES": "\"Hurry Up!\" Ground BGM",
+        "es-MX": "\"Hurry Up!\" Ground BGM",
+        "ru-RU": "\"Hurry Up!\" Ground BGM",
+        "ko-KR": "\"Hurry Up!\" Ground BGM",
+        "zh-CN": "\"Hurry Up!\" Ground BGM",
+        "zh-TW": "\"Hurry Up!\" Ground BGM"
+      }
+    },
+    {
+      "id": "6aa15917-f7b9-4d20-b972-7fda68b8784b",
+      "name": {
+        "en-US": "Course Clear",
+        "ja-JP": "コースクリア ファンファーレ",
+        "en-GB": "Course Clear",
+        "fr-FR": "Course Clear",
+        "fr-CA": "Course Clear",
+        "de-DE": "Course Clear",
+        "nl-NL": "Course Clear",
+        "it-IT": "Course Clear",
+        "pt-PT": "Course Clear",
+        "pt-BR": "Course Clear",
+        "es-ES": "Course Clear",
+        "es-MX": "Course Clear",
+        "ru-RU": "Course Clear",
+        "ko-KR": "Course Clear",
+        "zh-CN": "Course Clear",
+        "zh-TW": "Course Clear"
+      }
+    },
+    {
+      "id": "337c8e86-d0f1-438c-90a5-d7150808b1a4",
+      "name": {
+        "en-US": "Underground BGM",
+        "ja-JP": "地下BGM",
+        "en-GB": "Underground BGM",
+        "fr-FR": "Underground BGM",
+        "fr-CA": "Underground BGM",
+        "de-DE": "Underground BGM",
+        "nl-NL": "Underground BGM",
+        "it-IT": "Underground BGM",
+        "pt-PT": "Underground BGM",
+        "pt-BR": "Underground BGM",
+        "es-ES": "Underground BGM",
+        "es-MX": "Underground BGM",
+        "ru-RU": "Underground BGM",
+        "ko-KR": "Underground BGM",
+        "zh-CN": "Underground BGM",
+        "zh-TW": "Underground BGM"
+      }
+    },
+    {
+      "id": "f12dc68c-3c44-4f44-979c-6cad0b012185",
+      "name": {
+        "en-US": "\"Hurry Up!\" Underground BGM",
+        "ja-JP": "地下BGM（ハリーアップ）",
+        "en-GB": "\"Hurry Up!\" Underground BGM",
+        "fr-FR": "\"Hurry Up!\" Underground BGM",
+        "fr-CA": "\"Hurry Up!\" Underground BGM",
+        "de-DE": "\"Hurry Up!\" Underground BGM",
+        "nl-NL": "\"Hurry Up!\" Underground BGM",
+        "it-IT": "\"Hurry Up!\" Underground BGM",
+        "pt-PT": "\"Hurry Up!\" Underground BGM",
+        "pt-BR": "\"Hurry Up!\" Underground BGM",
+        "es-ES": "\"Hurry Up!\" Underground BGM",
+        "es-MX": "\"Hurry Up!\" Underground BGM",
+        "ru-RU": "\"Hurry Up!\" Underground BGM",
+        "ko-KR": "\"Hurry Up!\" Underground BGM",
+        "zh-CN": "\"Hurry Up!\" Underground BGM",
+        "zh-TW": "\"Hurry Up!\" Underground BGM"
+      }
+    },
+    {
+      "id": "c88e8237-95e2-43bf-bfda-1df67efc0c4a",
+      "name": {
+        "en-US": "Invincibility BGM",
+        "ja-JP": "無敵BGM",
+        "en-GB": "Invincibility BGM",
+        "fr-FR": "Invincibility BGM",
+        "fr-CA": "Invincibility BGM",
+        "de-DE": "Invincibility BGM",
+        "nl-NL": "Invincibility BGM",
+        "it-IT": "Invincibility BGM",
+        "pt-PT": "Invincibility BGM",
+        "pt-BR": "Invincibility BGM",
+        "es-ES": "Invincibility BGM",
+        "es-MX": "Invincibility BGM",
+        "ru-RU": "Invincibility BGM",
+        "ko-KR": "Invincibility BGM",
+        "zh-CN": "Invincibility BGM",
+        "zh-TW": "Invincibility BGM"
+      }
+    },
+    {
+      "id": "680cb7be-330d-4bca-9f00-16611feb7b06",
+      "name": {
+        "en-US": "\"Hurry Up!\" Invincibility BGM",
+        "ja-JP": "無敵BGM（ハリーアップ）",
+        "en-GB": "\"Hurry Up!\" Invincibility BGM",
+        "fr-FR": "\"Hurry Up!\" Invincibility BGM",
+        "fr-CA": "\"Hurry Up!\" Invincibility BGM",
+        "de-DE": "\"Hurry Up!\" Invincibility BGM",
+        "nl-NL": "\"Hurry Up!\" Invincibility BGM",
+        "it-IT": "\"Hurry Up!\" Invincibility BGM",
+        "pt-PT": "\"Hurry Up!\" Invincibility BGM",
+        "pt-BR": "\"Hurry Up!\" Invincibility BGM",
+        "es-ES": "\"Hurry Up!\" Invincibility BGM",
+        "es-MX": "\"Hurry Up!\" Invincibility BGM",
+        "ru-RU": "\"Hurry Up!\" Invincibility BGM",
+        "ko-KR": "\"Hurry Up!\" Invincibility BGM",
+        "zh-CN": "\"Hurry Up!\" Invincibility BGM",
+        "zh-TW": "\"Hurry Up!\" Invincibility BGM"
+      }
+    },
+    {
+      "id": "6d167c8c-a08c-4c66-9e1c-bd0dc82c461b",
+      "name": {
+        "en-US": "Player Down",
+        "ja-JP": "プレイヤーダウン",
+        "en-GB": "Player Down",
+        "fr-FR": "Player Down",
+        "fr-CA": "Player Down",
+        "de-DE": "Player Down",
+        "nl-NL": "Player Down",
+        "it-IT": "Player Down",
+        "pt-PT": "Player Down",
+        "pt-BR": "Player Down",
+        "es-ES": "Player Down",
+        "es-MX": "Player Down",
+        "ru-RU": "Player Down",
+        "ko-KR": "Player Down",
+        "zh-CN": "Player Down",
+        "zh-TW": "Player Down"
+      }
+    },
+    {
+      "id": "38dc7e57-4a2e-48cc-b07d-5592160eebe6",
+      "name": {
+        "en-US": "Game Over",
+        "ja-JP": "ゲームオーバー",
+        "en-GB": "Game Over",
+        "fr-FR": "Game Over",
+        "fr-CA": "Game Over",
+        "de-DE": "Game Over",
+        "nl-NL": "Game Over",
+        "it-IT": "Game Over",
+        "pt-PT": "Game Over",
+        "pt-BR": "Game Over",
+        "es-ES": "Game Over",
+        "es-MX": "Game Over",
+        "ru-RU": "Game Over",
+        "ko-KR": "Game Over",
+        "zh-CN": "Game Over",
+        "zh-TW": "Game Over"
+      }
+    },
+    {
+      "id": "688ca0a0-268b-4d72-b7f4-8b9f72190d42",
+      "name": {
+        "en-US": "Underwater BGM",
+        "ja-JP": "水中BGM",
+        "en-GB": "Underwater BGM",
+        "fr-FR": "Underwater BGM",
+        "fr-CA": "Underwater BGM",
+        "de-DE": "Underwater BGM",
+        "nl-NL": "Underwater BGM",
+        "it-IT": "Underwater BGM",
+        "pt-PT": "Underwater BGM",
+        "pt-BR": "Underwater BGM",
+        "es-ES": "Underwater BGM",
+        "es-MX": "Underwater BGM",
+        "ru-RU": "Underwater BGM",
+        "ko-KR": "Underwater BGM",
+        "zh-CN": "Underwater BGM",
+        "zh-TW": "Underwater BGM"
+      }
+    },
+    {
+      "id": "5fb98dc2-628d-4540-9558-d9cad7a6f13c",
+      "name": {
+        "en-US": "\"Hurry Up!\" Underwater BGM",
+        "ja-JP": "水中BGM（ハリーアップ）",
+        "en-GB": "\"Hurry Up!\" Underwater BGM",
+        "fr-FR": "\"Hurry Up!\" Underwater BGM",
+        "fr-CA": "\"Hurry Up!\" Underwater BGM",
+        "de-DE": "\"Hurry Up!\" Underwater BGM",
+        "nl-NL": "\"Hurry Up!\" Underwater BGM",
+        "it-IT": "\"Hurry Up!\" Underwater BGM",
+        "pt-PT": "\"Hurry Up!\" Underwater BGM",
+        "pt-BR": "\"Hurry Up!\" Underwater BGM",
+        "es-ES": "\"Hurry Up!\" Underwater BGM",
+        "es-MX": "\"Hurry Up!\" Underwater BGM",
+        "ru-RU": "\"Hurry Up!\" Underwater BGM",
+        "ko-KR": "\"Hurry Up!\" Underwater BGM",
+        "zh-CN": "\"Hurry Up!\" Underwater BGM",
+        "zh-TW": "\"Hurry Up!\" Underwater BGM"
+      }
+    },
+    {
+      "id": "4480fd9b-3ed6-4267-8ad9-b842c91aa1e1",
+      "name": {
+        "en-US": "Castle BGM",
+        "ja-JP": "城BGM",
+        "en-GB": "Castle BGM",
+        "fr-FR": "Castle BGM",
+        "fr-CA": "Castle BGM",
+        "de-DE": "Castle BGM",
+        "nl-NL": "Castle BGM",
+        "it-IT": "Castle BGM",
+        "pt-PT": "Castle BGM",
+        "pt-BR": "Castle BGM",
+        "es-ES": "Castle BGM",
+        "es-MX": "Castle BGM",
+        "ru-RU": "Castle BGM",
+        "ko-KR": "Castle BGM",
+        "zh-CN": "Castle BGM",
+        "zh-TW": "Castle BGM"
+      }
+    },
+    {
+      "id": "738a1112-ed82-4a85-a3c2-c086e92ec47b",
+      "name": {
+        "en-US": "\"Hurry Up!\" Castle BGM",
+        "ja-JP": "城BGM（ハリーアップ）",
+        "en-GB": "\"Hurry Up!\" Castle BGM",
+        "fr-FR": "\"Hurry Up!\" Castle BGM",
+        "fr-CA": "\"Hurry Up!\" Castle BGM",
+        "de-DE": "\"Hurry Up!\" Castle BGM",
+        "nl-NL": "\"Hurry Up!\" Castle BGM",
+        "it-IT": "\"Hurry Up!\" Castle BGM",
+        "pt-PT": "\"Hurry Up!\" Castle BGM",
+        "pt-BR": "\"Hurry Up!\" Castle BGM",
+        "es-ES": "\"Hurry Up!\" Castle BGM",
+        "es-MX": "\"Hurry Up!\" Castle BGM",
+        "ru-RU": "\"Hurry Up!\" Castle BGM",
+        "ko-KR": "\"Hurry Up!\" Castle BGM",
+        "zh-CN": "\"Hurry Up!\" Castle BGM",
+        "zh-TW": "\"Hurry Up!\" Castle BGM"
+      }
+    },
+    {
+      "id": "a2bb9845-5232-40e5-9975-c285ca908f22",
+      "name": {
+        "en-US": "World Clear",
+        "ja-JP": "ワールドクリア ファンファーレ",
+        "en-GB": "World Clear",
+        "fr-FR": "World Clear",
+        "fr-CA": "World Clear",
+        "de-DE": "World Clear",
+        "nl-NL": "World Clear",
+        "it-IT": "World Clear",
+        "pt-PT": "World Clear",
+        "pt-BR": "World Clear",
+        "es-ES": "World Clear",
+        "es-MX": "World Clear",
+        "ru-RU": "World Clear",
+        "ko-KR": "World Clear",
+        "zh-CN": "World Clear",
+        "zh-TW": "World Clear"
+      }
+    },
+    {
+      "id": "2e7e15fc-ab48-4c9e-8ada-07c1f627a779",
+      "name": {
+        "en-US": "Ending",
+        "ja-JP": "エンディング",
+        "en-GB": "Ending",
+        "fr-FR": "Ending",
+        "fr-CA": "Ending",
+        "de-DE": "Ending",
+        "nl-NL": "Ending",
+        "it-IT": "Ending",
+        "pt-PT": "Ending",
+        "pt-BR": "Ending",
+        "es-ES": "Ending",
+        "es-MX": "Ending",
+        "ru-RU": "Ending",
+        "ko-KR": "Ending",
+        "zh-CN": "Ending",
+        "zh-TW": "Ending"
+      }
+    }
+  ],
+  "localesWithDistinctTrackNames": [
+    "ja-JP",
+    "en-US"
+  ],
+  "localesWithDistinctTrackNamesCount": 2
+}

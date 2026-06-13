@@ -1,0 +1,221 @@
+{
+  "nameEnUS": "Tetris® (NES)",
+  "id": "fd836877-c32e-4898-802d-81c0beefae99",
+  "hardware": "Nintendo Entertainment System",
+  "lastRetrieved": 1781313929,
+  "name": {
+    "en-US": "Tetris® (NES)",
+    "ja-JP": "Tetris®（NES版）",
+    "en-GB": "Tetris® (NES)",
+    "fr-FR": "Tetris® (NES)",
+    "fr-CA": "Tetris® (NES)",
+    "de-DE": "Tetris® (NES)",
+    "nl-NL": "Tetris® (NES)",
+    "it-IT": "Tetris® (NES)",
+    "pt-PT": "Tetris® (NES)",
+    "pt-BR": "Tetris® (NES)",
+    "es-ES": "Tetris® (NES)",
+    "es-MX": "Tetris® (NES)",
+    "ru-RU": "Tetris® (NES)",
+    "ko-KR": "Tetris® (NES)",
+    "zh-CN": "Tetris® (NES)",
+    "zh-TW": "Tetris® (NES)"
+  },
+  "allTracksPlaylistId": "08ac8a36-8dff-4584-86db-8f1b8f427323",
+  "tracks": [
+    {
+      "id": "9a38a049-7e4a-4ea1-9aee-b9369fa8fab2",
+      "name": {
+        "en-US": "MUSIC-1",
+        "ja-JP": "MUSIC-1",
+        "en-GB": "MUSIC-1",
+        "fr-FR": "MUSIC-1",
+        "fr-CA": "MUSIC-1",
+        "de-DE": "MUSIC-1",
+        "nl-NL": "MUSIC-1",
+        "it-IT": "MUSIC-1",
+        "pt-PT": "MUSIC-1",
+        "pt-BR": "MUSIC-1",
+        "es-ES": "MUSIC-1",
+        "es-MX": "MUSIC-1",
+        "ru-RU": "MUSIC-1",
+        "ko-KR": "MUSIC-1",
+        "zh-CN": "MUSIC-1",
+        "zh-TW": "MUSIC-1"
+      }
+    },
+    {
+      "id": "5b5226e8-901b-4d0d-a880-632266ae51e1",
+      "name": {
+        "en-US": "MUSIC-1: Danger",
+        "ja-JP": "MUSIC-1 ：ピンチ",
+        "en-GB": "MUSIC-1: Danger",
+        "fr-FR": "MUSIC-1: Danger",
+        "fr-CA": "MUSIC-1: Danger",
+        "de-DE": "MUSIC-1: Danger",
+        "nl-NL": "MUSIC-1: Danger",
+        "it-IT": "MUSIC-1: Danger",
+        "pt-PT": "MUSIC-1: Danger",
+        "pt-BR": "MUSIC-1: Danger",
+        "es-ES": "MUSIC-1: Danger",
+        "es-MX": "MUSIC-1: Danger",
+        "ru-RU": "MUSIC-1: Danger",
+        "ko-KR": "MUSIC-1: Danger",
+        "zh-CN": "MUSIC-1: Danger",
+        "zh-TW": "MUSIC-1: Danger"
+      }
+    },
+    {
+      "id": "e3107646-1332-4eab-99bb-069f55c01916",
+      "name": {
+        "en-US": "MUSIC-2",
+        "ja-JP": "MUSIC-2",
+        "en-GB": "MUSIC-2",
+        "fr-FR": "MUSIC-2",
+        "fr-CA": "MUSIC-2",
+        "de-DE": "MUSIC-2",
+        "nl-NL": "MUSIC-2",
+        "it-IT": "MUSIC-2",
+        "pt-PT": "MUSIC-2",
+        "pt-BR": "MUSIC-2",
+        "es-ES": "MUSIC-2",
+        "es-MX": "MUSIC-2",
+        "ru-RU": "MUSIC-2",
+        "ko-KR": "MUSIC-2",
+        "zh-CN": "MUSIC-2",
+        "zh-TW": "MUSIC-2"
+      }
+    },
+    {
+      "id": "52f3e1a1-9978-42f0-89de-0c1316252ba6",
+      "name": {
+        "en-US": "MUSIC-2: Danger",
+        "ja-JP": "MUSIC-2 ：ピンチ",
+        "en-GB": "MUSIC-2: Danger",
+        "fr-FR": "MUSIC-2: Danger",
+        "fr-CA": "MUSIC-2: Danger",
+        "de-DE": "MUSIC-2: Danger",
+        "nl-NL": "MUSIC-2: Danger",
+        "it-IT": "MUSIC-2: Danger",
+        "pt-PT": "MUSIC-2: Danger",
+        "pt-BR": "MUSIC-2: Danger",
+        "es-ES": "MUSIC-2: Danger",
+        "es-MX": "MUSIC-2: Danger",
+        "ru-RU": "MUSIC-2: Danger",
+        "ko-KR": "MUSIC-2: Danger",
+        "zh-CN": "MUSIC-2: Danger",
+        "zh-TW": "MUSIC-2: Danger"
+      }
+    },
+    {
+      "id": "6207975d-b5c1-4b70-87bd-e567c36553d4",
+      "name": {
+        "en-US": "MUSIC-3",
+        "ja-JP": "MUSIC-3",
+        "en-GB": "MUSIC-3",
+        "fr-FR": "MUSIC-3",
+        "fr-CA": "MUSIC-3",
+        "de-DE": "MUSIC-3",
+        "nl-NL": "MUSIC-3",
+        "it-IT": "MUSIC-3",
+        "pt-PT": "MUSIC-3",
+        "pt-BR": "MUSIC-3",
+        "es-ES": "MUSIC-3",
+        "es-MX": "MUSIC-3",
+        "ru-RU": "MUSIC-3",
+        "ko-KR": "MUSIC-3",
+        "zh-CN": "MUSIC-3",
+        "zh-TW": "MUSIC-3"
+      }
+    },
+    {
+      "id": "e581de2c-d3ae-4fda-9526-ee9d79706f8f",
+      "name": {
+        "en-US": "MUSIC-3: Danger",
+        "ja-JP": "MUSIC-3 ：ピンチ",
+        "en-GB": "MUSIC-3: Danger",
+        "fr-FR": "MUSIC-3: Danger",
+        "fr-CA": "MUSIC-3: Danger",
+        "de-DE": "MUSIC-3: Danger",
+        "nl-NL": "MUSIC-3: Danger",
+        "it-IT": "MUSIC-3: Danger",
+        "pt-PT": "MUSIC-3: Danger",
+        "pt-BR": "MUSIC-3: Danger",
+        "es-ES": "MUSIC-3: Danger",
+        "es-MX": "MUSIC-3: Danger",
+        "ru-RU": "MUSIC-3: Danger",
+        "ko-KR": "MUSIC-3: Danger",
+        "zh-CN": "MUSIC-3: Danger",
+        "zh-TW": "MUSIC-3: Danger"
+      }
+    },
+    {
+      "id": "1ef605b5-a076-4174-99ba-79846044372d",
+      "name": {
+        "en-US": "25 Lines Cleared",
+        "ja-JP": "25ラインクリア",
+        "en-GB": "25 Lines Cleared",
+        "fr-FR": "25 Lines Cleared",
+        "fr-CA": "25 Lines Cleared",
+        "de-DE": "25 Lines Cleared",
+        "nl-NL": "25 Lines Cleared",
+        "it-IT": "25 Lines Cleared",
+        "pt-PT": "25 Lines Cleared",
+        "pt-BR": "25 Lines Cleared",
+        "es-ES": "25 Lines Cleared",
+        "es-MX": "25 Lines Cleared",
+        "ru-RU": "25 Lines Cleared",
+        "ko-KR": "25 Lines Cleared",
+        "zh-CN": "25 Lines Cleared",
+        "zh-TW": "25 Lines Cleared"
+      }
+    },
+    {
+      "id": "1bc8de43-1a35-4a91-a999-efd8f0fed000",
+      "name": {
+        "en-US": "Ending",
+        "ja-JP": "エンディング",
+        "en-GB": "Ending",
+        "fr-FR": "Ending",
+        "fr-CA": "Ending",
+        "de-DE": "Ending",
+        "nl-NL": "Ending",
+        "it-IT": "Ending",
+        "pt-PT": "Ending",
+        "pt-BR": "Ending",
+        "es-ES": "Ending",
+        "es-MX": "Ending",
+        "ru-RU": "Ending",
+        "ko-KR": "Ending",
+        "zh-CN": "Ending",
+        "zh-TW": "Ending"
+      }
+    },
+    {
+      "id": "67e42a2d-0fc0-4697-a7da-abefe92ab339",
+      "name": {
+        "en-US": "Name Entry",
+        "ja-JP": "ネームエントリー",
+        "en-GB": "Name Entry",
+        "fr-FR": "Name Entry",
+        "fr-CA": "Name Entry",
+        "de-DE": "Name Entry",
+        "nl-NL": "Name Entry",
+        "it-IT": "Name Entry",
+        "pt-PT": "Name Entry",
+        "pt-BR": "Name Entry",
+        "es-ES": "Name Entry",
+        "es-MX": "Name Entry",
+        "ru-RU": "Name Entry",
+        "ko-KR": "Name Entry",
+        "zh-CN": "Name Entry",
+        "zh-TW": "Name Entry"
+      }
+    }
+  ],
+  "localesWithDistinctTrackNames": [
+    "ja-JP",
+    "en-US"
+  ],
+  "localesWithDistinctTrackNamesCount": 2
+}

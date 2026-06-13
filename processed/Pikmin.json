@@ -2,7 +2,7 @@
   "nameEnUS": "Pikmin",
   "id": "80e934da-641b-4c06-a899-b90e6ff7a0b1",
   "hardware": "Nintendo GameCube",
-  "lastRetrieved": 1781307178,
+  "lastRetrieved": 1781307250,
   "name": {
     "en-US": "Pikmin",
     "ja-JP": "ピクミン",
@@ -716,5 +716,10 @@
         "zh-TW": "New Record!"
       }
     }
-  ]
+  ],
+  "localesWithDistinctTrackNames": [
+    "ja-JP",
+    "en-US"
+  ],
+  "localesWithDistinctTrackNamesCount": 2
 }

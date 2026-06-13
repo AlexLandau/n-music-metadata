@@ -1,0 +1,137 @@
+{
+  "nameEnUS": "Baseball",
+  "id": "428e687e-4a49-4232-b705-b83d8dc912d4",
+  "hardware": "Nintendo Entertainment System",
+  "lastRetrieved": 1781313259,
+  "name": {
+    "en-US": "Baseball",
+    "ja-JP": "ベースボール",
+    "en-GB": "Baseball",
+    "fr-FR": "Baseball",
+    "fr-CA": "Baseball",
+    "de-DE": "Baseball",
+    "nl-NL": "Baseball",
+    "it-IT": "Baseball",
+    "pt-PT": "Baseball",
+    "pt-BR": "Baseball",
+    "es-ES": "Baseball",
+    "es-MX": "Baseball",
+    "ru-RU": "Baseball",
+    "ko-KR": "Baseball",
+    "zh-CN": "Baseball",
+    "zh-TW": "Baseball"
+  },
+  "allTracksPlaylistId": "f5e3d3ad-209e-4f22-937e-317556d9496c",
+  "tracks": [
+    {
+      "id": "e919cd91-5da9-4b43-b706-131acbe572cc",
+      "name": {
+        "en-US": "Title BGM",
+        "ja-JP": "タイトルBGM",
+        "en-GB": "Title BGM",
+        "fr-FR": "Title BGM",
+        "fr-CA": "Title BGM",
+        "de-DE": "Title BGM",
+        "nl-NL": "Title BGM",
+        "it-IT": "Title BGM",
+        "pt-PT": "Title BGM",
+        "pt-BR": "Title BGM",
+        "es-ES": "Title BGM",
+        "es-MX": "Title BGM",
+        "ru-RU": "Title BGM",
+        "ko-KR": "Title BGM",
+        "zh-CN": "Title BGM",
+        "zh-TW": "Title BGM"
+      }
+    },
+    {
+      "id": "a03071be-253e-48b3-99c5-dd34ee72e441",
+      "name": {
+        "en-US": "Change BGM A",
+        "ja-JP": "チェンジ BGM A",
+        "en-GB": "Change BGM A",
+        "fr-FR": "Change BGM A",
+        "fr-CA": "Change BGM A",
+        "de-DE": "Change BGM A",
+        "nl-NL": "Change BGM A",
+        "it-IT": "Change BGM A",
+        "pt-PT": "Change BGM A",
+        "pt-BR": "Change BGM A",
+        "es-ES": "Change BGM A",
+        "es-MX": "Change BGM A",
+        "ru-RU": "Change BGM A",
+        "ko-KR": "Change BGM A",
+        "zh-CN": "Change BGM A",
+        "zh-TW": "Change BGM A"
+      }
+    },
+    {
+      "id": "c5d064a2-f33b-433f-b29c-7cb8999dcbc2",
+      "name": {
+        "en-US": "Change BGM B",
+        "ja-JP": "チェンジ BGM B",
+        "en-GB": "Change BGM B",
+        "fr-FR": "Change BGM B",
+        "fr-CA": "Change BGM B",
+        "de-DE": "Change BGM B",
+        "nl-NL": "Change BGM B",
+        "it-IT": "Change BGM B",
+        "pt-PT": "Change BGM B",
+        "pt-BR": "Change BGM B",
+        "es-ES": "Change BGM B",
+        "es-MX": "Change BGM B",
+        "ru-RU": "Change BGM B",
+        "ko-KR": "Change BGM B",
+        "zh-CN": "Change BGM B",
+        "zh-TW": "Change BGM B"
+      }
+    },
+    {
+      "id": "c39d2925-0818-41c8-8715-68b34493cf91",
+      "name": {
+        "en-US": "Home Run!",
+        "ja-JP": "ホームラン！",
+        "en-GB": "Home Run!",
+        "fr-FR": "Home Run!",
+        "fr-CA": "Home Run!",
+        "de-DE": "Home Run!",
+        "nl-NL": "Home Run!",
+        "it-IT": "Home Run!",
+        "pt-PT": "Home Run!",
+        "pt-BR": "Home Run!",
+        "es-ES": "Home Run!",
+        "es-MX": "Home Run!",
+        "ru-RU": "Home Run!",
+        "ko-KR": "Home Run!",
+        "zh-CN": "Home Run!",
+        "zh-TW": "Home Run!"
+      }
+    },
+    {
+      "id": "2e04d326-fa81-403e-9b5a-38ed73f01713",
+      "name": {
+        "en-US": "Game Set",
+        "ja-JP": "ゲームセット",
+        "en-GB": "Game Set",
+        "fr-FR": "Game Set",
+        "fr-CA": "Game Set",
+        "de-DE": "Game Set",
+        "nl-NL": "Game Set",
+        "it-IT": "Game Set",
+        "pt-PT": "Game Set",
+        "pt-BR": "Game Set",
+        "es-ES": "Game Set",
+        "es-MX": "Game Set",
+        "ru-RU": "Game Set",
+        "ko-KR": "Game Set",
+        "zh-CN": "Game Set",
+        "zh-TW": "Game Set"
+      }
+    }
+  ],
+  "localesWithDistinctTrackNames": [
+    "ja-JP",
+    "en-US"
+  ],
+  "localesWithDistinctTrackNamesCount": 2
+}

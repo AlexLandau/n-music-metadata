@@ -21,7 +21,7 @@ def main():
     print("Running...")
     # Currently assuming this is all we need...? Will there be e.g. Japan-only releases?
     games_list = load_games_list('en-US')
-    for game in games_list[:3]:
+    for game in games_list:
         print(game)
         if (game['isGameLink']):
             print("Skipping game entry that is a game link (i.e. duplicate entry)...")
@@ -51,6 +51,16 @@ def main():
             our_data['name'][locale] = playlist['game']['name']
             for trackData, track in zip(our_data['tracks'], playlist['tracks']):
                 trackData['name'][locale] = track['name']
+        locales_with_distinct_track_names = set()
+        for track in our_data['tracks']:
+            seen_names = set()
+            for locale in track['name']:
+                name = track['name'][locale]
+                if name not in seen_names:
+                    seen_names.add(name)
+                    locales_with_distinct_track_names.add(locale)
+        our_data['localesWithDistinctTrackNames'] = list(locales_with_distinct_track_names)
+        our_data['localesWithDistinctTrackNamesCount'] = len(locales_with_distinct_track_names)
         filename = f'processed/{game['name']}.json'
         our_data_text = json.dumps(our_data, indent=2, ensure_ascii=False)
         # print(our_data_text)

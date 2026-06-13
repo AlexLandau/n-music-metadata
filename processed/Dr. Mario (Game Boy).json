@@ -1,0 +1,200 @@
+{
+  "nameEnUS": "Dr. Mario (Game Boy)",
+  "id": "4f9fd050-cb14-44c5-b6b6-49145d416384",
+  "hardware": "Game Boy",
+  "lastRetrieved": 1781315023,
+  "name": {
+    "en-US": "Dr. Mario (Game Boy)",
+    "ja-JP": "ドクターマリオ（ゲームボーイ版）",
+    "en-GB": "Dr. Mario (Game Boy)",
+    "fr-FR": "Dr. Mario (Game Boy)",
+    "fr-CA": "Dr. Mario (Game Boy)",
+    "de-DE": "Dr. Mario (Game Boy)",
+    "nl-NL": "Dr. Mario (Game Boy)",
+    "it-IT": "Dr. Mario (Game Boy)",
+    "pt-PT": "Dr. Mario (Game Boy)",
+    "pt-BR": "Dr. Mario (Game Boy)",
+    "es-ES": "Dr. Mario (Game Boy)",
+    "es-MX": "Dr. Mario (Game Boy)",
+    "ru-RU": "Dr. Mario (Game Boy)",
+    "ko-KR": "Dr. Mario (Game Boy)",
+    "zh-CN": "Dr. Mario (Game Boy)",
+    "zh-TW": "Dr. Mario (Game Boy)"
+  },
+  "allTracksPlaylistId": "9c7ff649-6640-43f3-b8b6-51eb69d9dc81",
+  "tracks": [
+    {
+      "id": "a9e419aa-3426-4542-a87d-3ddcbdc1b0f0",
+      "name": {
+        "en-US": "Selection Screen",
+        "ja-JP": "セレクト",
+        "en-GB": "Selection Screen",
+        "fr-FR": "Selection Screen",
+        "fr-CA": "Selection Screen",
+        "de-DE": "Selection Screen",
+        "nl-NL": "Selection Screen",
+        "it-IT": "Selection Screen",
+        "pt-PT": "Selection Screen",
+        "pt-BR": "Selection Screen",
+        "es-ES": "Selection Screen",
+        "es-MX": "Selection Screen",
+        "ru-RU": "Selection Screen",
+        "ko-KR": "Selection Screen",
+        "zh-CN": "Selection Screen",
+        "zh-TW": "Selection Screen"
+      }
+    },
+    {
+      "id": "2a961fd5-0732-4dcf-a0c8-a8c5ee987a09",
+      "name": {
+        "en-US": "Fever",
+        "ja-JP": "Fever",
+        "en-GB": "Fever",
+        "fr-FR": "Fever",
+        "fr-CA": "Fever",
+        "de-DE": "Fever",
+        "nl-NL": "Fever",
+        "it-IT": "Fever",
+        "pt-PT": "Fever",
+        "pt-BR": "Fever",
+        "es-ES": "Fever",
+        "es-MX": "Fever",
+        "ru-RU": "Fever",
+        "ko-KR": "Fever",
+        "zh-CN": "Fever",
+        "zh-TW": "Fever"
+      }
+    },
+    {
+      "id": "50ea585a-230d-44f7-bdd5-284882ee385b",
+      "name": {
+        "en-US": "Game Over",
+        "ja-JP": "ゲームオーバー",
+        "en-GB": "Game Over",
+        "fr-FR": "Game Over",
+        "fr-CA": "Game Over",
+        "de-DE": "Game Over",
+        "nl-NL": "Game Over",
+        "it-IT": "Game Over",
+        "pt-PT": "Game Over",
+        "pt-BR": "Game Over",
+        "es-ES": "Game Over",
+        "es-MX": "Game Over",
+        "ru-RU": "Game Over",
+        "ko-KR": "Game Over",
+        "zh-CN": "Game Over",
+        "zh-TW": "Game Over"
+      }
+    },
+    {
+      "id": "195b7980-3080-46ed-85d2-011f75f7e53f",
+      "name": {
+        "en-US": "Vs. Game Over",
+        "ja-JP": "VSゲームオーバー",
+        "en-GB": "Vs. Game Over",
+        "fr-FR": "Vs. Game Over",
+        "fr-CA": "Vs. Game Over",
+        "de-DE": "Vs. Game Over",
+        "nl-NL": "Vs. Game Over",
+        "it-IT": "Vs. Game Over",
+        "pt-PT": "Vs. Game Over",
+        "pt-BR": "Vs. Game Over",
+        "es-ES": "Vs. Game Over",
+        "es-MX": "Vs. Game Over",
+        "ru-RU": "Vs. Game Over",
+        "ko-KR": "Vs. Game Over",
+        "zh-CN": "Vs. Game Over",
+        "zh-TW": "Vs. Game Over"
+      }
+    },
+    {
+      "id": "668eae09-dbff-4b68-9505-0bc98f69c3a5",
+      "name": {
+        "en-US": "Chill",
+        "ja-JP": "Chill",
+        "en-GB": "Chill",
+        "fr-FR": "Chill",
+        "fr-CA": "Chill",
+        "de-DE": "Chill",
+        "nl-NL": "Chill",
+        "it-IT": "Chill",
+        "pt-PT": "Chill",
+        "pt-BR": "Chill",
+        "es-ES": "Chill",
+        "es-MX": "Chill",
+        "ru-RU": "Chill",
+        "ko-KR": "Chill",
+        "zh-CN": "Chill",
+        "zh-TW": "Chill"
+      }
+    },
+    {
+      "id": "8c7c5f85-7f4b-4314-b7d0-cefb8ac2909f",
+      "name": {
+        "en-US": "Stage Clear",
+        "ja-JP": "ステージクリア",
+        "en-GB": "Stage Clear",
+        "fr-FR": "Stage Clear",
+        "fr-CA": "Stage Clear",
+        "de-DE": "Stage Clear",
+        "nl-NL": "Stage Clear",
+        "it-IT": "Stage Clear",
+        "pt-PT": "Stage Clear",
+        "pt-BR": "Stage Clear",
+        "es-ES": "Stage Clear",
+        "es-MX": "Stage Clear",
+        "ru-RU": "Stage Clear",
+        "ko-KR": "Stage Clear",
+        "zh-CN": "Stage Clear",
+        "zh-TW": "Stage Clear"
+      }
+    },
+    {
+      "id": "35635702-182a-4f39-bfe2-0984080bf997",
+      "name": {
+        "en-US": "Level 20 Low Clear & Ending",
+        "ja-JP": "Level 20 LOWクリア～エンディング",
+        "en-GB": "Level 20 Low Clear & Ending",
+        "fr-FR": "Level 20 Low Clear & Ending",
+        "fr-CA": "Level 20 Low Clear & Ending",
+        "de-DE": "Level 20 Low Clear & Ending",
+        "nl-NL": "Level 20 Low Clear & Ending",
+        "it-IT": "Level 20 Low Clear & Ending",
+        "pt-PT": "Level 20 Low Clear & Ending",
+        "pt-BR": "Level 20 Low Clear & Ending",
+        "es-ES": "Level 20 Low Clear & Ending",
+        "es-MX": "Level 20 Low Clear & Ending",
+        "ru-RU": "Level 20 Low Clear & Ending",
+        "ko-KR": "Level 20 Low Clear & Ending",
+        "zh-CN": "Level 20 Low Clear & Ending",
+        "zh-TW": "Level 20 Low Clear & Ending"
+      }
+    },
+    {
+      "id": "b90b0d58-99cc-46c1-821d-2185b44d4dd0",
+      "name": {
+        "en-US": "Level 20 Hi Clear (UFO) & Ending",
+        "ja-JP": "Level 20 HI クリア(UFO)～エンディング",
+        "en-GB": "Level 20 Hi Clear (UFO) & Ending",
+        "fr-FR": "Level 20 Hi Clear (UFO) & Ending",
+        "fr-CA": "Level 20 Hi Clear (UFO) & Ending",
+        "de-DE": "Level 20 Hi Clear (UFO) & Ending",
+        "nl-NL": "Level 20 Hi Clear (UFO) & Ending",
+        "it-IT": "Level 20 Hi Clear (UFO) & Ending",
+        "pt-PT": "Level 20 Hi Clear (UFO) & Ending",
+        "pt-BR": "Level 20 Hi Clear (UFO) & Ending",
+        "es-ES": "Level 20 Hi Clear (UFO) & Ending",
+        "es-MX": "Level 20 Hi Clear (UFO) & Ending",
+        "ru-RU": "Level 20 Hi Clear (UFO) & Ending",
+        "ko-KR": "Level 20 Hi Clear (UFO) & Ending",
+        "zh-CN": "Level 20 Hi Clear (UFO) & Ending",
+        "zh-TW": "Level 20 Hi Clear (UFO) & Ending"
+      }
+    }
+  ],
+  "localesWithDistinctTrackNames": [
+    "ja-JP",
+    "en-US"
+  ],
+  "localesWithDistinctTrackNamesCount": 2
+}

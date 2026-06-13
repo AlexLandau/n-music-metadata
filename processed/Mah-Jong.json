@@ -1,0 +1,179 @@
+{
+  "nameEnUS": "Mah-Jong",
+  "id": "5d1bc3a6-0de5-4401-ad5b-d1a8e570ef2f",
+  "hardware": "Nintendo Entertainment System",
+  "lastRetrieved": 1781313332,
+  "name": {
+    "en-US": "Mah-Jong",
+    "ja-JP": "麻雀",
+    "en-GB": "Mah-Jong",
+    "fr-FR": "Mah-Jong",
+    "fr-CA": "Mah-Jong",
+    "de-DE": "Mah-Jong",
+    "nl-NL": "Mah-Jong",
+    "it-IT": "Mah-Jong",
+    "pt-PT": "Mah-Jong",
+    "pt-BR": "Mah-Jong",
+    "es-ES": "Mah-Jong",
+    "es-MX": "Mah-Jong",
+    "ru-RU": "Mah-Jong",
+    "ko-KR": "Mah-Jong",
+    "zh-CN": "Mah-Jong",
+    "zh-TW": "Mah-Jong"
+  },
+  "allTracksPlaylistId": "cfe5b414-ba9a-4a54-ab50-51125967a2fc",
+  "tracks": [
+    {
+      "id": "66581684-475f-4359-befc-16935fc6f52b",
+      "name": {
+        "en-US": "Title BGM",
+        "ja-JP": "タイトルBGM",
+        "en-GB": "Title BGM",
+        "fr-FR": "Title BGM",
+        "fr-CA": "Title BGM",
+        "de-DE": "Title BGM",
+        "nl-NL": "Title BGM",
+        "it-IT": "Title BGM",
+        "pt-PT": "Title BGM",
+        "pt-BR": "Title BGM",
+        "es-ES": "Title BGM",
+        "es-MX": "Title BGM",
+        "ru-RU": "Title BGM",
+        "ko-KR": "Title BGM",
+        "zh-CN": "Title BGM",
+        "zh-TW": "Title BGM"
+      }
+    },
+    {
+      "id": "c85eb56f-223b-4b2e-b322-edf957f5b711",
+      "name": {
+        "en-US": "Match Start",
+        "ja-JP": "対局開始",
+        "en-GB": "Match Start",
+        "fr-FR": "Match Start",
+        "fr-CA": "Match Start",
+        "de-DE": "Match Start",
+        "nl-NL": "Match Start",
+        "it-IT": "Match Start",
+        "pt-PT": "Match Start",
+        "pt-BR": "Match Start",
+        "es-ES": "Match Start",
+        "es-MX": "Match Start",
+        "ru-RU": "Match Start",
+        "ko-KR": "Match Start",
+        "zh-CN": "Match Start",
+        "zh-TW": "Match Start"
+      }
+    },
+    {
+      "id": "fd057b7d-0af7-45f0-8ae2-cb3c7fd3df07",
+      "name": {
+        "en-US": "Initial Hand",
+        "ja-JP": "配牌",
+        "en-GB": "Initial Hand",
+        "fr-FR": "Initial Hand",
+        "fr-CA": "Initial Hand",
+        "de-DE": "Initial Hand",
+        "nl-NL": "Initial Hand",
+        "it-IT": "Initial Hand",
+        "pt-PT": "Initial Hand",
+        "pt-BR": "Initial Hand",
+        "es-ES": "Initial Hand",
+        "es-MX": "Initial Hand",
+        "ru-RU": "Initial Hand",
+        "ko-KR": "Initial Hand",
+        "zh-CN": "Initial Hand",
+        "zh-TW": "Initial Hand"
+      }
+    },
+    {
+      "id": "fe557e08-18db-40be-9b41-4cb328dea081",
+      "name": {
+        "en-US": "Player Wins",
+        "ja-JP": "プレイヤーのアガリ",
+        "en-GB": "Player Wins",
+        "fr-FR": "Player Wins",
+        "fr-CA": "Player Wins",
+        "de-DE": "Player Wins",
+        "nl-NL": "Player Wins",
+        "it-IT": "Player Wins",
+        "pt-PT": "Player Wins",
+        "pt-BR": "Player Wins",
+        "es-ES": "Player Wins",
+        "es-MX": "Player Wins",
+        "ru-RU": "Player Wins",
+        "ko-KR": "Player Wins",
+        "zh-CN": "Player Wins",
+        "zh-TW": "Player Wins"
+      }
+    },
+    {
+      "id": "d768e24f-1ac7-496a-8915-43607b497d1d",
+      "name": {
+        "en-US": "CPU Wins / Player Penalty",
+        "ja-JP": "コンピュータのアガリ / プレイヤーのチョンボ",
+        "en-GB": "CPU Wins / Player Penalty",
+        "fr-FR": "CPU Wins / Player Penalty",
+        "fr-CA": "CPU Wins / Player Penalty",
+        "de-DE": "CPU Wins / Player Penalty",
+        "nl-NL": "CPU Wins / Player Penalty",
+        "it-IT": "CPU Wins / Player Penalty",
+        "pt-PT": "CPU Wins / Player Penalty",
+        "pt-BR": "CPU Wins / Player Penalty",
+        "es-ES": "CPU Wins / Player Penalty",
+        "es-MX": "CPU Wins / Player Penalty",
+        "ru-RU": "CPU Wins / Player Penalty",
+        "ko-KR": "CPU Wins / Player Penalty",
+        "zh-CN": "CPU Wins / Player Penalty",
+        "zh-TW": "CPU Wins / Player Penalty"
+      }
+    },
+    {
+      "id": "dc38c5d6-51ae-4cba-bda5-a24bb16c5269",
+      "name": {
+        "en-US": "Draw",
+        "ja-JP": "流局",
+        "en-GB": "Draw",
+        "fr-FR": "Draw",
+        "fr-CA": "Draw",
+        "de-DE": "Draw",
+        "nl-NL": "Draw",
+        "it-IT": "Draw",
+        "pt-PT": "Draw",
+        "pt-BR": "Draw",
+        "es-ES": "Draw",
+        "es-MX": "Draw",
+        "ru-RU": "Draw",
+        "ko-KR": "Draw",
+        "zh-CN": "Draw",
+        "zh-TW": "Draw"
+      }
+    },
+    {
+      "id": "df330b6b-41ca-4ec3-bda0-f1da67fe95e9",
+      "name": {
+        "en-US": "Match End",
+        "ja-JP": "対局終了",
+        "en-GB": "Match End",
+        "fr-FR": "Match End",
+        "fr-CA": "Match End",
+        "de-DE": "Match End",
+        "nl-NL": "Match End",
+        "it-IT": "Match End",
+        "pt-PT": "Match End",
+        "pt-BR": "Match End",
+        "es-ES": "Match End",
+        "es-MX": "Match End",
+        "ru-RU": "Match End",
+        "ko-KR": "Match End",
+        "zh-CN": "Match End",
+        "zh-TW": "Match End"
+      }
+    }
+  ],
+  "localesWithDistinctTrackNames": [
+    "ja-JP",
+    "en-US"
+  ],
+  "localesWithDistinctTrackNamesCount": 2
+}

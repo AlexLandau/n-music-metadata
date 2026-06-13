@@ -1,0 +1,431 @@
+{
+  "nameEnUS": "Zelda II - The Adventure of Link (Famicom Disk System)",
+  "id": "7e9fc7d7-2d35-4017-b056-32b610d43dd7",
+  "hardware": "Nintendo Entertainment System",
+  "lastRetrieved": 1781312521,
+  "name": {
+    "en-US": "Zelda II - The Adventure of Link (Famicom Disk System)",
+    "ja-JP": "リンクの冒険",
+    "en-GB": "Zelda II - The Adventure of Link (Famicom Disk System)",
+    "fr-FR": "Zelda II - The Adventure of Link (Famicom Disk System)",
+    "fr-CA": "Zelda II - The Adventure of Link (Famicom Disk System)",
+    "de-DE": "Zelda II - The Adventure of Link (Famicom Disk System)",
+    "nl-NL": "Zelda II - The Adventure of Link (Famicom Disk System)",
+    "it-IT": "Zelda II - The Adventure of Link (Famicom Disk System)",
+    "pt-PT": "Zelda II - The Adventure of Link (Famicom Disk System)",
+    "pt-BR": "Zelda II - The Adventure of Link (Famicom Disk System)",
+    "es-ES": "Zelda II - The Adventure of Link (Famicom Disk System)",
+    "es-MX": "Zelda II - The Adventure of Link (Famicom Disk System)",
+    "ru-RU": "Zelda II - The Adventure of Link (Famicom Disk System)",
+    "ko-KR": "Zelda II - The Adventure of Link (Famicom Disk System)",
+    "zh-CN": "Zelda II - The Adventure of Link (Famicom Disk System)",
+    "zh-TW": "Zelda II - The Adventure of Link (Famicom Disk System)"
+  },
+  "allTracksPlaylistId": "1a3b31e4-59a6-4a9c-99fc-5bb22c08fa1f",
+  "tracks": [
+    {
+      "id": "5c264b65-cfe5-49c3-a45b-5659f7e589e7",
+      "name": {
+        "en-US": "Title Theme",
+        "ja-JP": "タイトルBGM",
+        "en-GB": "Title Theme",
+        "fr-FR": "Title Theme",
+        "fr-CA": "Title Theme",
+        "de-DE": "Title Theme",
+        "nl-NL": "Title Theme",
+        "it-IT": "Title Theme",
+        "pt-PT": "Title Theme",
+        "pt-BR": "Title Theme",
+        "es-ES": "Title Theme",
+        "es-MX": "Title Theme",
+        "ru-RU": "Title Theme",
+        "ko-KR": "Title Theme",
+        "zh-CN": "Title Theme",
+        "zh-TW": "Title Theme"
+      }
+    },
+    {
+      "id": "03f12163-9526-4c26-bcfc-1fd5d8bf302a",
+      "name": {
+        "en-US": "Overworld Theme",
+        "ja-JP": "地上BGM",
+        "en-GB": "Overworld Theme",
+        "fr-FR": "Overworld Theme",
+        "fr-CA": "Overworld Theme",
+        "de-DE": "Overworld Theme",
+        "nl-NL": "Overworld Theme",
+        "it-IT": "Overworld Theme",
+        "pt-PT": "Overworld Theme",
+        "pt-BR": "Overworld Theme",
+        "es-ES": "Overworld Theme",
+        "es-MX": "Overworld Theme",
+        "ru-RU": "Overworld Theme",
+        "ko-KR": "Overworld Theme",
+        "zh-CN": "Overworld Theme",
+        "zh-TW": "Overworld Theme"
+      }
+    },
+    {
+      "id": "bea467bc-0e9f-4025-a4e0-0578690b0765",
+      "name": {
+        "en-US": "Battle Theme",
+        "ja-JP": "戦闘BGM",
+        "en-GB": "Battle Theme",
+        "fr-FR": "Battle Theme",
+        "fr-CA": "Battle Theme",
+        "de-DE": "Battle Theme",
+        "nl-NL": "Battle Theme",
+        "it-IT": "Battle Theme",
+        "pt-PT": "Battle Theme",
+        "pt-BR": "Battle Theme",
+        "es-ES": "Battle Theme",
+        "es-MX": "Battle Theme",
+        "ru-RU": "Battle Theme",
+        "ko-KR": "Battle Theme",
+        "zh-CN": "Battle Theme",
+        "zh-TW": "Battle Theme"
+      }
+    },
+    {
+      "id": "4b61d200-dcb9-40f7-88e4-f991ee1fc0f8",
+      "name": {
+        "en-US": "Level Up",
+        "ja-JP": "レベルアップ",
+        "en-GB": "Level Up",
+        "fr-FR": "Level Up",
+        "fr-CA": "Level Up",
+        "de-DE": "Level Up",
+        "nl-NL": "Level Up",
+        "it-IT": "Level Up",
+        "pt-PT": "Level Up",
+        "pt-BR": "Level Up",
+        "es-ES": "Level Up",
+        "es-MX": "Level Up",
+        "ru-RU": "Level Up",
+        "ko-KR": "Level Up",
+        "zh-CN": "Level Up",
+        "zh-TW": "Level Up"
+      }
+    },
+    {
+      "id": "a610a355-453e-4cf4-89f9-409212566e79",
+      "name": {
+        "en-US": "Town Theme",
+        "ja-JP": "町BGM",
+        "en-GB": "Town Theme",
+        "fr-FR": "Town Theme",
+        "fr-CA": "Town Theme",
+        "de-DE": "Town Theme",
+        "nl-NL": "Town Theme",
+        "it-IT": "Town Theme",
+        "pt-PT": "Town Theme",
+        "pt-BR": "Town Theme",
+        "es-ES": "Town Theme",
+        "es-MX": "Town Theme",
+        "ru-RU": "Town Theme",
+        "ko-KR": "Town Theme",
+        "zh-CN": "Town Theme",
+        "zh-TW": "Town Theme"
+      }
+    },
+    {
+      "id": "5211d6fc-9c73-4a28-b9b0-993cd85b3997",
+      "name": {
+        "en-US": "Indoors Theme",
+        "ja-JP": "室内BGM",
+        "en-GB": "Indoors Theme",
+        "fr-FR": "Indoors Theme",
+        "fr-CA": "Indoors Theme",
+        "de-DE": "Indoors Theme",
+        "nl-NL": "Indoors Theme",
+        "it-IT": "Indoors Theme",
+        "pt-PT": "Indoors Theme",
+        "pt-BR": "Indoors Theme",
+        "es-ES": "Indoors Theme",
+        "es-MX": "Indoors Theme",
+        "ru-RU": "Indoors Theme",
+        "ko-KR": "Indoors Theme",
+        "zh-CN": "Indoors Theme",
+        "zh-TW": "Indoors Theme"
+      }
+    },
+    {
+      "id": "c8e69eac-d534-4ba2-85b7-463b85c23456",
+      "name": {
+        "en-US": "Magic Acquired",
+        "ja-JP": "魔法習得ファンファーレ",
+        "en-GB": "Magic Acquired",
+        "fr-FR": "Magic Acquired",
+        "fr-CA": "Magic Acquired",
+        "de-DE": "Magic Acquired",
+        "nl-NL": "Magic Acquired",
+        "it-IT": "Magic Acquired",
+        "pt-PT": "Magic Acquired",
+        "pt-BR": "Magic Acquired",
+        "es-ES": "Magic Acquired",
+        "es-MX": "Magic Acquired",
+        "ru-RU": "Magic Acquired",
+        "ko-KR": "Magic Acquired",
+        "zh-CN": "Magic Acquired",
+        "zh-TW": "Magic Acquired"
+      }
+    },
+    {
+      "id": "69cc731a-4663-49cb-8ae9-746f7962e62c",
+      "name": {
+        "en-US": "Palace Theme",
+        "ja-JP": "神殿BGM",
+        "en-GB": "Palace Theme",
+        "fr-FR": "Palace Theme",
+        "fr-CA": "Palace Theme",
+        "de-DE": "Palace Theme",
+        "nl-NL": "Palace Theme",
+        "it-IT": "Palace Theme",
+        "pt-PT": "Palace Theme",
+        "pt-BR": "Palace Theme",
+        "es-ES": "Palace Theme",
+        "es-MX": "Palace Theme",
+        "ru-RU": "Palace Theme",
+        "ko-KR": "Palace Theme",
+        "zh-CN": "Palace Theme",
+        "zh-TW": "Palace Theme"
+      }
+    },
+    {
+      "id": "fb20f1a5-bcc4-4ae1-bf3a-93d965823dc4",
+      "name": {
+        "en-US": "The Fairies",
+        "ja-JP": "妖精",
+        "en-GB": "The Fairies",
+        "fr-FR": "The Fairies",
+        "fr-CA": "The Fairies",
+        "de-DE": "The Fairies",
+        "nl-NL": "The Fairies",
+        "it-IT": "The Fairies",
+        "pt-PT": "The Fairies",
+        "pt-BR": "The Fairies",
+        "es-ES": "The Fairies",
+        "es-MX": "The Fairies",
+        "ru-RU": "The Fairies",
+        "ko-KR": "The Fairies",
+        "zh-CN": "The Fairies",
+        "zh-TW": "The Fairies"
+      }
+    },
+    {
+      "id": "4274b63f-23d0-444e-897f-b3adac26c808",
+      "name": {
+        "en-US": "Boss Fights",
+        "ja-JP": "ボス",
+        "en-GB": "Boss Fights",
+        "fr-FR": "Boss Fights",
+        "fr-CA": "Boss Fights",
+        "de-DE": "Boss Fights",
+        "nl-NL": "Boss Fights",
+        "it-IT": "Boss Fights",
+        "pt-PT": "Boss Fights",
+        "pt-BR": "Boss Fights",
+        "es-ES": "Boss Fights",
+        "es-MX": "Boss Fights",
+        "ru-RU": "Boss Fights",
+        "ko-KR": "Boss Fights",
+        "zh-CN": "Boss Fights",
+        "zh-TW": "Boss Fights"
+      }
+    },
+    {
+      "id": "24e38274-1cc8-4c53-bfd3-cb080a6719f0",
+      "name": {
+        "en-US": "Palace Cleared",
+        "ja-JP": "神殿クリア",
+        "en-GB": "Palace Cleared",
+        "fr-FR": "Palace Cleared",
+        "fr-CA": "Palace Cleared",
+        "de-DE": "Palace Cleared",
+        "nl-NL": "Palace Cleared",
+        "it-IT": "Palace Cleared",
+        "pt-PT": "Palace Cleared",
+        "pt-BR": "Palace Cleared",
+        "es-ES": "Palace Cleared",
+        "es-MX": "Palace Cleared",
+        "ru-RU": "Palace Cleared",
+        "ko-KR": "Palace Cleared",
+        "zh-CN": "Palace Cleared",
+        "zh-TW": "Palace Cleared"
+      }
+    },
+    {
+      "id": "5eed7bec-363f-4310-8589-56b9c565844b",
+      "name": {
+        "en-US": "Flute Melody",
+        "ja-JP": "笛",
+        "en-GB": "Flute Melody",
+        "fr-FR": "Flute Melody",
+        "fr-CA": "Flute Melody",
+        "de-DE": "Flute Melody",
+        "nl-NL": "Flute Melody",
+        "it-IT": "Flute Melody",
+        "pt-PT": "Flute Melody",
+        "pt-BR": "Flute Melody",
+        "es-ES": "Flute Melody",
+        "es-MX": "Flute Melody",
+        "ru-RU": "Flute Melody",
+        "ko-KR": "Flute Melody",
+        "zh-CN": "Flute Melody",
+        "zh-TW": "Flute Melody"
+      }
+    },
+    {
+      "id": "d5b9491b-deed-4eb7-938e-eaf1dadf6206",
+      "name": {
+        "en-US": "Defeated",
+        "ja-JP": "ミス",
+        "en-GB": "Defeated",
+        "fr-FR": "Defeated",
+        "fr-CA": "Defeated",
+        "de-DE": "Defeated",
+        "nl-NL": "Defeated",
+        "it-IT": "Defeated",
+        "pt-PT": "Defeated",
+        "pt-BR": "Defeated",
+        "es-ES": "Defeated",
+        "es-MX": "Defeated",
+        "ru-RU": "Defeated",
+        "ko-KR": "Defeated",
+        "zh-CN": "Defeated",
+        "zh-TW": "Defeated"
+      }
+    },
+    {
+      "id": "3cb73f4a-c9ba-4140-a516-5ac05c4a30d8",
+      "name": {
+        "en-US": "Game Over",
+        "ja-JP": "ゲームオーバー",
+        "en-GB": "Game Over",
+        "fr-FR": "Game Over",
+        "fr-CA": "Game Over",
+        "de-DE": "Game Over",
+        "nl-NL": "Game Over",
+        "it-IT": "Game Over",
+        "pt-PT": "Game Over",
+        "pt-BR": "Game Over",
+        "es-ES": "Game Over",
+        "es-MX": "Game Over",
+        "ru-RU": "Game Over",
+        "ko-KR": "Game Over",
+        "zh-CN": "Game Over",
+        "zh-TW": "Game Over"
+      }
+    },
+    {
+      "id": "d5f6d86b-254f-4e32-a3bc-4299ac21fdf0",
+      "name": {
+        "en-US": "Great Palace Theme",
+        "ja-JP": "大神殿BGM",
+        "en-GB": "Great Palace Theme",
+        "fr-FR": "Great Palace Theme",
+        "fr-CA": "Great Palace Theme",
+        "de-DE": "Great Palace Theme",
+        "nl-NL": "Great Palace Theme",
+        "it-IT": "Great Palace Theme",
+        "pt-PT": "Great Palace Theme",
+        "pt-BR": "Great Palace Theme",
+        "es-ES": "Great Palace Theme",
+        "es-MX": "Great Palace Theme",
+        "ru-RU": "Great Palace Theme",
+        "ko-KR": "Great Palace Theme",
+        "zh-CN": "Great Palace Theme",
+        "zh-TW": "Great Palace Theme"
+      }
+    },
+    {
+      "id": "551559ad-8efa-4ef0-b2ec-cebe43c7a20f",
+      "name": {
+        "en-US": "Final Boss",
+        "ja-JP": "ラストボス",
+        "en-GB": "Final Boss",
+        "fr-FR": "Final Boss",
+        "fr-CA": "Final Boss",
+        "de-DE": "Final Boss",
+        "nl-NL": "Final Boss",
+        "it-IT": "Final Boss",
+        "pt-PT": "Final Boss",
+        "pt-BR": "Final Boss",
+        "es-ES": "Final Boss",
+        "es-MX": "Final Boss",
+        "ru-RU": "Final Boss",
+        "ko-KR": "Final Boss",
+        "zh-CN": "Final Boss",
+        "zh-TW": "Final Boss"
+      }
+    },
+    {
+      "id": "c0b96cd8-0fea-4ccf-99c6-ce1b43a27030",
+      "name": {
+        "en-US": "Triforce Acquired",
+        "ja-JP": "トライフォース入手ファンファーレ",
+        "en-GB": "Triforce Acquired",
+        "fr-FR": "Triforce Acquired",
+        "fr-CA": "Triforce Acquired",
+        "de-DE": "Triforce Acquired",
+        "nl-NL": "Triforce Acquired",
+        "it-IT": "Triforce Acquired",
+        "pt-PT": "Triforce Acquired",
+        "pt-BR": "Triforce Acquired",
+        "es-ES": "Triforce Acquired",
+        "es-MX": "Triforce Acquired",
+        "ru-RU": "Triforce Acquired",
+        "ko-KR": "Triforce Acquired",
+        "zh-CN": "Triforce Acquired",
+        "zh-TW": "Triforce Acquired"
+      }
+    },
+    {
+      "id": "97791fce-4f0e-4fe0-b11f-967b24e5267c",
+      "name": {
+        "en-US": "Princess Zelda",
+        "ja-JP": "ゼルダ姫",
+        "en-GB": "Princess Zelda",
+        "fr-FR": "Princess Zelda",
+        "fr-CA": "Princess Zelda",
+        "de-DE": "Princess Zelda",
+        "nl-NL": "Princess Zelda",
+        "it-IT": "Princess Zelda",
+        "pt-PT": "Princess Zelda",
+        "pt-BR": "Princess Zelda",
+        "es-ES": "Princess Zelda",
+        "es-MX": "Princess Zelda",
+        "ru-RU": "Princess Zelda",
+        "ko-KR": "Princess Zelda",
+        "zh-CN": "Princess Zelda",
+        "zh-TW": "Princess Zelda"
+      }
+    },
+    {
+      "id": "07cbce11-dc4b-4ccb-9a41-be8bb222780c",
+      "name": {
+        "en-US": "The End",
+        "ja-JP": "エンディング",
+        "en-GB": "The End",
+        "fr-FR": "The End",
+        "fr-CA": "The End",
+        "de-DE": "The End",
+        "nl-NL": "The End",
+        "it-IT": "The End",
+        "pt-PT": "The End",
+        "pt-BR": "The End",
+        "es-ES": "The End",
+        "es-MX": "The End",
+        "ru-RU": "The End",
+        "ko-KR": "The End",
+        "zh-CN": "The End",
+        "zh-TW": "The End"
+      }
+    }
+  ],
+  "localesWithDistinctTrackNames": [
+    "ja-JP",
+    "en-US"
+  ],
+  "localesWithDistinctTrackNamesCount": 2
+}

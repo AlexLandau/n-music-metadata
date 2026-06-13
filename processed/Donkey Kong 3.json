@@ -1,0 +1,221 @@
+{
+  "nameEnUS": "Donkey Kong 3",
+  "id": "e932b142-b6f4-4cd6-b510-5a4dacf194ab",
+  "hardware": "Nintendo Entertainment System",
+  "lastRetrieved": 1781313059,
+  "name": {
+    "en-US": "Donkey Kong 3",
+    "ja-JP": "ドンキーコング３",
+    "en-GB": "Donkey Kong 3",
+    "fr-FR": "Donkey Kong 3",
+    "fr-CA": "Donkey Kong 3",
+    "de-DE": "Donkey Kong 3",
+    "nl-NL": "Donkey Kong 3",
+    "it-IT": "Donkey Kong 3",
+    "pt-PT": "Donkey Kong 3",
+    "pt-BR": "Donkey Kong 3",
+    "es-ES": "Donkey Kong 3",
+    "es-MX": "Donkey Kong 3",
+    "ru-RU": "Donkey Kong 3",
+    "ko-KR": "Donkey Kong 3",
+    "zh-CN": "Donkey Kong 3",
+    "zh-TW": "Donkey Kong 3"
+  },
+  "allTracksPlaylistId": "5c469ea8-88f0-45b9-94c4-48ea2b96e784",
+  "tracks": [
+    {
+      "id": "f139aca4-14af-45e6-b8b1-9e3811be0716",
+      "name": {
+        "en-US": "Title BGM",
+        "ja-JP": "タイトルBGM",
+        "en-GB": "Title BGM",
+        "fr-FR": "Title BGM",
+        "fr-CA": "Title BGM",
+        "de-DE": "Title BGM",
+        "nl-NL": "Title BGM",
+        "it-IT": "Title BGM",
+        "pt-PT": "Title BGM",
+        "pt-BR": "Title BGM",
+        "es-ES": "Title BGM",
+        "es-MX": "Title BGM",
+        "ru-RU": "Title BGM",
+        "ko-KR": "Title BGM",
+        "zh-CN": "Title BGM",
+        "zh-TW": "Title BGM"
+      }
+    },
+    {
+      "id": "e536150e-b678-4ea5-b62a-f53862ab4ae9",
+      "name": {
+        "en-US": "Round 1 BGM",
+        "ja-JP": "ラウンド1BGM",
+        "en-GB": "Round 1 BGM",
+        "fr-FR": "Round 1 BGM",
+        "fr-CA": "Round 1 BGM",
+        "de-DE": "Round 1 BGM",
+        "nl-NL": "Round 1 BGM",
+        "it-IT": "Round 1 BGM",
+        "pt-PT": "Round 1 BGM",
+        "pt-BR": "Round 1 BGM",
+        "es-ES": "Round 1 BGM",
+        "es-MX": "Round 1 BGM",
+        "ru-RU": "Round 1 BGM",
+        "ko-KR": "Round 1 BGM",
+        "zh-CN": "Round 1 BGM",
+        "zh-TW": "Round 1 BGM"
+      }
+    },
+    {
+      "id": "11ddc454-8781-4260-be82-70c963459350",
+      "name": {
+        "en-US": "Flower Guarding BGM",
+        "ja-JP": "花ピンチBGM",
+        "en-GB": "Flower Guarding BGM",
+        "fr-FR": "Flower Guarding BGM",
+        "fr-CA": "Flower Guarding BGM",
+        "de-DE": "Flower Guarding BGM",
+        "nl-NL": "Flower Guarding BGM",
+        "it-IT": "Flower Guarding BGM",
+        "pt-PT": "Flower Guarding BGM",
+        "pt-BR": "Flower Guarding BGM",
+        "es-ES": "Flower Guarding BGM",
+        "es-MX": "Flower Guarding BGM",
+        "ru-RU": "Flower Guarding BGM",
+        "ko-KR": "Flower Guarding BGM",
+        "zh-CN": "Flower Guarding BGM",
+        "zh-TW": "Flower Guarding BGM"
+      }
+    },
+    {
+      "id": "3974adf9-f015-4b3c-81af-1fbd16709c16",
+      "name": {
+        "en-US": "Round 1 Clear",
+        "ja-JP": "ラウンド1クリア",
+        "en-GB": "Round 1 Clear",
+        "fr-FR": "Round 1 Clear",
+        "fr-CA": "Round 1 Clear",
+        "de-DE": "Round 1 Clear",
+        "nl-NL": "Round 1 Clear",
+        "it-IT": "Round 1 Clear",
+        "pt-PT": "Round 1 Clear",
+        "pt-BR": "Round 1 Clear",
+        "es-ES": "Round 1 Clear",
+        "es-MX": "Round 1 Clear",
+        "ru-RU": "Round 1 Clear",
+        "ko-KR": "Round 1 Clear",
+        "zh-CN": "Round 1 Clear",
+        "zh-TW": "Round 1 Clear"
+      }
+    },
+    {
+      "id": "781abd29-dd9a-4b65-b925-63200efa3936",
+      "name": {
+        "en-US": "Round 2 BGM",
+        "ja-JP": "ラウンド2BGM",
+        "en-GB": "Round 2 BGM",
+        "fr-FR": "Round 2 BGM",
+        "fr-CA": "Round 2 BGM",
+        "de-DE": "Round 2 BGM",
+        "nl-NL": "Round 2 BGM",
+        "it-IT": "Round 2 BGM",
+        "pt-PT": "Round 2 BGM",
+        "pt-BR": "Round 2 BGM",
+        "es-ES": "Round 2 BGM",
+        "es-MX": "Round 2 BGM",
+        "ru-RU": "Round 2 BGM",
+        "ko-KR": "Round 2 BGM",
+        "zh-CN": "Round 2 BGM",
+        "zh-TW": "Round 2 BGM"
+      }
+    },
+    {
+      "id": "1e8c9297-a2a8-4768-97d3-6d40009671c7",
+      "name": {
+        "en-US": "Danger!",
+        "ja-JP": "デンジャー！",
+        "en-GB": "Danger!",
+        "fr-FR": "Danger!",
+        "fr-CA": "Danger!",
+        "de-DE": "Danger!",
+        "nl-NL": "Danger!",
+        "it-IT": "Danger!",
+        "pt-PT": "Danger!",
+        "pt-BR": "Danger!",
+        "es-ES": "Danger!",
+        "es-MX": "Danger!",
+        "ru-RU": "Danger!",
+        "ko-KR": "Danger!",
+        "zh-CN": "Danger!",
+        "zh-TW": "Danger!"
+      }
+    },
+    {
+      "id": "086db11e-589e-4cf5-91d8-d53699a087ea",
+      "name": {
+        "en-US": "Player Down",
+        "ja-JP": "ミス",
+        "en-GB": "Player Down",
+        "fr-FR": "Player Down",
+        "fr-CA": "Player Down",
+        "de-DE": "Player Down",
+        "nl-NL": "Player Down",
+        "it-IT": "Player Down",
+        "pt-PT": "Player Down",
+        "pt-BR": "Player Down",
+        "es-ES": "Player Down",
+        "es-MX": "Player Down",
+        "ru-RU": "Player Down",
+        "ko-KR": "Player Down",
+        "zh-CN": "Player Down",
+        "zh-TW": "Player Down"
+      }
+    },
+    {
+      "id": "d2929fda-a6ae-4884-ba3c-27a8a7db64f6",
+      "name": {
+        "en-US": "Power Spray",
+        "ja-JP": "パワースプレー",
+        "en-GB": "Power Spray",
+        "fr-FR": "Power Spray",
+        "fr-CA": "Power Spray",
+        "de-DE": "Power Spray",
+        "nl-NL": "Power Spray",
+        "it-IT": "Power Spray",
+        "pt-PT": "Power Spray",
+        "pt-BR": "Power Spray",
+        "es-ES": "Power Spray",
+        "es-MX": "Power Spray",
+        "ru-RU": "Power Spray",
+        "ko-KR": "Power Spray",
+        "zh-CN": "Power Spray",
+        "zh-TW": "Power Spray"
+      }
+    },
+    {
+      "id": "bdee5ebd-4b84-475c-9bd8-9d8cb53c7a98",
+      "name": {
+        "en-US": "Round 2 Clear",
+        "ja-JP": "ラウンド2クリア",
+        "en-GB": "Round 2 Clear",
+        "fr-FR": "Round 2 Clear",
+        "fr-CA": "Round 2 Clear",
+        "de-DE": "Round 2 Clear",
+        "nl-NL": "Round 2 Clear",
+        "it-IT": "Round 2 Clear",
+        "pt-PT": "Round 2 Clear",
+        "pt-BR": "Round 2 Clear",
+        "es-ES": "Round 2 Clear",
+        "es-MX": "Round 2 Clear",
+        "ru-RU": "Round 2 Clear",
+        "ko-KR": "Round 2 Clear",
+        "zh-CN": "Round 2 Clear",
+        "zh-TW": "Round 2 Clear"
+      }
+    }
+  ],
+  "localesWithDistinctTrackNames": [
+    "ja-JP",
+    "en-US"
+  ],
+  "localesWithDistinctTrackNamesCount": 2
+}

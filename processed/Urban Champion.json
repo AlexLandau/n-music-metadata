@@ -1,0 +1,263 @@
+{
+  "nameEnUS": "Urban Champion",
+  "id": "638d5c9f-4040-4369-8833-af9f0fa94035",
+  "hardware": "Nintendo Entertainment System",
+  "lastRetrieved": 1781312984,
+  "name": {
+    "en-US": "Urban Champion",
+    "ja-JP": "アーバンチャンピオン",
+    "en-GB": "Urban Champion",
+    "fr-FR": "Urban Champion",
+    "fr-CA": "Urban Champion",
+    "de-DE": "Urban Champion",
+    "nl-NL": "Urban Champion",
+    "it-IT": "Urban Champion",
+    "pt-PT": "Urban Champion",
+    "pt-BR": "Urban Champion",
+    "es-ES": "Urban Champion",
+    "es-MX": "Urban Champion",
+    "ru-RU": "Urban Champion",
+    "ko-KR": "Urban Champion",
+    "zh-CN": "Urban Champion",
+    "zh-TW": "Urban Champion"
+  },
+  "allTracksPlaylistId": "ae84a4eb-055f-4e02-b17f-ef51c82545af",
+  "tracks": [
+    {
+      "id": "d5fa7ba1-ba67-4a35-9627-32293b3ff796",
+      "name": {
+        "en-US": "Title BGM",
+        "ja-JP": "タイトルBGM",
+        "en-GB": "Title BGM",
+        "fr-FR": "Title BGM",
+        "fr-CA": "Title BGM",
+        "de-DE": "Title BGM",
+        "nl-NL": "Title BGM",
+        "it-IT": "Title BGM",
+        "pt-PT": "Title BGM",
+        "pt-BR": "Title BGM",
+        "es-ES": "Title BGM",
+        "es-MX": "Title BGM",
+        "ru-RU": "Title BGM",
+        "ko-KR": "Title BGM",
+        "zh-CN": "Title BGM",
+        "zh-TW": "Title BGM"
+      }
+    },
+    {
+      "id": "3fcf07a9-5807-419d-a047-4d9a0ad4cc29",
+      "name": {
+        "en-US": "Game Start",
+        "ja-JP": "ゲームスタート",
+        "en-GB": "Game Start",
+        "fr-FR": "Game Start",
+        "fr-CA": "Game Start",
+        "de-DE": "Game Start",
+        "nl-NL": "Game Start",
+        "it-IT": "Game Start",
+        "pt-PT": "Game Start",
+        "pt-BR": "Game Start",
+        "es-ES": "Game Start",
+        "es-MX": "Game Start",
+        "ru-RU": "Game Start",
+        "ko-KR": "Game Start",
+        "zh-CN": "Game Start",
+        "zh-TW": "Game Start"
+      }
+    },
+    {
+      "id": "dbaed959-2fda-41a2-a38a-0c696f842ce4",
+      "name": {
+        "en-US": "Round BGM A",
+        "ja-JP": "ROUND BGM A",
+        "en-GB": "Round BGM A",
+        "fr-FR": "Round BGM A",
+        "fr-CA": "Round BGM A",
+        "de-DE": "Round BGM A",
+        "nl-NL": "Round BGM A",
+        "it-IT": "Round BGM A",
+        "pt-PT": "Round BGM A",
+        "pt-BR": "Round BGM A",
+        "es-ES": "Round BGM A",
+        "es-MX": "Round BGM A",
+        "ru-RU": "Round BGM A",
+        "ko-KR": "Round BGM A",
+        "zh-CN": "Round BGM A",
+        "zh-TW": "Round BGM A"
+      }
+    },
+    {
+      "id": "9ee99e78-299f-431e-bc1e-0132e7afee03",
+      "name": {
+        "en-US": "Patrol Car",
+        "ja-JP": "パトロールカー 見回り",
+        "en-GB": "Patrol Car",
+        "fr-FR": "Patrol Car",
+        "fr-CA": "Patrol Car",
+        "de-DE": "Patrol Car",
+        "nl-NL": "Patrol Car",
+        "it-IT": "Patrol Car",
+        "pt-PT": "Patrol Car",
+        "pt-BR": "Patrol Car",
+        "es-ES": "Patrol Car",
+        "es-MX": "Patrol Car",
+        "ru-RU": "Patrol Car",
+        "ko-KR": "Patrol Car",
+        "zh-CN": "Patrol Car",
+        "zh-TW": "Patrol Car"
+      }
+    },
+    {
+      "id": "6d0f2408-69f1-4fde-9d7f-0703d86a8e59",
+      "name": {
+        "en-US": "Round Clear",
+        "ja-JP": "ROUNDクリア",
+        "en-GB": "Round Clear",
+        "fr-FR": "Round Clear",
+        "fr-CA": "Round Clear",
+        "de-DE": "Round Clear",
+        "nl-NL": "Round Clear",
+        "it-IT": "Round Clear",
+        "pt-PT": "Round Clear",
+        "pt-BR": "Round Clear",
+        "es-ES": "Round Clear",
+        "es-MX": "Round Clear",
+        "ru-RU": "Round Clear",
+        "ko-KR": "Round Clear",
+        "zh-CN": "Round Clear",
+        "zh-TW": "Round Clear"
+      }
+    },
+    {
+      "id": "2325ed61-0c70-4c09-bde9-34651914d688",
+      "name": {
+        "en-US": "Round Start",
+        "ja-JP": "ROUNDスタート",
+        "en-GB": "Round Start",
+        "fr-FR": "Round Start",
+        "fr-CA": "Round Start",
+        "de-DE": "Round Start",
+        "nl-NL": "Round Start",
+        "it-IT": "Round Start",
+        "pt-PT": "Round Start",
+        "pt-BR": "Round Start",
+        "es-ES": "Round Start",
+        "es-MX": "Round Start",
+        "ru-RU": "Round Start",
+        "ko-KR": "Round Start",
+        "zh-CN": "Round Start",
+        "zh-TW": "Round Start"
+      }
+    },
+    {
+      "id": "1c3f454c-5058-4c89-a018-47d72f69bb47",
+      "name": {
+        "en-US": "Round BGM B",
+        "ja-JP": "ROUND BGM B",
+        "en-GB": "Round BGM B",
+        "fr-FR": "Round BGM B",
+        "fr-CA": "Round BGM B",
+        "de-DE": "Round BGM B",
+        "nl-NL": "Round BGM B",
+        "it-IT": "Round BGM B",
+        "pt-PT": "Round BGM B",
+        "pt-BR": "Round BGM B",
+        "es-ES": "Round BGM B",
+        "es-MX": "Round BGM B",
+        "ru-RU": "Round BGM B",
+        "ko-KR": "Round BGM B",
+        "zh-CN": "Round BGM B",
+        "zh-TW": "Round BGM B"
+      }
+    },
+    {
+      "id": "f69ea5ef-c939-42ed-93ad-af17a5066c8e",
+      "name": {
+        "en-US": "Taken Away",
+        "ja-JP": "パトロールカー 連行",
+        "en-GB": "Taken Away",
+        "fr-FR": "Taken Away",
+        "fr-CA": "Taken Away",
+        "de-DE": "Taken Away",
+        "nl-NL": "Taken Away",
+        "it-IT": "Taken Away",
+        "pt-PT": "Taken Away",
+        "pt-BR": "Taken Away",
+        "es-ES": "Taken Away",
+        "es-MX": "Taken Away",
+        "ru-RU": "Taken Away",
+        "ko-KR": "Taken Away",
+        "zh-CN": "Taken Away",
+        "zh-TW": "Taken Away"
+      }
+    },
+    {
+      "id": "94928dd0-b66b-4ec9-99c0-694f92bc6c2a",
+      "name": {
+        "en-US": "Round BGM C",
+        "ja-JP": "ROUND BGM C",
+        "en-GB": "Round BGM C",
+        "fr-FR": "Round BGM C",
+        "fr-CA": "Round BGM C",
+        "de-DE": "Round BGM C",
+        "nl-NL": "Round BGM C",
+        "it-IT": "Round BGM C",
+        "pt-PT": "Round BGM C",
+        "pt-BR": "Round BGM C",
+        "es-ES": "Round BGM C",
+        "es-MX": "Round BGM C",
+        "ru-RU": "Round BGM C",
+        "ko-KR": "Round BGM C",
+        "zh-CN": "Round BGM C",
+        "zh-TW": "Round BGM C"
+      }
+    },
+    {
+      "id": "83d693fb-b0f9-4b40-9588-075aae55f6e5",
+      "name": {
+        "en-US": "Winner",
+        "ja-JP": "勝利者",
+        "en-GB": "Winner",
+        "fr-FR": "Winner",
+        "fr-CA": "Winner",
+        "de-DE": "Winner",
+        "nl-NL": "Winner",
+        "it-IT": "Winner",
+        "pt-PT": "Winner",
+        "pt-BR": "Winner",
+        "es-ES": "Winner",
+        "es-MX": "Winner",
+        "ru-RU": "Winner",
+        "ko-KR": "Winner",
+        "zh-CN": "Winner",
+        "zh-TW": "Winner"
+      }
+    },
+    {
+      "id": "680e36ee-8c08-40be-ae59-6f112d6a09b6",
+      "name": {
+        "en-US": "Game Over",
+        "ja-JP": "ゲームオーバー",
+        "en-GB": "Game Over",
+        "fr-FR": "Game Over",
+        "fr-CA": "Game Over",
+        "de-DE": "Game Over",
+        "nl-NL": "Game Over",
+        "it-IT": "Game Over",
+        "pt-PT": "Game Over",
+        "pt-BR": "Game Over",
+        "es-ES": "Game Over",
+        "es-MX": "Game Over",
+        "ru-RU": "Game Over",
+        "ko-KR": "Game Over",
+        "zh-CN": "Game Over",
+        "zh-TW": "Game Over"
+      }
+    }
+  ],
+  "localesWithDistinctTrackNames": [
+    "ja-JP",
+    "en-US"
+  ],
+  "localesWithDistinctTrackNamesCount": 2
+}

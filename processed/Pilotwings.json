@@ -1,0 +1,473 @@
+{
+  "nameEnUS": "Pilotwings",
+  "id": "9b2729ee-4fc6-44d3-a740-740874b80469",
+  "hardware": "Super Nintendo Entertainment System",
+  "lastRetrieved": 1781312711,
+  "name": {
+    "en-US": "Pilotwings",
+    "ja-JP": "パイロットウイングス",
+    "en-GB": "Pilotwings",
+    "fr-FR": "Pilotwings",
+    "fr-CA": "Pilotwings",
+    "de-DE": "Pilotwings",
+    "nl-NL": "Pilotwings",
+    "it-IT": "Pilotwings",
+    "pt-PT": "Pilotwings",
+    "pt-BR": "Pilotwings",
+    "es-ES": "Pilotwings",
+    "es-MX": "Pilotwings",
+    "ru-RU": "Pilotwings",
+    "ko-KR": "Pilotwings",
+    "zh-CN": "Pilotwings",
+    "zh-TW": "Pilotwings"
+  },
+  "allTracksPlaylistId": "8c8f1c02-3e4f-40e5-ab1d-e1bf3b4975c4",
+  "tracks": [
+    {
+      "id": "7c49c5c0-3b90-4d14-ac48-852ad6aa4ad3",
+      "name": {
+        "en-US": "Title Screen",
+        "ja-JP": "タイトル",
+        "en-GB": "Title Screen",
+        "fr-FR": "Title Screen",
+        "fr-CA": "Title Screen",
+        "de-DE": "Title Screen",
+        "nl-NL": "Title Screen",
+        "it-IT": "Title Screen",
+        "pt-PT": "Title Screen",
+        "pt-BR": "Title Screen",
+        "es-ES": "Title Screen",
+        "es-MX": "Title Screen",
+        "ru-RU": "Title Screen",
+        "ko-KR": "Title Screen",
+        "zh-CN": "Title Screen",
+        "zh-TW": "Title Screen"
+      }
+    },
+    {
+      "id": "7293a18e-eb03-48d4-97f1-575c51e81649",
+      "name": {
+        "en-US": "The Flight Club",
+        "ja-JP": "フライトクラブ",
+        "en-GB": "The Flight Club",
+        "fr-FR": "The Flight Club",
+        "fr-CA": "The Flight Club",
+        "de-DE": "The Flight Club",
+        "nl-NL": "The Flight Club",
+        "it-IT": "The Flight Club",
+        "pt-PT": "The Flight Club",
+        "pt-BR": "The Flight Club",
+        "es-ES": "The Flight Club",
+        "es-MX": "The Flight Club",
+        "ru-RU": "The Flight Club",
+        "ko-KR": "The Flight Club",
+        "zh-CN": "The Flight Club",
+        "zh-TW": "The Flight Club"
+      }
+    },
+    {
+      "id": "d53f10e4-90be-4f1e-8e78-51360c166f23",
+      "name": {
+        "en-US": "Course Select",
+        "ja-JP": "スカイスポーツ セレクト",
+        "en-GB": "Course Select",
+        "fr-FR": "Course Select",
+        "fr-CA": "Course Select",
+        "de-DE": "Course Select",
+        "nl-NL": "Course Select",
+        "it-IT": "Course Select",
+        "pt-PT": "Course Select",
+        "pt-BR": "Course Select",
+        "es-ES": "Course Select",
+        "es-MX": "Course Select",
+        "ru-RU": "Course Select",
+        "ko-KR": "Course Select",
+        "zh-CN": "Course Select",
+        "zh-TW": "Course Select"
+      }
+    },
+    {
+      "id": "3dc60965-31c5-4b92-9c81-a2b12ba2fdb4",
+      "name": {
+        "en-US": "Light Plane",
+        "ja-JP": "ライトプレーン",
+        "en-GB": "Light Plane",
+        "fr-FR": "Light Plane",
+        "fr-CA": "Light Plane",
+        "de-DE": "Light Plane",
+        "nl-NL": "Light Plane",
+        "it-IT": "Light Plane",
+        "pt-PT": "Light Plane",
+        "pt-BR": "Light Plane",
+        "es-ES": "Light Plane",
+        "es-MX": "Light Plane",
+        "ru-RU": "Light Plane",
+        "ko-KR": "Light Plane",
+        "zh-CN": "Light Plane",
+        "zh-TW": "Light Plane"
+      }
+    },
+    {
+      "id": "cfb35240-4bbe-4277-ae76-870692567bca",
+      "name": {
+        "en-US": "Great Landing",
+        "ja-JP": "着地・着陸（成功）",
+        "en-GB": "Great Landing",
+        "fr-FR": "Great Landing",
+        "fr-CA": "Great Landing",
+        "de-DE": "Great Landing",
+        "nl-NL": "Great Landing",
+        "it-IT": "Great Landing",
+        "pt-PT": "Great Landing",
+        "pt-BR": "Great Landing",
+        "es-ES": "Great Landing",
+        "es-MX": "Great Landing",
+        "ru-RU": "Great Landing",
+        "ko-KR": "Great Landing",
+        "zh-CN": "Great Landing",
+        "zh-TW": "Great Landing"
+      }
+    },
+    {
+      "id": "24068474-31b4-428c-8612-36427f231309",
+      "name": {
+        "en-US": "Flight Results (Great)",
+        "ja-JP": "フライト結果（成功）",
+        "en-GB": "Flight Results (Great)",
+        "fr-FR": "Flight Results (Great)",
+        "fr-CA": "Flight Results (Great)",
+        "de-DE": "Flight Results (Great)",
+        "nl-NL": "Flight Results (Great)",
+        "it-IT": "Flight Results (Great)",
+        "pt-PT": "Flight Results (Great)",
+        "pt-BR": "Flight Results (Great)",
+        "es-ES": "Flight Results (Great)",
+        "es-MX": "Flight Results (Great)",
+        "ru-RU": "Flight Results (Great)",
+        "ko-KR": "Flight Results (Great)",
+        "zh-CN": "Flight Results (Great)",
+        "zh-TW": "Flight Results (Great)"
+      }
+    },
+    {
+      "id": "f7c365ee-fbf0-41e8-ae8c-a4216dab9929",
+      "name": {
+        "en-US": "Skydiving",
+        "ja-JP": "スカイダイビング",
+        "en-GB": "Skydiving",
+        "fr-FR": "Skydiving",
+        "fr-CA": "Skydiving",
+        "de-DE": "Skydiving",
+        "nl-NL": "Skydiving",
+        "it-IT": "Skydiving",
+        "pt-PT": "Skydiving",
+        "pt-BR": "Skydiving",
+        "es-ES": "Skydiving",
+        "es-MX": "Skydiving",
+        "ru-RU": "Skydiving",
+        "ko-KR": "Skydiving",
+        "zh-CN": "Skydiving",
+        "zh-TW": "Skydiving"
+      }
+    },
+    {
+      "id": "fc76268e-8903-4e30-8d51-61f6c09ddf06",
+      "name": {
+        "en-US": "Rough Landing",
+        "ja-JP": "着地・着陸（通常）",
+        "en-GB": "Rough Landing",
+        "fr-FR": "Rough Landing",
+        "fr-CA": "Rough Landing",
+        "de-DE": "Rough Landing",
+        "nl-NL": "Rough Landing",
+        "it-IT": "Rough Landing",
+        "pt-PT": "Rough Landing",
+        "pt-BR": "Rough Landing",
+        "es-ES": "Rough Landing",
+        "es-MX": "Rough Landing",
+        "ru-RU": "Rough Landing",
+        "ko-KR": "Rough Landing",
+        "zh-CN": "Rough Landing",
+        "zh-TW": "Rough Landing"
+      }
+    },
+    {
+      "id": "73b2af1d-5571-4d7c-86ed-036e96fb3b4e",
+      "name": {
+        "en-US": "Flight Results (Rough)",
+        "ja-JP": "フライト結果（通常）",
+        "en-GB": "Flight Results (Rough)",
+        "fr-FR": "Flight Results (Rough)",
+        "fr-CA": "Flight Results (Rough)",
+        "de-DE": "Flight Results (Rough)",
+        "nl-NL": "Flight Results (Rough)",
+        "it-IT": "Flight Results (Rough)",
+        "pt-PT": "Flight Results (Rough)",
+        "pt-BR": "Flight Results (Rough)",
+        "es-ES": "Flight Results (Rough)",
+        "es-MX": "Flight Results (Rough)",
+        "ru-RU": "Flight Results (Rough)",
+        "ko-KR": "Flight Results (Rough)",
+        "zh-CN": "Flight Results (Rough)",
+        "zh-TW": "Flight Results (Rough)"
+      }
+    },
+    {
+      "id": "eeeaef8b-64c1-4fa2-a2c2-d67444d92bc2",
+      "name": {
+        "en-US": "Rocket Belt",
+        "ja-JP": "ロケットベルト",
+        "en-GB": "Rocket Belt",
+        "fr-FR": "Rocket Belt",
+        "fr-CA": "Rocket Belt",
+        "de-DE": "Rocket Belt",
+        "nl-NL": "Rocket Belt",
+        "it-IT": "Rocket Belt",
+        "pt-PT": "Rocket Belt",
+        "pt-BR": "Rocket Belt",
+        "es-ES": "Rocket Belt",
+        "es-MX": "Rocket Belt",
+        "ru-RU": "Rocket Belt",
+        "ko-KR": "Rocket Belt",
+        "zh-CN": "Rocket Belt",
+        "zh-TW": "Rocket Belt"
+      }
+    },
+    {
+      "id": "512d13b9-2ef2-4134-aeca-62263fa6690d",
+      "name": {
+        "en-US": "Crash Landing",
+        "ja-JP": "墜落",
+        "en-GB": "Crash Landing",
+        "fr-FR": "Crash Landing",
+        "fr-CA": "Crash Landing",
+        "de-DE": "Crash Landing",
+        "nl-NL": "Crash Landing",
+        "it-IT": "Crash Landing",
+        "pt-PT": "Crash Landing",
+        "pt-BR": "Crash Landing",
+        "es-ES": "Crash Landing",
+        "es-MX": "Crash Landing",
+        "ru-RU": "Crash Landing",
+        "ko-KR": "Crash Landing",
+        "zh-CN": "Crash Landing",
+        "zh-TW": "Crash Landing"
+      }
+    },
+    {
+      "id": "a091ac4d-3d4f-4ab9-8340-614c29b19995",
+      "name": {
+        "en-US": "Game Over",
+        "ja-JP": "ゲームオーバー",
+        "en-GB": "Game Over",
+        "fr-FR": "Game Over",
+        "fr-CA": "Game Over",
+        "de-DE": "Game Over",
+        "nl-NL": "Game Over",
+        "it-IT": "Game Over",
+        "pt-PT": "Game Over",
+        "pt-BR": "Game Over",
+        "es-ES": "Game Over",
+        "es-MX": "Game Over",
+        "ru-RU": "Game Over",
+        "ko-KR": "Game Over",
+        "zh-CN": "Game Over",
+        "zh-TW": "Game Over"
+      }
+    },
+    {
+      "id": "b2dffcd3-0018-4dc2-aa70-d4a4d218db60",
+      "name": {
+        "en-US": "Hang Glider",
+        "ja-JP": "ハンググライダー",
+        "en-GB": "Hang Glider",
+        "fr-FR": "Hang Glider",
+        "fr-CA": "Hang Glider",
+        "de-DE": "Hang Glider",
+        "nl-NL": "Hang Glider",
+        "it-IT": "Hang Glider",
+        "pt-PT": "Hang Glider",
+        "pt-BR": "Hang Glider",
+        "es-ES": "Hang Glider",
+        "es-MX": "Hang Glider",
+        "ru-RU": "Hang Glider",
+        "ko-KR": "Hang Glider",
+        "zh-CN": "Hang Glider",
+        "zh-TW": "Hang Glider"
+      }
+    },
+    {
+      "id": "078b5a4f-5867-4e22-bb19-0aafde5d810c",
+      "name": {
+        "en-US": "Bonus Chance",
+        "ja-JP": "ボーナスチャンス",
+        "en-GB": "Bonus Chance",
+        "fr-FR": "Bonus Chance",
+        "fr-CA": "Bonus Chance",
+        "de-DE": "Bonus Chance",
+        "nl-NL": "Bonus Chance",
+        "it-IT": "Bonus Chance",
+        "pt-PT": "Bonus Chance",
+        "pt-BR": "Bonus Chance",
+        "es-ES": "Bonus Chance",
+        "es-MX": "Bonus Chance",
+        "ru-RU": "Bonus Chance",
+        "ko-KR": "Bonus Chance",
+        "zh-CN": "Bonus Chance",
+        "zh-TW": "Bonus Chance"
+      }
+    },
+    {
+      "id": "c8d1d91f-e8e0-47a4-853b-32dd18b6ce8e",
+      "name": {
+        "en-US": "License Acquired",
+        "ja-JP": "ライセンス取得",
+        "en-GB": "License Acquired",
+        "fr-FR": "License Acquired",
+        "fr-CA": "License Acquired",
+        "de-DE": "License Acquired",
+        "nl-NL": "License Acquired",
+        "it-IT": "License Acquired",
+        "pt-PT": "License Acquired",
+        "pt-BR": "License Acquired",
+        "es-ES": "License Acquired",
+        "es-MX": "License Acquired",
+        "ru-RU": "License Acquired",
+        "ko-KR": "License Acquired",
+        "zh-CN": "License Acquired",
+        "zh-TW": "License Acquired"
+      }
+    },
+    {
+      "id": "6960157b-d9dc-4ed2-894e-509577afaa03",
+      "name": {
+        "en-US": "Secret Command",
+        "ja-JP": "極秘指令",
+        "en-GB": "Secret Command",
+        "fr-FR": "Secret Command",
+        "fr-CA": "Secret Command",
+        "de-DE": "Secret Command",
+        "nl-NL": "Secret Command",
+        "it-IT": "Secret Command",
+        "pt-PT": "Secret Command",
+        "pt-BR": "Secret Command",
+        "es-ES": "Secret Command",
+        "es-MX": "Secret Command",
+        "ru-RU": "Secret Command",
+        "ko-KR": "Secret Command",
+        "zh-CN": "Secret Command",
+        "zh-TW": "Secret Command"
+      }
+    },
+    {
+      "id": "f7e8aa50-5911-498a-8097-e4934f1f637c",
+      "name": {
+        "en-US": "Helicopter",
+        "ja-JP": "ヘリコプター",
+        "en-GB": "Helicopter",
+        "fr-FR": "Helicopter",
+        "fr-CA": "Helicopter",
+        "de-DE": "Helicopter",
+        "nl-NL": "Helicopter",
+        "it-IT": "Helicopter",
+        "pt-PT": "Helicopter",
+        "pt-BR": "Helicopter",
+        "es-ES": "Helicopter",
+        "es-MX": "Helicopter",
+        "ru-RU": "Helicopter",
+        "ko-KR": "Helicopter",
+        "zh-CN": "Helicopter",
+        "zh-TW": "Helicopter"
+      }
+    },
+    {
+      "id": "8f287278-ebd8-4b06-b038-d6f37ff44903",
+      "name": {
+        "en-US": "Helicopter Landed",
+        "ja-JP": "ヘリコプター 着地成功",
+        "en-GB": "Helicopter Landed",
+        "fr-FR": "Helicopter Landed",
+        "fr-CA": "Helicopter Landed",
+        "de-DE": "Helicopter Landed",
+        "nl-NL": "Helicopter Landed",
+        "it-IT": "Helicopter Landed",
+        "pt-PT": "Helicopter Landed",
+        "pt-BR": "Helicopter Landed",
+        "es-ES": "Helicopter Landed",
+        "es-MX": "Helicopter Landed",
+        "ru-RU": "Helicopter Landed",
+        "ko-KR": "Helicopter Landed",
+        "zh-CN": "Helicopter Landed",
+        "zh-TW": "Helicopter Landed"
+      }
+    },
+    {
+      "id": "d6e5231b-89fb-41c2-9744-dab21b4c9a09",
+      "name": {
+        "en-US": "Rescue Successful",
+        "ja-JP": "無事救出",
+        "en-GB": "Rescue Successful",
+        "fr-FR": "Rescue Successful",
+        "fr-CA": "Rescue Successful",
+        "de-DE": "Rescue Successful",
+        "nl-NL": "Rescue Successful",
+        "it-IT": "Rescue Successful",
+        "pt-PT": "Rescue Successful",
+        "pt-BR": "Rescue Successful",
+        "es-ES": "Rescue Successful",
+        "es-MX": "Rescue Successful",
+        "ru-RU": "Rescue Successful",
+        "ko-KR": "Rescue Successful",
+        "zh-CN": "Rescue Successful",
+        "zh-TW": "Rescue Successful"
+      }
+    },
+    {
+      "id": "b80185f4-9af6-4a7d-abb9-702bc9ca9496",
+      "name": {
+        "en-US": "Awarded the Pilot's Wings",
+        "ja-JP": "パイロットウイングス称号授与",
+        "en-GB": "Awarded the Pilot's Wings",
+        "fr-FR": "Awarded the Pilot's Wings",
+        "fr-CA": "Awarded the Pilot's Wings",
+        "de-DE": "Awarded the Pilot's Wings",
+        "nl-NL": "Awarded the Pilot's Wings",
+        "it-IT": "Awarded the Pilot's Wings",
+        "pt-PT": "Awarded the Pilot's Wings",
+        "pt-BR": "Awarded the Pilot's Wings",
+        "es-ES": "Awarded the Pilot's Wings",
+        "es-MX": "Awarded the Pilot's Wings",
+        "ru-RU": "Awarded the Pilot's Wings",
+        "ko-KR": "Awarded the Pilot's Wings",
+        "zh-CN": "Awarded the Pilot's Wings",
+        "zh-TW": "Awarded the Pilot's Wings"
+      }
+    },
+    {
+      "id": "7950de49-a5b5-4e0d-b02b-f8996cf0dce5",
+      "name": {
+        "en-US": "Ending Theme",
+        "ja-JP": "エンディング",
+        "en-GB": "Ending Theme",
+        "fr-FR": "Ending Theme",
+        "fr-CA": "Ending Theme",
+        "de-DE": "Ending Theme",
+        "nl-NL": "Ending Theme",
+        "it-IT": "Ending Theme",
+        "pt-PT": "Ending Theme",
+        "pt-BR": "Ending Theme",
+        "es-ES": "Ending Theme",
+        "es-MX": "Ending Theme",
+        "ru-RU": "Ending Theme",
+        "ko-KR": "Ending Theme",
+        "zh-CN": "Ending Theme",
+        "zh-TW": "Ending Theme"
+      }
+    }
+  ],
+  "localesWithDistinctTrackNames": [
+    "ja-JP",
+    "en-US"
+  ],
+  "localesWithDistinctTrackNamesCount": 2
+}

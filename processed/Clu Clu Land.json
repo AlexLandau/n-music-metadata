@@ -1,0 +1,200 @@
+{
+  "nameEnUS": "Clu Clu Land",
+  "id": "67d3cca8-4c7d-4e33-a024-6ce960cf28c8",
+  "hardware": "Nintendo Entertainment System",
+  "lastRetrieved": 1781312959,
+  "name": {
+    "en-US": "Clu Clu Land",
+    "ja-JP": "クルクルランド",
+    "en-GB": "Clu Clu Land",
+    "fr-FR": "Clu Clu Land",
+    "fr-CA": "Clu Clu Land",
+    "de-DE": "Clu Clu Land",
+    "nl-NL": "Clu Clu Land",
+    "it-IT": "Clu Clu Land",
+    "pt-PT": "Clu Clu Land",
+    "pt-BR": "Clu Clu Land",
+    "es-ES": "Clu Clu Land",
+    "es-MX": "Clu Clu Land",
+    "ru-RU": "Clu Clu Land",
+    "ko-KR": "Clu Clu Land",
+    "zh-CN": "Clu Clu Land",
+    "zh-TW": "Clu Clu Land"
+  },
+  "allTracksPlaylistId": "d3d3b152-4282-4891-825e-ff825764e68d",
+  "tracks": [
+    {
+      "id": "982a09e9-84e1-4ee4-abe4-e1289cf2f77b",
+      "name": {
+        "en-US": "Title BGM",
+        "ja-JP": "タイトルBGM",
+        "en-GB": "Title BGM",
+        "fr-FR": "Title BGM",
+        "fr-CA": "Title BGM",
+        "de-DE": "Title BGM",
+        "nl-NL": "Title BGM",
+        "it-IT": "Title BGM",
+        "pt-PT": "Title BGM",
+        "pt-BR": "Title BGM",
+        "es-ES": "Title BGM",
+        "es-MX": "Title BGM",
+        "ru-RU": "Title BGM",
+        "ko-KR": "Title BGM",
+        "zh-CN": "Title BGM",
+        "zh-TW": "Title BGM"
+      }
+    },
+    {
+      "id": "ec36c0a4-43cc-4f7d-83e0-1f35a6087d09",
+      "name": {
+        "en-US": "Game Start",
+        "ja-JP": "ゲームスタート",
+        "en-GB": "Game Start",
+        "fr-FR": "Game Start",
+        "fr-CA": "Game Start",
+        "de-DE": "Game Start",
+        "nl-NL": "Game Start",
+        "it-IT": "Game Start",
+        "pt-PT": "Game Start",
+        "pt-BR": "Game Start",
+        "es-ES": "Game Start",
+        "es-MX": "Game Start",
+        "ru-RU": "Game Start",
+        "ko-KR": "Game Start",
+        "zh-CN": "Game Start",
+        "zh-TW": "Game Start"
+      }
+    },
+    {
+      "id": "26fe075b-ac17-4697-82a7-2ade5c18ea2a",
+      "name": {
+        "en-US": "Scene BGM",
+        "ja-JP": "通常面BGM",
+        "en-GB": "Scene BGM",
+        "fr-FR": "Scene BGM",
+        "fr-CA": "Scene BGM",
+        "de-DE": "Scene BGM",
+        "nl-NL": "Scene BGM",
+        "it-IT": "Scene BGM",
+        "pt-PT": "Scene BGM",
+        "pt-BR": "Scene BGM",
+        "es-ES": "Scene BGM",
+        "es-MX": "Scene BGM",
+        "ru-RU": "Scene BGM",
+        "ko-KR": "Scene BGM",
+        "zh-CN": "Scene BGM",
+        "zh-TW": "Scene BGM"
+      }
+    },
+    {
+      "id": "d044fd8c-ca9d-4e23-87e2-fb98da8bf1cf",
+      "name": {
+        "en-US": "Hurry Up!",
+        "ja-JP": "ハリーアップ！",
+        "en-GB": "Hurry Up!",
+        "fr-FR": "Hurry Up!",
+        "fr-CA": "Hurry Up!",
+        "de-DE": "Hurry Up!",
+        "nl-NL": "Hurry Up!",
+        "it-IT": "Hurry Up!",
+        "pt-PT": "Hurry Up!",
+        "pt-BR": "Hurry Up!",
+        "es-ES": "Hurry Up!",
+        "es-MX": "Hurry Up!",
+        "ru-RU": "Hurry Up!",
+        "ko-KR": "Hurry Up!",
+        "zh-CN": "Hurry Up!",
+        "zh-TW": "Hurry Up!"
+      }
+    },
+    {
+      "id": "03772f94-6754-48f5-a002-af5f473f9bdf",
+      "name": {
+        "en-US": "Scene Clear",
+        "ja-JP": "面クリア",
+        "en-GB": "Scene Clear",
+        "fr-FR": "Scene Clear",
+        "fr-CA": "Scene Clear",
+        "de-DE": "Scene Clear",
+        "nl-NL": "Scene Clear",
+        "it-IT": "Scene Clear",
+        "pt-PT": "Scene Clear",
+        "pt-BR": "Scene Clear",
+        "es-ES": "Scene Clear",
+        "es-MX": "Scene Clear",
+        "ru-RU": "Scene Clear",
+        "ko-KR": "Scene Clear",
+        "zh-CN": "Scene Clear",
+        "zh-TW": "Scene Clear"
+      }
+    },
+    {
+      "id": "212f3616-4c05-4789-86fd-328ec34329e4",
+      "name": {
+        "en-US": "Score Bonus",
+        "ja-JP": "スコアボーナス獲得",
+        "en-GB": "Score Bonus",
+        "fr-FR": "Score Bonus",
+        "fr-CA": "Score Bonus",
+        "de-DE": "Score Bonus",
+        "nl-NL": "Score Bonus",
+        "it-IT": "Score Bonus",
+        "pt-PT": "Score Bonus",
+        "pt-BR": "Score Bonus",
+        "es-ES": "Score Bonus",
+        "es-MX": "Score Bonus",
+        "ru-RU": "Score Bonus",
+        "ko-KR": "Score Bonus",
+        "zh-CN": "Score Bonus",
+        "zh-TW": "Score Bonus"
+      }
+    },
+    {
+      "id": "75dc52b2-23a5-458e-9f28-c7c760e78d35",
+      "name": {
+        "en-US": "Bonus Round BGM",
+        "ja-JP": "ボーナス面BGM",
+        "en-GB": "Bonus Round BGM",
+        "fr-FR": "Bonus Round BGM",
+        "fr-CA": "Bonus Round BGM",
+        "de-DE": "Bonus Round BGM",
+        "nl-NL": "Bonus Round BGM",
+        "it-IT": "Bonus Round BGM",
+        "pt-PT": "Bonus Round BGM",
+        "pt-BR": "Bonus Round BGM",
+        "es-ES": "Bonus Round BGM",
+        "es-MX": "Bonus Round BGM",
+        "ru-RU": "Bonus Round BGM",
+        "ko-KR": "Bonus Round BGM",
+        "zh-CN": "Bonus Round BGM",
+        "zh-TW": "Bonus Round BGM"
+      }
+    },
+    {
+      "id": "21af7030-c378-4ded-94a0-2c814203d5ea",
+      "name": {
+        "en-US": "Game Over",
+        "ja-JP": "ゲームオーバー",
+        "en-GB": "Game Over",
+        "fr-FR": "Game Over",
+        "fr-CA": "Game Over",
+        "de-DE": "Game Over",
+        "nl-NL": "Game Over",
+        "it-IT": "Game Over",
+        "pt-PT": "Game Over",
+        "pt-BR": "Game Over",
+        "es-ES": "Game Over",
+        "es-MX": "Game Over",
+        "ru-RU": "Game Over",
+        "ko-KR": "Game Over",
+        "zh-CN": "Game Over",
+        "zh-TW": "Game Over"
+      }
+    }
+  ],
+  "localesWithDistinctTrackNames": [
+    "ja-JP",
+    "en-US"
+  ],
+  "localesWithDistinctTrackNamesCount": 2
+}

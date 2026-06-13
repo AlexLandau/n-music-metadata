@@ -1,0 +1,158 @@
+{
+  "nameEnUS": "Soccer",
+  "id": "69cb9b80-6b28-4d24-b5c3-22cac1261349",
+  "hardware": "Nintendo Entertainment System",
+  "lastRetrieved": 1781312859,
+  "name": {
+    "en-US": "Soccer",
+    "ja-JP": "サッカー",
+    "en-GB": "Soccer",
+    "fr-FR": "Soccer",
+    "fr-CA": "Soccer",
+    "de-DE": "Soccer",
+    "nl-NL": "Soccer",
+    "it-IT": "Soccer",
+    "pt-PT": "Soccer",
+    "pt-BR": "Soccer",
+    "es-ES": "Soccer",
+    "es-MX": "Soccer",
+    "ru-RU": "Soccer",
+    "ko-KR": "Soccer",
+    "zh-CN": "Soccer",
+    "zh-TW": "Soccer"
+  },
+  "allTracksPlaylistId": "98411d03-2fdc-4244-8bbf-7974e94e8dcc",
+  "tracks": [
+    {
+      "id": "84a71823-52b0-45c8-b134-cb3541b7aedb",
+      "name": {
+        "en-US": "Title BGM",
+        "ja-JP": "タイトルBGM",
+        "en-GB": "Title BGM",
+        "fr-FR": "Title BGM",
+        "fr-CA": "Title BGM",
+        "de-DE": "Title BGM",
+        "nl-NL": "Title BGM",
+        "it-IT": "Title BGM",
+        "pt-PT": "Title BGM",
+        "pt-BR": "Title BGM",
+        "es-ES": "Title BGM",
+        "es-MX": "Title BGM",
+        "ru-RU": "Title BGM",
+        "ko-KR": "Title BGM",
+        "zh-CN": "Title BGM",
+        "zh-TW": "Title BGM"
+      }
+    },
+    {
+      "id": "c25ce3c8-0914-4f7f-946f-58c844f36e88",
+      "name": {
+        "en-US": "Team Select",
+        "ja-JP": "チームセレクト",
+        "en-GB": "Team Select",
+        "fr-FR": "Team Select",
+        "fr-CA": "Team Select",
+        "de-DE": "Team Select",
+        "nl-NL": "Team Select",
+        "it-IT": "Team Select",
+        "pt-PT": "Team Select",
+        "pt-BR": "Team Select",
+        "es-ES": "Team Select",
+        "es-MX": "Team Select",
+        "ru-RU": "Team Select",
+        "ko-KR": "Team Select",
+        "zh-CN": "Team Select",
+        "zh-TW": "Team Select"
+      }
+    },
+    {
+      "id": "13c0e673-d000-428f-8bf0-c813390c7789",
+      "name": {
+        "en-US": "Match BGM",
+        "ja-JP": "試合BGM",
+        "en-GB": "Match BGM",
+        "fr-FR": "Match BGM",
+        "fr-CA": "Match BGM",
+        "de-DE": "Match BGM",
+        "nl-NL": "Match BGM",
+        "it-IT": "Match BGM",
+        "pt-PT": "Match BGM",
+        "pt-BR": "Match BGM",
+        "es-ES": "Match BGM",
+        "es-MX": "Match BGM",
+        "ru-RU": "Match BGM",
+        "ko-KR": "Match BGM",
+        "zh-CN": "Match BGM",
+        "zh-TW": "Match BGM"
+      }
+    },
+    {
+      "id": "39f24d12-e174-4439-a6cd-0957db748e99",
+      "name": {
+        "en-US": "Halftime",
+        "ja-JP": "ハーフタイム",
+        "en-GB": "Halftime",
+        "fr-FR": "Halftime",
+        "fr-CA": "Halftime",
+        "de-DE": "Halftime",
+        "nl-NL": "Halftime",
+        "it-IT": "Halftime",
+        "pt-PT": "Halftime",
+        "pt-BR": "Halftime",
+        "es-ES": "Halftime",
+        "es-MX": "Halftime",
+        "ru-RU": "Halftime",
+        "ko-KR": "Halftime",
+        "zh-CN": "Halftime",
+        "zh-TW": "Halftime"
+      }
+    },
+    {
+      "id": "94130f06-ba17-405d-88b0-cf3a109b8c57",
+      "name": {
+        "en-US": "Goal",
+        "ja-JP": "ゴール",
+        "en-GB": "Goal",
+        "fr-FR": "Goal",
+        "fr-CA": "Goal",
+        "de-DE": "Goal",
+        "nl-NL": "Goal",
+        "it-IT": "Goal",
+        "pt-PT": "Goal",
+        "pt-BR": "Goal",
+        "es-ES": "Goal",
+        "es-MX": "Goal",
+        "ru-RU": "Goal",
+        "ko-KR": "Goal",
+        "zh-CN": "Goal",
+        "zh-TW": "Goal"
+      }
+    },
+    {
+      "id": "ba06ecd9-f94c-45ad-9890-899b295693e0",
+      "name": {
+        "en-US": "Game Set",
+        "ja-JP": "試合終了",
+        "en-GB": "Game Set",
+        "fr-FR": "Game Set",
+        "fr-CA": "Game Set",
+        "de-DE": "Game Set",
+        "nl-NL": "Game Set",
+        "it-IT": "Game Set",
+        "pt-PT": "Game Set",
+        "pt-BR": "Game Set",
+        "es-ES": "Game Set",
+        "es-MX": "Game Set",
+        "ru-RU": "Game Set",
+        "ko-KR": "Game Set",
+        "zh-CN": "Game Set",
+        "zh-TW": "Game Set"
+      }
+    }
+  ],
+  "localesWithDistinctTrackNames": [
+    "ja-JP",
+    "en-US"
+  ],
+  "localesWithDistinctTrackNamesCount": 2
+}

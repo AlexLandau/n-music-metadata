@@ -1,0 +1,242 @@
+{
+  "nameEnUS": "Golf",
+  "id": "a9d48334-6127-4c1c-814b-398bb745a3bf",
+  "hardware": "Nintendo Entertainment System",
+  "lastRetrieved": 1781313109,
+  "name": {
+    "en-US": "Golf",
+    "ja-JP": "ゴルフ",
+    "en-GB": "Golf",
+    "fr-FR": "Golf",
+    "fr-CA": "Golf",
+    "de-DE": "Golf",
+    "nl-NL": "Golf",
+    "it-IT": "Golf",
+    "pt-PT": "Golf",
+    "pt-BR": "Golf",
+    "es-ES": "Golf",
+    "es-MX": "Golf",
+    "ru-RU": "Golf",
+    "ko-KR": "Golf",
+    "zh-CN": "Golf",
+    "zh-TW": "Golf"
+  },
+  "allTracksPlaylistId": "58143ba5-35a8-41ad-9b6a-e47a764324f8",
+  "tracks": [
+    {
+      "id": "4bbaa9a0-f2c7-46d0-97f2-e97cba46e330",
+      "name": {
+        "en-US": "Tee Shot",
+        "ja-JP": "ティーショット",
+        "en-GB": "Tee Shot",
+        "fr-FR": "Tee Shot",
+        "fr-CA": "Tee Shot",
+        "de-DE": "Tee Shot",
+        "nl-NL": "Tee Shot",
+        "it-IT": "Tee Shot",
+        "pt-PT": "Tee Shot",
+        "pt-BR": "Tee Shot",
+        "es-ES": "Tee Shot",
+        "es-MX": "Tee Shot",
+        "ru-RU": "Tee Shot",
+        "ko-KR": "Tee Shot",
+        "zh-CN": "Tee Shot",
+        "zh-TW": "Tee Shot"
+      }
+    },
+    {
+      "id": "57a341a3-15b5-41d3-bb2c-71451eb54c3f",
+      "name": {
+        "en-US": "Second Shot",
+        "ja-JP": "セカンドショット",
+        "en-GB": "Second Shot",
+        "fr-FR": "Second Shot",
+        "fr-CA": "Second Shot",
+        "de-DE": "Second Shot",
+        "nl-NL": "Second Shot",
+        "it-IT": "Second Shot",
+        "pt-PT": "Second Shot",
+        "pt-BR": "Second Shot",
+        "es-ES": "Second Shot",
+        "es-MX": "Second Shot",
+        "ru-RU": "Second Shot",
+        "ko-KR": "Second Shot",
+        "zh-CN": "Second Shot",
+        "zh-TW": "Second Shot"
+      }
+    },
+    {
+      "id": "cd423a6b-e272-45e5-bf65-ec201b2bf1dd",
+      "name": {
+        "en-US": "Out of Bounds",
+        "ja-JP": "OB",
+        "en-GB": "Out of Bounds",
+        "fr-FR": "Out of Bounds",
+        "fr-CA": "Out of Bounds",
+        "de-DE": "Out of Bounds",
+        "nl-NL": "Out of Bounds",
+        "it-IT": "Out of Bounds",
+        "pt-PT": "Out of Bounds",
+        "pt-BR": "Out of Bounds",
+        "es-ES": "Out of Bounds",
+        "es-MX": "Out of Bounds",
+        "ru-RU": "Out of Bounds",
+        "ko-KR": "Out of Bounds",
+        "zh-CN": "Out of Bounds",
+        "zh-TW": "Out of Bounds"
+      }
+    },
+    {
+      "id": "c64acd75-3015-42a0-88ff-b8c935b2a455",
+      "name": {
+        "en-US": "Water Hazard",
+        "ja-JP": "ウォーターハザード",
+        "en-GB": "Water Hazard",
+        "fr-FR": "Water Hazard",
+        "fr-CA": "Water Hazard",
+        "de-DE": "Water Hazard",
+        "nl-NL": "Water Hazard",
+        "it-IT": "Water Hazard",
+        "pt-PT": "Water Hazard",
+        "pt-BR": "Water Hazard",
+        "es-ES": "Water Hazard",
+        "es-MX": "Water Hazard",
+        "ru-RU": "Water Hazard",
+        "ko-KR": "Water Hazard",
+        "zh-CN": "Water Hazard",
+        "zh-TW": "Water Hazard"
+      }
+    },
+    {
+      "id": "9a232b47-151d-4b97-852c-807f47ed246a",
+      "name": {
+        "en-US": "Bunker",
+        "ja-JP": "バンカー",
+        "en-GB": "Bunker",
+        "fr-FR": "Bunker",
+        "fr-CA": "Bunker",
+        "de-DE": "Bunker",
+        "nl-NL": "Bunker",
+        "it-IT": "Bunker",
+        "pt-PT": "Bunker",
+        "pt-BR": "Bunker",
+        "es-ES": "Bunker",
+        "es-MX": "Bunker",
+        "ru-RU": "Bunker",
+        "ko-KR": "Bunker",
+        "zh-CN": "Bunker",
+        "zh-TW": "Bunker"
+      }
+    },
+    {
+      "id": "17151e25-f527-4911-b79b-09f0d77e3062",
+      "name": {
+        "en-US": "Bunker Shot",
+        "ja-JP": "バンカーショット",
+        "en-GB": "Bunker Shot",
+        "fr-FR": "Bunker Shot",
+        "fr-CA": "Bunker Shot",
+        "de-DE": "Bunker Shot",
+        "nl-NL": "Bunker Shot",
+        "it-IT": "Bunker Shot",
+        "pt-PT": "Bunker Shot",
+        "pt-BR": "Bunker Shot",
+        "es-ES": "Bunker Shot",
+        "es-MX": "Bunker Shot",
+        "ru-RU": "Bunker Shot",
+        "ko-KR": "Bunker Shot",
+        "zh-CN": "Bunker Shot",
+        "zh-TW": "Bunker Shot"
+      }
+    },
+    {
+      "id": "7ac01d74-e01e-4e91-b98e-4666c88a8679",
+      "name": {
+        "en-US": "Birdie Try / Eagle Try",
+        "ja-JP": "バーディートライ/イーグルトライ",
+        "en-GB": "Birdie Try / Eagle Try",
+        "fr-FR": "Birdie Try / Eagle Try",
+        "fr-CA": "Birdie Try / Eagle Try",
+        "de-DE": "Birdie Try / Eagle Try",
+        "nl-NL": "Birdie Try / Eagle Try",
+        "it-IT": "Birdie Try / Eagle Try",
+        "pt-PT": "Birdie Try / Eagle Try",
+        "pt-BR": "Birdie Try / Eagle Try",
+        "es-ES": "Birdie Try / Eagle Try",
+        "es-MX": "Birdie Try / Eagle Try",
+        "ru-RU": "Birdie Try / Eagle Try",
+        "ko-KR": "Birdie Try / Eagle Try",
+        "zh-CN": "Birdie Try / Eagle Try",
+        "zh-TW": "Birdie Try / Eagle Try"
+      }
+    },
+    {
+      "id": "275b0094-a87f-490d-81b1-647a9c885d44",
+      "name": {
+        "en-US": "Par / Birdie / Eagle / Double Eagle",
+        "ja-JP": "パー/バーディー/イーグル/ダブルイーグル",
+        "en-GB": "Par / Birdie / Eagle / Double Eagle",
+        "fr-FR": "Par / Birdie / Eagle / Double Eagle",
+        "fr-CA": "Par / Birdie / Eagle / Double Eagle",
+        "de-DE": "Par / Birdie / Eagle / Double Eagle",
+        "nl-NL": "Par / Birdie / Eagle / Double Eagle",
+        "it-IT": "Par / Birdie / Eagle / Double Eagle",
+        "pt-PT": "Par / Birdie / Eagle / Double Eagle",
+        "pt-BR": "Par / Birdie / Eagle / Double Eagle",
+        "es-ES": "Par / Birdie / Eagle / Double Eagle",
+        "es-MX": "Par / Birdie / Eagle / Double Eagle",
+        "ru-RU": "Par / Birdie / Eagle / Double Eagle",
+        "ko-KR": "Par / Birdie / Eagle / Double Eagle",
+        "zh-CN": "Par / Birdie / Eagle / Double Eagle",
+        "zh-TW": "Par / Birdie / Eagle / Double Eagle"
+      }
+    },
+    {
+      "id": "03b87dbf-2238-4fd9-817b-1221f0b7e0b7",
+      "name": {
+        "en-US": "Bogey / Double Bogey",
+        "ja-JP": "ボギー/ダブルボギー",
+        "en-GB": "Bogey / Double Bogey",
+        "fr-FR": "Bogey / Double Bogey",
+        "fr-CA": "Bogey / Double Bogey",
+        "de-DE": "Bogey / Double Bogey",
+        "nl-NL": "Bogey / Double Bogey",
+        "it-IT": "Bogey / Double Bogey",
+        "pt-PT": "Bogey / Double Bogey",
+        "pt-BR": "Bogey / Double Bogey",
+        "es-ES": "Bogey / Double Bogey",
+        "es-MX": "Bogey / Double Bogey",
+        "ru-RU": "Bogey / Double Bogey",
+        "ko-KR": "Bogey / Double Bogey",
+        "zh-CN": "Bogey / Double Bogey",
+        "zh-TW": "Bogey / Double Bogey"
+      }
+    },
+    {
+      "id": "1520c1f2-4d79-47eb-8291-43e9b7cebe13",
+      "name": {
+        "en-US": "Match-Play Victory",
+        "ja-JP": "マッチプレイ WIN",
+        "en-GB": "Match-Play Victory",
+        "fr-FR": "Match-Play Victory",
+        "fr-CA": "Match-Play Victory",
+        "de-DE": "Match-Play Victory",
+        "nl-NL": "Match-Play Victory",
+        "it-IT": "Match-Play Victory",
+        "pt-PT": "Match-Play Victory",
+        "pt-BR": "Match-Play Victory",
+        "es-ES": "Match-Play Victory",
+        "es-MX": "Match-Play Victory",
+        "ru-RU": "Match-Play Victory",
+        "ko-KR": "Match-Play Victory",
+        "zh-CN": "Match-Play Victory",
+        "zh-TW": "Match-Play Victory"
+      }
+    }
+  ],
+  "localesWithDistinctTrackNames": [
+    "ja-JP",
+    "en-US"
+  ],
+  "localesWithDistinctTrackNamesCount": 2
+}

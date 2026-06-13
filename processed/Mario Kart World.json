@@ -2,7 +2,7 @@
   "nameEnUS": "Mario Kart World",
   "id": "dbadc5dd-73a5-482d-9aaa-c87b1b64d7dd",
   "hardware": "Nintendo Switch 2",
-  "lastRetrieved": 1781307178,
+  "lastRetrieved": 1781310110,
   "name": {
     "en-US": "Mario Kart World",
     "ja-JP": "マリオカート ワールド",
@@ -3131,5 +3131,24 @@
         "zh-TW": "Bowser's Galaxy Generator（Super Mario Galaxy 2）"
       }
     }
-  ]
+  ],
+  "localesWithDistinctTrackNames": [
+    "fr-FR",
+    "pt-PT",
+    "fr-CA",
+    "zh-TW",
+    "en-GB",
+    "ja-JP",
+    "nl-NL",
+    "it-IT",
+    "pt-BR",
+    "ru-RU",
+    "es-ES",
+    "ko-KR",
+    "en-US",
+    "de-DE",
+    "zh-CN",
+    "es-MX"
+  ],
+  "localesWithDistinctTrackNamesCount": 16
 }

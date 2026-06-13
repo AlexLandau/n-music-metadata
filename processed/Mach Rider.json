@@ -1,0 +1,242 @@
+{
+  "nameEnUS": "Mach Rider",
+  "id": "33d8695b-de51-498a-b687-7279548de28e",
+  "hardware": "Nintendo Entertainment System",
+  "lastRetrieved": 1781312760,
+  "name": {
+    "en-US": "Mach Rider",
+    "ja-JP": "マッハライダー",
+    "en-GB": "Mach Rider",
+    "fr-FR": "Mach Rider",
+    "fr-CA": "Mach Rider",
+    "de-DE": "Mach Rider",
+    "nl-NL": "Mach Rider",
+    "it-IT": "Mach Rider",
+    "pt-PT": "Mach Rider",
+    "pt-BR": "Mach Rider",
+    "es-ES": "Mach Rider",
+    "es-MX": "Mach Rider",
+    "ru-RU": "Mach Rider",
+    "ko-KR": "Mach Rider",
+    "zh-CN": "Mach Rider",
+    "zh-TW": "Mach Rider"
+  },
+  "allTracksPlaylistId": "89a52863-416c-42bf-9380-a38ad7d2946f",
+  "tracks": [
+    {
+      "id": "c576029d-20a1-44ce-9c8f-a81e0a4f098a",
+      "name": {
+        "en-US": "Title BGM",
+        "ja-JP": "タイトルBGM",
+        "en-GB": "Title BGM",
+        "fr-FR": "Title BGM",
+        "fr-CA": "Title BGM",
+        "de-DE": "Title BGM",
+        "nl-NL": "Title BGM",
+        "it-IT": "Title BGM",
+        "pt-PT": "Title BGM",
+        "pt-BR": "Title BGM",
+        "es-ES": "Title BGM",
+        "es-MX": "Title BGM",
+        "ru-RU": "Title BGM",
+        "ko-KR": "Title BGM",
+        "zh-CN": "Title BGM",
+        "zh-TW": "Title BGM"
+      }
+    },
+    {
+      "id": "bc3f07e6-0761-4798-a80d-0e319e42bb6b",
+      "name": {
+        "en-US": "Course Select",
+        "ja-JP": "コースセレクト",
+        "en-GB": "Course Select",
+        "fr-FR": "Course Select",
+        "fr-CA": "Course Select",
+        "de-DE": "Course Select",
+        "nl-NL": "Course Select",
+        "it-IT": "Course Select",
+        "pt-PT": "Course Select",
+        "pt-BR": "Course Select",
+        "es-ES": "Course Select",
+        "es-MX": "Course Select",
+        "ru-RU": "Course Select",
+        "ko-KR": "Course Select",
+        "zh-CN": "Course Select",
+        "zh-TW": "Course Select"
+      }
+    },
+    {
+      "id": "f7db5a7b-4daf-4b5e-865c-db2acbc02d82",
+      "name": {
+        "en-US": "Game Start",
+        "ja-JP": "ゲームスタート",
+        "en-GB": "Game Start",
+        "fr-FR": "Game Start",
+        "fr-CA": "Game Start",
+        "de-DE": "Game Start",
+        "nl-NL": "Game Start",
+        "it-IT": "Game Start",
+        "pt-PT": "Game Start",
+        "pt-BR": "Game Start",
+        "es-ES": "Game Start",
+        "es-MX": "Game Start",
+        "ru-RU": "Game Start",
+        "ko-KR": "Game Start",
+        "zh-CN": "Game Start",
+        "zh-TW": "Game Start"
+      }
+    },
+    {
+      "id": "d2d73ead-8ca8-4d3f-8d11-662b880d5f70",
+      "name": {
+        "en-US": "Course BGM 1",
+        "ja-JP": "コースBGM1",
+        "en-GB": "Course BGM 1",
+        "fr-FR": "Course BGM 1",
+        "fr-CA": "Course BGM 1",
+        "de-DE": "Course BGM 1",
+        "nl-NL": "Course BGM 1",
+        "it-IT": "Course BGM 1",
+        "pt-PT": "Course BGM 1",
+        "pt-BR": "Course BGM 1",
+        "es-ES": "Course BGM 1",
+        "es-MX": "Course BGM 1",
+        "ru-RU": "Course BGM 1",
+        "ko-KR": "Course BGM 1",
+        "zh-CN": "Course BGM 1",
+        "zh-TW": "Course BGM 1"
+      }
+    },
+    {
+      "id": "e7317941-b113-4c83-bde2-84f3bf7eab86",
+      "name": {
+        "en-US": "Goal Reached",
+        "ja-JP": "規定距離達成",
+        "en-GB": "Goal Reached",
+        "fr-FR": "Goal Reached",
+        "fr-CA": "Goal Reached",
+        "de-DE": "Goal Reached",
+        "nl-NL": "Goal Reached",
+        "it-IT": "Goal Reached",
+        "pt-PT": "Goal Reached",
+        "pt-BR": "Goal Reached",
+        "es-ES": "Goal Reached",
+        "es-MX": "Goal Reached",
+        "ru-RU": "Goal Reached",
+        "ko-KR": "Goal Reached",
+        "zh-CN": "Goal Reached",
+        "zh-TW": "Goal Reached"
+      }
+    },
+    {
+      "id": "b8b74a8d-b94f-4cf3-90ec-c7b95bd39e61",
+      "name": {
+        "en-US": "Course Clear",
+        "ja-JP": "コースクリア",
+        "en-GB": "Course Clear",
+        "fr-FR": "Course Clear",
+        "fr-CA": "Course Clear",
+        "de-DE": "Course Clear",
+        "nl-NL": "Course Clear",
+        "it-IT": "Course Clear",
+        "pt-PT": "Course Clear",
+        "pt-BR": "Course Clear",
+        "es-ES": "Course Clear",
+        "es-MX": "Course Clear",
+        "ru-RU": "Course Clear",
+        "ko-KR": "Course Clear",
+        "zh-CN": "Course Clear",
+        "zh-TW": "Course Clear"
+      }
+    },
+    {
+      "id": "af22137c-9c54-4c1c-8a81-436ea71df84b",
+      "name": {
+        "en-US": "Course BGM 2",
+        "ja-JP": "コースBGM2",
+        "en-GB": "Course BGM 2",
+        "fr-FR": "Course BGM 2",
+        "fr-CA": "Course BGM 2",
+        "de-DE": "Course BGM 2",
+        "nl-NL": "Course BGM 2",
+        "it-IT": "Course BGM 2",
+        "pt-PT": "Course BGM 2",
+        "pt-BR": "Course BGM 2",
+        "es-ES": "Course BGM 2",
+        "es-MX": "Course BGM 2",
+        "ru-RU": "Course BGM 2",
+        "ko-KR": "Course BGM 2",
+        "zh-CN": "Course BGM 2",
+        "zh-TW": "Course BGM 2"
+      }
+    },
+    {
+      "id": "e13350d9-e24f-4063-976c-b2cc0c6363ed",
+      "name": {
+        "en-US": "Consecutive-Enemy Bonus",
+        "ja-JP": "連続撃破ボーナス",
+        "en-GB": "Consecutive-Enemy Bonus",
+        "fr-FR": "Consecutive-Enemy Bonus",
+        "fr-CA": "Consecutive-Enemy Bonus",
+        "de-DE": "Consecutive-Enemy Bonus",
+        "nl-NL": "Consecutive-Enemy Bonus",
+        "it-IT": "Consecutive-Enemy Bonus",
+        "pt-PT": "Consecutive-Enemy Bonus",
+        "pt-BR": "Consecutive-Enemy Bonus",
+        "es-ES": "Consecutive-Enemy Bonus",
+        "es-MX": "Consecutive-Enemy Bonus",
+        "ru-RU": "Consecutive-Enemy Bonus",
+        "ko-KR": "Consecutive-Enemy Bonus",
+        "zh-CN": "Consecutive-Enemy Bonus",
+        "zh-TW": "Consecutive-Enemy Bonus"
+      }
+    },
+    {
+      "id": "35fbc9d7-30cc-4edb-87fd-eda4c7677d7f",
+      "name": {
+        "en-US": "Crash",
+        "ja-JP": "クラッシュ",
+        "en-GB": "Crash",
+        "fr-FR": "Crash",
+        "fr-CA": "Crash",
+        "de-DE": "Crash",
+        "nl-NL": "Crash",
+        "it-IT": "Crash",
+        "pt-PT": "Crash",
+        "pt-BR": "Crash",
+        "es-ES": "Crash",
+        "es-MX": "Crash",
+        "ru-RU": "Crash",
+        "ko-KR": "Crash",
+        "zh-CN": "Crash",
+        "zh-TW": "Crash"
+      }
+    },
+    {
+      "id": "c45441e3-58e8-4902-b502-776dfc207fe5",
+      "name": {
+        "en-US": "Game Over",
+        "ja-JP": "ゲームオーバー",
+        "en-GB": "Game Over",
+        "fr-FR": "Game Over",
+        "fr-CA": "Game Over",
+        "de-DE": "Game Over",
+        "nl-NL": "Game Over",
+        "it-IT": "Game Over",
+        "pt-PT": "Game Over",
+        "pt-BR": "Game Over",
+        "es-ES": "Game Over",
+        "es-MX": "Game Over",
+        "ru-RU": "Game Over",
+        "ko-KR": "Game Over",
+        "zh-CN": "Game Over",
+        "zh-TW": "Game Over"
+      }
+    }
+  ],
+  "localesWithDistinctTrackNames": [
+    "ja-JP",
+    "en-US"
+  ],
+  "localesWithDistinctTrackNamesCount": 2
+}

@@ -1,0 +1,368 @@
+{
+  "nameEnUS": "Stack-Up",
+  "id": "2ae5f5c7-eccb-43fb-99e6-5d86c40dd7ba",
+  "hardware": "Nintendo Entertainment System",
+  "lastRetrieved": 1781312808,
+  "name": {
+    "en-US": "Stack-Up",
+    "ja-JP": "ファミリーコンピュータ ロボット ブロックセット",
+    "en-GB": "Stack-Up",
+    "fr-FR": "Stack-Up",
+    "fr-CA": "Stack-Up",
+    "de-DE": "Stack-Up",
+    "nl-NL": "Stack-Up",
+    "it-IT": "Stack-Up",
+    "pt-PT": "Stack-Up",
+    "pt-BR": "Stack-Up",
+    "es-ES": "Stack-Up",
+    "es-MX": "Stack-Up",
+    "ru-RU": "Stack-Up",
+    "ko-KR": "Stack-Up",
+    "zh-CN": "Stack-Up",
+    "zh-TW": "Stack-Up"
+  },
+  "allTracksPlaylistId": "69aa1fd3-5711-4cf5-bf4d-0a8c1e02b1cc",
+  "tracks": [
+    {
+      "id": "d223e96a-4bac-417c-9db5-4d250c3134b9",
+      "name": {
+        "en-US": "Title BGM",
+        "ja-JP": "タイトルBGM",
+        "en-GB": "Title BGM",
+        "fr-FR": "Title BGM",
+        "fr-CA": "Title BGM",
+        "de-DE": "Title BGM",
+        "nl-NL": "Title BGM",
+        "it-IT": "Title BGM",
+        "pt-PT": "Title BGM",
+        "pt-BR": "Title BGM",
+        "es-ES": "Title BGM",
+        "es-MX": "Title BGM",
+        "ru-RU": "Title BGM",
+        "ko-KR": "Title BGM",
+        "zh-CN": "Title BGM",
+        "zh-TW": "Title BGM"
+      }
+    },
+    {
+      "id": "e9a4899b-14fa-48f9-ac08-3f6ed44aedb2",
+      "name": {
+        "en-US": "Test BGM",
+        "ja-JP": "TEST BGM",
+        "en-GB": "Test BGM",
+        "fr-FR": "Test BGM",
+        "fr-CA": "Test BGM",
+        "de-DE": "Test BGM",
+        "nl-NL": "Test BGM",
+        "it-IT": "Test BGM",
+        "pt-PT": "Test BGM",
+        "pt-BR": "Test BGM",
+        "es-ES": "Test BGM",
+        "es-MX": "Test BGM",
+        "ru-RU": "Test BGM",
+        "ko-KR": "Test BGM",
+        "zh-CN": "Test BGM",
+        "zh-TW": "Test BGM"
+      }
+    },
+    {
+      "id": "da2cc53b-55fc-447e-8ecf-5fbdb3871a63",
+      "name": {
+        "en-US": "Direct BGM",
+        "ja-JP": "DIRECT BGM",
+        "en-GB": "Direct BGM",
+        "fr-FR": "Direct BGM",
+        "fr-CA": "Direct BGM",
+        "de-DE": "Direct BGM",
+        "nl-NL": "Direct BGM",
+        "it-IT": "Direct BGM",
+        "pt-PT": "Direct BGM",
+        "pt-BR": "Direct BGM",
+        "es-ES": "Direct BGM",
+        "es-MX": "Direct BGM",
+        "ru-RU": "Direct BGM",
+        "ko-KR": "Direct BGM",
+        "zh-CN": "Direct BGM",
+        "zh-TW": "Direct BGM"
+      }
+    },
+    {
+      "id": "e0ce004a-e5c7-49ff-8e68-a7b532a6beeb",
+      "name": {
+        "en-US": "Memory Start",
+        "ja-JP": "MEMORY スタート",
+        "en-GB": "Memory Start",
+        "fr-FR": "Memory Start",
+        "fr-CA": "Memory Start",
+        "de-DE": "Memory Start",
+        "nl-NL": "Memory Start",
+        "it-IT": "Memory Start",
+        "pt-PT": "Memory Start",
+        "pt-BR": "Memory Start",
+        "es-ES": "Memory Start",
+        "es-MX": "Memory Start",
+        "ru-RU": "Memory Start",
+        "ko-KR": "Memory Start",
+        "zh-CN": "Memory Start",
+        "zh-TW": "Memory Start"
+      }
+    },
+    {
+      "id": "33b2fd53-907b-4c56-be46-4d35c99d3e2e",
+      "name": {
+        "en-US": "Memory BGM",
+        "ja-JP": "MEMORY BGM",
+        "en-GB": "Memory BGM",
+        "fr-FR": "Memory BGM",
+        "fr-CA": "Memory BGM",
+        "de-DE": "Memory BGM",
+        "nl-NL": "Memory BGM",
+        "it-IT": "Memory BGM",
+        "pt-PT": "Memory BGM",
+        "pt-BR": "Memory BGM",
+        "es-ES": "Memory BGM",
+        "es-MX": "Memory BGM",
+        "ru-RU": "Memory BGM",
+        "ko-KR": "Memory BGM",
+        "zh-CN": "Memory BGM",
+        "zh-TW": "Memory BGM"
+      }
+    },
+    {
+      "id": "a0ac921d-a565-4125-9ae7-0a1fb1586ab1",
+      "name": {
+        "en-US": "Bingo BGM",
+        "ja-JP": "BINGO BGM",
+        "en-GB": "Bingo BGM",
+        "fr-FR": "Bingo BGM",
+        "fr-CA": "Bingo BGM",
+        "de-DE": "Bingo BGM",
+        "nl-NL": "Bingo BGM",
+        "it-IT": "Bingo BGM",
+        "pt-PT": "Bingo BGM",
+        "pt-BR": "Bingo BGM",
+        "es-ES": "Bingo BGM",
+        "es-MX": "Bingo BGM",
+        "ru-RU": "Bingo BGM",
+        "ko-KR": "Bingo BGM",
+        "zh-CN": "Bingo BGM",
+        "zh-TW": "Bingo BGM"
+      }
+    },
+    {
+      "id": "77032863-b160-4151-95d1-1128ceff6017",
+      "name": {
+        "en-US": "Bingo BGM (Paused)",
+        "ja-JP": "BINGO BGM（ポーズ中）",
+        "en-GB": "Bingo BGM (Paused)",
+        "fr-FR": "Bingo BGM (Paused)",
+        "fr-CA": "Bingo BGM (Paused)",
+        "de-DE": "Bingo BGM (Paused)",
+        "nl-NL": "Bingo BGM (Paused)",
+        "it-IT": "Bingo BGM (Paused)",
+        "pt-PT": "Bingo BGM (Paused)",
+        "pt-BR": "Bingo BGM (Paused)",
+        "es-ES": "Bingo BGM (Paused)",
+        "es-MX": "Bingo BGM (Paused)",
+        "ru-RU": "Bingo BGM (Paused)",
+        "ko-KR": "Bingo BGM (Paused)",
+        "zh-CN": "Bingo BGM (Paused)",
+        "zh-TW": "Bingo BGM (Paused)"
+      }
+    },
+    {
+      "id": "fa2ecb56-e6ce-48ac-b8f7-56157ced6dc8",
+      "name": {
+        "en-US": "Hurry Up!",
+        "ja-JP": "ハリーアップ！",
+        "en-GB": "Hurry Up!",
+        "fr-FR": "Hurry Up!",
+        "fr-CA": "Hurry Up!",
+        "de-DE": "Hurry Up!",
+        "nl-NL": "Hurry Up!",
+        "it-IT": "Hurry Up!",
+        "pt-PT": "Hurry Up!",
+        "pt-BR": "Hurry Up!",
+        "es-ES": "Hurry Up!",
+        "es-MX": "Hurry Up!",
+        "ru-RU": "Hurry Up!",
+        "ko-KR": "Hurry Up!",
+        "zh-CN": "Hurry Up!",
+        "zh-TW": "Hurry Up!"
+      }
+    },
+    {
+      "id": "f4bd1e22-cd0f-4353-9af7-8c90ffb68401",
+      "name": {
+        "en-US": "Hurry Up! (Paused)",
+        "ja-JP": "ハリーアップ！（ポーズ中）",
+        "en-GB": "Hurry Up! (Paused)",
+        "fr-FR": "Hurry Up! (Paused)",
+        "fr-CA": "Hurry Up! (Paused)",
+        "de-DE": "Hurry Up! (Paused)",
+        "nl-NL": "Hurry Up! (Paused)",
+        "it-IT": "Hurry Up! (Paused)",
+        "pt-PT": "Hurry Up! (Paused)",
+        "pt-BR": "Hurry Up! (Paused)",
+        "es-ES": "Hurry Up! (Paused)",
+        "es-MX": "Hurry Up! (Paused)",
+        "ru-RU": "Hurry Up! (Paused)",
+        "ko-KR": "Hurry Up! (Paused)",
+        "zh-CN": "Hurry Up! (Paused)",
+        "zh-TW": "Hurry Up! (Paused)"
+      }
+    },
+    {
+      "id": "568626de-511e-4bb9-86e3-9a196285bf7b",
+      "name": {
+        "en-US": "Time Up",
+        "ja-JP": "TIME UP",
+        "en-GB": "Time Up",
+        "fr-FR": "Time Up",
+        "fr-CA": "Time Up",
+        "de-DE": "Time Up",
+        "nl-NL": "Time Up",
+        "it-IT": "Time Up",
+        "pt-PT": "Time Up",
+        "pt-BR": "Time Up",
+        "es-ES": "Time Up",
+        "es-MX": "Time Up",
+        "ru-RU": "Time Up",
+        "ko-KR": "Time Up",
+        "zh-CN": "Time Up",
+        "zh-TW": "Time Up"
+      }
+    },
+    {
+      "id": "fe97cda6-f552-4e3a-93b3-cd77b8251646",
+      "name": {
+        "en-US": "\"Up\"",
+        "ja-JP": "UP",
+        "en-GB": "\"Up\"",
+        "fr-FR": "\"Up\"",
+        "fr-CA": "\"Up\"",
+        "de-DE": "\"Up\"",
+        "nl-NL": "\"Up\"",
+        "it-IT": "\"Up\"",
+        "pt-PT": "\"Up\"",
+        "pt-BR": "\"Up\"",
+        "es-ES": "\"Up\"",
+        "es-MX": "\"Up\"",
+        "ru-RU": "\"Up\"",
+        "ko-KR": "\"Up\"",
+        "zh-CN": "\"Up\"",
+        "zh-TW": "\"Up\""
+      }
+    },
+    {
+      "id": "72136e13-bea4-40e4-80fc-ab0de68ecb21",
+      "name": {
+        "en-US": "\"Down\"",
+        "ja-JP": "DOWN",
+        "en-GB": "\"Down\"",
+        "fr-FR": "\"Down\"",
+        "fr-CA": "\"Down\"",
+        "de-DE": "\"Down\"",
+        "nl-NL": "\"Down\"",
+        "it-IT": "\"Down\"",
+        "pt-PT": "\"Down\"",
+        "pt-BR": "\"Down\"",
+        "es-ES": "\"Down\"",
+        "es-MX": "\"Down\"",
+        "ru-RU": "\"Down\"",
+        "ko-KR": "\"Down\"",
+        "zh-CN": "\"Down\"",
+        "zh-TW": "\"Down\""
+      }
+    },
+    {
+      "id": "d19773f6-756b-4340-8952-8f21b3414d21",
+      "name": {
+        "en-US": "\"Left\"",
+        "ja-JP": "LEFT",
+        "en-GB": "\"Left\"",
+        "fr-FR": "\"Left\"",
+        "fr-CA": "\"Left\"",
+        "de-DE": "\"Left\"",
+        "nl-NL": "\"Left\"",
+        "it-IT": "\"Left\"",
+        "pt-PT": "\"Left\"",
+        "pt-BR": "\"Left\"",
+        "es-ES": "\"Left\"",
+        "es-MX": "\"Left\"",
+        "ru-RU": "\"Left\"",
+        "ko-KR": "\"Left\"",
+        "zh-CN": "\"Left\"",
+        "zh-TW": "\"Left\""
+      }
+    },
+    {
+      "id": "44b4195a-a344-459b-be82-10ca6419f85e",
+      "name": {
+        "en-US": "\"Right\"",
+        "ja-JP": "RIGHT",
+        "en-GB": "\"Right\"",
+        "fr-FR": "\"Right\"",
+        "fr-CA": "\"Right\"",
+        "de-DE": "\"Right\"",
+        "nl-NL": "\"Right\"",
+        "it-IT": "\"Right\"",
+        "pt-PT": "\"Right\"",
+        "pt-BR": "\"Right\"",
+        "es-ES": "\"Right\"",
+        "es-MX": "\"Right\"",
+        "ru-RU": "\"Right\"",
+        "ko-KR": "\"Right\"",
+        "zh-CN": "\"Right\"",
+        "zh-TW": "\"Right\""
+      }
+    },
+    {
+      "id": "4866e146-14d2-4c48-a13c-1e4e4b12965c",
+      "name": {
+        "en-US": "\"Open\"",
+        "ja-JP": "OPEN",
+        "en-GB": "\"Open\"",
+        "fr-FR": "\"Open\"",
+        "fr-CA": "\"Open\"",
+        "de-DE": "\"Open\"",
+        "nl-NL": "\"Open\"",
+        "it-IT": "\"Open\"",
+        "pt-PT": "\"Open\"",
+        "pt-BR": "\"Open\"",
+        "es-ES": "\"Open\"",
+        "es-MX": "\"Open\"",
+        "ru-RU": "\"Open\"",
+        "ko-KR": "\"Open\"",
+        "zh-CN": "\"Open\"",
+        "zh-TW": "\"Open\""
+      }
+    },
+    {
+      "id": "8e998ba3-6c27-49a8-a8f6-5fb016051c60",
+      "name": {
+        "en-US": "\"Close\"",
+        "ja-JP": "CLOSE",
+        "en-GB": "\"Close\"",
+        "fr-FR": "\"Close\"",
+        "fr-CA": "\"Close\"",
+        "de-DE": "\"Close\"",
+        "nl-NL": "\"Close\"",
+        "it-IT": "\"Close\"",
+        "pt-PT": "\"Close\"",
+        "pt-BR": "\"Close\"",
+        "es-ES": "\"Close\"",
+        "es-MX": "\"Close\"",
+        "ru-RU": "\"Close\"",
+        "ko-KR": "\"Close\"",
+        "zh-CN": "\"Close\"",
+        "zh-TW": "\"Close\""
+      }
+    }
+  ],
+  "localesWithDistinctTrackNames": [
+    "ja-JP",
+    "en-US"
+  ],
+  "localesWithDistinctTrackNamesCount": 2
+}

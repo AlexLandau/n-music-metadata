@@ -1,0 +1,74 @@
+{
+  "nameEnUS": "Pinball",
+  "id": "91485b2a-735d-4e88-895d-39a3aba3d89d",
+  "hardware": "Nintendo Entertainment System",
+  "lastRetrieved": 1781313182,
+  "name": {
+    "en-US": "Pinball",
+    "ja-JP": "ピンボール",
+    "en-GB": "Pinball",
+    "fr-FR": "Pinball",
+    "fr-CA": "Pinball",
+    "de-DE": "Pinball",
+    "nl-NL": "Pinball",
+    "it-IT": "Pinball",
+    "pt-PT": "Pinball",
+    "pt-BR": "Pinball",
+    "es-ES": "Pinball",
+    "es-MX": "Pinball",
+    "ru-RU": "Pinball",
+    "ko-KR": "Pinball",
+    "zh-CN": "Pinball",
+    "zh-TW": "Pinball"
+  },
+  "allTracksPlaylistId": "1a891883-2141-47bf-8b04-af427046ed83",
+  "tracks": [
+    {
+      "id": "bc5532ea-7c6d-4f3f-b8f7-6b59610a23d8",
+      "name": {
+        "en-US": "Title BGM",
+        "ja-JP": "タイトルBGM",
+        "en-GB": "Title BGM",
+        "fr-FR": "Title BGM",
+        "fr-CA": "Title BGM",
+        "de-DE": "Title BGM",
+        "nl-NL": "Title BGM",
+        "it-IT": "Title BGM",
+        "pt-PT": "Title BGM",
+        "pt-BR": "Title BGM",
+        "es-ES": "Title BGM",
+        "es-MX": "Title BGM",
+        "ru-RU": "Title BGM",
+        "ko-KR": "Title BGM",
+        "zh-CN": "Title BGM",
+        "zh-TW": "Title BGM"
+      }
+    },
+    {
+      "id": "280ffe27-2f9b-4d07-bce4-2079f7d8b00e",
+      "name": {
+        "en-US": "Fanfare",
+        "ja-JP": "ファンファーレ",
+        "en-GB": "Fanfare",
+        "fr-FR": "Fanfare",
+        "fr-CA": "Fanfare",
+        "de-DE": "Fanfare",
+        "nl-NL": "Fanfare",
+        "it-IT": "Fanfare",
+        "pt-PT": "Fanfare",
+        "pt-BR": "Fanfare",
+        "es-ES": "Fanfare",
+        "es-MX": "Fanfare",
+        "ru-RU": "Fanfare",
+        "ko-KR": "Fanfare",
+        "zh-CN": "Fanfare",
+        "zh-TW": "Fanfare"
+      }
+    }
+  ],
+  "localesWithDistinctTrackNames": [
+    "ja-JP",
+    "en-US"
+  ],
+  "localesWithDistinctTrackNamesCount": 2
+}

@@ -1,0 +1,200 @@
+{
+  "nameEnUS": "Gomoku Narabe Renju",
+  "id": "2971bd39-9eba-4a48-bb34-d0849dd30619",
+  "hardware": "Nintendo Entertainment System",
+  "lastRetrieved": 1781313307,
+  "name": {
+    "en-US": "Gomoku Narabe Renju",
+    "ja-JP": "五目ならべ 連珠",
+    "en-GB": "Gomoku Narabe Renju",
+    "fr-FR": "Gomoku Narabe Renju",
+    "fr-CA": "Gomoku Narabe Renju",
+    "de-DE": "Gomoku Narabe Renju",
+    "nl-NL": "Gomoku Narabe Renju",
+    "it-IT": "Gomoku Narabe Renju",
+    "pt-PT": "Gomoku Narabe Renju",
+    "pt-BR": "Gomoku Narabe Renju",
+    "es-ES": "Gomoku Narabe Renju",
+    "es-MX": "Gomoku Narabe Renju",
+    "ru-RU": "Gomoku Narabe Renju",
+    "ko-KR": "Gomoku Narabe Renju",
+    "zh-CN": "Gomoku Narabe Renju",
+    "zh-TW": "Gomoku Narabe Renju"
+  },
+  "allTracksPlaylistId": "62be7ca1-4787-4ac2-a1a3-64f27388b2d2",
+  "tracks": [
+    {
+      "id": "d765a192-20a2-46cb-9c94-59a9dfb63be2",
+      "name": {
+        "en-US": "Title BGM",
+        "ja-JP": "タイトルBGM",
+        "en-GB": "Title BGM",
+        "fr-FR": "Title BGM",
+        "fr-CA": "Title BGM",
+        "de-DE": "Title BGM",
+        "nl-NL": "Title BGM",
+        "it-IT": "Title BGM",
+        "pt-PT": "Title BGM",
+        "pt-BR": "Title BGM",
+        "es-ES": "Title BGM",
+        "es-MX": "Title BGM",
+        "ru-RU": "Title BGM",
+        "ko-KR": "Title BGM",
+        "zh-CN": "Title BGM",
+        "zh-TW": "Title BGM"
+      }
+    },
+    {
+      "id": "cc850986-ed85-4ec0-8cc9-71ea8b37c56b",
+      "name": {
+        "en-US": "Match Start",
+        "ja-JP": "対局開始",
+        "en-GB": "Match Start",
+        "fr-FR": "Match Start",
+        "fr-CA": "Match Start",
+        "de-DE": "Match Start",
+        "nl-NL": "Match Start",
+        "it-IT": "Match Start",
+        "pt-PT": "Match Start",
+        "pt-BR": "Match Start",
+        "es-ES": "Match Start",
+        "es-MX": "Match Start",
+        "ru-RU": "Match Start",
+        "ko-KR": "Match Start",
+        "zh-CN": "Match Start",
+        "zh-TW": "Match Start"
+      }
+    },
+    {
+      "id": "2338f718-28d2-4e0e-9988-58a740677ae7",
+      "name": {
+        "en-US": "Board Setup",
+        "ja-JP": "基本珠型",
+        "en-GB": "Board Setup",
+        "fr-FR": "Board Setup",
+        "fr-CA": "Board Setup",
+        "de-DE": "Board Setup",
+        "nl-NL": "Board Setup",
+        "it-IT": "Board Setup",
+        "pt-PT": "Board Setup",
+        "pt-BR": "Board Setup",
+        "es-ES": "Board Setup",
+        "es-MX": "Board Setup",
+        "ru-RU": "Board Setup",
+        "ko-KR": "Board Setup",
+        "zh-CN": "Board Setup",
+        "zh-TW": "Board Setup"
+      }
+    },
+    {
+      "id": "b05b0906-d35d-4563-8e20-b681b4d285be",
+      "name": {
+        "en-US": "Win",
+        "ja-JP": "勝ち",
+        "en-GB": "Win",
+        "fr-FR": "Win",
+        "fr-CA": "Win",
+        "de-DE": "Win",
+        "nl-NL": "Win",
+        "it-IT": "Win",
+        "pt-PT": "Win",
+        "pt-BR": "Win",
+        "es-ES": "Win",
+        "es-MX": "Win",
+        "ru-RU": "Win",
+        "ko-KR": "Win",
+        "zh-CN": "Win",
+        "zh-TW": "Win"
+      }
+    },
+    {
+      "id": "65b0e778-d3fc-4656-958b-18f052ce5485",
+      "name": {
+        "en-US": "Loss",
+        "ja-JP": "負け",
+        "en-GB": "Loss",
+        "fr-FR": "Loss",
+        "fr-CA": "Loss",
+        "de-DE": "Loss",
+        "nl-NL": "Loss",
+        "it-IT": "Loss",
+        "pt-PT": "Loss",
+        "pt-BR": "Loss",
+        "es-ES": "Loss",
+        "es-MX": "Loss",
+        "ru-RU": "Loss",
+        "ko-KR": "Loss",
+        "zh-CN": "Loss",
+        "zh-TW": "Loss"
+      }
+    },
+    {
+      "id": "3c385022-bc79-4312-8ed7-a27674b28b7a",
+      "name": {
+        "en-US": "Draw",
+        "ja-JP": "引き分け",
+        "en-GB": "Draw",
+        "fr-FR": "Draw",
+        "fr-CA": "Draw",
+        "de-DE": "Draw",
+        "nl-NL": "Draw",
+        "it-IT": "Draw",
+        "pt-PT": "Draw",
+        "pt-BR": "Draw",
+        "es-ES": "Draw",
+        "es-MX": "Draw",
+        "ru-RU": "Draw",
+        "ko-KR": "Draw",
+        "zh-CN": "Draw",
+        "zh-TW": "Draw"
+      }
+    },
+    {
+      "id": "657da431-fbd7-4600-b8b5-ab3088ce8f4d",
+      "name": {
+        "en-US": "Six Matches Complete",
+        "ja-JP": "6局終了",
+        "en-GB": "Six Matches Complete",
+        "fr-FR": "Six Matches Complete",
+        "fr-CA": "Six Matches Complete",
+        "de-DE": "Six Matches Complete",
+        "nl-NL": "Six Matches Complete",
+        "it-IT": "Six Matches Complete",
+        "pt-PT": "Six Matches Complete",
+        "pt-BR": "Six Matches Complete",
+        "es-ES": "Six Matches Complete",
+        "es-MX": "Six Matches Complete",
+        "ru-RU": "Six Matches Complete",
+        "ko-KR": "Six Matches Complete",
+        "zh-CN": "Six Matches Complete",
+        "zh-TW": "Six Matches Complete"
+      }
+    },
+    {
+      "id": "f24d0fe8-241e-436f-b2ba-a8e6fb728ce7",
+      "name": {
+        "en-US": "Six Matches Complete (All Wins)",
+        "ja-JP": "6局終了（全勝）",
+        "en-GB": "Six Matches Complete (All Wins)",
+        "fr-FR": "Six Matches Complete (All Wins)",
+        "fr-CA": "Six Matches Complete (All Wins)",
+        "de-DE": "Six Matches Complete (All Wins)",
+        "nl-NL": "Six Matches Complete (All Wins)",
+        "it-IT": "Six Matches Complete (All Wins)",
+        "pt-PT": "Six Matches Complete (All Wins)",
+        "pt-BR": "Six Matches Complete (All Wins)",
+        "es-ES": "Six Matches Complete (All Wins)",
+        "es-MX": "Six Matches Complete (All Wins)",
+        "ru-RU": "Six Matches Complete (All Wins)",
+        "ko-KR": "Six Matches Complete (All Wins)",
+        "zh-CN": "Six Matches Complete (All Wins)",
+        "zh-TW": "Six Matches Complete (All Wins)"
+      }
+    }
+  ],
+  "localesWithDistinctTrackNames": [
+    "ja-JP",
+    "en-US"
+  ],
+  "localesWithDistinctTrackNamesCount": 2
+}

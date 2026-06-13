@@ -1,0 +1,326 @@
+{
+  "nameEnUS": "F-ZERO",
+  "id": "e534827d-d045-4a0d-b5c1-b95bd31d514e",
+  "hardware": "Super Nintendo Entertainment System",
+  "lastRetrieved": 1781313824,
+  "name": {
+    "en-US": "F-ZERO",
+    "ja-JP": "F-ZERO",
+    "en-GB": "F-ZERO",
+    "fr-FR": "F-ZERO",
+    "fr-CA": "F-ZERO",
+    "de-DE": "F-ZERO",
+    "nl-NL": "F-ZERO",
+    "it-IT": "F-ZERO",
+    "pt-PT": "F-ZERO",
+    "pt-BR": "F-ZERO",
+    "es-ES": "F-ZERO",
+    "es-MX": "F-ZERO",
+    "ru-RU": "F-ZERO",
+    "ko-KR": "F-ZERO",
+    "zh-CN": "F-ZERO",
+    "zh-TW": "F-ZERO"
+  },
+  "allTracksPlaylistId": "9c690bdf-fc85-41df-97d6-0b4730cf3b80",
+  "tracks": [
+    {
+      "id": "13539d52-9726-4756-9c24-49bd919d276a",
+      "name": {
+        "en-US": "Opening",
+        "ja-JP": "OPENING",
+        "en-GB": "Opening",
+        "fr-FR": "Opening",
+        "fr-CA": "Opening",
+        "de-DE": "Opening",
+        "nl-NL": "Opening",
+        "it-IT": "Opening",
+        "pt-PT": "Opening",
+        "pt-BR": "Opening",
+        "es-ES": "Opening",
+        "es-MX": "Opening",
+        "ru-RU": "Opening",
+        "ko-KR": "Opening",
+        "zh-CN": "Opening",
+        "zh-TW": "Opening"
+      }
+    },
+    {
+      "id": "1ebe04f1-e82d-4e3d-92b0-849b8a92bd26",
+      "name": {
+        "en-US": "Mute City",
+        "ja-JP": "MUTE CITY",
+        "en-GB": "Mute City",
+        "fr-FR": "Mute City",
+        "fr-CA": "Mute City",
+        "de-DE": "Mute City",
+        "nl-NL": "Mute City",
+        "it-IT": "Mute City",
+        "pt-PT": "Mute City",
+        "pt-BR": "Mute City",
+        "es-ES": "Mute City",
+        "es-MX": "Mute City",
+        "ru-RU": "Mute City",
+        "ko-KR": "Mute City",
+        "zh-CN": "Mute City",
+        "zh-TW": "Mute City"
+      }
+    },
+    {
+      "id": "527d01fb-a795-4206-a88e-69a263b2b137",
+      "name": {
+        "en-US": "Big Blue",
+        "ja-JP": "BIG BLUE",
+        "en-GB": "Big Blue",
+        "fr-FR": "Big Blue",
+        "fr-CA": "Big Blue",
+        "de-DE": "Big Blue",
+        "nl-NL": "Big Blue",
+        "it-IT": "Big Blue",
+        "pt-PT": "Big Blue",
+        "pt-BR": "Big Blue",
+        "es-ES": "Big Blue",
+        "es-MX": "Big Blue",
+        "ru-RU": "Big Blue",
+        "ko-KR": "Big Blue",
+        "zh-CN": "Big Blue",
+        "zh-TW": "Big Blue"
+      }
+    },
+    {
+      "id": "9af3cd62-a072-440a-ab9e-09337f30224f",
+      "name": {
+        "en-US": "Sand Ocean",
+        "ja-JP": "SAND OCEAN",
+        "en-GB": "Sand Ocean",
+        "fr-FR": "Sand Ocean",
+        "fr-CA": "Sand Ocean",
+        "de-DE": "Sand Ocean",
+        "nl-NL": "Sand Ocean",
+        "it-IT": "Sand Ocean",
+        "pt-PT": "Sand Ocean",
+        "pt-BR": "Sand Ocean",
+        "es-ES": "Sand Ocean",
+        "es-MX": "Sand Ocean",
+        "ru-RU": "Sand Ocean",
+        "ko-KR": "Sand Ocean",
+        "zh-CN": "Sand Ocean",
+        "zh-TW": "Sand Ocean"
+      }
+    },
+    {
+      "id": "e7e04053-2acb-4963-a0db-adccdf3ba086",
+      "name": {
+        "en-US": "Death Wind",
+        "ja-JP": "DEATH WIND",
+        "en-GB": "Death Wind",
+        "fr-FR": "Death Wind",
+        "fr-CA": "Death Wind",
+        "de-DE": "Death Wind",
+        "nl-NL": "Death Wind",
+        "it-IT": "Death Wind",
+        "pt-PT": "Death Wind",
+        "pt-BR": "Death Wind",
+        "es-ES": "Death Wind",
+        "es-MX": "Death Wind",
+        "ru-RU": "Death Wind",
+        "ko-KR": "Death Wind",
+        "zh-CN": "Death Wind",
+        "zh-TW": "Death Wind"
+      }
+    },
+    {
+      "id": "f89d4537-94c3-480f-a3c8-cd0b46d2539f",
+      "name": {
+        "en-US": "Silence",
+        "ja-JP": "SILENCE",
+        "en-GB": "Silence",
+        "fr-FR": "Silence",
+        "fr-CA": "Silence",
+        "de-DE": "Silence",
+        "nl-NL": "Silence",
+        "it-IT": "Silence",
+        "pt-PT": "Silence",
+        "pt-BR": "Silence",
+        "es-ES": "Silence",
+        "es-MX": "Silence",
+        "ru-RU": "Silence",
+        "ko-KR": "Silence",
+        "zh-CN": "Silence",
+        "zh-TW": "Silence"
+      }
+    },
+    {
+      "id": "daad01fe-6f4a-4316-89e9-fe75d1cb8abd",
+      "name": {
+        "en-US": "Port Town",
+        "ja-JP": "PORT TOWN",
+        "en-GB": "Port Town",
+        "fr-FR": "Port Town",
+        "fr-CA": "Port Town",
+        "de-DE": "Port Town",
+        "nl-NL": "Port Town",
+        "it-IT": "Port Town",
+        "pt-PT": "Port Town",
+        "pt-BR": "Port Town",
+        "es-ES": "Port Town",
+        "es-MX": "Port Town",
+        "ru-RU": "Port Town",
+        "ko-KR": "Port Town",
+        "zh-CN": "Port Town",
+        "zh-TW": "Port Town"
+      }
+    },
+    {
+      "id": "3a653369-9c75-4c8d-bb28-618a3470b8f4",
+      "name": {
+        "en-US": "Red Canyon",
+        "ja-JP": "RED CANYON",
+        "en-GB": "Red Canyon",
+        "fr-FR": "Red Canyon",
+        "fr-CA": "Red Canyon",
+        "de-DE": "Red Canyon",
+        "nl-NL": "Red Canyon",
+        "it-IT": "Red Canyon",
+        "pt-PT": "Red Canyon",
+        "pt-BR": "Red Canyon",
+        "es-ES": "Red Canyon",
+        "es-MX": "Red Canyon",
+        "ru-RU": "Red Canyon",
+        "ko-KR": "Red Canyon",
+        "zh-CN": "Red Canyon",
+        "zh-TW": "Red Canyon"
+      }
+    },
+    {
+      "id": "6ae444f8-0a85-480f-88d5-cfeb85d5bb17",
+      "name": {
+        "en-US": "White Land I",
+        "ja-JP": "WHITE LAND I",
+        "en-GB": "White Land I",
+        "fr-FR": "White Land I",
+        "fr-CA": "White Land I",
+        "de-DE": "White Land I",
+        "nl-NL": "White Land I",
+        "it-IT": "White Land I",
+        "pt-PT": "White Land I",
+        "pt-BR": "White Land I",
+        "es-ES": "White Land I",
+        "es-MX": "White Land I",
+        "ru-RU": "White Land I",
+        "ko-KR": "White Land I",
+        "zh-CN": "White Land I",
+        "zh-TW": "White Land I"
+      }
+    },
+    {
+      "id": "c867030e-0445-458e-b65b-ed0eb6ffb02d",
+      "name": {
+        "en-US": "White Land II",
+        "ja-JP": "WHITE LAND II",
+        "en-GB": "White Land II",
+        "fr-FR": "White Land II",
+        "fr-CA": "White Land II",
+        "de-DE": "White Land II",
+        "nl-NL": "White Land II",
+        "it-IT": "White Land II",
+        "pt-PT": "White Land II",
+        "pt-BR": "White Land II",
+        "es-ES": "White Land II",
+        "es-MX": "White Land II",
+        "ru-RU": "White Land II",
+        "ko-KR": "White Land II",
+        "zh-CN": "White Land II",
+        "zh-TW": "White Land II"
+      }
+    },
+    {
+      "id": "9c5e2da2-dad1-450b-bb0c-cc2602fe6c1f",
+      "name": {
+        "en-US": "Fire Field",
+        "ja-JP": "FIRE FIELD",
+        "en-GB": "Fire Field",
+        "fr-FR": "Fire Field",
+        "fr-CA": "Fire Field",
+        "de-DE": "Fire Field",
+        "nl-NL": "Fire Field",
+        "it-IT": "Fire Field",
+        "pt-PT": "Fire Field",
+        "pt-BR": "Fire Field",
+        "es-ES": "Fire Field",
+        "es-MX": "Fire Field",
+        "ru-RU": "Fire Field",
+        "ko-KR": "Fire Field",
+        "zh-CN": "Fire Field",
+        "zh-TW": "Fire Field"
+      }
+    },
+    {
+      "id": "77347373-e309-45af-a9a0-600a7afca6bc",
+      "name": {
+        "en-US": "Results",
+        "ja-JP": "SELECT",
+        "en-GB": "Results",
+        "fr-FR": "Results",
+        "fr-CA": "Results",
+        "de-DE": "Results",
+        "nl-NL": "Results",
+        "it-IT": "Results",
+        "pt-PT": "Results",
+        "pt-BR": "Results",
+        "es-ES": "Results",
+        "es-MX": "Results",
+        "ru-RU": "Results",
+        "ko-KR": "Results",
+        "zh-CN": "Results",
+        "zh-TW": "Results"
+      }
+    },
+    {
+      "id": "43619f09-e7fd-4a0f-9bcb-61597de9dd0f",
+      "name": {
+        "en-US": "You Lost",
+        "ja-JP": "YOU LOST",
+        "en-GB": "You Lost",
+        "fr-FR": "You Lost",
+        "fr-CA": "You Lost",
+        "de-DE": "You Lost",
+        "nl-NL": "You Lost",
+        "it-IT": "You Lost",
+        "pt-PT": "You Lost",
+        "pt-BR": "You Lost",
+        "es-ES": "You Lost",
+        "es-MX": "You Lost",
+        "ru-RU": "You Lost",
+        "ko-KR": "You Lost",
+        "zh-CN": "You Lost",
+        "zh-TW": "You Lost"
+      }
+    },
+    {
+      "id": "6568d0ab-15c7-4166-83f8-02551f9418f8",
+      "name": {
+        "en-US": "Ending",
+        "ja-JP": "ENDING",
+        "en-GB": "Ending",
+        "fr-FR": "Ending",
+        "fr-CA": "Ending",
+        "de-DE": "Ending",
+        "nl-NL": "Ending",
+        "it-IT": "Ending",
+        "pt-PT": "Ending",
+        "pt-BR": "Ending",
+        "es-ES": "Ending",
+        "es-MX": "Ending",
+        "ru-RU": "Ending",
+        "ko-KR": "Ending",
+        "zh-CN": "Ending",
+        "zh-TW": "Ending"
+      }
+    }
+  ],
+  "localesWithDistinctTrackNames": [
+    "ja-JP",
+    "en-US"
+  ],
+  "localesWithDistinctTrackNamesCount": 2
+}

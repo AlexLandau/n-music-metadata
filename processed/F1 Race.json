@@ -1,0 +1,116 @@
+{
+  "nameEnUS": "F1 Race",
+  "id": "5a474de8-2e18-484c-9416-a00fb50dba9e",
+  "hardware": "Nintendo Entertainment System",
+  "lastRetrieved": 1781313008,
+  "name": {
+    "en-US": "F1 Race",
+    "ja-JP": "F1レース",
+    "en-GB": "F1 Race",
+    "fr-FR": "F1 Race",
+    "fr-CA": "F1 Race",
+    "de-DE": "F1 Race",
+    "nl-NL": "F1 Race",
+    "it-IT": "F1 Race",
+    "pt-PT": "F1 Race",
+    "pt-BR": "F1 Race",
+    "es-ES": "F1 Race",
+    "es-MX": "F1 Race",
+    "ru-RU": "F1 Race",
+    "ko-KR": "F1 Race",
+    "zh-CN": "F1 Race",
+    "zh-TW": "F1 Race"
+  },
+  "allTracksPlaylistId": "0fd5aa3a-ceef-4892-97bf-0961e817b895",
+  "tracks": [
+    {
+      "id": "54360337-2725-4249-92d9-cff8bb5fe657",
+      "name": {
+        "en-US": "Title BGM",
+        "ja-JP": "タイトルBGM",
+        "en-GB": "Title BGM",
+        "fr-FR": "Title BGM",
+        "fr-CA": "Title BGM",
+        "de-DE": "Title BGM",
+        "nl-NL": "Title BGM",
+        "it-IT": "Title BGM",
+        "pt-PT": "Title BGM",
+        "pt-BR": "Title BGM",
+        "es-ES": "Title BGM",
+        "es-MX": "Title BGM",
+        "ru-RU": "Title BGM",
+        "ko-KR": "Title BGM",
+        "zh-CN": "Title BGM",
+        "zh-TW": "Title BGM"
+      }
+    },
+    {
+      "id": "679ce3c4-6144-4299-8aab-96ed55457b86",
+      "name": {
+        "en-US": "Race Start",
+        "ja-JP": "レーススタート",
+        "en-GB": "Race Start",
+        "fr-FR": "Race Start",
+        "fr-CA": "Race Start",
+        "de-DE": "Race Start",
+        "nl-NL": "Race Start",
+        "it-IT": "Race Start",
+        "pt-PT": "Race Start",
+        "pt-BR": "Race Start",
+        "es-ES": "Race Start",
+        "es-MX": "Race Start",
+        "ru-RU": "Race Start",
+        "ko-KR": "Race Start",
+        "zh-CN": "Race Start",
+        "zh-TW": "Race Start"
+      }
+    },
+    {
+      "id": "2f4a8cd1-6e1b-4b90-9ff9-a4dd97994898",
+      "name": {
+        "en-US": "Start Signal",
+        "ja-JP": "スタートシグナル",
+        "en-GB": "Start Signal",
+        "fr-FR": "Start Signal",
+        "fr-CA": "Start Signal",
+        "de-DE": "Start Signal",
+        "nl-NL": "Start Signal",
+        "it-IT": "Start Signal",
+        "pt-PT": "Start Signal",
+        "pt-BR": "Start Signal",
+        "es-ES": "Start Signal",
+        "es-MX": "Start Signal",
+        "ru-RU": "Start Signal",
+        "ko-KR": "Start Signal",
+        "zh-CN": "Start Signal",
+        "zh-TW": "Start Signal"
+      }
+    },
+    {
+      "id": "dadc11a1-1a4a-48e9-9e59-4ed589af23a0",
+      "name": {
+        "en-US": "Game Over",
+        "ja-JP": "ゲームオーバー",
+        "en-GB": "Game Over",
+        "fr-FR": "Game Over",
+        "fr-CA": "Game Over",
+        "de-DE": "Game Over",
+        "nl-NL": "Game Over",
+        "it-IT": "Game Over",
+        "pt-PT": "Game Over",
+        "pt-BR": "Game Over",
+        "es-ES": "Game Over",
+        "es-MX": "Game Over",
+        "ru-RU": "Game Over",
+        "ko-KR": "Game Over",
+        "zh-CN": "Game Over",
+        "zh-TW": "Game Over"
+      }
+    }
+  ],
+  "localesWithDistinctTrackNames": [
+    "ja-JP",
+    "en-US"
+  ],
+  "localesWithDistinctTrackNamesCount": 2
+}

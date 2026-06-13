@@ -3,9 +3,11 @@
 This project exists to collect certain information from Nintendo Music in one place in an easily scriptable format. It
 does not allow users to listen to music or otherwise bypass the need for a Nintendo Switch Online subscription.
 
-Mostly this exists because I think certain nerds would like the information Nintendo Music provides about the names of
-different music tracks in different languages, and organizing it in this way is a nicer way to see it all than manually
-flipping through each language in the app.
+Mostly this exists because I think certain nerds would like the information Nintendo Music provides about the "official"
+names of different music tracks in different languages, and organizing it in this way is a nicer way to see it all than
+manually flipping through each language in the app. (As it turns out, many games effectively only have Japanese and
+English track titles -- understandably, as these track titles are rarely shown to a player in-game -- but see Mario Kart
+World for an example where most tracks are translated into each language.)
 
 This is an unofficial, one-man project with no connection to Nintendo or its affiliates or any other developers or
 rightsholders. Nintendo, Nintendo Music, Nintendo Switch Online, and all other trademarks referenced by the names in

@@ -1,0 +1,326 @@
+{
+  "nameEnUS": "Super Mario Bros. 2",
+  "id": "39ef12b8-5128-4e7c-95b3-e12f22274e51",
+  "hardware": "Nintendo Entertainment System",
+  "lastRetrieved": 1781314007,
+  "name": {
+    "en-US": "Super Mario Bros. 2",
+    "ja-JP": "スーパーマリオUSA",
+    "en-GB": "Super Mario Bros. 2",
+    "fr-FR": "Super Mario Bros. 2",
+    "fr-CA": "Super Mario Bros. 2",
+    "de-DE": "Super Mario Bros. 2",
+    "nl-NL": "Super Mario Bros. 2",
+    "it-IT": "Super Mario Bros. 2",
+    "pt-PT": "Super Mario Bros. 2",
+    "pt-BR": "Super Mario Bros. 2",
+    "es-ES": "Super Mario Bros. 2",
+    "es-MX": "Super Mario Bros. 2",
+    "ru-RU": "Super Mario Bros. 2",
+    "ko-KR": "슈퍼 마리오브라더스 2",
+    "zh-CN": "Super Mario Bros. 2",
+    "zh-TW": "Super Mario Bros. 2"
+  },
+  "allTracksPlaylistId": "bd634f94-b4fa-4b2b-8ab0-01e4b11921e9",
+  "tracks": [
+    {
+      "id": "5de81664-b879-47e9-98a9-63238ec284d4",
+      "name": {
+        "en-US": "Title BGM",
+        "ja-JP": "タイトルBGM",
+        "en-GB": "Title BGM",
+        "fr-FR": "Title BGM",
+        "fr-CA": "Title BGM",
+        "de-DE": "Title BGM",
+        "nl-NL": "Title BGM",
+        "it-IT": "Title BGM",
+        "pt-PT": "Title BGM",
+        "pt-BR": "Title BGM",
+        "es-ES": "Title BGM",
+        "es-MX": "Title BGM",
+        "ru-RU": "Title BGM",
+        "ko-KR": "Title BGM",
+        "zh-CN": "Title BGM",
+        "zh-TW": "Title BGM"
+      }
+    },
+    {
+      "id": "2e9ac249-276c-48e4-b9e0-72dbe56be2cb",
+      "name": {
+        "en-US": "Please Select Player",
+        "ja-JP": "プレイヤーセレクト",
+        "en-GB": "Please Select Player",
+        "fr-FR": "Please Select Player",
+        "fr-CA": "Please Select Player",
+        "de-DE": "Please Select Player",
+        "nl-NL": "Please Select Player",
+        "it-IT": "Please Select Player",
+        "pt-PT": "Please Select Player",
+        "pt-BR": "Please Select Player",
+        "es-ES": "Please Select Player",
+        "es-MX": "Please Select Player",
+        "ru-RU": "Please Select Player",
+        "ko-KR": "Please Select Player",
+        "zh-CN": "Please Select Player",
+        "zh-TW": "Please Select Player"
+      }
+    },
+    {
+      "id": "30c5c8d3-c22b-4a98-900e-38869ab77a14",
+      "name": {
+        "en-US": "Ground BGM",
+        "ja-JP": "地上BGM",
+        "en-GB": "Ground BGM",
+        "fr-FR": "Ground BGM",
+        "fr-CA": "Ground BGM",
+        "de-DE": "Ground BGM",
+        "nl-NL": "Ground BGM",
+        "it-IT": "Ground BGM",
+        "pt-PT": "Ground BGM",
+        "pt-BR": "Ground BGM",
+        "es-ES": "Ground BGM",
+        "es-MX": "Ground BGM",
+        "ru-RU": "Ground BGM",
+        "ko-KR": "Ground BGM",
+        "zh-CN": "Ground BGM",
+        "zh-TW": "Ground BGM"
+      }
+    },
+    {
+      "id": "14145408-663f-4ef3-b827-da9edcf46781",
+      "name": {
+        "en-US": "Underground BGM",
+        "ja-JP": "地下BGM",
+        "en-GB": "Underground BGM",
+        "fr-FR": "Underground BGM",
+        "fr-CA": "Underground BGM",
+        "de-DE": "Underground BGM",
+        "nl-NL": "Underground BGM",
+        "it-IT": "Underground BGM",
+        "pt-PT": "Underground BGM",
+        "pt-BR": "Underground BGM",
+        "es-ES": "Underground BGM",
+        "es-MX": "Underground BGM",
+        "ru-RU": "Underground BGM",
+        "ko-KR": "Underground BGM",
+        "zh-CN": "Underground BGM",
+        "zh-TW": "Underground BGM"
+      }
+    },
+    {
+      "id": "fec431bf-259f-49c4-b108-6d065704ef89",
+      "name": {
+        "en-US": "Sub-Space BGM",
+        "ja-JP": "裏画面BGM",
+        "en-GB": "Sub-Space BGM",
+        "fr-FR": "Sub-Space BGM",
+        "fr-CA": "Sub-Space BGM",
+        "de-DE": "Sub-Space BGM",
+        "nl-NL": "Sub-Space BGM",
+        "it-IT": "Sub-Space BGM",
+        "pt-PT": "Sub-Space BGM",
+        "pt-BR": "Sub-Space BGM",
+        "es-ES": "Sub-Space BGM",
+        "es-MX": "Sub-Space BGM",
+        "ru-RU": "Sub-Space BGM",
+        "ko-KR": "Sub-Space BGM",
+        "zh-CN": "Sub-Space BGM",
+        "zh-TW": "Sub-Space BGM"
+      }
+    },
+    {
+      "id": "5efbec78-2e2c-4ace-a139-26ece3b0840a",
+      "name": {
+        "en-US": "Boss BGM",
+        "ja-JP": "ボス",
+        "en-GB": "Boss BGM",
+        "fr-FR": "Boss BGM",
+        "fr-CA": "Boss BGM",
+        "de-DE": "Boss BGM",
+        "nl-NL": "Boss BGM",
+        "it-IT": "Boss BGM",
+        "pt-PT": "Boss BGM",
+        "pt-BR": "Boss BGM",
+        "es-ES": "Boss BGM",
+        "es-MX": "Boss BGM",
+        "ru-RU": "Boss BGM",
+        "ko-KR": "Boss BGM",
+        "zh-CN": "Boss BGM",
+        "zh-TW": "Boss BGM"
+      }
+    },
+    {
+      "id": "1c39348a-9712-480d-a7ed-6632ad9f03d8",
+      "name": {
+        "en-US": "Invincibility BGM",
+        "ja-JP": "無敵",
+        "en-GB": "Invincibility BGM",
+        "fr-FR": "Invincibility BGM",
+        "fr-CA": "Invincibility BGM",
+        "de-DE": "Invincibility BGM",
+        "nl-NL": "Invincibility BGM",
+        "it-IT": "Invincibility BGM",
+        "pt-PT": "Invincibility BGM",
+        "pt-BR": "Invincibility BGM",
+        "es-ES": "Invincibility BGM",
+        "es-MX": "Invincibility BGM",
+        "ru-RU": "Invincibility BGM",
+        "ko-KR": "Invincibility BGM",
+        "zh-CN": "Invincibility BGM",
+        "zh-TW": "Invincibility BGM"
+      }
+    },
+    {
+      "id": "40d98333-100f-423a-bde7-ddef0182ba4d",
+      "name": {
+        "en-US": "Bonus Chance",
+        "ja-JP": "ボーナススタート",
+        "en-GB": "Bonus Chance",
+        "fr-FR": "Bonus Chance",
+        "fr-CA": "Bonus Chance",
+        "de-DE": "Bonus Chance",
+        "nl-NL": "Bonus Chance",
+        "it-IT": "Bonus Chance",
+        "pt-PT": "Bonus Chance",
+        "pt-BR": "Bonus Chance",
+        "es-ES": "Bonus Chance",
+        "es-MX": "Bonus Chance",
+        "ru-RU": "Bonus Chance",
+        "ko-KR": "Bonus Chance",
+        "zh-CN": "Bonus Chance",
+        "zh-TW": "Bonus Chance"
+      }
+    },
+    {
+      "id": "2431a6f7-be4f-45a6-91e5-d8768b7ed97c",
+      "name": {
+        "en-US": "Bonus Chance: Win",
+        "ja-JP": "当たり",
+        "en-GB": "Bonus Chance: Win",
+        "fr-FR": "Bonus Chance: Win",
+        "fr-CA": "Bonus Chance: Win",
+        "de-DE": "Bonus Chance: Win",
+        "nl-NL": "Bonus Chance: Win",
+        "it-IT": "Bonus Chance: Win",
+        "pt-PT": "Bonus Chance: Win",
+        "pt-BR": "Bonus Chance: Win",
+        "es-ES": "Bonus Chance: Win",
+        "es-MX": "Bonus Chance: Win",
+        "ru-RU": "Bonus Chance: Win",
+        "ko-KR": "Bonus Chance: Win",
+        "zh-CN": "Bonus Chance: Win",
+        "zh-TW": "Bonus Chance: Win"
+      }
+    },
+    {
+      "id": "f1435666-e35b-4dce-95f5-438e705f261b",
+      "name": {
+        "en-US": "Bonus Chance: Lose",
+        "ja-JP": "はずれ",
+        "en-GB": "Bonus Chance: Lose",
+        "fr-FR": "Bonus Chance: Lose",
+        "fr-CA": "Bonus Chance: Lose",
+        "de-DE": "Bonus Chance: Lose",
+        "nl-NL": "Bonus Chance: Lose",
+        "it-IT": "Bonus Chance: Lose",
+        "pt-PT": "Bonus Chance: Lose",
+        "pt-BR": "Bonus Chance: Lose",
+        "es-ES": "Bonus Chance: Lose",
+        "es-MX": "Bonus Chance: Lose",
+        "ru-RU": "Bonus Chance: Lose",
+        "ko-KR": "Bonus Chance: Lose",
+        "zh-CN": "Bonus Chance: Lose",
+        "zh-TW": "Bonus Chance: Lose"
+      }
+    },
+    {
+      "id": "8174105a-f208-4962-ab93-27052a821886",
+      "name": {
+        "en-US": "Course Clear",
+        "ja-JP": "ステージクリア",
+        "en-GB": "Course Clear",
+        "fr-FR": "Course Clear",
+        "fr-CA": "Course Clear",
+        "de-DE": "Course Clear",
+        "nl-NL": "Course Clear",
+        "it-IT": "Course Clear",
+        "pt-PT": "Course Clear",
+        "pt-BR": "Course Clear",
+        "es-ES": "Course Clear",
+        "es-MX": "Course Clear",
+        "ru-RU": "Course Clear",
+        "ko-KR": "Course Clear",
+        "zh-CN": "Course Clear",
+        "zh-TW": "Course Clear"
+      }
+    },
+    {
+      "id": "c88b837d-a731-45cd-a857-663213aa5835",
+      "name": {
+        "en-US": "Final Boss BGM",
+        "ja-JP": "ラストボス",
+        "en-GB": "Final Boss BGM",
+        "fr-FR": "Final Boss BGM",
+        "fr-CA": "Final Boss BGM",
+        "de-DE": "Final Boss BGM",
+        "nl-NL": "Final Boss BGM",
+        "it-IT": "Final Boss BGM",
+        "pt-PT": "Final Boss BGM",
+        "pt-BR": "Final Boss BGM",
+        "es-ES": "Final Boss BGM",
+        "es-MX": "Final Boss BGM",
+        "ru-RU": "Final Boss BGM",
+        "ko-KR": "Final Boss BGM",
+        "zh-CN": "Final Boss BGM",
+        "zh-TW": "Final Boss BGM"
+      }
+    },
+    {
+      "id": "4fc7f3a9-aee7-4bb9-acf3-1758d1da9bc7",
+      "name": {
+        "en-US": "Ending",
+        "ja-JP": "エンディング",
+        "en-GB": "Ending",
+        "fr-FR": "Ending",
+        "fr-CA": "Ending",
+        "de-DE": "Ending",
+        "nl-NL": "Ending",
+        "it-IT": "Ending",
+        "pt-PT": "Ending",
+        "pt-BR": "Ending",
+        "es-ES": "Ending",
+        "es-MX": "Ending",
+        "ru-RU": "Ending",
+        "ko-KR": "Ending",
+        "zh-CN": "Ending",
+        "zh-TW": "Ending"
+      }
+    },
+    {
+      "id": "c6176172-b1a9-4ef1-b6a4-3aad991b9296",
+      "name": {
+        "en-US": "Game Over",
+        "ja-JP": "ゲームオーバー",
+        "en-GB": "Game Over",
+        "fr-FR": "Game Over",
+        "fr-CA": "Game Over",
+        "de-DE": "Game Over",
+        "nl-NL": "Game Over",
+        "it-IT": "Game Over",
+        "pt-PT": "Game Over",
+        "pt-BR": "Game Over",
+        "es-ES": "Game Over",
+        "es-MX": "Game Over",
+        "ru-RU": "Game Over",
+        "ko-KR": "Game Over",
+        "zh-CN": "Game Over",
+        "zh-TW": "Game Over"
+      }
+    }
+  ],
+  "localesWithDistinctTrackNames": [
+    "ja-JP",
+    "en-US"
+  ],
+  "localesWithDistinctTrackNamesCount": 2
+}

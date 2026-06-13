@@ -1,0 +1,410 @@
+{
+  "nameEnUS": "Tetris® (Game Boy)",
+  "id": "7770d07d-98d7-4d79-b821-85c466040938",
+  "hardware": "Game Boy",
+  "lastRetrieved": 1781313878,
+  "name": {
+    "en-US": "Tetris® (Game Boy)",
+    "ja-JP": "Tetris®（ゲームボーイ版）",
+    "en-GB": "Tetris® (Game Boy)",
+    "fr-FR": "Tetris® (Game Boy)",
+    "fr-CA": "Tetris® (Game Boy)",
+    "de-DE": "Tetris® (Game Boy)",
+    "nl-NL": "Tetris® (Game Boy)",
+    "it-IT": "Tetris® (Game Boy)",
+    "pt-PT": "Tetris® (Game Boy)",
+    "pt-BR": "Tetris® (Game Boy)",
+    "es-ES": "Tetris® (Game Boy)",
+    "es-MX": "Tetris® (Game Boy)",
+    "ru-RU": "Tetris® (Game Boy)",
+    "ko-KR": "Tetris® (Game Boy)",
+    "zh-CN": "Tetris® (Game Boy)",
+    "zh-TW": "Tetris® (Game Boy)"
+  },
+  "allTracksPlaylistId": "b0e24ae7-cd49-4381-b730-e59acaa3443d",
+  "tracks": [
+    {
+      "id": "30d9dfdd-7707-46de-95cc-98db04487fb4",
+      "name": {
+        "en-US": "Title Screen",
+        "ja-JP": "タイトル",
+        "en-GB": "Title Screen",
+        "fr-FR": "Title Screen",
+        "fr-CA": "Title Screen",
+        "de-DE": "Title Screen",
+        "nl-NL": "Title Screen",
+        "it-IT": "Title Screen",
+        "pt-PT": "Title Screen",
+        "pt-BR": "Title Screen",
+        "es-ES": "Title Screen",
+        "es-MX": "Title Screen",
+        "ru-RU": "Title Screen",
+        "ko-KR": "Title Screen",
+        "zh-CN": "Title Screen",
+        "zh-TW": "Title Screen"
+      }
+    },
+    {
+      "id": "35411cf6-2358-43ae-8b0b-90e28e5dc1fb",
+      "name": {
+        "en-US": "A-Type (Early Version)",
+        "ja-JP": "A-TYPE (初期バージョン)",
+        "en-GB": "A-Type (Early Version)",
+        "fr-FR": "A-Type (Early Version)",
+        "fr-CA": "A-Type (Early Version)",
+        "de-DE": "A-Type (Early Version)",
+        "nl-NL": "A-Type (Early Version)",
+        "it-IT": "A-Type (Early Version)",
+        "pt-PT": "A-Type (Early Version)",
+        "pt-BR": "A-Type (Early Version)",
+        "es-ES": "A-Type (Early Version)",
+        "es-MX": "A-Type (Early Version)",
+        "ru-RU": "A-Type (Early Version)",
+        "ko-KR": "A-Type (Early Version)",
+        "zh-CN": "A-Type (Early Version)",
+        "zh-TW": "A-Type (Early Version)"
+      }
+    },
+    {
+      "id": "7e232803-f559-4c72-a746-757988a06240",
+      "name": {
+        "en-US": "A-Type",
+        "ja-JP": "A-TYPE",
+        "en-GB": "A-Type",
+        "fr-FR": "A-Type",
+        "fr-CA": "A-Type",
+        "de-DE": "A-Type",
+        "nl-NL": "A-Type",
+        "it-IT": "A-Type",
+        "pt-PT": "A-Type",
+        "pt-BR": "A-Type",
+        "es-ES": "A-Type",
+        "es-MX": "A-Type",
+        "ru-RU": "A-Type",
+        "ko-KR": "A-Type",
+        "zh-CN": "A-Type",
+        "zh-TW": "A-Type"
+      }
+    },
+    {
+      "id": "fd83cf0c-c612-425d-8006-39d89f7e9c2b",
+      "name": {
+        "en-US": "B-Type",
+        "ja-JP": "B-TYPE",
+        "en-GB": "B-Type",
+        "fr-FR": "B-Type",
+        "fr-CA": "B-Type",
+        "de-DE": "B-Type",
+        "nl-NL": "B-Type",
+        "it-IT": "B-Type",
+        "pt-PT": "B-Type",
+        "pt-BR": "B-Type",
+        "es-ES": "B-Type",
+        "es-MX": "B-Type",
+        "ru-RU": "B-Type",
+        "ko-KR": "B-Type",
+        "zh-CN": "B-Type",
+        "zh-TW": "B-Type"
+      }
+    },
+    {
+      "id": "da6d84fe-068d-497e-a495-39628ed48619",
+      "name": {
+        "en-US": "C-Type",
+        "ja-JP": "C-TYPE",
+        "en-GB": "C-Type",
+        "fr-FR": "C-Type",
+        "fr-CA": "C-Type",
+        "de-DE": "C-Type",
+        "nl-NL": "C-Type",
+        "it-IT": "C-Type",
+        "pt-PT": "C-Type",
+        "pt-BR": "C-Type",
+        "es-ES": "C-Type",
+        "es-MX": "C-Type",
+        "ru-RU": "C-Type",
+        "ko-KR": "C-Type",
+        "zh-CN": "C-Type",
+        "zh-TW": "C-Type"
+      }
+    },
+    {
+      "id": "8c387ec7-f96c-435a-98f6-ffc2cff2c24f",
+      "name": {
+        "en-US": "25 Lines Cleared",
+        "ja-JP": "25ラインクリア",
+        "en-GB": "25 Lines Cleared",
+        "fr-FR": "25 Lines Cleared",
+        "fr-CA": "25 Lines Cleared",
+        "de-DE": "25 Lines Cleared",
+        "nl-NL": "25 Lines Cleared",
+        "it-IT": "25 Lines Cleared",
+        "pt-PT": "25 Lines Cleared",
+        "pt-BR": "25 Lines Cleared",
+        "es-ES": "25 Lines Cleared",
+        "es-MX": "25 Lines Cleared",
+        "ru-RU": "25 Lines Cleared",
+        "ko-KR": "25 Lines Cleared",
+        "zh-CN": "25 Lines Cleared",
+        "zh-TW": "25 Lines Cleared"
+      }
+    },
+    {
+      "id": "10894436-9187-4948-a56e-24839b8bcc70",
+      "name": {
+        "en-US": "Ending: High 0",
+        "ja-JP": "エンディング HIGH 0",
+        "en-GB": "Ending: High 0",
+        "fr-FR": "Ending: High 0",
+        "fr-CA": "Ending: High 0",
+        "de-DE": "Ending: High 0",
+        "nl-NL": "Ending: High 0",
+        "it-IT": "Ending: High 0",
+        "pt-PT": "Ending: High 0",
+        "pt-BR": "Ending: High 0",
+        "es-ES": "Ending: High 0",
+        "es-MX": "Ending: High 0",
+        "ru-RU": "Ending: High 0",
+        "ko-KR": "Ending: High 0",
+        "zh-CN": "Ending: High 0",
+        "zh-TW": "Ending: High 0"
+      }
+    },
+    {
+      "id": "4781bab6-2756-4670-b262-9c7d3fedf016",
+      "name": {
+        "en-US": "Ending: High 1",
+        "ja-JP": "エンディング HIGH 1",
+        "en-GB": "Ending: High 1",
+        "fr-FR": "Ending: High 1",
+        "fr-CA": "Ending: High 1",
+        "de-DE": "Ending: High 1",
+        "nl-NL": "Ending: High 1",
+        "it-IT": "Ending: High 1",
+        "pt-PT": "Ending: High 1",
+        "pt-BR": "Ending: High 1",
+        "es-ES": "Ending: High 1",
+        "es-MX": "Ending: High 1",
+        "ru-RU": "Ending: High 1",
+        "ko-KR": "Ending: High 1",
+        "zh-CN": "Ending: High 1",
+        "zh-TW": "Ending: High 1"
+      }
+    },
+    {
+      "id": "d055d1ec-7619-4965-a68f-2a2a45db11db",
+      "name": {
+        "en-US": "Ending: High 2",
+        "ja-JP": "エンディング HIGH 2",
+        "en-GB": "Ending: High 2",
+        "fr-FR": "Ending: High 2",
+        "fr-CA": "Ending: High 2",
+        "de-DE": "Ending: High 2",
+        "nl-NL": "Ending: High 2",
+        "it-IT": "Ending: High 2",
+        "pt-PT": "Ending: High 2",
+        "pt-BR": "Ending: High 2",
+        "es-ES": "Ending: High 2",
+        "es-MX": "Ending: High 2",
+        "ru-RU": "Ending: High 2",
+        "ko-KR": "Ending: High 2",
+        "zh-CN": "Ending: High 2",
+        "zh-TW": "Ending: High 2"
+      }
+    },
+    {
+      "id": "c1d7a195-4680-41b1-9ad9-5e80044e220e",
+      "name": {
+        "en-US": "Ending: High 3",
+        "ja-JP": "エンディング HIGH 3",
+        "en-GB": "Ending: High 3",
+        "fr-FR": "Ending: High 3",
+        "fr-CA": "Ending: High 3",
+        "de-DE": "Ending: High 3",
+        "nl-NL": "Ending: High 3",
+        "it-IT": "Ending: High 3",
+        "pt-PT": "Ending: High 3",
+        "pt-BR": "Ending: High 3",
+        "es-ES": "Ending: High 3",
+        "es-MX": "Ending: High 3",
+        "ru-RU": "Ending: High 3",
+        "ko-KR": "Ending: High 3",
+        "zh-CN": "Ending: High 3",
+        "zh-TW": "Ending: High 3"
+      }
+    },
+    {
+      "id": "1df6c58b-6bd2-4af3-8c0e-42d09bb1ac6f",
+      "name": {
+        "en-US": "Ending: High 4",
+        "ja-JP": "エンディング HIGH 4",
+        "en-GB": "Ending: High 4",
+        "fr-FR": "Ending: High 4",
+        "fr-CA": "Ending: High 4",
+        "de-DE": "Ending: High 4",
+        "nl-NL": "Ending: High 4",
+        "it-IT": "Ending: High 4",
+        "pt-PT": "Ending: High 4",
+        "pt-BR": "Ending: High 4",
+        "es-ES": "Ending: High 4",
+        "es-MX": "Ending: High 4",
+        "ru-RU": "Ending: High 4",
+        "ko-KR": "Ending: High 4",
+        "zh-CN": "Ending: High 4",
+        "zh-TW": "Ending: High 4"
+      }
+    },
+    {
+      "id": "dc8ff7c8-89a2-4f23-b093-196e00e68719",
+      "name": {
+        "en-US": "Ending: High 5",
+        "ja-JP": "エンディング HIGH 5",
+        "en-GB": "Ending: High 5",
+        "fr-FR": "Ending: High 5",
+        "fr-CA": "Ending: High 5",
+        "de-DE": "Ending: High 5",
+        "nl-NL": "Ending: High 5",
+        "it-IT": "Ending: High 5",
+        "pt-PT": "Ending: High 5",
+        "pt-BR": "Ending: High 5",
+        "es-ES": "Ending: High 5",
+        "es-MX": "Ending: High 5",
+        "ru-RU": "Ending: High 5",
+        "ko-KR": "Ending: High 5",
+        "zh-CN": "Ending: High 5",
+        "zh-TW": "Ending: High 5"
+      }
+    },
+    {
+      "id": "c7f6a7f9-9b99-483a-89de-cf8f227085a2",
+      "name": {
+        "en-US": "Rocket Launch",
+        "ja-JP": "ロケット打ち上げ",
+        "en-GB": "Rocket Launch",
+        "fr-FR": "Rocket Launch",
+        "fr-CA": "Rocket Launch",
+        "de-DE": "Rocket Launch",
+        "nl-NL": "Rocket Launch",
+        "it-IT": "Rocket Launch",
+        "pt-PT": "Rocket Launch",
+        "pt-BR": "Rocket Launch",
+        "es-ES": "Rocket Launch",
+        "es-MX": "Rocket Launch",
+        "ru-RU": "Rocket Launch",
+        "ko-KR": "Rocket Launch",
+        "zh-CN": "Rocket Launch",
+        "zh-TW": "Rocket Launch"
+      }
+    },
+    {
+      "id": "5a581301-f458-4bbd-963d-d12ca8de4e12",
+      "name": {
+        "en-US": "Game Over",
+        "ja-JP": "ゲームオーバー",
+        "en-GB": "Game Over",
+        "fr-FR": "Game Over",
+        "fr-CA": "Game Over",
+        "de-DE": "Game Over",
+        "nl-NL": "Game Over",
+        "it-IT": "Game Over",
+        "pt-PT": "Game Over",
+        "pt-BR": "Game Over",
+        "es-ES": "Game Over",
+        "es-MX": "Game Over",
+        "ru-RU": "Game Over",
+        "ko-KR": "Game Over",
+        "zh-CN": "Game Over",
+        "zh-TW": "Game Over"
+      }
+    },
+    {
+      "id": "177e3e4b-793b-4ea6-8cf9-8a0b45a2a8de",
+      "name": {
+        "en-US": "Name Entry",
+        "ja-JP": "ネームエントリー",
+        "en-GB": "Name Entry",
+        "fr-FR": "Name Entry",
+        "fr-CA": "Name Entry",
+        "de-DE": "Name Entry",
+        "nl-NL": "Name Entry",
+        "it-IT": "Name Entry",
+        "pt-PT": "Name Entry",
+        "pt-BR": "Name Entry",
+        "es-ES": "Name Entry",
+        "es-MX": "Name Entry",
+        "ru-RU": "Name Entry",
+        "ko-KR": "Name Entry",
+        "zh-CN": "Name Entry",
+        "zh-TW": "Name Entry"
+      }
+    },
+    {
+      "id": "cc49da8c-9144-4f9f-89db-820357b49973",
+      "name": {
+        "en-US": "2 Player: Danger",
+        "ja-JP": "2PLAYER：ピンチ",
+        "en-GB": "2 Player: Danger",
+        "fr-FR": "2 Player: Danger",
+        "fr-CA": "2 Player: Danger",
+        "de-DE": "2 Player: Danger",
+        "nl-NL": "2 Player: Danger",
+        "it-IT": "2 Player: Danger",
+        "pt-PT": "2 Player: Danger",
+        "pt-BR": "2 Player: Danger",
+        "es-ES": "2 Player: Danger",
+        "es-MX": "2 Player: Danger",
+        "ru-RU": "2 Player: Danger",
+        "ko-KR": "2 Player: Danger",
+        "zh-CN": "2 Player: Danger",
+        "zh-TW": "2 Player: Danger"
+      }
+    },
+    {
+      "id": "47496311-c51a-46eb-b0d1-82bd8c8fc5a3",
+      "name": {
+        "en-US": "2 Player: Intermission",
+        "ja-JP": "2PLAYER：中間結果",
+        "en-GB": "2 Player: Intermission",
+        "fr-FR": "2 Player: Intermission",
+        "fr-CA": "2 Player: Intermission",
+        "de-DE": "2 Player: Intermission",
+        "nl-NL": "2 Player: Intermission",
+        "it-IT": "2 Player: Intermission",
+        "pt-PT": "2 Player: Intermission",
+        "pt-BR": "2 Player: Intermission",
+        "es-ES": "2 Player: Intermission",
+        "es-MX": "2 Player: Intermission",
+        "ru-RU": "2 Player: Intermission",
+        "ko-KR": "2 Player: Intermission",
+        "zh-CN": "2 Player: Intermission",
+        "zh-TW": "2 Player: Intermission"
+      }
+    },
+    {
+      "id": "3aa79a74-e0e6-481a-a8aa-f827f2740842",
+      "name": {
+        "en-US": "2 Player: Final Results",
+        "ja-JP": "2PLAYER：最終結果",
+        "en-GB": "2 Player: Final Results",
+        "fr-FR": "2 Player: Final Results",
+        "fr-CA": "2 Player: Final Results",
+        "de-DE": "2 Player: Final Results",
+        "nl-NL": "2 Player: Final Results",
+        "it-IT": "2 Player: Final Results",
+        "pt-PT": "2 Player: Final Results",
+        "pt-BR": "2 Player: Final Results",
+        "es-ES": "2 Player: Final Results",
+        "es-MX": "2 Player: Final Results",
+        "ru-RU": "2 Player: Final Results",
+        "ko-KR": "2 Player: Final Results",
+        "zh-CN": "2 Player: Final Results",
+        "zh-TW": "2 Player: Final Results"
+      }
+    }
+  ],
+  "localesWithDistinctTrackNames": [
+    "ja-JP",
+    "en-US"
+  ],
+  "localesWithDistinctTrackNamesCount": 2
+}

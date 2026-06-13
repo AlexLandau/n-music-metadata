@@ -1,0 +1,179 @@
+{
+  "nameEnUS": "Devil World",
+  "id": "213a8358-7eb2-4c48-ae8b-468b00ae9d70",
+  "hardware": "Nintendo Entertainment System",
+  "lastRetrieved": 1781313034,
+  "name": {
+    "en-US": "Devil World",
+    "ja-JP": "デビルワールド",
+    "en-GB": "Devil World",
+    "fr-FR": "Devil World",
+    "fr-CA": "Devil World",
+    "de-DE": "Devil World",
+    "nl-NL": "Devil World",
+    "it-IT": "Devil World",
+    "pt-PT": "Devil World",
+    "pt-BR": "Devil World",
+    "es-ES": "Devil World",
+    "es-MX": "Devil World",
+    "ru-RU": "Devil World",
+    "ko-KR": "Devil World",
+    "zh-CN": "Devil World",
+    "zh-TW": "Devil World"
+  },
+  "allTracksPlaylistId": "a040e1c1-0b87-4c15-85fb-ab77d57c7529",
+  "tracks": [
+    {
+      "id": "36fbe469-35d2-49e1-801f-6ad358978478",
+      "name": {
+        "en-US": "Title BGM",
+        "ja-JP": "タイトルBGM",
+        "en-GB": "Title BGM",
+        "fr-FR": "Title BGM",
+        "fr-CA": "Title BGM",
+        "de-DE": "Title BGM",
+        "nl-NL": "Title BGM",
+        "it-IT": "Title BGM",
+        "pt-PT": "Title BGM",
+        "pt-BR": "Title BGM",
+        "es-ES": "Title BGM",
+        "es-MX": "Title BGM",
+        "ru-RU": "Title BGM",
+        "ko-KR": "Title BGM",
+        "zh-CN": "Title BGM",
+        "zh-TW": "Title BGM"
+      }
+    },
+    {
+      "id": "d07391be-46c4-44a3-97b1-8f342da95202",
+      "name": {
+        "en-US": "Game Start",
+        "ja-JP": "ゲームスタート",
+        "en-GB": "Game Start",
+        "fr-FR": "Game Start",
+        "fr-CA": "Game Start",
+        "de-DE": "Game Start",
+        "nl-NL": "Game Start",
+        "it-IT": "Game Start",
+        "pt-PT": "Game Start",
+        "pt-BR": "Game Start",
+        "es-ES": "Game Start",
+        "es-MX": "Game Start",
+        "ru-RU": "Game Start",
+        "ko-KR": "Game Start",
+        "zh-CN": "Game Start",
+        "zh-TW": "Game Start"
+      }
+    },
+    {
+      "id": "35622e47-cdb3-4ac3-945d-3dbe5182260f",
+      "name": {
+        "en-US": "Ice-Cream Cone Appears",
+        "ja-JP": "ソフトクリーム出現",
+        "en-GB": "Ice-Cream Cone Appears",
+        "fr-FR": "Ice-Cream Cone Appears",
+        "fr-CA": "Ice-Cream Cone Appears",
+        "de-DE": "Ice-Cream Cone Appears",
+        "nl-NL": "Ice-Cream Cone Appears",
+        "it-IT": "Ice-Cream Cone Appears",
+        "pt-PT": "Ice-Cream Cone Appears",
+        "pt-BR": "Ice-Cream Cone Appears",
+        "es-ES": "Ice-Cream Cone Appears",
+        "es-MX": "Ice-Cream Cone Appears",
+        "ru-RU": "Ice-Cream Cone Appears",
+        "ko-KR": "Ice-Cream Cone Appears",
+        "zh-CN": "Ice-Cream Cone Appears",
+        "zh-TW": "Ice-Cream Cone Appears"
+      }
+    },
+    {
+      "id": "e4414d9f-d8cb-416e-b175-d6593acba0a5",
+      "name": {
+        "en-US": "Scene 1 Clear",
+        "ja-JP": "第1場面クリア",
+        "en-GB": "Scene 1 Clear",
+        "fr-FR": "Scene 1 Clear",
+        "fr-CA": "Scene 1 Clear",
+        "de-DE": "Scene 1 Clear",
+        "nl-NL": "Scene 1 Clear",
+        "it-IT": "Scene 1 Clear",
+        "pt-PT": "Scene 1 Clear",
+        "pt-BR": "Scene 1 Clear",
+        "es-ES": "Scene 1 Clear",
+        "es-MX": "Scene 1 Clear",
+        "ru-RU": "Scene 1 Clear",
+        "ko-KR": "Scene 1 Clear",
+        "zh-CN": "Scene 1 Clear",
+        "zh-TW": "Scene 1 Clear"
+      }
+    },
+    {
+      "id": "bc9c6339-d1b0-48e9-a55f-88f7a851795e",
+      "name": {
+        "en-US": "Scene 2 Clear / Bonus Scene Clear",
+        "ja-JP": "第2場面クリア / ボーナス面クリア",
+        "en-GB": "Scene 2 Clear / Bonus Scene Clear",
+        "fr-FR": "Scene 2 Clear / Bonus Scene Clear",
+        "fr-CA": "Scene 2 Clear / Bonus Scene Clear",
+        "de-DE": "Scene 2 Clear / Bonus Scene Clear",
+        "nl-NL": "Scene 2 Clear / Bonus Scene Clear",
+        "it-IT": "Scene 2 Clear / Bonus Scene Clear",
+        "pt-PT": "Scene 2 Clear / Bonus Scene Clear",
+        "pt-BR": "Scene 2 Clear / Bonus Scene Clear",
+        "es-ES": "Scene 2 Clear / Bonus Scene Clear",
+        "es-MX": "Scene 2 Clear / Bonus Scene Clear",
+        "ru-RU": "Scene 2 Clear / Bonus Scene Clear",
+        "ko-KR": "Scene 2 Clear / Bonus Scene Clear",
+        "zh-CN": "Scene 2 Clear / Bonus Scene Clear",
+        "zh-TW": "Scene 2 Clear / Bonus Scene Clear"
+      }
+    },
+    {
+      "id": "ffcc1e92-71cd-4cb3-bf58-245e93dd2131",
+      "name": {
+        "en-US": "Bonus Scene",
+        "ja-JP": "ボーナス面",
+        "en-GB": "Bonus Scene",
+        "fr-FR": "Bonus Scene",
+        "fr-CA": "Bonus Scene",
+        "de-DE": "Bonus Scene",
+        "nl-NL": "Bonus Scene",
+        "it-IT": "Bonus Scene",
+        "pt-PT": "Bonus Scene",
+        "pt-BR": "Bonus Scene",
+        "es-ES": "Bonus Scene",
+        "es-MX": "Bonus Scene",
+        "ru-RU": "Bonus Scene",
+        "ko-KR": "Bonus Scene",
+        "zh-CN": "Bonus Scene",
+        "zh-TW": "Bonus Scene"
+      }
+    },
+    {
+      "id": "50329456-033a-437b-bea4-4a79d5de8ba7",
+      "name": {
+        "en-US": "Game Over",
+        "ja-JP": "ゲームオーバー",
+        "en-GB": "Game Over",
+        "fr-FR": "Game Over",
+        "fr-CA": "Game Over",
+        "de-DE": "Game Over",
+        "nl-NL": "Game Over",
+        "it-IT": "Game Over",
+        "pt-PT": "Game Over",
+        "pt-BR": "Game Over",
+        "es-ES": "Game Over",
+        "es-MX": "Game Over",
+        "ru-RU": "Game Over",
+        "ko-KR": "Game Over",
+        "zh-CN": "Game Over",
+        "zh-TW": "Game Over"
+      }
+    }
+  ],
+  "localesWithDistinctTrackNames": [
+    "ja-JP",
+    "en-US"
+  ],
+  "localesWithDistinctTrackNamesCount": 2
+}
