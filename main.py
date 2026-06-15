@@ -59,7 +59,7 @@ def main():
                 if name not in seen_names:
                     seen_names.add(name)
                     locales_with_distinct_track_names.add(locale)
-        our_data['localesWithDistinctTrackNames'] = list(locales_with_distinct_track_names)
+        our_data['localesWithDistinctTrackNames'] = sorted(locales_with_distinct_track_names)
         our_data['localesWithDistinctTrackNamesCount'] = len(locales_with_distinct_track_names)
         filename = f'processed/{game['name']}.json'
         our_data_text = json.dumps(our_data, indent=2, ensure_ascii=False)

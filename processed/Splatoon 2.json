@@ -2230,19 +2230,19 @@
     }
   ],
   "localesWithDistinctTrackNames": [
-    "fr-FR",
-    "fr-CA",
-    "zh-TW",
-    "ja-JP",
-    "nl-NL",
-    "it-IT",
-    "es-ES",
-    "ru-RU",
-    "ko-KR",
-    "en-US",
     "de-DE",
+    "en-US",
+    "es-ES",
+    "es-MX",
+    "fr-CA",
+    "fr-FR",
+    "it-IT",
+    "ja-JP",
+    "ko-KR",
+    "nl-NL",
+    "ru-RU",
     "zh-CN",
-    "es-MX"
+    "zh-TW"
   ],
   "localesWithDistinctTrackNamesCount": 13
 }

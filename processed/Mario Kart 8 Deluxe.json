@@ -3154,22 +3154,22 @@
     }
   ],
   "localesWithDistinctTrackNames": [
-    "fr-FR",
-    "pt-PT",
-    "fr-CA",
-    "zh-TW",
+    "de-DE",
     "en-GB",
+    "en-US",
+    "es-ES",
+    "es-MX",
+    "fr-CA",
+    "fr-FR",
     "it-IT",
     "ja-JP",
-    "pt-BR",
-    "es-ES",
-    "ru-RU",
-    "nl-NL",
     "ko-KR",
-    "en-US",
-    "de-DE",
+    "nl-NL",
+    "pt-BR",
+    "pt-PT",
+    "ru-RU",
     "zh-CN",
-    "es-MX"
+    "zh-TW"
   ],
   "localesWithDistinctTrackNamesCount": 16
 }

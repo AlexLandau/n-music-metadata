@@ -2440,8 +2440,8 @@
     }
   ],
   "localesWithDistinctTrackNames": [
-    "ja-JP",
-    "en-US"
+    "en-US",
+    "ja-JP"
   ],
   "localesWithDistinctTrackNamesCount": 2
 }

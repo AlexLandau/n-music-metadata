@@ -1411,10 +1411,10 @@
     }
   ],
   "localesWithDistinctTrackNames": [
-    "zh-TW",
-    "ko-KR",
+    "en-US",
     "ja-JP",
-    "en-US"
+    "ko-KR",
+    "zh-TW"
   ],
   "localesWithDistinctTrackNamesCount": 4
 }

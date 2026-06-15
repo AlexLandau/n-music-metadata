@@ -844,21 +844,21 @@
     }
   ],
   "localesWithDistinctTrackNames": [
-    "fr-FR",
-    "pt-PT",
-    "fr-CA",
-    "zh-TW",
-    "en-GB",
-    "ja-JP",
-    "nl-NL",
-    "it-IT",
-    "es-ES",
-    "ru-RU",
-    "pt-BR",
-    "ko-KR",
-    "en-US",
     "de-DE",
-    "es-MX"
+    "en-GB",
+    "en-US",
+    "es-ES",
+    "es-MX",
+    "fr-CA",
+    "fr-FR",
+    "it-IT",
+    "ja-JP",
+    "ko-KR",
+    "nl-NL",
+    "pt-BR",
+    "pt-PT",
+    "ru-RU",
+    "zh-TW"
   ],
   "localesWithDistinctTrackNamesCount": 15
 }
