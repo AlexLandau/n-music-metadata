@@ -1,3 +1,4 @@
 /__pycache__/
 /games-*.json
-
+/last_announcement_check_time.txt
+/last_games_list_load_time-*.txt

@@ -1,7 +1,6 @@
 #!/bin/python3
 
 from datetime import datetime
-import html
 import io
 import json
 import math
@@ -10,20 +9,19 @@ import os.path
 import re
 import subprocess
 import time
-import yaml
 
-# 1 hour for this list that updates frequently
-OUT_OF_DATE_SECONDS = 3600
-
-def load_games_list(locale: str):
-    if not os.path.exists(f'games-{locale}.json'):
-        return download_games_list(locale)
+def load_games_list(locale: str, timestamp: int):
+    last_games_list_load_time = 0
+    load_time_filename = f'last_games_list_load_time-{locale}.txt'
+    if os.path.exists(load_time_filename):
+        with open(load_time_filename) as file:
+            last_games_list_load_time = int(file.read())
+    if timestamp != last_games_list_load_time or not os.path.exists(f'games-{locale}.json'):
+        download_games_list(locale)
+        with open(load_time_filename, mode='w') as file:
+            file.write(str(timestamp))
     with open(f'games-{locale}.json') as file:
-        contents = json.load(file)
-        if datetime.now().timestamp() - contents[0]['lastRetrieved'] > OUT_OF_DATE_SECONDS:
-            return download_games_list(locale)
-        else:
-            return contents
+        return json.load(file)
 
 def download_games_list(locale: str):
     country = locale[3:]
@@ -35,8 +33,6 @@ def download_games_list(locale: str):
         ], capture_output=True)
     outcome.check_returncode()
     json_result = json.loads(outcome.stdout.decode(encoding="utf-8"))
-    for json_item in json_result:
-        json_item['lastRetrieved'] = math.floor(datetime.now().timestamp())
     json_text = json.dumps(json_result, sort_keys=True, indent=2)
     with open(f'games-{locale}.json', mode='w') as file:
         file.write(json_text)

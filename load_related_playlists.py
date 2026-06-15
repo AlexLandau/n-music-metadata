@@ -1,7 +1,6 @@
 #!/bin/python3
 
 from datetime import datetime
-import html
 import io
 import json
 import math
@@ -10,16 +9,21 @@ import os.path
 import re
 import subprocess
 import time
-import yaml
 
-def load_related_playlists(game_id: str, locale: str, force_refresh: bool):
+def load_related_playlists(game_id: str, locale: str, timestamp: int):
     filename = f'related_playlists/{game_id}-{locale}.json'
-    if force_refresh or not os.path.exists(filename):
-        download_related_playlists(game_id, locale)
+    if not os.path.exists(filename):
+        download_related_playlists(game_id, locale, timestamp)
+    with open(filename) as file:
+        loaded = json.load(file)
+        if 'timestamp' in loaded and loaded['timestamp'] == timestamp:
+            return loaded
+    # We've downloaded it, but it's out-of-date
+    download_related_playlists(game_id, locale, timestamp)
     with open(filename) as file:
         return json.load(file)
 
-def download_related_playlists(game_id: str, locale: str):
+def download_related_playlists(game_id: str, locale: str, timestamp: int):
     country = locale[3:]
     print(f"Loading related playlists for {game_id} ({locale})...")
     time.sleep(1.1) # run less than one request per second
@@ -29,7 +33,7 @@ def download_related_playlists(game_id: str, locale: str):
         ], capture_output=True)
     outcome.check_returncode()
     json_result = json.loads(outcome.stdout.decode(encoding="utf-8"))
-    json_result['lastRetrieved'] = math.floor(datetime.now().timestamp())
+    json_result['timestamp'] = timestamp
     json_text = json.dumps(json_result, sort_keys=True, indent=2)
     with open(f'related_playlists/{game_id}-{locale}.json', mode='w') as file:
         file.write(json_text)

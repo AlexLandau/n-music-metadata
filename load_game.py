@@ -1,7 +1,6 @@
 #!/bin/python3
 
 from datetime import datetime
-import html
 import io
 import json
 import math
@@ -10,7 +9,6 @@ import os.path
 import re
 import subprocess
 import time
-import yaml
 
 # Looks like I don't really need this info? Except maybe for the localized names, but I can get those from the whole lists
 
@@ -24,7 +22,6 @@ def download_game_info(game_id: str, locale: str):
         ], capture_output=True)
     outcome.check_returncode()
     json_result = json.loads(outcome.stdout.decode(encoding="utf-8"))
-    json_result['lastRetrieved'] = math.floor(datetime.now().timestamp())
     json_text = json.dumps(json_result, sort_keys=True, indent=2)
     # print(json_text)
     with open(f'games/{game_id}-{locale}.json', mode='w') as file:
