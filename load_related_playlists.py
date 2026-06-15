@@ -25,17 +25,11 @@ def download_related_playlists(game_id: str, locale: str):
     time.sleep(1.1) # run less than one request per second
     outcome = subprocess.run([
             "curl",
-            # "--user-agent",
-            # "JustSomeRandomScripting/0.0.0 ( oporaca@gmail.com )",
             f"https://api.m.nintendo.com/catalog/games/{game_id}/relatedPlaylists?country={country}&lang={locale}&sdkVersion=android-1.4.0_3e8b373-1&membership=BASIC&packageType=dash_cbcs"
         ], capture_output=True)
     outcome.check_returncode()
     json_result = json.loads(outcome.stdout.decode(encoding="utf-8"))
     json_result['lastRetrieved'] = math.floor(datetime.now().timestamp())
     json_text = json.dumps(json_result, sort_keys=True, indent=2)
-    # print(json_text)
     with open(f'related_playlists/{game_id}-{locale}.json', mode='w') as file:
         file.write(json_text)
-
-# download_related_playlists("80e934da-641b-4c06-a899-b90e6ff7a0b1", locale='en-US')
-# download_related_playlists("80e934da-641b-4c06-a899-b90e6ff7a0b1", locale='es-MX')

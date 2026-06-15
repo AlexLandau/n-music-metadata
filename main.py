@@ -63,7 +63,6 @@ def main():
         our_data['localesWithDistinctTrackNamesCount'] = len(locales_with_distinct_track_names)
         filename = f'processed/{game['name']}.json'
         our_data_text = json.dumps(our_data, indent=2, ensure_ascii=False)
-        # print(our_data_text)
         print(f"Collected all data for game {game['name']}")
         with open(filename, mode="w") as file:
             file.write(our_data_text)
