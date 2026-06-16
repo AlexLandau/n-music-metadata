@@ -2,7 +2,7 @@
   "nameEnUS": "Mario Kart World",
   "id": "dbadc5dd-73a5-482d-9aaa-c87b1b64d7dd",
   "hardware": "Nintendo Switch 2",
-  "timestamp": 1780966859,
+  "timestamp": 1781571659,
   "name": {
     "en-US": "Mario Kart World",
     "ja-JP": "マリオカート ワールド",
@@ -2520,6 +2520,321 @@
         "ko-KR": "만든 사람들",
         "zh-CN": "制作人员名单",
         "zh-TW": "工作人員名單"
+      }
+    },
+    {
+      "id": "cfd9a1da-5fca-41dd-a674-058a8e487ffc",
+      "name": {
+        "en-US": "Ground BGM (Latin) (Super Mario Bros.)",
+        "ja-JP": "地上BGM ラテンVer.（スーパーマリオブラザーズ）",
+        "en-GB": "Ground BGM (Latin) (Super Mario Bros.)",
+        "fr-FR": "Ground BGM (Latin) (Super Mario Bros.)",
+        "fr-CA": "Ground BGM (Latin Ver.) (Super Mario Bros.)",
+        "de-DE": "Ground BGM (Latin) (Super Mario Bros.)",
+        "nl-NL": "Ground BGM (Latin) (Super Mario Bros.)",
+        "it-IT": "Ground BGM (Latin) (Super Mario Bros.)",
+        "pt-PT": "Ground BGM (Latin) (Super Mario Bros.)",
+        "pt-BR": "Ground BGM (Latin) (Super Mario Bros.)",
+        "es-ES": "Ground BGM (Latin) (Super Mario Bros.)",
+        "es-MX": "Ground BGM (versión latina) (Super Mario Bros.)",
+        "ru-RU": "Ground BGM (Latin) (Super Mario Bros.)",
+        "ko-KR": "Ground BGM (Latin Ver.) (슈퍼 마리오브라더스)",
+        "zh-CN": "Ground BGM (Latin Ver.) (Super Mario Bros.)",
+        "zh-TW": "Ground BGM (Latin Ver.)（Super Mario Bros.）"
+      }
+    },
+    {
+      "id": "d518ffd4-5511-4b95-85a6-5edc7764681e",
+      "name": {
+        "en-US": "Ground BGM (Acoustic) (Super Mario Bros.)",
+        "ja-JP": "地上BGM アコースティックVer.（スーパーマリオブラザーズ）",
+        "en-GB": "Ground BGM (Acoustic) (Super Mario Bros.)",
+        "fr-FR": "Ground BGM (Acoustic) (Super Mario Bros.)",
+        "fr-CA": "Ground BGM (Acoustic Ver.) (Super Mario Bros.)",
+        "de-DE": "Ground BGM (Acoustic) (Super Mario Bros.)",
+        "nl-NL": "Ground BGM (Acoustic) (Super Mario Bros.)",
+        "it-IT": "Ground BGM (Acoustic) (Super Mario Bros.)",
+        "pt-PT": "Ground BGM (Acoustic) (Super Mario Bros.)",
+        "pt-BR": "Ground BGM (Acoustic) (Super Mario Bros.)",
+        "es-ES": "Ground BGM (Acoustic) (Super Mario Bros.)",
+        "es-MX": "Ground BGM (versión acústica) (Super Mario Bros.)",
+        "ru-RU": "Ground BGM (Acoustic) (Super Mario Bros.)",
+        "ko-KR": "Ground BGM (Acoustic Ver.) (슈퍼 마리오브라더스)",
+        "zh-CN": "Ground BGM (Acoustic Ver.) (Super Mario Bros.)",
+        "zh-TW": "Ground BGM (Acoustic Ver.)（Super Mario Bros.）"
+      }
+    },
+    {
+      "id": "fd84c3dd-75e1-4a06-b453-9d3b539322f2",
+      "name": {
+        "en-US": "Underground BGM (Jazz Fusion) (Super Mario Bros.)",
+        "ja-JP": "地下BGM フュージョンVer.（スーパーマリオブラザーズ）",
+        "en-GB": "Underground BGM (Jazz Fusion) (Super Mario Bros.)",
+        "fr-FR": "Underground BGM (Jazz Fusion) (Super Mario Bros.)",
+        "fr-CA": "Underground BGM (Jazz Fusion Ver.) (Super Mario Bros.)",
+        "de-DE": "Underground BGM (Jazz Fusion) (Super Mario Bros.)",
+        "nl-NL": "Underground BGM (Jazz Fusion) (Super Mario Bros.)",
+        "it-IT": "Underground BGM (Jazz Fusion) (Super Mario Bros.)",
+        "pt-PT": "Underground BGM (Jazz Fusion) (Super Mario Bros.)",
+        "pt-BR": "Underground BGM (Jazz Fusion) (Super Mario Bros.)",
+        "es-ES": "Underground BGM (Jazz Fusion) (Super Mario Bros.)",
+        "es-MX": "Underground BGM (versión jazz fusión) (Super Mario Bros.)",
+        "ru-RU": "Underground BGM (Jazz Fusion) (Super Mario Bros.)",
+        "ko-KR": "Underground BGM (Jazz Fusion Ver.) (슈퍼 마리오브라더스)",
+        "zh-CN": "Underground BGM (Jazz Fusion Ver.) (Super Mario Bros.)",
+        "zh-TW": "Underground BGM (Jazz Fusion Ver.)（Super Mario Bros.）"
+      }
+    },
+    {
+      "id": "0c11fa6b-f6c5-4fa4-8012-3ba17d3df09d",
+      "name": {
+        "en-US": "Underground BGM (Acoustic) (Super Mario Bros.)",
+        "ja-JP": "地下BGM アコースティックVer.（スーパーマリオブラザーズ）",
+        "en-GB": "Underground BGM (Acoustic) (Super Mario Bros.)",
+        "fr-FR": "Underground BGM (Acoustic) (Super Mario Bros.)",
+        "fr-CA": "Underground BGM (Acoustic Ver.) (Super Mario Bros.)",
+        "de-DE": "Underground BGM (Acoustic) (Super Mario Bros.)",
+        "nl-NL": "Underground BGM (Acoustic) (Super Mario Bros.)",
+        "it-IT": "Underground BGM (Acoustic) (Super Mario Bros.)",
+        "pt-PT": "Underground BGM (Acoustic) (Super Mario Bros.)",
+        "pt-BR": "Underground BGM (Acoustic) (Super Mario Bros.)",
+        "es-ES": "Underground BGM (Acoustic) (Super Mario Bros.)",
+        "es-MX": "Underground BGM (versión acústica) (Super Mario Bros.)",
+        "ru-RU": "Underground BGM (Acoustic) (Super Mario Bros.)",
+        "ko-KR": "Underground BGM (Acoustic Ver.) (슈퍼 마리오브라더스)",
+        "zh-CN": "Underground BGM (Acoustic Ver.) (Super Mario Bros.)",
+        "zh-TW": "Underground BGM (Acoustic Ver.)（Super Mario Bros.）"
+      }
+    },
+    {
+      "id": "7a98beb7-814a-4122-be41-5984c127ecc0",
+      "name": {
+        "en-US": "Underwater BGM (Super Mario Bros.)",
+        "ja-JP": "水中BGM（スーパーマリオブラザーズ）",
+        "en-GB": "Underwater BGM (Super Mario Bros.)",
+        "fr-FR": "Underwater BGM (Super Mario Bros.)",
+        "fr-CA": "Underwater BGM (Super Mario Bros.)",
+        "de-DE": "Underwater BGM (Super Mario Bros.)",
+        "nl-NL": "Underwater BGM (Super Mario Bros.)",
+        "it-IT": "Underwater BGM (Super Mario Bros.)",
+        "pt-PT": "Underwater BGM (Super Mario Bros.)",
+        "pt-BR": "Underwater BGM (Super Mario Bros.)",
+        "es-ES": "Underwater BGM (Super Mario Bros.)",
+        "es-MX": "Underwater BGM (Super Mario Bros.)",
+        "ru-RU": "Underwater BGM (Super Mario Bros.)",
+        "ko-KR": "수중 BGM (슈퍼 마리오브라더스)",
+        "zh-CN": "Underwater BGM (Super Mario Bros.)",
+        "zh-TW": "Underwater BGM（Super Mario Bros.）"
+      }
+    },
+    {
+      "id": "b57467b5-f6fe-4060-af53-350cc3f9ff38",
+      "name": {
+        "en-US": "Please Select Player (Super Mario Bros. 2)",
+        "ja-JP": "プレイヤーセレクト（スーパーマリオUSA）",
+        "en-GB": "Please Select Player (Super Mario Bros. 2)",
+        "fr-FR": "Please Select Player (Super Mario Bros. 2)",
+        "fr-CA": "Please Select Player (Super Mario Bros. 2)",
+        "de-DE": "Please Select Player (Super Mario Bros. 2)",
+        "nl-NL": "Please Select Player (Super Mario Bros. 2)",
+        "it-IT": "Please Select Player (Super Mario Bros. 2)",
+        "pt-PT": "Please Select Player (Super Mario Bros. 2)",
+        "pt-BR": "Please Select Player (Super Mario Bros. 2)",
+        "es-ES": "Please Select Player (Super Mario Bros. 2)",
+        "es-MX": "Please Select Player (Super Mario Bros. 2)",
+        "ru-RU": "Please Select Player (Super Mario Bros. 2)",
+        "ko-KR": "Please Select Player (슈퍼 마리오브라더스 2)",
+        "zh-CN": "Please Select Player (Super Mario Bros. 2)",
+        "zh-TW": "Please Select Player（Super Mario Bros. 2）"
+      }
+    },
+    {
+      "id": "a047bf74-86be-4945-a732-0c6c336def07",
+      "name": {
+        "en-US": "Ground BGM (Super Mario Bros. 2)",
+        "ja-JP": "地上BGM（スーパーマリオUSA）",
+        "en-GB": "Ground BGM (Super Mario Bros. 2)",
+        "fr-FR": "Ground BGM (Super Mario Bros. 2)",
+        "fr-CA": "Ground BGM (Super Mario Bros. 2)",
+        "de-DE": "Ground BGM (Super Mario Bros. 2)",
+        "nl-NL": "Ground BGM (Super Mario Bros. 2)",
+        "it-IT": "Ground BGM (Super Mario Bros. 2)",
+        "pt-PT": "Ground BGM (Super Mario Bros. 2)",
+        "pt-BR": "Ground BGM (Super Mario Bros. 2)",
+        "es-ES": "Ground BGM (Super Mario Bros. 2)",
+        "es-MX": "Ground BGM (Super Mario Bros. 2)",
+        "ru-RU": "Ground BGM (Super Mario Bros. 2)",
+        "ko-KR": "Ground BGM (슈퍼 마리오브라더스 2)",
+        "zh-CN": "Ground BGM (Super Mario Bros. 2)",
+        "zh-TW": "Ground BGM（Super Mario Bros. 2）"
+      }
+    },
+    {
+      "id": "a9fb29e1-3b78-480f-aed5-b59602297d58",
+      "name": {
+        "en-US": "Underground BGM (Super Mario Bros. 2)",
+        "ja-JP": "地下BGM（スーパーマリオUSA）",
+        "en-GB": "Underground BGM (Super Mario Bros. 2)",
+        "fr-FR": "Underground BGM (Super Mario Bros. 2)",
+        "fr-CA": "Underground BGM (Super Mario Bros. 2)",
+        "de-DE": "Underground BGM (Super Mario Bros. 2)",
+        "nl-NL": "Underground BGM (Super Mario Bros. 2)",
+        "it-IT": "Underground BGM (Super Mario Bros. 2)",
+        "pt-PT": "Underground BGM (Super Mario Bros. 2)",
+        "pt-BR": "Underground BGM (Super Mario Bros. 2)",
+        "es-ES": "Underground BGM (Super Mario Bros. 2)",
+        "es-MX": "Underground BGM (Super Mario Bros. 2)",
+        "ru-RU": "Underground BGM (Super Mario Bros. 2)",
+        "ko-KR": "Underground BGM (슈퍼 마리오브라더스 2)",
+        "zh-CN": "Underground BGM (Super Mario Bros. 2)",
+        "zh-TW": "Underground BGM（Super Mario Bros. 2）"
+      }
+    },
+    {
+      "id": "0b58ac6c-191e-461e-9421-322a87c8ae47",
+      "name": {
+        "en-US": "Overworld Medley (Super Mario Bros. 3)",
+        "ja-JP": "マップメドレー（スーパーマリオブラザーズ3）",
+        "en-GB": "Overworld Medley (Super Mario Bros. 3)",
+        "fr-FR": "Overworld Medley (Super Mario Bros. 3)",
+        "fr-CA": "Overworld Medley (Super Mario Bros. 3)",
+        "de-DE": "Overworld Medley (Super Mario Bros. 3)",
+        "nl-NL": "Overworld Medley (Super Mario Bros. 3)",
+        "it-IT": "Overworld Medley (Super Mario Bros. 3)",
+        "pt-PT": "Overworld Medley (Super Mario Bros. 3)",
+        "pt-BR": "Overworld Medley (Super Mario Bros. 3)",
+        "es-ES": "Overworld Medley (Super Mario Bros. 3)",
+        "es-MX": "Overworld Medley (Super Mario Bros. 3)",
+        "ru-RU": "Overworld Medley (Super Mario Bros. 3)",
+        "ko-KR": "Overworld Medley (슈퍼 마리오브라더스 3)",
+        "zh-CN": "Overworld Medley (Super Mario Bros. 3)",
+        "zh-TW": "Overworld Medley（Super Mario Bros. 3）"
+      }
+    },
+    {
+      "id": "16daefc5-8870-4c23-ba57-5e0178c1be9c",
+      "name": {
+        "en-US": "Ground BGM (Super Mario Bros. 3)",
+        "ja-JP": "地上BGM（スーパーマリオブラザーズ3）",
+        "en-GB": "Ground BGM (Super Mario Bros. 3)",
+        "fr-FR": "Ground BGM (Super Mario Bros. 3)",
+        "fr-CA": "Ground BGM (Super Mario Bros. 3)",
+        "de-DE": "Ground BGM (Super Mario Bros. 3)",
+        "nl-NL": "Ground BGM (Super Mario Bros. 3)",
+        "it-IT": "Ground BGM (Super Mario Bros. 3)",
+        "pt-PT": "Ground BGM (Super Mario Bros. 3)",
+        "pt-BR": "Ground BGM (Super Mario Bros. 3)",
+        "es-ES": "Ground BGM (Super Mario Bros. 3)",
+        "es-MX": "Ground BGM (Super Mario Bros. 3)",
+        "ru-RU": "Ground BGM (Super Mario Bros. 3)",
+        "ko-KR": "Ground BGM (슈퍼 마리오브라더스 3)",
+        "zh-CN": "Ground BGM (Super Mario Bros. 3)",
+        "zh-TW": "Ground BGM（Super Mario Bros. 3）"
+      }
+    },
+    {
+      "id": "ad604961-26d2-4d0d-a52e-d64675024f4b",
+      "name": {
+        "en-US": "Athletic BGM (Super Mario Bros. 3)",
+        "ja-JP": "アスレチックBGM（スーパーマリオブラザーズ3）",
+        "en-GB": "Athletic BGM (Super Mario Bros. 3)",
+        "fr-FR": "Athletic BGM (Super Mario Bros. 3)",
+        "fr-CA": "Athletic BGM (Super Mario Bros. 3)",
+        "de-DE": "Athletic BGM (Super Mario Bros. 3)",
+        "nl-NL": "Athletic BGM (Super Mario Bros. 3)",
+        "it-IT": "Athletic BGM (Super Mario Bros. 3)",
+        "pt-PT": "Athletic BGM (Super Mario Bros. 3)",
+        "pt-BR": "Athletic BGM (Super Mario Bros. 3)",
+        "es-ES": "Athletic BGM (Super Mario Bros. 3)",
+        "es-MX": "Athletic BGM (Super Mario Bros. 3)",
+        "ru-RU": "Athletic BGM (Super Mario Bros. 3)",
+        "ko-KR": "애슬레틱 BGM (슈퍼 마리오브라더스 3)",
+        "zh-CN": "Athletic BGM (Super Mario Bros. 3)",
+        "zh-TW": "Athletic BGM（Super Mario Bros. 3）"
+      }
+    },
+    {
+      "id": "683e0702-29d7-4845-9cbc-775a1b3190af",
+      "name": {
+        "en-US": "Underwater BGM (Super Mario Bros. 3)",
+        "ja-JP": "水中BGM（スーパーマリオブラザーズ3）",
+        "en-GB": "Underwater BGM (Super Mario Bros. 3)",
+        "fr-FR": "Underwater BGM (Super Mario Bros. 3)",
+        "fr-CA": "Underwater BGM (Super Mario Bros. 3)",
+        "de-DE": "Underwater BGM (Super Mario Bros. 3)",
+        "nl-NL": "Underwater BGM (Super Mario Bros. 3)",
+        "it-IT": "Underwater BGM (Super Mario Bros. 3)",
+        "pt-PT": "Underwater BGM (Super Mario Bros. 3)",
+        "pt-BR": "Underwater BGM (Super Mario Bros. 3)",
+        "es-ES": "Underwater BGM (Super Mario Bros. 3)",
+        "es-MX": "Underwater BGM (Super Mario Bros. 3)",
+        "ru-RU": "Underwater BGM (Super Mario Bros. 3)",
+        "ko-KR": "Underwater BGM (슈퍼 마리오브라더스 3)",
+        "zh-CN": "Underwater BGM (Super Mario Bros. 3)",
+        "zh-TW": "Underwater BGM（Super Mario Bros. 3）"
+      }
+    },
+    {
+      "id": "3e01447b-f673-4215-bb06-7184b68f7f9b",
+      "name": {
+        "en-US": "Fortress Boss BGM (Super Mario Bros. 3)",
+        "ja-JP": "砦のボス（スーパーマリオブラザーズ3）",
+        "en-GB": "Fortress Boss BGM (Super Mario Bros. 3)",
+        "fr-FR": "Fortress Boss BGM (Super Mario Bros. 3)",
+        "fr-CA": "Fortress Boss BGM (Super Mario Bros. 3)",
+        "de-DE": "Fortress Boss BGM (Super Mario Bros. 3)",
+        "nl-NL": "Fortress Boss BGM (Super Mario Bros. 3)",
+        "it-IT": "Fortress Boss BGM (Super Mario Bros. 3)",
+        "pt-PT": "Fortress Boss BGM (Super Mario Bros. 3)",
+        "pt-BR": "Fortress Boss BGM (Super Mario Bros. 3)",
+        "es-ES": "Fortress Boss BGM (Super Mario Bros. 3)",
+        "es-MX": "Fortress Boss BGM (Super Mario Bros. 3)",
+        "ru-RU": "Fortress Boss BGM (Super Mario Bros. 3)",
+        "ko-KR": "요새의 보스 (슈퍼 마리오브라더스 3)",
+        "zh-CN": "Fortress Boss BGM (Super Mario Bros. 3)",
+        "zh-TW": "Fortress Boss BGM（Super Mario Bros. 3）"
+      }
+    },
+    {
+      "id": "7d3b178a-943e-4d56-a4ce-bfd05752957f",
+      "name": {
+        "en-US": "Airship BGM (Super Mario Bros. 3)",
+        "ja-JP": "飛行船BGM（スーパーマリオブラザーズ3）",
+        "en-GB": "Airship BGM (Super Mario Bros. 3)",
+        "fr-FR": "Airship BGM (Super Mario Bros. 3)",
+        "fr-CA": "Airship BGM (Super Mario Bros. 3)",
+        "de-DE": "Airship BGM (Super Mario Bros. 3)",
+        "nl-NL": "Airship BGM (Super Mario Bros. 3)",
+        "it-IT": "Airship BGM (Super Mario Bros. 3)",
+        "pt-PT": "Airship BGM (Super Mario Bros. 3)",
+        "pt-BR": "Airship BGM (Super Mario Bros. 3)",
+        "es-ES": "Airship BGM (Super Mario Bros. 3)",
+        "es-MX": "Airship BGM (Super Mario Bros. 3)",
+        "ru-RU": "Airship BGM (Super Mario Bros. 3)",
+        "ko-KR": "비행선 BGM (슈퍼 마리오브라더스 3)",
+        "zh-CN": "Airship BGM (Super Mario Bros. 3)",
+        "zh-TW": "Airship BGM（Super Mario Bros. 3）"
+      }
+    },
+    {
+      "id": "8ebc9b95-a274-4fa2-a5bf-c2556644b9d8",
+      "name": {
+        "en-US": "Ending (Super Mario Bros. 3)",
+        "ja-JP": "エンディング（スーパーマリオブラザーズ3）",
+        "en-GB": "Ending (Super Mario Bros. 3)",
+        "fr-FR": "Ending (Super Mario Bros. 3)",
+        "fr-CA": "Ending (Super Mario Bros. 3)",
+        "de-DE": "Ending (Super Mario Bros. 3)",
+        "nl-NL": "Ending (Super Mario Bros. 3)",
+        "it-IT": "Ending (Super Mario Bros. 3)",
+        "pt-PT": "Ending (Super Mario Bros. 3)",
+        "pt-BR": "Ending (Super Mario Bros. 3)",
+        "es-ES": "Ending (Super Mario Bros. 3)",
+        "es-MX": "Ending (Super Mario Bros. 3)",
+        "ru-RU": "Ending (Super Mario Bros. 3)",
+        "ko-KR": "Ending (슈퍼 마리오브라더스 3)",
+        "zh-CN": "Ending (Super Mario Bros. 3)",
+        "zh-TW": "Ending（Super Mario Bros. 3）"
       }
     },
     {
