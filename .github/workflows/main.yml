@@ -1,0 +1,44 @@
+on:
+  push:
+    branches:
+      - "main"
+  schedule:
+    - cron: "3 2 * * TUE,FRI"
+
+# Only run one of these at a time
+concurrency:
+  group: "main"
+
+jobs:
+  main-job:
+    name: Load announcements and update game metadata
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+      - uses: actions/cache/restore@v5
+        with:
+          path: |
+            announcements/
+            games/
+            playlists/
+            related_playlists/
+            games-en-US.json
+            last_announcement_check_time.txt
+            last_games_list_load_time-en-US.txt
+          key: 'only-one-cache'
+      - run: 'du -sh *'
+      - run: './main.py'
+      # TODO: Actually commit the changes, but for now let's see if we can get the caching to work
+      - run: 'git diff'
+      - run: 'du -sh *'
+      - uses: actions/cache/save@v5
+        with:
+          path: |
+            announcements/
+            games/
+            playlists/
+            related_playlists/
+            games-en-US.json
+            last_announcement_check_time.txt
+            last_games_list_load_time-en-US.txt
+          key: 'only-one-cache'
