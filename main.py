@@ -24,7 +24,7 @@ def main():
     print(f'last timestamp: {last_timestamp}')
     games_list = load_games_list('en-US', last_timestamp)
     timestamps_by_game_id = load_last_announcement_times_per_game_id(announcements, games_list)
-    for game in games_list[:10]:
+    for game in games_list[:60]:
         print(game)
         if (game['isGameLink']):
             print("Skipping game entry that is a game link (i.e. duplicate entry)...")

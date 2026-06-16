@@ -25,7 +25,7 @@ jobs:
             games-en-US.json
             last_announcement_check_time.txt
             last_games_list_load_time-en-US.txt
-          key: the-cache-but-this-never-matches-always-use-restore-keys
+          key: the-cache-but-we-dont-know-the-timestamp-to-use-so-always-use-restore-keys
           restore-keys: |
             the-cache-
       - run: 'du -sh *'
@@ -43,4 +43,4 @@ jobs:
             games-en-US.json
             last_announcement_check_time.txt
             last_games_list_load_time-en-US.txt
-          key: 'the-cache-10'
+          key: 'the-cache-60'
