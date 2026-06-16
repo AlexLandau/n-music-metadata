@@ -19,11 +19,12 @@ Known issues:
 ### Contributions
 
 I will probably not be accepting any pull requests, but let me know in GitHub Issues if you have a use case for other
-available metadata (links to pages on the Nintendo Music website? links to images?) or the data needs attention. I hope
-to get automatic updates set up at some point, but they are not available yet.
+available metadata (links to pages on the Nintendo Music website? links to images?) or the data needs attention. The
+repo should automatically check for updates twice a week.
 
-Be warned that running these scripts yourself will download about 2 GB of data (at time of writing) -- the "processed"
-information is *much* more compact, so I'd rather have that version be useful for people.
+Be warned that running these scripts yourself will download about 100 MB and put about 2 GB of files on your disk (at
+time of writing) -- the "processed" information is *much* more compact, so I'd rather have that version be useful for
+people.
 
 ### Legal notice
 

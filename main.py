@@ -24,6 +24,7 @@ def main():
     print(f'last timestamp: {last_timestamp}')
     games_list = load_games_list('en-US', last_timestamp)
     timestamps_by_game_id = load_last_announcement_times_per_game_id(announcements, games_list)
+    language_counts_list = []
     for game in games_list:
         print(game)
         if (game['isGameLink']):
@@ -39,7 +40,7 @@ def main():
         related_playlists = load_related_playlists(game['id'], 'en-US', timestamp)
         all_playlist_id = related_playlists['allPlaylist']['id']
         our_data['allTracksPlaylistId'] = all_playlist_id
-        us_playlist = load_playlist(all_playlist_id, 'en-US', False)
+        us_playlist = load_playlist(all_playlist_id, 'en-US', timestamp)
         our_data['name']['en-US'] = us_playlist['game']['name']
         our_data['tracks'] = []
         for track in us_playlist['tracks']:
@@ -49,7 +50,7 @@ def main():
             trackData['name']['en-US'] = track['name']
             our_data['tracks'].append(trackData)
         for locale in NON_US_LOCALES:
-            playlist = load_playlist(all_playlist_id, locale, False)
+            playlist = load_playlist(all_playlist_id, locale, timestamp)
             our_data['name'][locale] = playlist['game']['name']
             for trackData, track in zip(our_data['tracks'], playlist['tracks']):
                 trackData['name'][locale] = track['name']
@@ -63,11 +64,17 @@ def main():
                     locales_with_distinct_track_names.add(locale)
         our_data['localesWithDistinctTrackNames'] = sorted(locales_with_distinct_track_names)
         our_data['localesWithDistinctTrackNamesCount'] = len(locales_with_distinct_track_names)
+        language_counts_list.append([-len(locales_with_distinct_track_names), game['name']])
         filename = f'processed/{game['name']}.json'
         our_data_text = json.dumps(our_data, indent=2, ensure_ascii=False)
         print(f"Collected all data for game {game['name']}")
         with open(filename, mode="w") as file:
             file.write(our_data_text)
+    # To make this sort "natural", we store the languages count as a negative value
+    language_counts_list.sort()
+    with open("games-by-locales-with-distinct-track-names.txt", mode='w') as file:
+        for [negNum, gameName] in language_counts_list:
+            file.write(str(-negNum) + ": " + gameName + "\n")
 
 def load_last_announcement_times_per_game_id(announcements, games_list):
     results = {}
