@@ -25,7 +25,8 @@ jobs:
             games-en-US.json
             last_announcement_check_time.txt
             last_games_list_load_time-en-US.txt
-          key: 'only-one-cache'
+          restore-keys: |
+            the-cache-
       - run: 'du -sh *'
       - run: './main.py'
       # TODO: Actually commit the changes, but for now let's see if we can get the caching to work
@@ -41,4 +42,4 @@ jobs:
             games-en-US.json
             last_announcement_check_time.txt
             last_games_list_load_time-en-US.txt
-          key: 'only-one-cache'
+          key: 'the-cache-10'
