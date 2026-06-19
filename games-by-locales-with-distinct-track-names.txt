@@ -43,6 +43,7 @@
 2: Gomoku Narabe Renju
 2: Gyromite
 2: Hogan's Alley
+2: Hyrule Warriors: Age of Imprisonment
 2: Ice Climber
 2: Kid Icarus
 2: Kid Icarus (Famicom Disk System)
