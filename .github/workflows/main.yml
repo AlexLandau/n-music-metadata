@@ -4,6 +4,7 @@ on:
       - "main"
   schedule:
     - cron: "3 2 * * TUE,FRI"
+  workflow_dispatch:
 
 # Only run one of these at a time
 concurrency:
