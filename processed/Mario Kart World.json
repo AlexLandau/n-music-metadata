@@ -2,7 +2,7 @@
   "nameEnUS": "Mario Kart World",
   "id": "dbadc5dd-73a5-482d-9aaa-c87b1b64d7dd",
   "hardware": "Nintendo Switch 2",
-  "timestamp": 1782176458,
+  "timestamp": 1782781259,
   "name": {
     "en-US": "Mario Kart World",
     "ja-JP": "マリオカート ワールド",
@@ -3615,6 +3615,258 @@
       }
     },
     {
+      "id": "27c00b50-3177-4221-9585-b8951f5a89a3",
+      "name": {
+        "en-US": "Figure-8 Circuit (Mario Kart DS)",
+        "ja-JP": "エイトクロスサーキット（マリオカートDS）",
+        "en-GB": "Figure-8 Circuit (Mario Kart DS)",
+        "fr-FR": "Circuit en 8 (Mario Kart DS)",
+        "fr-CA": "Circuit en 8 (Mario Kart DS)",
+        "de-DE": "Achterpiste (Mario Kart DS)",
+        "nl-NL": "8-Baan (Mario Kart DS)",
+        "it-IT": "Ottotornante (Mario Kart DS)",
+        "pt-PT": "Circuito em 8 (Mario Kart DS)",
+        "pt-BR": "Circuito em 8 (Mario Kart DS)",
+        "es-ES": "Circuito en 8 (Mario Kart DS)",
+        "es-MX": "Circuito en 8 (Mario Kart DS)",
+        "ru-RU": "Трасса-восьмерка (Mario Kart DS)",
+        "ko-KR": "8자 서킷 (마리오 카트 DS)",
+        "zh-CN": "8字形赛道（Mario Kart DS）",
+        "zh-TW": "8字形賽道（Mario Kart DS）"
+      }
+    },
+    {
+      "id": "a94e36cb-96fc-4214-9937-118e7a295847",
+      "name": {
+        "en-US": "Yoshi Falls (Mario Kart DS)",
+        "ja-JP": "ヨッシーフォールズ（マリオカートDS）",
+        "en-GB": "Yoshi Falls (Mario Kart DS)",
+        "fr-FR": "Cascades Yoshi (Mario Kart DS)",
+        "fr-CA": "Cascades Yoshi (Mario Kart DS)",
+        "de-DE": "Yoshi-Kaskaden (Mario Kart DS)",
+        "nl-NL": "Yoshi's Watervallen (Mario Kart DS)",
+        "it-IT": "Cascate di Yoshi (Mario Kart DS)",
+        "pt-PT": "Cataratas Yoshi (Mario Kart DS)",
+        "pt-BR": "Cataratas Yoshi (Mario Kart DS)",
+        "es-ES": "Cataratas de Yoshi (Mario Kart DS)",
+        "es-MX": "Yoshi Falls (Mario Kart DS)",
+        "ru-RU": "Каскады Йоши (Mario Kart DS)",
+        "ko-KR": "요시알 폭포 (마리오 카트 DS)",
+        "zh-CN": "耀西瀑布（Mario Kart DS）",
+        "zh-TW": "耀西瀑布（Mario Kart DS）"
+      }
+    },
+    {
+      "id": "b35adffb-2d96-4127-81aa-cb2b2e1cb655",
+      "name": {
+        "en-US": "Cheep Cheep Beach (Mario Kart DS)",
+        "ja-JP": "プクプクビーチ（マリオカートDS）",
+        "en-GB": "Cheep Cheep Beach (Mario Kart DS)",
+        "fr-FR": "Plage Cheep Cheep (Mario Kart DS)",
+        "fr-CA": "Plage Cheep Cheep (Mario Kart DS)",
+        "de-DE": "Cheep-Cheep-Strand (Mario Kart DS)",
+        "nl-NL": "Cheep Cheep-Strand (Mario Kart DS)",
+        "it-IT": "Spiaggia Smack (Mario Kart DS)",
+        "pt-PT": "Praia Cheep Cheep (Mario Kart DS)",
+        "pt-BR": "Praia Cheep Cheep (Mario Kart DS)",
+        "es-ES": "Playa Cheep Cheep (Mario Kart DS)",
+        "es-MX": "Playa Cheep Cheep (Mario Kart DS)",
+        "ru-RU": "Пляж чип-чипов (Mario Kart DS)",
+        "ko-KR": "뽀꾸뽀꾸 비치 (마리오 카트 DS)",
+        "zh-CN": "泡泡鱼海滩（Mario Kart DS）",
+        "zh-TW": "泡泡魚海灘（Mario Kart DS）"
+      }
+    },
+    {
+      "id": "51ce5c0a-1f8e-49f7-b22d-b576f8c44cf1",
+      "name": {
+        "en-US": "Luigi's Mansion (Mario Kart DS)",
+        "ja-JP": "ルイージマンション（マリオカートDS）",
+        "en-GB": "Luigi's Mansion (Mario Kart DS)",
+        "fr-FR": "Manoir de Luigi (Mario Kart DS)",
+        "fr-CA": "Manoir de Luigi (Mario Kart DS)",
+        "de-DE": "Luigis Villa (Mario Kart DS)",
+        "nl-NL": "Luigi's Landgoed (Mario Kart DS)",
+        "it-IT": "Palazzo di Luigi (Mario Kart DS)",
+        "pt-PT": "Mansão do Luigi (Mario Kart DS)",
+        "pt-BR": "Mansão do Luigi (Mario Kart DS)",
+        "es-ES": "Mansión de Luigi (Mario Kart DS)",
+        "es-MX": "Mansión de Luigi (Mario Kart DS)",
+        "ru-RU": "Luigi's Mansion (Mario Kart DS)",
+        "ko-KR": "루이지 맨션 (마리오 카트 DS)",
+        "zh-CN": "路易吉洋馆（Mario Kart DS）",
+        "zh-TW": "路易吉洋樓（Mario Kart DS）"
+      }
+    },
+    {
+      "id": "fe111a24-7d65-49ee-b04b-36a1cbde6425",
+      "name": {
+        "en-US": "Delfino Square (Mario Kart DS)",
+        "ja-JP": "モンテタウン（マリオカートDS）",
+        "en-GB": "Delfino Square (Mario Kart DS)",
+        "fr-FR": "Quartier Delfino (Mario Kart DS)",
+        "fr-CA": "Quartier Delfino (Mario Kart DS)",
+        "de-DE": "Piazzale Delfino (Mario Kart DS)",
+        "nl-NL": "Pianta-Plein (Mario Kart DS)",
+        "it-IT": "Delfinia (Mario Kart DS)",
+        "pt-PT": "Praça Delfino (Mario Kart DS)",
+        "pt-BR": "Praça Delfino (Mario Kart DS)",
+        "es-ES": "Ciudad Delfino (Mario Kart DS)",
+        "es-MX": "Delfino Square (Mario Kart DS)",
+        "ru-RU": "Сквер Дельфино (Mario Kart DS)",
+        "ko-KR": "몬테 타운 (마리오 카트 DS)",
+        "zh-CN": "蒙特镇（Mario Kart DS）",
+        "zh-TW": "蒙特鎮（Mario Kart DS）"
+      }
+    },
+    {
+      "id": "593780a0-3e37-4e6c-b318-7b809e599568",
+      "name": {
+        "en-US": "Waluigi Pinball (Rock) (Mario Kart DS)",
+        "ja-JP": "ワルイージピンボール ロックVer.（マリオカートDS）",
+        "en-GB": "Waluigi Pinball (Rock) (Mario Kart DS)",
+        "fr-FR": "Flipper Waluigi (version rock) (Mario Kart DS)",
+        "fr-CA": "Flipper Waluigi (version rock) (Mario Kart DS)",
+        "de-DE": "Waluigi-Flipper (Rock-Version) (Mario Kart DS)",
+        "nl-NL": "Waluigi's Flipperkast (rockversie) (Mario Kart DS)",
+        "it-IT": "Flipper di Waluigi (versione rock) (Mario Kart DS)",
+        "pt-PT": "Pinball do Waluigi (versão rock) (Mario Kart DS)",
+        "pt-BR": "Pinball Waluigi (versão rock) (Mario Kart DS)",
+        "es-ES": "Pinball Waluigi (versión rock) (Mario Kart DS)",
+        "es-MX": "Pinball Waluigi (versión rock) (Mario Kart DS)",
+        "ru-RU": "Пинбол Валуиджи (рок-версия) (Mario Kart DS)",
+        "ko-KR": "와루이지 핀볼 (록 Ver.) (마리오 카트 DS)",
+        "zh-CN": "瓦路易吉弹珠台 摇滚Ver.（Mario Kart DS）",
+        "zh-TW": "瓦路易吉彈珠台 搖滾Ver.（Mario Kart DS）"
+      }
+    },
+    {
+      "id": "af09eed4-c99f-44f6-bf30-009c31f42cee",
+      "name": {
+        "en-US": "Waluigi Pinball (Funk) (Mario Kart DS)",
+        "ja-JP": "ワルイージピンボール ファンクVer.（マリオカートDS）",
+        "en-GB": "Waluigi Pinball (Funk) (Mario Kart DS)",
+        "fr-FR": "Flipper Waluigi (version funk) (Mario Kart DS)",
+        "fr-CA": "Flipper Waluigi (version funk) (Mario Kart DS)",
+        "de-DE": "Waluigi-Flipper (Funk-Version) (Mario Kart DS)",
+        "nl-NL": "Waluigi's Flipperkast (funkversie) (Mario Kart DS)",
+        "it-IT": "Flipper di Waluigi (versione funk) (Mario Kart DS)",
+        "pt-PT": "Pinball do Waluigi (versão funk) (Mario Kart DS)",
+        "pt-BR": "Pinball Waluigi (versão funk) (Mario Kart DS)",
+        "es-ES": "Pinball Waluigi (versión funk) (Mario Kart DS)",
+        "es-MX": "Pinball Waluigi (versión funk) (Mario Kart DS)",
+        "ru-RU": "Пинбол Валуиджи (фанк-версия) (Mario Kart DS)",
+        "ko-KR": "와루이지 핀볼 (펑크 Ver.) (마리오 카트 DS)",
+        "zh-CN": "瓦路易吉弹珠台 放克Ver.（Mario Kart DS）",
+        "zh-TW": "瓦路易吉彈珠台 放克Ver.（Mario Kart DS）"
+      }
+    },
+    {
+      "id": "5572d377-bc7b-4ed7-a7e6-692a30b422e9",
+      "name": {
+        "en-US": "Shroom Ridge (Mario Kart DS)",
+        "ja-JP": "キノコリッジウェイ（マリオカートDS）",
+        "en-GB": "Shroom Ridge (Mario Kart DS)",
+        "fr-FR": "Corniche Champignon (Mario Kart DS)",
+        "fr-CA": "Corniche Champignon (Mario Kart DS)",
+        "de-DE": "Pilz-Pass (Mario Kart DS)",
+        "nl-NL": "Paddenstoelenpas (Mario Kart DS)",
+        "it-IT": "Colli Fungo (Mario Kart DS)",
+        "pt-PT": "Serra Cogumelo (Mario Kart DS)",
+        "pt-BR": "Serra Cogumelo (Mario Kart DS)",
+        "es-ES": "Colinas Champiñón (Mario Kart DS)",
+        "es-MX": "Colinas Champiñón (Mario Kart DS)",
+        "ru-RU": "Грибной кряж (Mario Kart DS)",
+        "ko-KR": "버섯 고개 (마리오 카트 DS)",
+        "zh-CN": "蘑菇山脊路（Mario Kart DS）",
+        "zh-TW": "蘑菇山脊路（Mario Kart DS）"
+      }
+    },
+    {
+      "id": "f0c0a42a-d32d-431b-9553-25d4a832b8cf",
+      "name": {
+        "en-US": "Tick-Tock Clock (Mario Kart DS)",
+        "ja-JP": "チクタクロック（マリオカートDS）",
+        "en-GB": "Tick-Tock Clock (Mario Kart DS)",
+        "fr-FR": "Horloge Tic-Tac (Mario Kart DS)",
+        "fr-CA": "Horloge Tic-Tac (Mario Kart DS)",
+        "de-DE": "Ticktack-Trauma (Mario Kart DS)",
+        "nl-NL": "Tik-Tak-Klok (Mario Kart DS)",
+        "it-IT": "Pista Tictac (Mario Kart DS)",
+        "pt-PT": "Relógio Tiquetaque (Mario Kart DS)",
+        "pt-BR": "Relógio Tiquetaque (Mario Kart DS)",
+        "es-ES": "Reloj Tictac (Mario Kart DS)",
+        "es-MX": "Reloj Tictac (Mario Kart DS)",
+        "ru-RU": "Часы тик-так (Mario Kart DS)",
+        "ko-KR": "똑딱시계 코스 (마리오 카트 DS)",
+        "zh-CN": "嘀嗒时钟（Mario Kart DS）",
+        "zh-TW": "滴答時鐘（Mario Kart DS）"
+      }
+    },
+    {
+      "id": "9d85ead4-969c-4438-a1b3-9b59b055e2ab",
+      "name": {
+        "en-US": "Peach Gardens (Mario Kart DS)",
+        "ja-JP": "ピーチガーデン（マリオカートDS）",
+        "en-GB": "Peach Gardens (Mario Kart DS)",
+        "fr-FR": "Jardin Peach (Mario Kart DS)",
+        "fr-CA": "Jardin Peach (Mario Kart DS)",
+        "de-DE": "Peachs Schlossgarten (Mario Kart DS)",
+        "nl-NL": "Peach' Paleistuin (Mario Kart DS)",
+        "it-IT": "Giardino di Peach (Mario Kart DS)",
+        "pt-PT": "Jardim da Peach (Mario Kart DS)",
+        "pt-BR": "Jardim da Peach (Mario Kart DS)",
+        "es-ES": "Jardín de Peach (Mario Kart DS)",
+        "es-MX": "Jardín de Peach (Mario Kart DS)",
+        "ru-RU": "Сады Пич (Mario Kart DS)",
+        "ko-KR": "피치 가든 (마리오 카트 DS)",
+        "zh-CN": "碧姬花园（Mario Kart DS）",
+        "zh-TW": "碧姬花園（Mario Kart DS）"
+      }
+    },
+    {
+      "id": "bc44766a-0b05-44e0-bcd8-f929be55e4c5",
+      "name": {
+        "en-US": "Rainbow Road (Mario Kart DS)",
+        "ja-JP": "レインボーロード（マリオカートDS）",
+        "en-GB": "Rainbow Road (Mario Kart DS)",
+        "fr-FR": "Route Arc-en-ciel (Mario Kart DS)",
+        "fr-CA": "Route Arc-en-ciel (Mario Kart DS)",
+        "de-DE": "Regenbogen-Boulevard (Mario Kart DS)",
+        "nl-NL": "Regenboogbaan (Mario Kart DS)",
+        "it-IT": "Pista Arcobaleno (Mario Kart DS)",
+        "pt-PT": "Estrada Arco-Íris (Mario Kart DS)",
+        "pt-BR": "Estrada Arco-Íris (Mario Kart DS)",
+        "es-ES": "Senda Arco Iris (Mario Kart DS)",
+        "es-MX": "Senda Arco Iris (Mario Kart DS)",
+        "ru-RU": "Трасса Радуга (Mario Kart DS)",
+        "ko-KR": "무지개 로드 (마리오 카트 DS)",
+        "zh-CN": "彩虹之路（Mario Kart DS）",
+        "zh-TW": "彩虹之路（Mario Kart DS）"
+      }
+    },
+    {
+      "id": "b553ed82-7d55-4d99-951b-eb960cc9521c",
+      "name": {
+        "en-US": "Staff Credits (Mario Kart DS)",
+        "ja-JP": "スタッフクレジット（マリオカートDS）",
+        "en-GB": "Staff Credits (Mario Kart DS)",
+        "fr-FR": "Crédits (Mario Kart DS)",
+        "fr-CA": "Générique (Mario Kart DS)",
+        "de-DE": "Mitwirkende (Mario Kart DS)",
+        "nl-NL": "Credits (Mario Kart DS)",
+        "it-IT": "Riconoscimenti (Mario Kart DS)",
+        "pt-PT": "Créditos (Mario Kart DS)",
+        "pt-BR": "Créditos (Mario Kart DS)",
+        "es-ES": "Créditos (Mario Kart DS)",
+        "es-MX": "Créditos (Mario Kart DS)",
+        "ru-RU": "Над игрой работали (Mario Kart DS)",
+        "ko-KR": "만든 사람들 (마리오 카트 DS)",
+        "zh-CN": "制作人员名单（Mario Kart DS）",
+        "zh-TW": "工作人員名單（Mario Kart DS）"
+      }
+    },
+    {
       "id": "5bff7042-932f-4073-a24d-584280ede0bc",
       "name": {
         "en-US": "Egg Planet (Super Mario Galaxy)",
@@ -3780,6 +4032,279 @@
         "ko-KR": "퍼플 혜성 (슈퍼 마리오 갤럭시)",
         "zh-CN": "Purple Comet (Super Mario Galaxy)",
         "zh-TW": "Purple Comet（Super Mario Galaxy）"
+      }
+    },
+    {
+      "id": "e364da9c-fc3f-4028-beae-868947c75d26",
+      "name": {
+        "en-US": "Luigi Circuit (Mario Kart Wii)",
+        "ja-JP": "ルイージサーキット（マリオカートWii）",
+        "en-GB": "Luigi Circuit (Mario Kart Wii)",
+        "fr-FR": "Circuit Luigi (Mario Kart Wii)",
+        "fr-CA": "Circuit Luigi (Mario Kart Wii)",
+        "de-DE": "Luigis Piste (Mario Kart Wii)",
+        "nl-NL": "Luigi's Circuit (Mario Kart Wii)",
+        "it-IT": "Circuito di Luigi (Mario Kart Wii)",
+        "pt-PT": "Circuito do Luigi (Mario Kart Wii)",
+        "pt-BR": "Circuito Luigi (Mario Kart Wii)",
+        "es-ES": "Circuito de Luigi (Mario Kart Wii)",
+        "es-MX": "Circuito de Luigi (Mario Kart Wii)",
+        "ru-RU": "Трасса Луиджи (Mario Kart Wii)",
+        "ko-KR": "루이지 서킷 (마리오 카트 Wii)",
+        "zh-CN": "路易吉赛道（Mario Kart Wii）",
+        "zh-TW": "路易吉賽道（Mario Kart Wii）"
+      }
+    },
+    {
+      "id": "51a2a0e0-b926-4956-a454-7a18164b3f8f",
+      "name": {
+        "en-US": "Mushroom Gorge (Mario Kart Wii)",
+        "ja-JP": "キノコキャニオン（マリオカートWii）",
+        "en-GB": "Mushroom Gorge (Mario Kart Wii)",
+        "fr-FR": "Gorge Champignon (Mario Kart Wii)",
+        "fr-CA": "Gorge Champignon (Mario Kart Wii)",
+        "de-DE": "Pilz-Schlucht (Mario Kart Wii)",
+        "nl-NL": "Paddenstoelengrot (Mario Kart Wii)",
+        "it-IT": "Gola Fungo (Mario Kart Wii)",
+        "pt-PT": "Ravina Cogumelo (Mario Kart Wii)",
+        "pt-BR": "Ravina Cogumelo (Mario Kart Wii)",
+        "es-ES": "Barranco Champiñón (Mario Kart Wii)",
+        "es-MX": "Barranco Champiñón (Mario Kart Wii)",
+        "ru-RU": "Грибное ущелье (Mario Kart Wii)",
+        "ko-KR": "버섯 캐니언 (마리오 카트 Wii)",
+        "zh-CN": "蘑菇峡谷（Mario Kart Wii）",
+        "zh-TW": "蘑菇峽谷（Mario Kart Wii）"
+      }
+    },
+    {
+      "id": "3c6daa64-a8e5-4f3a-b0a2-7ef884c288b6",
+      "name": {
+        "en-US": "Coconut Mall (Mario Kart Wii)",
+        "ja-JP": "ココナッツモール（マリオカートWii）",
+        "en-GB": "Coconut Mall (Mario Kart Wii)",
+        "fr-FR": "Supermarché Coco (Mario Kart Wii)",
+        "fr-CA": "Centre Cocotier (Mario Kart Wii)",
+        "de-DE": "Kokos-Promenade (Mario Kart Wii)",
+        "nl-NL": "Kokosnootplaza (Mario Kart Wii)",
+        "it-IT": "Outlet Cocco (Mario Kart Wii)",
+        "pt-PT": "Centro Comercial Coco (Mario Kart Wii)",
+        "pt-BR": "Shopping Coqueiral (Mario Kart Wii)",
+        "es-ES": "Centro Cocotero (Mario Kart Wii)",
+        "es-MX": "Centro Cocotero (Mario Kart Wii)",
+        "ru-RU": "Торговый центр (Mario Kart Wii)",
+        "ko-KR": "코코넛 몰 (마리오 카트 Wii)",
+        "zh-CN": "椰子广场（Mario Kart Wii）",
+        "zh-TW": "椰子廣場（Mario Kart Wii）"
+      }
+    },
+    {
+      "id": "c11fc7ca-11c8-4388-802e-e6ed7136010b",
+      "name": {
+        "en-US": "DK Summit (Mario Kart Wii)",
+        "ja-JP": "DKスノーボードクロス（マリオカートWii）",
+        "en-GB": "DK's Snowboard Cross (Mario Kart Wii)",
+        "fr-FR": "Pic DK (Mario Kart Wii)",
+        "fr-CA": "Sommet DK (Mario Kart Wii)",
+        "de-DE": "DK Skikane (Mario Kart Wii)",
+        "nl-NL": "DK's Skipark (Mario Kart Wii)",
+        "it-IT": "Pista snowboard DK (Mario Kart Wii)",
+        "pt-PT": "Pico DK (Mario Kart Wii)",
+        "pt-BR": "Pico DK (Mario Kart Wii)",
+        "es-ES": "Cumbre DK (Mario Kart Wii)",
+        "es-MX": "Cima DK (Mario Kart Wii)",
+        "ru-RU": "Сноуборд-кросс ДК (Mario Kart Wii)",
+        "ko-KR": "DK 스노보드 경기장 (마리오 카트 Wii)",
+        "zh-CN": "DK单板滑雪障碍追逐（Mario Kart Wii）",
+        "zh-TW": "DK單板滑雪越野賽（Mario Kart Wii）"
+      }
+    },
+    {
+      "id": "33a501b2-c33f-4607-91bc-c4e749f6efbc",
+      "name": {
+        "en-US": "Wario's Gold Mine (Mario Kart Wii)",
+        "ja-JP": "ワリオこうざん（マリオカートWii）",
+        "en-GB": "Wario's Gold Mine (Mario Kart Wii)",
+        "fr-FR": "Mine Wario (Mario Kart Wii)",
+        "fr-CA": "Mine d'Or de Wario (Mario Kart Wii)",
+        "de-DE": "Warios Goldmine (Mario Kart Wii)",
+        "nl-NL": "Wario's Goudmijn (Mario Kart Wii)",
+        "it-IT": "Miniera d'oro di Wario (Mario Kart Wii)",
+        "pt-PT": "Mina de Ouro do Wario (Mario Kart Wii)",
+        "pt-BR": "Mina de Ouro do Wario (Mario Kart Wii)",
+        "es-ES": "Mina de Wario (Mario Kart Wii)",
+        "es-MX": "Mina de Wario (Mario Kart Wii)",
+        "ru-RU": "Золотой прииск Варио (Mario Kart Wii)",
+        "ko-KR": "와리오 광산 (마리오 카트 Wii)",
+        "zh-CN": "路易吉赛道（Mario Kart Wii）",
+        "zh-TW": "瓦利歐礦山（Mario Kart Wii）"
+      }
+    },
+    {
+      "id": "1c5e7271-1573-438f-bf61-290cef38c80b",
+      "name": {
+        "en-US": "Daisy Circuit (Acoustic) (Mario Kart Wii)",
+        "ja-JP": "デイジーサーキット アコースティックVer.（マリオカートWii）",
+        "en-GB": "Daisy Circuit (Acoustic) (Mario Kart Wii)",
+        "fr-FR": "Circuit Daisy (version acoustique) (Mario Kart Wii)",
+        "fr-CA": "Circuit Daisy (version acoustique) (Mario Kart Wii)",
+        "de-DE": "Daisys Piste (Acoustic-Version) (Mario Kart Wii)",
+        "nl-NL": "Daisy's Circuit (akoestische versie) (Mario Kart Wii)",
+        "it-IT": "Circuito di Daisy (versione acustica) (Mario Kart Wii)",
+        "pt-PT": "Circuito da Daisy (versão acústica) (Mario Kart Wii)",
+        "pt-BR": "Circuito Daisy (versão acústica) (Mario Kart Wii)",
+        "es-ES": "Circuito de Daisy (versión acústica) (Mario Kart Wii)",
+        "es-MX": "Circuito de Daisy (versión acústica) (Mario Kart Wii)",
+        "ru-RU": "Трасса Дейзи (акустическая версия) (Mario Kart Wii)",
+        "ko-KR": "데이지 서킷 (어쿠스틱 Ver.) (마리오 카트 Wii)",
+        "zh-CN": "黛西赛道 原声音乐Ver.（Mario Kart Wii）",
+        "zh-TW": "黛西賽道 不插電Ver.（Mario Kart Wii）"
+      }
+    },
+    {
+      "id": "91909313-1338-4a83-99d3-6a3023ad16b2",
+      "name": {
+        "en-US": "Daisy Circuit (Electro) (Mario Kart Wii)",
+        "ja-JP": "デイジーサーキット エレクトロVer.（マリオカートWii）",
+        "en-GB": "Daisy Circuit (Electro) (Mario Kart Wii)",
+        "fr-FR": "Circuit Daisy (version électro) (Mario Kart Wii)",
+        "fr-CA": "Circuit Daisy (version électro) (Mario Kart Wii)",
+        "de-DE": "Daisys Piste (Electro-Version) (Mario Kart Wii)",
+        "nl-NL": "Daisy's Circuit (electroversie) (Mario Kart Wii)",
+        "it-IT": "Circuito di Daisy (versione electro) (Mario Kart Wii)",
+        "pt-PT": "Circuito da Daisy (versão eletrónica) (Mario Kart Wii)",
+        "pt-BR": "Circuito Daisy (versão eletrônica) (Mario Kart Wii)",
+        "es-ES": "Circuito de Daisy (versión electrónica) (Mario Kart Wii)",
+        "es-MX": "Circuito de Daisy (versión electrónica) (Mario Kart Wii)",
+        "ru-RU": "Трасса Дейзи (электро-версия) (Mario Kart Wii)",
+        "ko-KR": "데이지 서킷 (일렉트로 Ver.) (마리오 카트 Wii)",
+        "zh-CN": "黛西赛道 电子乐Ver.（Mario Kart Wii）",
+        "zh-TW": "黛西賽道 電子音樂Ver.（Mario Kart Wii）"
+      }
+    },
+    {
+      "id": "7f03c0aa-4ef2-4518-aa51-f349f9d2de87",
+      "name": {
+        "en-US": "Maple Treeway (Mario Kart Wii)",
+        "ja-JP": "メイプルツリーハウス（マリオカートWii）",
+        "en-GB": "Maple Treeway (Mario Kart Wii)",
+        "fr-FR": "Bois Vermeil (Mario Kart Wii)",
+        "fr-CA": "Chemin à la Sucrerie (Mario Kart Wii)",
+        "de-DE": "Blätterwald (Mario Kart Wii)",
+        "nl-NL": "Wigglers Woud (Mario Kart Wii)",
+        "it-IT": "Pista degli aceri (Mario Kart Wii)",
+        "pt-PT": "Pista de Árvores (Mario Kart Wii)",
+        "pt-BR": "Pista de Árvores (Mario Kart Wii)",
+        "es-ES": "Senda del Arce (Mario Kart Wii)",
+        "es-MX": "Camino Forestal (Mario Kart Wii)",
+        "ru-RU": "Кленовая аллея (Mario Kart Wii)",
+        "ko-KR": "단풍나무 로드 (마리오 카트 Wii)",
+        "zh-CN": "枫树屋（Mario Kart Wii）",
+        "zh-TW": "楓樹屋（Mario Kart Wii）"
+      }
+    },
+    {
+      "id": "5da05ca5-fab7-438b-a35a-de947cde2d06",
+      "name": {
+        "en-US": "Grumble Volcano (Mario Kart Wii)",
+        "ja-JP": "グラグラかざん（マリオカートWii）",
+        "en-GB": "Grumble Volcano (Mario Kart Wii)",
+        "fr-FR": "Volcan grondant (Mario Kart Wii)",
+        "fr-CA": "Volcan grondant (Mario Kart Wii)",
+        "de-DE": "Vulkangrollen (Mario Kart Wii)",
+        "nl-NL": "Dondervulkaan (Mario Kart Wii)",
+        "it-IT": "Vulcano Brontolone (Mario Kart Wii)",
+        "pt-PT": "Vulcão Rezingão (Mario Kart Wii)",
+        "pt-BR": "Vulcão Resmungão (Mario Kart Wii)",
+        "es-ES": "Volcán Gruñón (Mario Kart Wii)",
+        "es-MX": "Volcán Gruñón (Mario Kart Wii)",
+        "ru-RU": "Ворчащий вулкан (Mario Kart Wii)",
+        "ko-KR": "이글이글 화산 (마리오 카트 Wii)",
+        "zh-CN": "震震火山（Mario Kart Wii）",
+        "zh-TW": "震震火山（Mario Kart Wii）"
+      }
+    },
+    {
+      "id": "fb65a2f2-ec8e-4d3d-8a2a-6cf76f3a90b8",
+      "name": {
+        "en-US": "Dry Dry Ruins (Mario Kart Wii)",
+        "ja-JP": "カラカラいせき（マリオカートWii）",
+        "en-GB": "Dry Dry Ruins (Mario Kart Wii)",
+        "fr-FR": "Ruines Sec Sec (Mario Kart Wii)",
+        "fr-CA": "Ruines Sec Sec (Mario Kart Wii)",
+        "de-DE": "Staubtrockene Ruinen (Mario Kart Wii)",
+        "nl-NL": "Zinderzandruïne (Mario Kart Wii)",
+        "it-IT": "Rovine desertiche (Mario Kart Wii)",
+        "pt-PT": "Ruínas Seco-seco (Mario Kart Wii)",
+        "pt-BR": "Ruínas Seco-seco (Mario Kart Wii)",
+        "es-ES": "Ruinas Seco-Seco (Mario Kart Wii)",
+        "es-MX": "Ruinas Seco-Seco (Mario Kart Wii)",
+        "ru-RU": "Иссушенные руины (Mario Kart Wii)",
+        "ko-KR": "메마른 유적 (마리오 카트 Wii)",
+        "zh-CN": "干旱遗迹（Mario Kart Wii）",
+        "zh-TW": "乾旱遺跡（Mario Kart Wii）"
+      }
+    },
+    {
+      "id": "28cb7ba8-0ebb-4401-8304-cd101bdc6923",
+      "name": {
+        "en-US": "Moonview Highway (Mario Kart Wii)",
+        "ja-JP": "ムーンリッジ＆ハイウェイ（マリオカートWii）",
+        "en-GB": "Moonview Highway (Mario Kart Wii)",
+        "fr-FR": "Route Clair de Lune (Mario Kart Wii)",
+        "fr-CA": "Autoroute de la Lune (Mario Kart Wii)",
+        "de-DE": "Mondblickstraße (Mario Kart Wii)",
+        "nl-NL": "Maanlichtlaan (Mario Kart Wii)",
+        "it-IT": "Autostrada lunare (Mario Kart Wii)",
+        "pt-PT": "Autoestrada ao Luar (Mario Kart Wii)",
+        "pt-BR": "Autoestrada ao Luar (Mario Kart Wii)",
+        "es-ES": "Circuito Luz de Luna (Mario Kart Wii)",
+        "es-MX": "Autopista de la Luna (Mario Kart Wii)",
+        "ru-RU": "Лунная магистраль (Mario Kart Wii)",
+        "ko-KR": "달맞이 하이웨이 (마리오 카트 Wii)",
+        "zh-CN": "月下山脊&公路（Mario Kart Wii）",
+        "zh-TW": "月下山脊&公路（Mario Kart Wii）"
+      }
+    },
+    {
+      "id": "4d0d4d9d-8818-49dd-ad02-d15dfb19ecbf",
+      "name": {
+        "en-US": "Rainbow Road (Mario Kart Wii)",
+        "ja-JP": "レインボーロード（マリオカートWii）",
+        "en-GB": "Rainbow Road (Mario Kart Wii)",
+        "fr-FR": "Route Arc-en-ciel (Mario Kart Wii)",
+        "fr-CA": "Route Arc-en-ciel (Mario Kart Wii)",
+        "de-DE": "Regenbogen-Boulevard (Mario Kart Wii)",
+        "nl-NL": "Regenboogbaan (Mario Kart Wii)",
+        "it-IT": "Pista Arcobaleno (Mario Kart Wii)",
+        "pt-PT": "Estrada Arco-Íris (Mario Kart Wii)",
+        "pt-BR": "Estrada Arco-Íris (Mario Kart Wii)",
+        "es-ES": "Senda Arco Iris (Mario Kart Wii)",
+        "es-MX": "Senda Arco Iris (Mario Kart Wii)",
+        "ru-RU": "Трасса Радуга (Mario Kart Wii)",
+        "ko-KR": "무지개 로드 (마리오 카트 Wii)",
+        "zh-CN": "彩虹之路（Mario Kart Wii）",
+        "zh-TW": "彩虹之路（Mario Kart Wii）"
+      }
+    },
+    {
+      "id": "1d75ba14-8fab-4954-802b-37ad8262e5ff",
+      "name": {
+        "en-US": "Staff Credits A (Mario Kart Wii)",
+        "ja-JP": "スタッフクレジットA（マリオカートWii）",
+        "en-GB": "Staff Credits A (Mario Kart Wii)",
+        "fr-FR": "Crédits A (Mario Kart Wii)",
+        "fr-CA": "Générique A (Mario Kart Wii)",
+        "de-DE": "Mitwirkende A (Mario Kart Wii)",
+        "nl-NL": "Credits A (Mario Kart Wii)",
+        "it-IT": "Riconoscimenti A (Mario Kart Wii)",
+        "pt-PT": "Créditos A (Mario Kart Wii)",
+        "pt-BR": "Créditos A (Mario Kart Wii)",
+        "es-ES": "Créditos A (Mario Kart Wii)",
+        "es-MX": "Créditos A (Mario Kart Wii)",
+        "ru-RU": "Над игрой работали (А) (Mario Kart Wii)",
+        "ko-KR": "만든 사람들 A (마리오 카트 Wii)",
+        "zh-CN": "制作人员名单A（Mario Kart Wii）",
+        "zh-TW": "工作人員名單A（Mario Kart Wii）"
       }
     },
     {
