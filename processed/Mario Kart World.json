@@ -2,7 +2,7 @@
   "nameEnUS": "Mario Kart World",
   "id": "dbadc5dd-73a5-482d-9aaa-c87b1b64d7dd",
   "hardware": "Nintendo Switch 2",
-  "timestamp": 1782781259,
+  "timestamp": 1783386059,
   "name": {
     "en-US": "Mario Kart World",
     "ja-JP": "マリオカート ワールド",
@@ -2838,6 +2838,300 @@
       }
     },
     {
+      "id": "00ac5a82-5a08-41e2-8e91-349f63b7b1a3",
+      "name": {
+        "en-US": "Ground BGM (Super Mario Land)",
+        "ja-JP": "地上BGM（スーパーマリオランド）",
+        "en-GB": "Ground BGM (Super Mario Land)",
+        "fr-FR": "Ground BGM (Super Mario Land)",
+        "fr-CA": "Ground BGM (Super Mario Land)",
+        "de-DE": "Ground BGM (Super Mario Land)",
+        "nl-NL": "Ground BGM (Super Mario Land)",
+        "it-IT": "Ground BGM (Super Mario Land)",
+        "pt-PT": "Ground BGM (Super Mario Land)",
+        "pt-BR": "Ground BGM (Super Mario Land)",
+        "es-ES": "Ground BGM (Super Mario Land)",
+        "es-MX": "Ground BGM (Super Mario Land)",
+        "ru-RU": "Ground BGM (Super Mario Land)",
+        "ko-KR": "Ground BGM (Super Mario Land)",
+        "zh-CN": "Ground BGM (Super Mario Land)",
+        "zh-TW": "Ground BGM（Super Mario Land）"
+      }
+    },
+    {
+      "id": "c444897a-6545-4173-a409-b80d1d56d6fb",
+      "name": {
+        "en-US": "Underground BGM (Super Mario Land)",
+        "ja-JP": "地下BGM（スーパーマリオランド）",
+        "en-GB": "Underground BGM (Super Mario Land)",
+        "fr-FR": "Underground BGM (Super Mario Land)",
+        "fr-CA": "Underground BGM (Super Mario Land)",
+        "de-DE": "Underground BGM (Super Mario Land)",
+        "nl-NL": "Underground BGM (Super Mario Land)",
+        "it-IT": "Underground BGM (Super Mario Land)",
+        "pt-PT": "Underground BGM (Super Mario Land)",
+        "pt-BR": "Underground BGM (Super Mario Land)",
+        "es-ES": "Underground BGM (Super Mario Land)",
+        "es-MX": "Underground BGM (Super Mario Land)",
+        "ru-RU": "Underground BGM (Super Mario Land)",
+        "ko-KR": "지하 BGM (Super Mario Land)",
+        "zh-CN": "Underground BGM (Super Mario Land)",
+        "zh-TW": "Underground BGM（Super Mario Land）"
+      }
+    },
+    {
+      "id": "edd84e39-537c-4cfd-a415-432e63836289",
+      "name": {
+        "en-US": "Title BGM (Super Mario World)",
+        "ja-JP": "タイトルBGM（スーパーマリオワールド）",
+        "en-GB": "Title BGM (Super Mario World)",
+        "fr-FR": "Title BGM (Super Mario World)",
+        "fr-CA": "Title BGM (Super Mario World)",
+        "de-DE": "Title BGM (Super Mario World)",
+        "nl-NL": "Title BGM (Super Mario World)",
+        "it-IT": "Title BGM (Super Mario World)",
+        "pt-PT": "Title BGM (Super Mario World)",
+        "pt-BR": "Title BGM (Super Mario World)",
+        "es-ES": "Title BGM (Super Mario World)",
+        "es-MX": "Title BGM (Super Mario World)",
+        "ru-RU": "Title BGM (Super Mario World)",
+        "ko-KR": "Title BGM (슈퍼 마리오 월드)",
+        "zh-CN": "Title BGM (Super Mario World)",
+        "zh-TW": "Title BGM（Super Mario World）"
+      }
+    },
+    {
+      "id": "b12a3d81-f461-4797-986a-52506ebdf9b0",
+      "name": {
+        "en-US": "Overworld Medley (Super Mario World)",
+        "ja-JP": "マップメドレー（スーパーマリオワールド）",
+        "en-GB": "Overworld Medley (Super Mario World)",
+        "fr-FR": "Overworld Medley (Super Mario World)",
+        "fr-CA": "Overworld Medley (Super Mario World)",
+        "de-DE": "Overworld Medley (Super Mario World)",
+        "nl-NL": "Overworld Medley (Super Mario World)",
+        "it-IT": "Overworld Medley (Super Mario World)",
+        "pt-PT": "Overworld Medley (Super Mario World)",
+        "pt-BR": "Overworld Medley (Super Mario World)",
+        "es-ES": "Overworld Medley (Super Mario World)",
+        "es-MX": "Overworld Medley (Super Mario World)",
+        "ru-RU": "Overworld Medley (Super Mario World)",
+        "ko-KR": "Overworld Medley (슈퍼 마리오 월드)",
+        "zh-CN": "Overworld Medley (Super Mario World)",
+        "zh-TW": "Overworld Medley（Super Mario World）"
+      }
+    },
+    {
+      "id": "5e990fde-c13e-4019-9ae1-4dac89b7817f",
+      "name": {
+        "en-US": "Ground BGM (Rock 'n' Roll 1) (Super Mario World)",
+        "ja-JP": "地上BGM ロックンロールVer.1（スーパーマリオワールド）",
+        "en-GB": "Ground BGM (Rock 'n' Roll 1) (Super Mario World)",
+        "fr-FR": "Ground BGM (Rock 'n' Roll 1) (Super Mario World)",
+        "fr-CA": "Ground BGM (Rock 'n' Roll Ver. 1) (Super Mario World)",
+        "de-DE": "Ground BGM (Rock 'n' Roll 1) (Super Mario World)",
+        "nl-NL": "Ground BGM (Rock 'n' Roll 1) (Super Mario World)",
+        "it-IT": "Ground BGM (Rock 'n' Roll 1) (Super Mario World)",
+        "pt-PT": "Ground BGM (Rock 'n' Roll 1) (Super Mario World)",
+        "pt-BR": "Ground BGM (Rock 'n' Roll 1) (Super Mario World)",
+        "es-ES": "Ground BGM (Rock 'n' Roll 1) (Super Mario World)",
+        "es-MX": "Ground BGM (versión rock and roll 1) (Super Mario World)",
+        "ru-RU": "Ground BGM (Rock 'n' Roll 1) (Super Mario World)",
+        "ko-KR": "Ground BGM (Rock 'n' Roll Ver. 1) (슈퍼 마리오 월드)",
+        "zh-CN": "Ground BGM (Rock 'n' Roll Ver. 1) (Super Mario World)",
+        "zh-TW": "Ground BGM (Rock 'n' Roll Ver. 1)（Super Mario World）"
+      }
+    },
+    {
+      "id": "54728c62-7a84-4aba-9678-fbf67b39b9c7",
+      "name": {
+        "en-US": "Ground BGM (Rock 'n' Roll 2) (Super Mario World)",
+        "ja-JP": "地上BGM ロックンロールVer.2（スーパーマリオワールド）",
+        "en-GB": "Ground BGM (Rock 'n' Roll 2) (Super Mario World)",
+        "fr-FR": "Ground BGM (Rock 'n' Roll 2) (Super Mario World)",
+        "fr-CA": "Ground BGM (Rock 'n' Roll Ver. 2) (Super Mario World)",
+        "de-DE": "Ground BGM (Rock 'n' Roll 2) (Super Mario World)",
+        "nl-NL": "Ground BGM (Rock 'n' Roll 2) (Super Mario World)",
+        "it-IT": "Ground BGM (Rock 'n' Roll 2) (Super Mario World)",
+        "pt-PT": "Ground BGM (Rock 'n' Roll 2) (Super Mario World)",
+        "pt-BR": "Ground BGM (Rock 'n' Roll 2) (Super Mario World)",
+        "es-ES": "Ground BGM (Rock 'n' Roll 2) (Super Mario World)",
+        "es-MX": "Ground BGM (versión rock and roll 2) (Super Mario World)",
+        "ru-RU": "Ground BGM (Rock 'n' Roll 2) (Super Mario World)",
+        "ko-KR": "Ground BGM (Ska Ver.) (슈퍼 마리오 월드)",
+        "zh-CN": "Ground BGM (Rock 'n' Roll Ver. 2) (Super Mario World)",
+        "zh-TW": "Ground BGM (Rock 'n' Roll Ver. 2)（Super Mario World）"
+      }
+    },
+    {
+      "id": "39092d74-8ccc-4580-83b2-11a6318f084e",
+      "name": {
+        "en-US": "Ground BGM (Ska) (Super Mario World)",
+        "ja-JP": "地上BGM スカVer.（スーパーマリオワールド）",
+        "en-GB": "Ground BGM (Ska) (Super Mario World)",
+        "fr-FR": "Ground BGM (Ska) (Super Mario World)",
+        "fr-CA": "Ground BGM (Ska Ver.) (Super Mario World)",
+        "de-DE": "Ground BGM (Ska) (Super Mario World)",
+        "nl-NL": "Ground BGM (Ska) (Super Mario World)",
+        "it-IT": "Ground BGM (Ska) (Super Mario World)",
+        "pt-PT": "Ground BGM (Ska) (Super Mario World)",
+        "pt-BR": "Ground BGM (Ska) (Super Mario World)",
+        "es-ES": "Ground BGM (Ska) (Super Mario World)",
+        "es-MX": "Ground BGM (versión ska) (Super Mario World)",
+        "ru-RU": "Ground BGM (Ska) (Super Mario World)",
+        "ko-KR": "Ground BGM (Ska Ver.) (슈퍼 마리오 월드)",
+        "zh-CN": "Ground BGM (Ska Ver.) (Super Mario World)",
+        "zh-TW": "Ground BGM (Ska Ver.)（Super Mario World）"
+      }
+    },
+    {
+      "id": "0646e127-c252-43ba-abf2-af8b477b4cc8",
+      "name": {
+        "en-US": "Ground BGM (Country) (Super Mario World)",
+        "ja-JP": "地上BGM カントリーVer.（スーパーマリオワールド）",
+        "en-GB": "Ground BGM (Country) (Super Mario World)",
+        "fr-FR": "Ground BGM (Country) (Super Mario World)",
+        "fr-CA": "Ground BGM (Country Ver.) (Super Mario World)",
+        "de-DE": "Ground BGM (Country) (Super Mario World)",
+        "nl-NL": "Ground BGM (Country) (Super Mario World)",
+        "it-IT": "Ground BGM (Country) (Super Mario World)",
+        "pt-PT": "Ground BGM (Country) (Super Mario World)",
+        "pt-BR": "Ground BGM (Country) (Super Mario World)",
+        "es-ES": "Ground BGM (Country) (Super Mario World)",
+        "es-MX": "Ground BGM (versión country) (Super Mario World)",
+        "ru-RU": "Ground BGM (Country) (Super Mario World)",
+        "ko-KR": "Ground BGM (Country Ver.) (슈퍼 마리오 월드)",
+        "zh-CN": "Ground BGM (Country Ver.) (Super Mario World)",
+        "zh-TW": "Ground BGM (Country Ver.)（Super Mario World）"
+      }
+    },
+    {
+      "id": "b77b1418-aecb-4de8-85e9-b8bb1aafc37c",
+      "name": {
+        "en-US": "Underground BGM (Super Mario World)",
+        "ja-JP": "地下BGM（スーパーマリオワールド）",
+        "en-GB": "Underground BGM (Super Mario World)",
+        "fr-FR": "Underground BGM (Super Mario World)",
+        "fr-CA": "Underground BGM (Super Mario World)",
+        "de-DE": "Underground BGM (Super Mario World)",
+        "nl-NL": "Underground BGM (Super Mario World)",
+        "it-IT": "Underground BGM (Super Mario World)",
+        "pt-PT": "Underground BGM (Super Mario World)",
+        "pt-BR": "Underground BGM (Super Mario World)",
+        "es-ES": "Underground BGM (Super Mario World)",
+        "es-MX": "Underground BGM (Super Mario World)",
+        "ru-RU": "Underground BGM (Super Mario World)",
+        "ko-KR": "Underground BGM (슈퍼 마리오 월드)",
+        "zh-CN": "Underground BGM (Super Mario World)",
+        "zh-TW": "Underground BGM（Super Mario World）"
+      }
+    },
+    {
+      "id": "4b7ce33c-63f8-4e89-a2e7-cb0e9b0dcd40",
+      "name": {
+        "en-US": "Underwater BGM (Super Mario World)",
+        "ja-JP": "水中BGM（スーパーマリオワールド）",
+        "en-GB": "Underwater BGM (Super Mario World)",
+        "fr-FR": "Underwater BGM (Super Mario World)",
+        "fr-CA": "Underwater BGM (Super Mario World)",
+        "de-DE": "Underwater BGM (Super Mario World)",
+        "nl-NL": "Underwater BGM (Super Mario World)",
+        "it-IT": "Underwater BGM (Super Mario World)",
+        "pt-PT": "Underwater BGM (Super Mario World)",
+        "pt-BR": "Underwater BGM (Super Mario World)",
+        "es-ES": "Underwater BGM (Super Mario World)",
+        "es-MX": "Underwater BGM (Super Mario World)",
+        "ru-RU": "Underwater BGM (Super Mario World)",
+        "ko-KR": "Underwater BGM (슈퍼 마리오 월드)",
+        "zh-CN": "Underwater BGM (Super Mario World)",
+        "zh-TW": "Underwater BGM（Super Mario World）"
+      }
+    },
+    {
+      "id": "f68911f1-a787-4348-9bae-14773b6561db",
+      "name": {
+        "en-US": "Bonus Game BGM (Super Mario World)",
+        "ja-JP": "ボーナス面BGM（スーパーマリオワールド）",
+        "en-GB": "Bonus Game BGM (Super Mario World)",
+        "fr-FR": "Bonus Game BGM (Super Mario World)",
+        "fr-CA": "Bonus Game BGM (Super Mario World)",
+        "de-DE": "Bonus Game BGM (Super Mario World)",
+        "nl-NL": "Bonus Game BGM (Super Mario World)",
+        "it-IT": "Bonus Game BGM (Super Mario World)",
+        "pt-PT": "Bonus Game BGM (Super Mario World)",
+        "pt-BR": "Bonus Game BGM (Super Mario World)",
+        "es-ES": "Bonus Game BGM (Super Mario World)",
+        "es-MX": "Bonus Game BGM (Super Mario World)",
+        "ru-RU": "Bonus Game BGM (Super Mario World)",
+        "ko-KR": "Bonus Game BGM (슈퍼 마리오 월드)",
+        "zh-CN": "Bonus Game BGM (Super Mario World)",
+        "zh-TW": "Bonus Game BGM（Super Mario World）"
+      }
+    },
+    {
+      "id": "617c3844-2254-4657-ae8e-8117fe741164",
+      "name": {
+        "en-US": "Castle BGM (Super Mario World)",
+        "ja-JP": "お城BGM（スーパーマリオワールド）",
+        "en-GB": "Castle BGM (Super Mario World)",
+        "fr-FR": "Castle BGM (Super Mario World)",
+        "fr-CA": "Castle BGM (Super Mario World)",
+        "de-DE": "Castle BGM (Super Mario World)",
+        "nl-NL": "Castle BGM (Super Mario World)",
+        "it-IT": "Castle BGM (Super Mario World)",
+        "pt-PT": "Castle BGM (Super Mario World)",
+        "pt-BR": "Castle BGM (Super Mario World)",
+        "es-ES": "Castle BGM (Super Mario World)",
+        "es-MX": "Castle BGM (Super Mario World)",
+        "ru-RU": "Castle BGM (Super Mario World)",
+        "ko-KR": "성 BGM (슈퍼 마리오 월드)",
+        "zh-CN": "Castle BGM (Super Mario World)",
+        "zh-TW": "Castle BGM（Super Mario World）"
+      }
+    },
+    {
+      "id": "60d4d7a4-f1f6-491e-923a-961ec0db16c9",
+      "name": {
+        "en-US": "Koopalings BGM (Super Mario World)",
+        "ja-JP": "コクッパBGM（スーパーマリオワールド）",
+        "en-GB": "Koopalings BGM (Super Mario World)",
+        "fr-FR": "Koopalings BGM (Super Mario World)",
+        "fr-CA": "Koopalings BGM (Super Mario World)",
+        "de-DE": "Koopalings BGM (Super Mario World)",
+        "nl-NL": "Koopalings BGM (Super Mario World)",
+        "it-IT": "Koopalings BGM (Super Mario World)",
+        "pt-PT": "Koopalings BGM (Super Mario World)",
+        "pt-BR": "Koopalings BGM (Super Mario World)",
+        "es-ES": "Koopalings BGM (Super Mario World)",
+        "es-MX": "Koopalings BGM (Super Mario World)",
+        "ru-RU": "Koopalings BGM (Super Mario World)",
+        "ko-KR": "Koopalings BGM (슈퍼 마리오 월드)",
+        "zh-CN": "Koopalings BGM (Super Mario World)",
+        "zh-TW": "Koopalings BGM（Super Mario World）"
+      }
+    },
+    {
+      "id": "27d339e2-5ac6-4bdd-9e7f-6bddb63131cb",
+      "name": {
+        "en-US": "Ending (Super Mario World)",
+        "ja-JP": "エンディング（スーパーマリオワールド）",
+        "en-GB": "Ending (Super Mario World)",
+        "fr-FR": "Ending (Super Mario World)",
+        "fr-CA": "Ending (Super Mario World)",
+        "de-DE": "Ending (Super Mario World)",
+        "nl-NL": "Ending (Super Mario World)",
+        "it-IT": "Ending (Super Mario World)",
+        "pt-PT": "Ending (Super Mario World)",
+        "pt-BR": "Ending (Super Mario World)",
+        "es-ES": "Ending (Super Mario World)",
+        "es-MX": "Ending (Super Mario World)",
+        "ru-RU": "Ending (Super Mario World)",
+        "ko-KR": "엔딩 (슈퍼 마리오 월드)",
+        "zh-CN": "Ending (Super Mario World)",
+        "zh-TW": "Ending（Super Mario World）"
+      }
+    },
+    {
       "id": "8e8e372f-7f42-4418-a592-307765a8c972",
       "name": {
         "en-US": "Title Screen (Fusion) (Super Mario Kart)",
@@ -3066,6 +3360,48 @@
         "ko-KR": "만든 사람들 (Super Mario Kart)",
         "zh-CN": "制作人员名单（Super Mario Kart）",
         "zh-TW": "工作人員名單（Super Mario Kart）"
+      }
+    },
+    {
+      "id": "f1b45c82-3c81-4944-bab7-ca00029eb7a2",
+      "name": {
+        "en-US": "Main Theme (Super Mario Land 2 - 6 Golden Coins)",
+        "ja-JP": "メインテーマ（スーパーマリオランド2 6つの金貨）",
+        "en-GB": "Main Theme (Super Mario Land 2 - 6 Golden Coins)",
+        "fr-FR": "Main Theme (Super Mario Land 2 - 6 Golden Coins)",
+        "fr-CA": "Main Theme (Super Mario Land 2 - 6 Golden Coins)",
+        "de-DE": "Main Theme (Super Mario Land 2 - 6 Golden Coins)",
+        "nl-NL": "Main Theme (Super Mario Land 2 - 6 Golden Coins)",
+        "it-IT": "Main Theme (Super Mario Land 2 - 6 Golden Coins)",
+        "pt-PT": "Main Theme (Super Mario Land 2 - 6 Golden Coins)",
+        "pt-BR": "Main Theme (Super Mario Land 2 - 6 Golden Coins)",
+        "es-ES": "Main Theme (Super Mario Land 2 - 6 Golden Coins)",
+        "es-MX": "Main Theme (Super Mario Land 2 - 6 Golden Coins)",
+        "ru-RU": "Main Theme (Super Mario Land 2 - 6 Golden Coins)",
+        "ko-KR": "Main Theme (Super Mario Land 2 - 6 Golden Coins)",
+        "zh-CN": "Main Theme (Super Mario Land 2 - 6 Golden Coins)",
+        "zh-TW": "Main Theme（Super Mario Land 2 - 6 Golden Coins）"
+      }
+    },
+    {
+      "id": "7c462053-ef11-44c4-9ba1-10b1fb343a2c",
+      "name": {
+        "en-US": "Main Theme (Wario Land: Super Mario Land 3)",
+        "ja-JP": "メインテーマ（スーパーマリオランド3 ワリオランド）",
+        "en-GB": "Main Theme (Wario Land: Super Mario Land 3)",
+        "fr-FR": "Main Theme (Wario Land: Super Mario Land 3)",
+        "fr-CA": "Main Theme (Wario Land: Super Mario Land 3)",
+        "de-DE": "Main Theme (Wario Land: Super Mario Land 3)",
+        "nl-NL": "Main Theme (Wario Land: Super Mario Land 3)",
+        "it-IT": "Main Theme (Wario Land: Super Mario Land 3)",
+        "pt-PT": "Main Theme (Wario Land: Super Mario Land 3)",
+        "pt-BR": "Main Theme (Wario Land: Super Mario Land 3)",
+        "es-ES": "Main Theme (Wario Land: Super Mario Land 3)",
+        "es-MX": "Main Theme (Wario Land: Super Mario Land 3)",
+        "ru-RU": "Main Theme (Wario Land: Super Mario Land 3)",
+        "ko-KR": "Main Theme (Wario Land: Super Mario Land 3)",
+        "zh-CN": "Main Theme (Wario Land: Super Mario Land 3)",
+        "zh-TW": "Main Theme（Wario Land: Super Mario Land 3）"
       }
     },
     {
