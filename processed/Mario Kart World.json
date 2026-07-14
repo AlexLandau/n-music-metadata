@@ -2,7 +2,7 @@
   "nameEnUS": "Mario Kart World",
   "id": "dbadc5dd-73a5-482d-9aaa-c87b1b64d7dd",
   "hardware": "Nintendo Switch 2",
-  "timestamp": 1783386059,
+  "timestamp": 1783990859,
   "name": {
     "en-US": "Mario Kart World",
     "ja-JP": "マリオカート ワールド",
@@ -3132,6 +3132,48 @@
       }
     },
     {
+      "id": "89da0316-aaf8-4a7b-9b09-79e0049ed3af",
+      "name": {
+        "en-US": "Painting Mode 1 (Mario Paint)",
+        "ja-JP": "お絵描きスクリーン1（マリオペイント）",
+        "en-GB": "Painting Mode 1 (Mario Paint)",
+        "fr-FR": "Painting Mode 1 (Mario Paint)",
+        "fr-CA": "Painting Mode 1 (Mario Paint)",
+        "de-DE": "Painting Mode 1 (Mario Paint)",
+        "nl-NL": "Painting Mode 1 (Mario Paint)",
+        "it-IT": "Painting Mode 1 (Mario Paint)",
+        "pt-PT": "Painting Mode 1 (Mario Paint)",
+        "pt-BR": "Painting Mode 1 (Mario Paint)",
+        "es-ES": "Painting Mode 1 (Mario Paint)",
+        "es-MX": "Painting Mode 1 (Mario Paint)",
+        "ru-RU": "Painting Mode 1 (Mario Paint)",
+        "ko-KR": "Painting Mode 1 (Mario Paint)",
+        "zh-CN": "Painting Mode 1 (Mario Paint)",
+        "zh-TW": "Painting Mode 1（Mario Paint）"
+      }
+    },
+    {
+      "id": "390ee27b-1737-4e82-a538-7b47b5e37150",
+      "name": {
+        "en-US": "Flyswatter Level 1 (Mario Paint)",
+        "ja-JP": "ハエタタキ：レベル1（マリオペイント）",
+        "en-GB": "Flyswatter Level 1 (Mario Paint)",
+        "fr-FR": "Flyswatter Level 1 (Mario Paint)",
+        "fr-CA": "Flyswatter Level 1 (Mario Paint)",
+        "de-DE": "Flyswatter Level 1 (Mario Paint)",
+        "nl-NL": "Flyswatter Level 1 (Mario Paint)",
+        "it-IT": "Flyswatter Level 1 (Mario Paint)",
+        "pt-PT": "Flyswatter Level 1 (Mario Paint)",
+        "pt-BR": "Flyswatter Level 1 (Mario Paint)",
+        "es-ES": "Flyswatter Level 1 (Mario Paint)",
+        "es-MX": "Flyswatter Level 1 (Mario Paint)",
+        "ru-RU": "Flyswatter Level 1 (Mario Paint)",
+        "ko-KR": "Flyswatter Level 1 (Mario Paint)",
+        "zh-CN": "Flyswatter Level 1 (Mario Paint)\n",
+        "zh-TW": "Flyswatter Level 1（Mario Paint）"
+      }
+    },
+    {
       "id": "8e8e372f-7f42-4418-a592-307765a8c972",
       "name": {
         "en-US": "Title Screen (Fusion) (Super Mario Kart)",
@@ -4203,6 +4245,48 @@
       }
     },
     {
+      "id": "b9c1ceee-afde-4666-baee-510f769e0a1d",
+      "name": {
+        "en-US": "Ground BGM (New Super Mario Bros.)",
+        "ja-JP": "地上BGM（New スーパーマリオブラザーズ）",
+        "en-GB": "Ground BGM (New Super Mario Bros.)",
+        "fr-FR": "Ground BGM (New Super Mario Bros.)",
+        "fr-CA": "Ground BGM (New Super Mario Bros.)",
+        "de-DE": "Ground BGM (New Super Mario Bros.)",
+        "nl-NL": "Ground BGM (New Super Mario Bros.)",
+        "it-IT": "Ground BGM (New Super Mario Bros.)",
+        "pt-PT": "Ground BGM (New Super Mario Bros.)",
+        "pt-BR": "Ground BGM (New Super Mario Bros.)",
+        "es-ES": "Ground BGM (New Super Mario Bros.)",
+        "es-MX": "Ground BGM (New Super Mario Bros.)",
+        "ru-RU": "Ground BGM (New Super Mario Bros.)",
+        "ko-KR": "지상 BGM (뉴 슈퍼 마리오브라더스)",
+        "zh-CN": "Ground BGM (New Super Mario Bros.)",
+        "zh-TW": "Ground BGM（New Super Mario Bros.）"
+      }
+    },
+    {
+      "id": "d5a86f48-c5e9-4c65-94f7-f125cc9916f9",
+      "name": {
+        "en-US": "Castle BGM (New Super Mario Bros.)",
+        "ja-JP": "城BGM（New スーパーマリオブラザーズ）",
+        "en-GB": "Castle BGM (New Super Mario Bros.)",
+        "fr-FR": "Castle BGM (New Super Mario Bros.)",
+        "fr-CA": "Castle BGM (New Super Mario Bros.)",
+        "de-DE": "Castle BGM (New Super Mario Bros.)",
+        "nl-NL": "Castle BGM (New Super Mario Bros.)",
+        "it-IT": "Castle BGM (New Super Mario Bros.)",
+        "pt-PT": "Castle BGM (New Super Mario Bros.)",
+        "pt-BR": "Castle BGM (New Super Mario Bros.)",
+        "es-ES": "Castle BGM (New Super Mario Bros.)",
+        "es-MX": "Castle BGM (New Super Mario Bros.)",
+        "ru-RU": "Castle BGM (New Super Mario Bros.)",
+        "ko-KR": "Castle BGM (뉴 슈퍼 마리오브라더스)",
+        "zh-CN": "Castle BGM (New Super Mario Bros.)",
+        "zh-TW": "Castle BGM（New Super Mario Bros.）"
+      }
+    },
+    {
       "id": "5bff7042-932f-4073-a24d-584280ede0bc",
       "name": {
         "en-US": "Egg Planet (Super Mario Galaxy)",
@@ -4644,6 +4728,153 @@
       }
     },
     {
+      "id": "84a4c176-c8bf-49ca-a6d3-fd3f79812ee0",
+      "name": {
+        "en-US": "Underwater BGM (New Super Mario Bros. Wii)",
+        "ja-JP": "水中BGM（New スーパーマリオブラザーズ Wii）",
+        "en-GB": "Underwater BGM (New Super Mario Bros. Wii)",
+        "fr-FR": "Underwater BGM (New Super Mario Bros. Wii)",
+        "fr-CA": "Underwater BGM (New Super Mario Bros. Wii)",
+        "de-DE": "Underwater BGM (New Super Mario Bros. Wii)",
+        "nl-NL": "Underwater BGM (New Super Mario Bros. Wii)",
+        "it-IT": "Underwater BGM (New Super Mario Bros. Wii)",
+        "pt-PT": "Underwater BGM (New Super Mario Bros. Wii)",
+        "pt-BR": "Underwater BGM (New Super Mario Bros. Wii)",
+        "es-ES": "Underwater BGM (New Super Mario Bros. Wii)",
+        "es-MX": "Underwater BGM (New Super Mario Bros. Wii)",
+        "ru-RU": "Underwater BGM (New Super Mario Bros. Wii)",
+        "ko-KR": "Underwater BGM (뉴 슈퍼 마리오브라더스 Wii)",
+        "zh-CN": "Underwater BGM (New Super Mario Bros. Wii)",
+        "zh-TW": "Underwater BGM（New Super Mario Bros. Wii）"
+      }
+    },
+    {
+      "id": "4f89bfdd-0dc5-4125-b5e2-261b9214219f",
+      "name": {
+        "en-US": "Castle BGM (New Super Mario Bros. Wii)",
+        "ja-JP": "城BGM（New スーパーマリオブラザーズ Wii）",
+        "en-GB": "Castle BGM (New Super Mario Bros. Wii)",
+        "fr-FR": "Castle BGM (New Super Mario Bros. Wii)",
+        "fr-CA": "Castle BGM (New Super Mario Bros. Wii)",
+        "de-DE": "Castle BGM (New Super Mario Bros. Wii)",
+        "nl-NL": "Castle BGM (New Super Mario Bros. Wii)",
+        "it-IT": "Castle BGM (New Super Mario Bros. Wii)",
+        "pt-PT": "Castle BGM (New Super Mario Bros. Wii)",
+        "pt-BR": "Castle BGM (New Super Mario Bros. Wii)",
+        "es-ES": "Castle BGM (New Super Mario Bros. Wii)",
+        "es-MX": "Castle BGM (New Super Mario Bros. Wii)",
+        "ru-RU": "Castle BGM (New Super Mario Bros. Wii)",
+        "ko-KR": "성 BGM (뉴 슈퍼 마리오브라더스 Wii)",
+        "zh-CN": "Castle BGM (New Super Mario Bros. Wii)",
+        "zh-TW": "Castle BGM（New Super Mario Bros. Wii）"
+      }
+    },
+    {
+      "id": "30d141f4-f853-416e-8bad-a7aebbaba386",
+      "name": {
+        "en-US": "Castle Boss (New Super Mario Bros. Wii)",
+        "ja-JP": "城ボス戦（New スーパーマリオブラザーズ Wii）",
+        "en-GB": "Castle Boss (New Super Mario Bros. Wii)",
+        "fr-FR": "Castle Boss (New Super Mario Bros. Wii)",
+        "fr-CA": "Castle Boss (New Super Mario Bros. Wii)",
+        "de-DE": "Castle Boss (New Super Mario Bros. Wii)",
+        "nl-NL": "Castle Boss (New Super Mario Bros. Wii)",
+        "it-IT": "Castle Boss (New Super Mario Bros. Wii)",
+        "pt-PT": "Castle Boss (New Super Mario Bros. Wii)",
+        "pt-BR": "Castle Boss (New Super Mario Bros. Wii)",
+        "es-ES": "Castle Boss (New Super Mario Bros. Wii)",
+        "es-MX": "Castle Boss (New Super Mario Bros. Wii)",
+        "ru-RU": "Castle Boss (New Super Mario Bros. Wii)",
+        "ko-KR": "Castle Boss (뉴 슈퍼 마리오브라더스 Wii)",
+        "zh-CN": "Castle Boss (New Super Mario Bros. Wii)",
+        "zh-TW": "Castle Boss（New Super Mario Bros. Wii）"
+      }
+    },
+    {
+      "id": "f18fd397-4375-40e9-87f9-5dd21c5231dc",
+      "name": {
+        "en-US": "Desert BGM (New Super Mario Bros. Wii)",
+        "ja-JP": "砂漠BGM（New スーパーマリオブラザーズ Wii）",
+        "en-GB": "Desert BGM (New Super Mario Bros. Wii)",
+        "fr-FR": "Desert BGM (New Super Mario Bros. Wii)",
+        "fr-CA": "Desert BGM (New Super Mario Bros. Wii)",
+        "de-DE": "Desert BGM (New Super Mario Bros. Wii)",
+        "nl-NL": "Desert BGM (New Super Mario Bros. Wii)",
+        "it-IT": "Desert BGM (New Super Mario Bros. Wii)",
+        "pt-PT": "Desert BGM (New Super Mario Bros. Wii)",
+        "pt-BR": "Desert BGM (New Super Mario Bros. Wii)",
+        "es-ES": "Desert BGM (New Super Mario Bros. Wii)",
+        "es-MX": "Desert BGM (New Super Mario Bros. Wii)",
+        "ru-RU": "Desert BGM (New Super Mario Bros. Wii)",
+        "ko-KR": "Desert BGM (뉴 슈퍼 마리오브라더스 Wii)",
+        "zh-CN": "Desert BGM (New Super Mario Bros. Wii)",
+        "zh-TW": "Desert BGM（New Super Mario Bros. Wii）"
+      }
+    },
+    {
+      "id": "44b392bf-db20-4364-afc8-50757f0e547d",
+      "name": {
+        "en-US": "Beach Theme (New Super Mario Bros. Wii)",
+        "ja-JP": "海岸BGM（New スーパーマリオブラザーズ Wii）",
+        "en-GB": "Beach Theme (New Super Mario Bros. Wii)",
+        "fr-FR": "Beach Theme (New Super Mario Bros. Wii)",
+        "fr-CA": "Beach Theme (New Super Mario Bros. Wii)",
+        "de-DE": "Beach Theme (New Super Mario Bros. Wii)",
+        "nl-NL": "Beach Theme (New Super Mario Bros. Wii)",
+        "it-IT": "Beach Theme (New Super Mario Bros. Wii)",
+        "pt-PT": "Beach Theme (New Super Mario Bros. Wii)",
+        "pt-BR": "Beach Theme (New Super Mario Bros. Wii)",
+        "es-ES": "Beach Theme (New Super Mario Bros. Wii)",
+        "es-MX": "Beach Theme (New Super Mario Bros. Wii)",
+        "ru-RU": "Beach Theme (New Super Mario Bros. Wii)",
+        "ko-KR": "Beach Theme (뉴 슈퍼 마리오브라더스 Wii)",
+        "zh-CN": "Beach Theme (New Super Mario Bros. Wii)",
+        "zh-TW": "Beach Theme（New Super Mario Bros. Wii）"
+      }
+    },
+    {
+      "id": "21aa2f0a-ef4c-470d-80bd-1b02bb382b3e",
+      "name": {
+        "en-US": "Volcano BGM (New Super Mario Bros. Wii)",
+        "ja-JP": "火山BGM（New スーパーマリオブラザーズ Wii）",
+        "en-GB": "Volcano BGM (New Super Mario Bros. Wii)",
+        "fr-FR": "Volcano BGM (New Super Mario Bros. Wii)",
+        "fr-CA": "Volcano BGM (New Super Mario Bros. Wii)",
+        "de-DE": "Volcano BGM (New Super Mario Bros. Wii)",
+        "nl-NL": "Volcano BGM (New Super Mario Bros. Wii)",
+        "it-IT": "Volcano BGM (New Super Mario Bros. Wii)",
+        "pt-PT": "Volcano BGM (New Super Mario Bros. Wii)",
+        "pt-BR": "Volcano BGM (New Super Mario Bros. Wii)",
+        "es-ES": "Volcano BGM (New Super Mario Bros. Wii)",
+        "es-MX": "Volcano BGM (New Super Mario Bros. Wii)",
+        "ru-RU": "Volcano BGM (New Super Mario Bros. Wii)",
+        "ko-KR": "Volcano BGM (뉴 슈퍼 마리오브라더스 Wii)",
+        "zh-CN": "Volcano BGM (New Super Mario Bros. Wii)",
+        "zh-TW": "Volcano BGM（New Super Mario Bros. Wii）"
+      }
+    },
+    {
+      "id": "a6308207-3f46-4665-b693-4652ff67b27f",
+      "name": {
+        "en-US": "Credits Theme 1 (New Super Mario Bros. Wii)",
+        "ja-JP": "スタッフクレジット（New スーパーマリオブラザーズ Wii）",
+        "en-GB": "Credits Theme 1 (New Super Mario Bros. Wii)",
+        "fr-FR": "Credits Theme 1 (New Super Mario Bros. Wii)",
+        "fr-CA": "Credits Theme 1 (New Super Mario Bros. Wii)",
+        "de-DE": "Credits Theme 1 (New Super Mario Bros. Wii)",
+        "nl-NL": "Credits Theme 1 (New Super Mario Bros. Wii)",
+        "it-IT": "Credits Theme 1 (New Super Mario Bros. Wii)",
+        "pt-PT": "Credits Theme 1 (New Super Mario Bros. Wii)",
+        "pt-BR": "Credits Theme 1 (New Super Mario Bros. Wii)",
+        "es-ES": "Credits Theme 1 (New Super Mario Bros. Wii)",
+        "es-MX": "Credits Theme 1 (New Super Mario Bros. Wii)",
+        "ru-RU": "Credits Theme 1 (New Super Mario Bros. Wii)",
+        "ko-KR": "Credits Theme 1 (뉴 슈퍼 마리오브라더스 Wii)",
+        "zh-CN": "Credits Theme 1 (New Super Mario Bros. Wii)",
+        "zh-TW": "Credits Theme 1（New Super Mario Bros. Wii）"
+      }
+    },
+    {
       "id": "fc5380e5-c7f2-486f-bccd-68569945ea42",
       "name": {
         "en-US": "Sky Station Galaxy (Super Mario Galaxy 2)",
@@ -4851,6 +5082,48 @@
         "ko-KR": "Bowser's Galaxy Generator (슈퍼 마리오 갤럭시 2)",
         "zh-CN": "Bowser's Galaxy Generator (Super Mario Galaxy 2)",
         "zh-TW": "Bowser's Galaxy Generator（Super Mario Galaxy 2）"
+      }
+    },
+    {
+      "id": "48449f05-e09a-44ff-a3de-e80a39e352b2",
+      "name": {
+        "en-US": "Ground Theme (New Super Mario Bros. U)",
+        "ja-JP": "地上のテーマ（New スーパーマリオブラザーズ U）",
+        "en-GB": "Ground Theme (New Super Mario Bros. U)",
+        "fr-FR": "Ground Theme (New Super Mario Bros. U)",
+        "fr-CA": "Ground Theme (New Super Mario Bros. U)",
+        "de-DE": "Ground Theme (New Super Mario Bros. U)",
+        "nl-NL": "Ground Theme (New Super Mario Bros. U)",
+        "it-IT": "Ground Theme (New Super Mario Bros. U)",
+        "pt-PT": "Ground Theme (New Super Mario Bros. U)",
+        "pt-BR": "Ground Theme (New Super Mario Bros. U)",
+        "es-ES": "Ground Theme (New Super Mario Bros. U)",
+        "es-MX": "Ground Theme (New Super Mario Bros. U)",
+        "ru-RU": "Ground Theme (New Super Mario Bros. U)",
+        "ko-KR": "Ground Theme (New Super Mario Bros. U)",
+        "zh-CN": "Ground Theme (New Super Mario Bros. U)",
+        "zh-TW": "Ground Theme（New Super Mario Bros. U）"
+      }
+    },
+    {
+      "id": "57c774b6-9a67-4db0-a03f-c37b4a36a695",
+      "name": {
+        "en-US": "Title Screen (Super Mario Maker)",
+        "ja-JP": "タイトル（スーパーマリオメーカー）",
+        "en-GB": "Title Screen (Super Mario Maker)",
+        "fr-FR": "Title Screen (Super Mario Maker)",
+        "fr-CA": "Title Screen (Super Mario Maker)",
+        "de-DE": "Title Screen (Super Mario Maker)",
+        "nl-NL": "Title Screen (Super Mario Maker)",
+        "it-IT": "Title Screen (Super Mario Maker)",
+        "pt-PT": "Title Screen (Super Mario Maker)",
+        "pt-BR": "Title Screen (Super Mario Maker)",
+        "es-ES": "Title Screen (Super Mario Maker)",
+        "es-MX": "Pantalla del título (Super Mario Maker)",
+        "ru-RU": "Title Screen (Super Mario Maker)",
+        "ko-KR": "Title Screen (Super Mario Maker)",
+        "zh-CN": "Title Screen (Super Mario Maker)",
+        "zh-TW": "Title Screen（Super Mario Maker）"
       }
     }
   ],
