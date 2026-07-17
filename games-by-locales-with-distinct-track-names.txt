@@ -21,6 +21,7 @@
 2: Devil World
 2: Donkey Kong
 2: Donkey Kong 3
+2: Donkey Kong Bananza
 2: Donkey Kong Country
 2: Donkey Kong Country 2: Diddy's Kong Quest
 2: Donkey Kong Country 3: Dixie Kong's Double Trouble!
