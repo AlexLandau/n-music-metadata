@@ -2,7 +2,7 @@
   "nameEnUS": "Mario Kart World",
   "id": "dbadc5dd-73a5-482d-9aaa-c87b1b64d7dd",
   "hardware": "Nintendo Switch 2",
-  "timestamp": 1783990859,
+  "timestamp": 1784595659,
   "name": {
     "en-US": "Mario Kart World",
     "ja-JP": "マリオカート ワールド",
@@ -3990,6 +3990,342 @@
         "ko-KR": "Yoshi's Tale (Yoshi's Story)",
         "zh-CN": "Yoshi's Tale (Yoshi's Story)",
         "zh-TW": "Yoshi's Tale（Yoshi's Story）"
+      }
+    },
+    {
+      "id": "ba58ebfa-6108-4121-b6c9-8b081086a9d0",
+      "name": {
+        "en-US": "Peach Circuit (Mario Kart: Super Circuit)",
+        "ja-JP": "ピーチサーキット（マリオカートアドバンス）",
+        "en-GB": "Peach Circuit (Mario Kart: Super Circuit)",
+        "fr-FR": "Circuit Peach (Mario Kart: Super Circuit)",
+        "fr-CA": "Circuit Peach (Mario Kart: Super Circuit)",
+        "de-DE": "Peachs Piste (Mario Kart: Super Circuit)",
+        "nl-NL": "Peach' Circuit (Mario Kart: Super Circuit)",
+        "it-IT": "Pista di Peach (Mario Kart: Super Circuit)",
+        "pt-PT": "Circuito da Peach (Mario Kart: Super Circuit)\n",
+        "pt-BR": "Circuito Peach (Mario Kart: Super Circuit)\n",
+        "es-ES": "Pista Peach (Mario Kart: Super Circuit)",
+        "es-MX": "Pista Peach (Mario Kart: Super Circuit)",
+        "ru-RU": "Трасса Пич (Mario Kart: Super Circuit)",
+        "ko-KR": "피치 서킷 (Mario Kart: Super Circuit)",
+        "zh-CN": "碧姬赛道（Mario Kart: Super Circuit）",
+        "zh-TW": "碧姬賽道（Mario Kart: Super Circuit）"
+      }
+    },
+    {
+      "id": "e66fd0b0-71a6-4528-be10-bd2dce9c8f76",
+      "name": {
+        "en-US": "Shy Guy Beach (Mario Kart: Super Circuit)",
+        "ja-JP": "ヘイホービーチ（マリオカートアドバンス）",
+        "en-GB": "Shy Guy Beach (Mario Kart: Super Circuit)",
+        "fr-FR": "Plage Maskass (Mario Kart: Super Circuit)",
+        "fr-CA": "Plage Maskache (Mario Kart: Super Circuit)",
+        "de-DE": "Shy Guy-Strand (Mario Kart: Super Circuit)",
+        "nl-NL": "Shy Guy-Strand (Mario Kart: Super Circuit)",
+        "it-IT": "Spiaggia Tipo Timido (Mario Kart: Super Circuit)",
+        "pt-PT": "Praia Masquito (Mario Kart: Super Circuit)",
+        "pt-BR": "Praia Shy Guy (Mario Kart: Super Circuit)",
+        "es-ES": "Playa Shy Guy (Mario Kart: Super Circuit)",
+        "es-MX": "Shy Guy Beach (Mario Kart: Super Circuit)",
+        "ru-RU": "Пляж скромняг (Mario Kart: Super Circuit)",
+        "ko-KR": "헤이호 비치 (Mario Kart: Super Circuit)",
+        "zh-CN": "嘿呵海滩（Mario Kart: Super Circuit）",
+        "zh-TW": "嘿呵海灘（Mario Kart: Super Circuit）"
+      }
+    },
+    {
+      "id": "274d48a7-7218-436e-938f-70f928222404",
+      "name": {
+        "en-US": "Riverside Park (Mario Kart: Super Circuit)",
+        "ja-JP": "リバーサイドパーク（マリオカートアドバンス）",
+        "en-GB": "Riverside Park (Mario Kart: Super Circuit)",
+        "fr-FR": "Riverside Parc (Mario Kart: Super Circuit)",
+        "fr-CA": "Riverside Parc (Mario Kart: Super Circuit)",
+        "de-DE": "Flussufer-Park (Mario Kart: Super Circuit)",
+        "nl-NL": "Rivieroever (Mario Kart: Super Circuit)",
+        "it-IT": "Parco Lungofiume (Mario Kart: Super Circuit)",
+        "pt-PT": "Parque Fluvial (Mario Kart: Super Circuit)",
+        "pt-BR": "Parque Fluvial (Mario Kart: Super Circuit)",
+        "es-ES": "Parque de la Rivera (Mario Kart: Super Circuit)",
+        "es-MX": "Parque de la Rivera (Mario Kart: Super Circuit)",
+        "ru-RU": "Прибрежный парк (Mario Kart: Super Circuit)",
+        "ko-KR": "리버사이드 파크 (Mario Kart: Super Circuit)",
+        "zh-CN": "河岸公园（Mario Kart: Super Circuit）",
+        "zh-TW": "河岸公園（Mario Kart: Super Circuit）"
+      }
+    },
+    {
+      "id": "853974e4-d3fb-4943-9238-b5aa26b9674a",
+      "name": {
+        "en-US": "Bowser Castle (Mario Kart: Super Circuit)",
+        "ja-JP": "クッパキャッスル（マリオカートアドバンス）",
+        "en-GB": "Bowser Castle (Mario Kart: Super Circuit)",
+        "fr-FR": "Château de Bowser (Mario Kart: Super Circuit)",
+        "fr-CA": "Château de Bowser (Mario Kart: Super Circuit)",
+        "de-DE": "Bowsers Festung (Mario Kart: Super Circuit)",
+        "nl-NL": "Bowsers Kasteel (Mario Kart: Super Circuit)",
+        "it-IT": "Castello di Bowser (Mario Kart: Super Circuit)",
+        "pt-PT": "Castelo do Bowser (Mario Kart: Super Circuit)",
+        "pt-BR": "Castelo do Bowser (Mario Kart: Super Circuit)",
+        "es-ES": "Castillo de Bowser (Mario Kart: Super Circuit)",
+        "es-MX": "Castillo de Bowser (Mario Kart: Super Circuit)",
+        "ru-RU": "Замок Боузера (Mario Kart: Super Circuit)",
+        "ko-KR": "쿠파 성 (Mario Kart: Super Circuit)",
+        "zh-CN": "酷霸城堡（Mario Kart: Super Circuit）",
+        "zh-TW": "庫巴城堡（Mario Kart: Super Circuit）"
+      }
+    },
+    {
+      "id": "04586594-a7a4-461a-ac72-0c93a5344e56",
+      "name": {
+        "en-US": "Cheese Land (Mario Kart: Super Circuit)",
+        "ja-JP": "チーズランド（マリオカートアドバンス）",
+        "en-GB": "Cheese Land (Mario Kart: Super Circuit)",
+        "fr-FR": "Pays Fromage (Mario Kart: Super Circuit)",
+        "fr-CA": "Pays Fromage (Mario Kart: Super Circuit)",
+        "de-DE": "Käseland (Mario Kart: Super Circuit)",
+        "nl-NL": "Kaasland (Mario Kart: Super Circuit)",
+        "it-IT": "Terra del Formaggio (Mario Kart: Super Circuit)",
+        "pt-PT": "Mundo do Queijo (Mario Kart: Super Circuit)",
+        "pt-BR": "Mundo do Queijo (Mario Kart: Super Circuit)",
+        "es-ES": "Tierra de Queso (Mario Kart: Super Circuit)",
+        "es-MX": "Tierra de Queso (Mario Kart: Super Circuit)",
+        "ru-RU": "Сырные просторы (Mario Kart: Super Circuit)",
+        "ko-KR": "치즈 랜드 (Mario Kart: Super Circuit)",
+        "zh-CN": "奶酪地带（Mario Kart: Super Circuit）",
+        "zh-TW": "起司樂園（Mario Kart: Super Circuit）"
+      }
+    },
+    {
+      "id": "4dfa2bca-c143-490d-8b14-ea189f217a63",
+      "name": {
+        "en-US": "Ribbon Road (Mario Kart: Super Circuit)",
+        "ja-JP": "リボンロード（マリオカートアドバンス）",
+        "en-GB": "Ribbon Road (Mario Kart: Super Circuit)",
+        "fr-FR": "Route Ruban (Mario Kart: Super Circuit)",
+        "fr-CA": "Route Ruban (Mario Kart: Super Circuit)",
+        "de-DE": "Party-Straße (Mario Kart: Super Circuit)",
+        "nl-NL": "Sprintlint (Mario Kart: Super Circuit)",
+        "it-IT": "Strada del Fiocco (Mario Kart: Super Circuit)",
+        "pt-PT": "Estrada de Fita (Mario Kart: Super Circuit)",
+        "pt-BR": "Estrada de Fita (Mario Kart: Super Circuit)",
+        "es-ES": "Ruta del Lazo (Mario Kart: Super Circuit)",
+        "es-MX": "Ruta Listón (Mario Kart: Super Circuit)",
+        "ru-RU": "Серпантин (Mario Kart: Super Circuit)",
+        "ko-KR": "리본 로드 (Mario Kart: Super Circuit)",
+        "zh-CN": "缎带之路（Mario Kart: Super Circuit）",
+        "zh-TW": "絲帶之路（Mario Kart: Super Circuit）"
+      }
+    },
+    {
+      "id": "75ba4ca2-4eff-4ca3-a466-be9d4d783bfd",
+      "name": {
+        "en-US": "Yoshi Desert (Mario Kart: Super Circuit)",
+        "ja-JP": "ヨッシーさばく（マリオカートアドバンス）",
+        "en-GB": "Yoshi Desert (Mario Kart: Super Circuit)",
+        "fr-FR": "Désert Yoshi (Mario Kart: Super Circuit)",
+        "fr-CA": "Désert Yoshi (Mario Kart: Super Circuit)",
+        "de-DE": "Yoshi-Wüste (Mario Kart: Super Circuit)",
+        "nl-NL": "Yoshi's Woestijn (Mario Kart: Super Circuit)",
+        "it-IT": "Deserto di Yoshi (Mario Kart: Super Circuit)",
+        "pt-PT": "Deserto Yoshi (Mario Kart: Super Circuit)",
+        "pt-BR": "Deserto Yoshi (Mario Kart: Super Circuit)",
+        "es-ES": "Desierto de Yoshi (Mario Kart: Super Circuit)",
+        "es-MX": "Desierto de Yoshi (Mario Kart: Super Circuit)",
+        "ru-RU": "Пустыня Йоши (Mario Kart: Super Circuit)",
+        "ko-KR": "요시 사막 (Mario Kart: Super Circuit)",
+        "zh-CN": "耀西沙漠（Mario Kart: Super Circuit）",
+        "zh-TW": "耀西沙漠（Mario Kart: Super Circuit）"
+      }
+    },
+    {
+      "id": "91e455c7-72f3-47cf-a39f-d824b06066ed",
+      "name": {
+        "en-US": "Rainbow Road (Mario Kart: Super Circuit)",
+        "ja-JP": "レインボーロード（マリオカートアドバンス）",
+        "en-GB": "Rainbow Road (Mario Kart: Super Circuit)",
+        "fr-FR": "Route Arc-en-ciel (Mario Kart: Super Circuit)",
+        "fr-CA": "Route Arc-en-ciel (Mario Kart: Super Circuit)",
+        "de-DE": "Regenbogen-Boulevard (Mario Kart: Super Circuit)",
+        "nl-NL": "Regenboogbaan (Mario Kart: Super Circuit)",
+        "it-IT": "Pista Arcobaleno (Mario Kart: Super Circuit)",
+        "pt-PT": "Estrada Arco-Íris (Mario Kart: Super Circuit)",
+        "pt-BR": "Estrada Arco-Íris (Mario Kart: Super Circuit)",
+        "es-ES": "Senda Arco Iris (Mario Kart: Super Circuit)",
+        "es-MX": "Senda Arco Iris (Mario Kart: Super Circuit)",
+        "ru-RU": "Трасса Радуга (Mario Kart: Super Circuit)",
+        "ko-KR": "무지개 로드 (Mario Kart: Super Circuit)",
+        "zh-CN": "彩虹之路（Mario Kart: Super Circuit）",
+        "zh-TW": "彩虹之路（Mario Kart: Super Circuit）"
+      }
+    },
+    {
+      "id": "8ca8d1cd-4a65-4c76-ad25-445e5038991b",
+      "name": {
+        "en-US": "Luigi Circuit (Mario Kart: Double Dash!!)",
+        "ja-JP": "ルイージサーキット（マリオカート ダブルダッシュ!!）",
+        "en-GB": "Luigi Circuit (Mario Kart: Double Dash!!)",
+        "fr-FR": "Circuit Luigi (Mario Kart: Double Dash!!)",
+        "fr-CA": "Circuit Luigi (Mario Kart: Double Dash!!)",
+        "de-DE": "Luigis Piste (Mario Kart: Double Dash!!)",
+        "nl-NL": "Luigi's Circuit (Mario Kart: Double Dash!!)",
+        "it-IT": "Circuito di Luigi (Mario Kart: Double Dash!!)",
+        "pt-PT": "Circuito do Luigi (Mario Kart: Double Dash!!)",
+        "pt-BR": "Circuito Luigi (Mario Kart: Double Dash!!)",
+        "es-ES": "Circuito de Luigi (Mario Kart: Double Dash!!)",
+        "es-MX": "Circuito de Luigi (Mario Kart: Double Dash!!)",
+        "ru-RU": "Трасса Луиджи (Mario Kart: Double Dash!!)",
+        "ko-KR": "루이지 서킷 (Mario Kart: Double Dash!!)",
+        "zh-CN": "路易吉赛道（Mario Kart: Double Dash!!）",
+        "zh-TW": "路易吉賽道（Mario Kart: Double Dash!!）"
+      }
+    },
+    {
+      "id": "67818d21-417a-4699-9782-c07497fa9077",
+      "name": {
+        "en-US": "Baby Park (Mario Kart: Double Dash!!)",
+        "ja-JP": "ベビィパーク（マリオカート ダブルダッシュ!!）",
+        "en-GB": "Baby Park (Mario Kart: Double Dash!!)",
+        "fr-FR": "Parc Baby (Mario Kart: Double Dash!!)",
+        "fr-CA": "Parc Baby (Mario Kart: Double Dash!!)",
+        "de-DE": "Baby-Park (Mario Kart: Double Dash!!)",
+        "nl-NL": "Babypark (Mario Kart: Double Dash!!)",
+        "it-IT": "Baby Park (Mario Kart: Double Dash!!)",
+        "pt-PT": "Parque Bebé (Mario Kart: Double Dash!!)",
+        "pt-BR": "Parque Bebê (Mario Kart: Double Dash!!)",
+        "es-ES": "Parque Bebé (Mario Kart: Double Dash!!)",
+        "es-MX": "Parque Bebé (Mario Kart: Double Dash!!)",
+        "ru-RU": "Луна-парк Малыш (Mario Kart: Double Dash!!)",
+        "ko-KR": "베이비 파크 (Mario Kart: Double Dash!!)",
+        "zh-CN": "宝宝公园（Mario Kart: Double Dash!!）",
+        "zh-TW": "寶寶公園（Mario Kart: Double Dash!!）"
+      }
+    },
+    {
+      "id": "01a5c564-de29-4205-adea-927ee11d550a",
+      "name": {
+        "en-US": "Dry Dry Desert (Mario Kart: Double Dash!!)",
+        "ja-JP": "カラカラさばく（マリオカート ダブルダッシュ!!）",
+        "en-GB": "Dry Dry Desert (Mario Kart: Double Dash!!)",
+        "fr-FR": "Désert Sec Sec (Mario Kart: Double Dash!!)",
+        "fr-CA": "Désert Sec Sec (Mario Kart: Double Dash!!)",
+        "de-DE": "Staubtrockene Wüste (Mario Kart: Double Dash!!)",
+        "nl-NL": "Zinderende Zandvlakte (Mario Kart: Double Dash!!)",
+        "it-IT": "Desertico Deserto (Mario Kart: Double Dash!!)",
+        "pt-PT": "Areias Desertas (Mario Kart: Double Dash!!)",
+        "pt-BR": "Areias Desertas (Mario Kart: Double Dash!!)",
+        "es-ES": "Desierto Seco-Seco (Mario Kart: Double Dash!!)",
+        "es-MX": "Desierto Seco-Seco (Mario Kart: Double Dash!!)",
+        "ru-RU": "Иссушенная пустыня (Mario Kart: Double Dash!!)",
+        "ko-KR": "바싹바싹 사막 (Mario Kart: Double Dash!!)",
+        "zh-CN": "干旱沙漠（Mario Kart: Double Dash!!）",
+        "zh-TW": "乾旱沙漠（Mario Kart: Double Dash!!）"
+      }
+    },
+    {
+      "id": "1f840f02-2e84-48b4-83ed-5aeb1f0accf1",
+      "name": {
+        "en-US": "Mushroom Bridge (Mario Kart: Double Dash!!)",
+        "ja-JP": "キノコブリッジ（マリオカート ダブルダッシュ!!）",
+        "en-GB": "Mushroom Bridge (Mario Kart: Double Dash!!)",
+        "fr-FR": "Pont Champignon (Mario Kart: Double Dash!!)",
+        "fr-CA": "Pont Champignon (Mario Kart: Double Dash!!)",
+        "de-DE": "Pilz-Brücke (Mario Kart: Double Dash!!)",
+        "nl-NL": "Paddenstoelenbrug (Mario Kart: Double Dash!!)",
+        "it-IT": "Ponte dei Funghi (Mario Kart: Double Dash!!)",
+        "pt-PT": "Ponte Cogumelo (Mario Kart: Double Dash!!)",
+        "pt-BR": "Ponte Cogumelo (Mario Kart: Double Dash!!)",
+        "es-ES": "Puente Champiñón (Mario Kart: Double Dash!!)",
+        "es-MX": "Puente Champiñón (Mario Kart: Double Dash!!)",
+        "ru-RU": "Грибной мост (Mario Kart: Double Dash!!)",
+        "ko-KR": "버섯 브리지 (Mario Kart: Double Dash!!)",
+        "zh-CN": "蘑菇大桥（Mario Kart: Double Dash!!）",
+        "zh-TW": "蘑菇大橋（Mario Kart: Double Dash!!）"
+      }
+    },
+    {
+      "id": "4a5da885-7984-425b-a583-c2d5b26e3707",
+      "name": {
+        "en-US": "Sherbet Land (Mario Kart: Double Dash!!)",
+        "ja-JP": "シャーベットランド（マリオカート ダブルダッシュ!!）",
+        "en-GB": "Sherbet Land (Mario Kart: Double Dash!!)",
+        "fr-FR": "Royaume Sorbet (Mario Kart: Double Dash!!)",
+        "fr-CA": "Royaume Sorbet (Mario Kart: Double Dash!!)",
+        "de-DE": "Sorbet-Land (Mario Kart: Double Dash!!)",
+        "nl-NL": "IJzige IJsbaan (Mario Kart: Double Dash!!)",
+        "it-IT": "Circuito Gelato (Mario Kart: Double Dash!!)",
+        "pt-PT": "Circuito Gelado (Mario Kart: Double Dash!!)",
+        "pt-BR": "Circuito Gelado (Mario Kart: Double Dash!!)",
+        "es-ES": "Tierra Sorbete (Mario Kart: Double Dash!!)",
+        "es-MX": "Tierra Sorbete (Mario Kart: Double Dash!!)",
+        "ru-RU": "Ледяная страна (Mario Kart: Double Dash!!)",
+        "ko-KR": "셔벗 랜드 (Mario Kart: Double Dash!!)",
+        "zh-CN": "冰冻地带（Mario Kart: Double Dash!!）",
+        "zh-TW": "冰凍樂園（Mario Kart: Double Dash!!）"
+      }
+    },
+    {
+      "id": "99cd82aa-5797-4f02-bc68-72dc2879f233",
+      "name": {
+        "en-US": "Bowser's Castle (Mario Kart: Double Dash!!)",
+        "ja-JP": "クッパキャッスル（マリオカート ダブルダッシュ!!）",
+        "en-GB": "Bowser's Castle (Mario Kart: Double Dash!!)",
+        "fr-FR": "Château de Bowser (Mario Kart: Double Dash!!)",
+        "fr-CA": "Château de Bowser (Mario Kart: Double Dash!!)",
+        "de-DE": "Bowsers Festung (Mario Kart: Double Dash!!)",
+        "nl-NL": "Bowsers Kasteel (Mario Kart: Double Dash!!)",
+        "it-IT": "Castello di Bowser (Mario Kart: Double Dash!!)",
+        "pt-PT": "Castelo do Bowser (Mario Kart: Double Dash!!)",
+        "pt-BR": "Castelo do Bowser (Mario Kart: Double Dash!!)",
+        "es-ES": "Castillo de Bowser (Mario Kart: Double Dash!!)",
+        "es-MX": "Castillo de Bowser (Mario Kart: Double Dash!!)",
+        "ru-RU": "Замок Боузера (Mario Kart: Double Dash!!)",
+        "ko-KR": "쿠파 성 (Mario Kart: Double Dash!!)",
+        "zh-CN": "酷霸城堡（Mario Kart: Double Dash!!）",
+        "zh-TW": "庫巴城堡（Mario Kart: Double Dash!!）"
+      }
+    },
+    {
+      "id": "92a01020-b8f2-4c96-9d2a-b3ebcbdd4fad",
+      "name": {
+        "en-US": "Rainbow Road (Mario Kart: Double Dash!!)",
+        "ja-JP": "レインボーロード（マリオカート ダブルダッシュ!!）",
+        "en-GB": "Rainbow Road (Mario Kart: Double Dash!!)",
+        "fr-FR": "Route Arc-en-ciel (Mario Kart: Double Dash!!)",
+        "fr-CA": "Route Arc-en-ciel (Mario Kart: Double Dash!!)",
+        "de-DE": "Regenbogen-Boulevard (Mario Kart: Double Dash!!)",
+        "nl-NL": "Regenboogbaan (Mario Kart: Double Dash!!)",
+        "it-IT": "Pista Arcobaleno (Mario Kart: Double Dash!!)",
+        "pt-PT": "Estrada Arco-Íris (Mario Kart: Double Dash!!)",
+        "pt-BR": "Estrada Arco-Íris (Mario Kart: Double Dash!!)",
+        "es-ES": "Senda Arco Iris (Mario Kart: Double Dash!!)",
+        "es-MX": "Senda Arco Iris (Mario Kart: Double Dash!!)",
+        "ru-RU": "Трасса Радуга (Mario Kart: Double Dash!!)",
+        "ko-KR": "무지개 로드 (Mario Kart: Double Dash!!)",
+        "zh-CN": "彩虹之路（Mario Kart: Double Dash!!）",
+        "zh-TW": "彩虹之路（Mario Kart: Double Dash!!）"
+      }
+    },
+    {
+      "id": "1d4e164e-29fd-49a1-87fa-f217b60dda01",
+      "name": {
+        "en-US": "Staff Credits (Mario Kart: Double Dash!!)",
+        "ja-JP": "スタッフクレジット（マリオカート ダブルダッシュ!!）",
+        "en-GB": "Staff Credits (Mario Kart: Double Dash!!)",
+        "fr-FR": "Crédits (Mario Kart: Double Dash!!)",
+        "fr-CA": "Générique (Mario Kart: Double Dash!!)",
+        "de-DE": "Mitwirkende (Mario Kart: Double Dash!!)",
+        "nl-NL": "Credits (Mario Kart: Double Dash!!)",
+        "it-IT": "Riconoscimenti (Mario Kart: Double Dash!!)",
+        "pt-PT": "Créditos (Mario Kart: Double Dash!!)",
+        "pt-BR": "Créditos (Mario Kart: Double Dash!!)",
+        "es-ES": "Créditos (Mario Kart: Double Dash!!)",
+        "es-MX": "Créditos (Mario Kart: Double Dash!!)",
+        "ru-RU": "Над игрой работали (Mario Kart: Double Dash!!)",
+        "ko-KR": "만든 사람들 (Mario Kart: Double Dash!!)",
+        "zh-CN": "制作人员名单（Mario Kart: Double Dash!!）",
+        "zh-TW": "工作人員名單（Mario Kart: Double Dash!!）"
       }
     },
     {
