@@ -2,7 +2,7 @@
   "nameEnUS": "Mario Kart World",
   "id": "dbadc5dd-73a5-482d-9aaa-c87b1b64d7dd",
   "hardware": "Nintendo Switch 2",
-  "timestamp": 1784595659,
+  "timestamp": 1785200459,
   "name": {
     "en-US": "Mario Kart World",
     "ja-JP": "マリオカート ワールド",
@@ -3447,6 +3447,174 @@
       }
     },
     {
+      "id": "eb66e223-da8a-42ad-b93a-e18eb4431c7f",
+      "name": {
+        "en-US": "DK Island Swing (Donkey Kong Country)",
+        "ja-JP": "JUNGLE LEVEL（スーパードンキーコング）",
+        "en-GB": "DK Island Swing (Donkey Kong Country)",
+        "fr-FR": "DK Island Swing (Donkey Kong Country)",
+        "fr-CA": "DK Island Swing (Donkey Kong Country)",
+        "de-DE": "DK Island Swing (Donkey Kong Country)",
+        "nl-NL": "DK Island Swing (Donkey Kong Country)",
+        "it-IT": "DK Island Swing (Donkey Kong Country)",
+        "pt-PT": "DK Island Swing (Donkey Kong Country)",
+        "pt-BR": "DK Island Swing (Donkey Kong Country)",
+        "es-ES": "DK Island Swing (Donkey Kong Country)",
+        "es-MX": "DK Island Swing (Donkey Kong Country)",
+        "ru-RU": "DK Island Swing (Donkey Kong Country)",
+        "ko-KR": "JUNGLE LEVEL (동키콩 컨트리)",
+        "zh-CN": "DK Island Swing (Donkey Kong Country)",
+        "zh-TW": "DK Island Swing（Donkey Kong Country）"
+      }
+    },
+    {
+      "id": "1a36a6e0-0f23-43a3-b910-37cd1bc77d70",
+      "name": {
+        "en-US": "Opening Melody (Super Mario World 2: Yoshi's Island)",
+        "ja-JP": "ものがたりオルゴール（スーパーマリオ ヨッシーアイランド）",
+        "en-GB": "Opening Melody (Super Mario World 2: Yoshi's Island)",
+        "fr-FR": "Opening Melody (Super Mario World 2: Yoshi's Island)",
+        "fr-CA": "Opening Melody (Super Mario World 2: Yoshi's Island)",
+        "de-DE": "Opening Melody (Super Mario World 2: Yoshi's Island)",
+        "nl-NL": "Opening Melody (Super Mario World 2: Yoshi's Island)",
+        "it-IT": "Opening Melody (Super Mario World 2: Yoshi's Island)",
+        "pt-PT": "Opening Melody (Super Mario World 2: Yoshi's Island)",
+        "pt-BR": "Opening Melody (Super Mario World 2: Yoshi's Island)",
+        "es-ES": "Opening Melody (Super Mario World 2: Yoshi's Island)",
+        "es-MX": "Opening Melody (Super Mario World 2: Yoshi's Island)",
+        "ru-RU": "Opening Melody (Super Mario World 2: Yoshi's Island)",
+        "ko-KR": "Opening Melody (Super Mario World 2: Yoshi's Island)",
+        "zh-CN": "Opening Melody (Super Mario World 2: Yoshi's Island)",
+        "zh-TW": "Opening Melody（Super Mario World 2: Yoshi's Island）"
+      }
+    },
+    {
+      "id": "989c3ffe-1434-4535-a4de-75d3b7dc965b",
+      "name": {
+        "en-US": "Flower Field BGM (Ska) (Super Mario World 2: Yoshi's Island)",
+        "ja-JP": "おはなばたけ スカVer.（スーパーマリオ ヨッシーアイランド）",
+        "en-GB": "Flower Field BGM (Ska) (Super Mario World 2: Yoshi's Island)",
+        "fr-FR": "Flower Field BGM (Ska) (Super Mario World 2: Yoshi's Island)",
+        "fr-CA": "Flower Field BGM (Ska Ver.) (Super Mario World 2: Yoshi's Island)",
+        "de-DE": "Flower Field BGM (Ska) (Super Mario World 2: Yoshi's Island)",
+        "nl-NL": "Flower Field BGM (Ska) (Super Mario World 2: Yoshi's Island)",
+        "it-IT": "Flower Field BGM (Ska) (Super Mario World 2: Yoshi's Island)",
+        "pt-PT": "Flower Field BGM (Ska) (Super Mario World 2: Yoshi's Island)",
+        "pt-BR": "Flower Field BGM (Ska) (Super Mario World 2: Yoshi's Island)",
+        "es-ES": "Flower Field BGM (Ska) (Super Mario World 2: Yoshi's Island)",
+        "es-MX": "Flower Field BGM (versión ska) (Super Mario World 2: Yoshi's Island)",
+        "ru-RU": "Flower Field BGM (Ska) (Super Mario World 2: Yoshi's Island)",
+        "ko-KR": "Flower Field BGM (Ska Ver.) (Super Mario World 2: Yoshi's Island)",
+        "zh-CN": "Flower Field BGM (Ska Ver.) (Super Mario World 2: Yoshi's Island)",
+        "zh-TW": "Flower Field BGM (Ska Ver.)（Super Mario World 2: Yoshi's Island）"
+      }
+    },
+    {
+      "id": "44da5f86-2f7f-4362-b5e6-d6b447e66640",
+      "name": {
+        "en-US": "Flower Field BGM (Jazz) (Super Mario World 2: Yoshi's Island)",
+        "ja-JP": "おはなばたけ ジャズVer.（スーパーマリオ ヨッシーアイランド）",
+        "en-GB": "Flower Field BGM (Jazz) (Super Mario World 2: Yoshi's Island)",
+        "fr-FR": "Flower Field BGM (Jazz) (Super Mario World 2: Yoshi's Island)",
+        "fr-CA": "Flower Field BGM (Jazz Ver.) (Super Mario World 2: Yoshi's Island)",
+        "de-DE": "Flower Field BGM (Jazz) (Super Mario World 2: Yoshi's Island)",
+        "nl-NL": "Flower Field BGM (Jazz) (Super Mario World 2: Yoshi's Island)",
+        "it-IT": "Flower Field BGM (Jazz) (Super Mario World 2: Yoshi's Island)",
+        "pt-PT": "Flower Field BGM (Jazz) (Super Mario World 2: Yoshi's Island)",
+        "pt-BR": "Flower Field BGM (Jazz) (Super Mario World 2: Yoshi's Island)",
+        "es-ES": "Flower Field BGM (Jazz) (Super Mario World 2: Yoshi's Island)",
+        "es-MX": "Flower Field BGM (versión jazz) (Super Mario World 2: Yoshi's Island)",
+        "ru-RU": "Flower Field BGM (Jazz) (Super Mario World 2: Yoshi's Island)",
+        "ko-KR": "Flower Field BGM (Jazz Ver.) (Super Mario World 2: Yoshi's Island)",
+        "zh-CN": "Flower Field BGM (Jazz Ver.) (Super Mario World 2: Yoshi's Island)",
+        "zh-TW": "Flower Field BGM (Jazz Ver.)（Super Mario World 2: Yoshi's Island）"
+      }
+    },
+    {
+      "id": "bdfa1a28-e7b9-4793-b3fe-a5f33c5c1e7c",
+      "name": {
+        "en-US": "Stage Boss (Jazz) (Super Mario World 2: Yoshi's Island)",
+        "ja-JP": "中ボス ジャズVer.（スーパーマリオ ヨッシーアイランド）",
+        "en-GB": "Stage Boss (Jazz) (Super Mario World 2: Yoshi's Island)",
+        "fr-FR": "Stage Boss (Jazz) (Super Mario World 2: Yoshi's Island)",
+        "fr-CA": "Stage Boss (Jazz Ver.) (Super Mario World 2: Yoshi's Island)",
+        "de-DE": "Stage Boss (Jazz) (Super Mario World 2: Yoshi's Island)",
+        "nl-NL": "Stage Boss (Jazz) (Super Mario World 2: Yoshi's Island)",
+        "it-IT": "Stage Boss (Jazz) (Super Mario World 2: Yoshi's Island)",
+        "pt-PT": "Stage Boss (Jazz) (Super Mario World 2: Yoshi's Island)",
+        "pt-BR": "Stage Boss (Jazz) (Super Mario World 2: Yoshi's Island)",
+        "es-ES": "Stage Boss (Jazz) (Super Mario World 2: Yoshi's Island)",
+        "es-MX": "Stage Boss (versión jazz) (Super Mario World 2: Yoshi's Island)",
+        "ru-RU": "Stage Boss (Jazz) (Super Mario World 2: Yoshi's Island)",
+        "ko-KR": "Stage Boss (Jazz Ver.) (Super Mario World 2: Yoshi's Island)",
+        "zh-CN": "Stage Boss (Jazz Ver.) (Super Mario World 2: Yoshi's Island)",
+        "zh-TW": "Stage Boss (Jazz Ver.)（Super Mario World 2: Yoshi's Island）"
+      }
+    },
+    {
+      "id": "f1882c72-eac2-4989-b335-85e989991d57",
+      "name": {
+        "en-US": "Stage Boss (Rock 'n' Roll) (Super Mario World 2: Yoshi's Island)",
+        "ja-JP": "中ボス ロックンロールVer.（スーパーマリオ ヨッシーアイランド）",
+        "en-GB": "Stage Boss (Rock 'n' Roll) (Super Mario World 2: Yoshi's Island)",
+        "fr-FR": "Stage Boss (Rock 'n' Roll) (Super Mario World 2: Yoshi's Island)",
+        "fr-CA": "Stage Boss (Rock 'n' Roll Ver.) (Super Mario World 2: Yoshi's Island)",
+        "de-DE": "Stage Boss (Rock 'n' Roll) (Super Mario World 2: Yoshi's Island)",
+        "nl-NL": "Stage Boss (Rock 'n' Roll) (Super Mario World 2: Yoshi's Island)",
+        "it-IT": "Stage Boss (Rock 'n' Roll) (Super Mario World 2: Yoshi's Island)",
+        "pt-PT": "Stage Boss (Rock 'n' Roll) (Super Mario World 2: Yoshi's Island)",
+        "pt-BR": "Stage Boss (Rock 'n' Roll) (Super Mario World 2: Yoshi's Island)",
+        "es-ES": "Stage Boss (Rock 'n' Roll) (Super Mario World 2: Yoshi's Island)",
+        "es-MX": "Stage Boss (versión rock and roll) (Super Mario World 2: Yoshi's Island)",
+        "ru-RU": "Stage Boss (Rock 'n' Roll) (Super Mario World 2: Yoshi's Island)",
+        "ko-KR": "Stage Boss (Rock 'n' Roll Ver.) (Super Mario World 2: Yoshi's Island)",
+        "zh-CN": "Stage Boss (Rock 'n' Roll Ver.) (Super Mario World 2: Yoshi's Island)",
+        "zh-TW": "Stage Boss (Rock 'n' Roll Ver.)（Super Mario World 2: Yoshi's Island）"
+      }
+    },
+    {
+      "id": "3553fc59-cd45-46a5-98a6-e9e6309ee944",
+      "name": {
+        "en-US": "Athletic BGM (Super Mario World 2: Yoshi's Island)",
+        "ja-JP": "アスレチック（スーパーマリオ ヨッシーアイランド）",
+        "en-GB": "Athletic BGM (Super Mario World 2: Yoshi's Island)",
+        "fr-FR": "Athletic BGM (Super Mario World 2: Yoshi's Island)",
+        "fr-CA": "Athletic BGM (Super Mario World 2: Yoshi's Island)",
+        "de-DE": "Athletic BGM (Super Mario World 2: Yoshi's Island)",
+        "nl-NL": "Athletic BGM (Super Mario World 2: Yoshi's Island)",
+        "it-IT": "Athletic BGM (Super Mario World 2: Yoshi's Island)",
+        "pt-PT": "Athletic BGM (Super Mario World 2: Yoshi's Island)",
+        "pt-BR": "Athletic BGM (Super Mario World 2: Yoshi's Island)",
+        "es-ES": "Athletic BGM (Super Mario World 2: Yoshi's Island)",
+        "es-MX": "Athletic BGM (Super Mario World 2: Yoshi's Island)",
+        "ru-RU": "Athletic BGM (Super Mario World 2: Yoshi's Island)",
+        "ko-KR": "애슬레틱 (Super Mario World 2: Yoshi's Island)",
+        "zh-CN": "Athletic BGM (Super Mario World 2: Yoshi's Island)",
+        "zh-TW": "Athletic BGM（Super Mario World 2: Yoshi's Island）"
+      }
+    },
+    {
+      "id": "4e8cd531-4918-45c2-a323-c44b42556848",
+      "name": {
+        "en-US": "Bowser (Super Mario World 2: Yoshi's Island)",
+        "ja-JP": "クッパ（スーパーマリオ ヨッシーアイランド）",
+        "en-GB": "Bowser (Super Mario World 2: Yoshi's Island)",
+        "fr-FR": "Bowser (Super Mario World 2: Yoshi's Island)",
+        "fr-CA": "Bowser (Super Mario World 2: Yoshi's Island)",
+        "de-DE": "Bowser (Super Mario World 2: Yoshi's Island)",
+        "nl-NL": "Bowser (Super Mario World 2: Yoshi's Island)",
+        "it-IT": "Bowser (Super Mario World 2: Yoshi's Island)",
+        "pt-PT": "Bowser (Super Mario World 2: Yoshi's Island)",
+        "pt-BR": "Bowser (Super Mario World 2: Yoshi's Island)",
+        "es-ES": "Bowser (Super Mario World 2: Yoshi's Island)",
+        "es-MX": "Bowser (Super Mario World 2: Yoshi's Island)",
+        "ru-RU": "Bowser (Super Mario World 2: Yoshi's Island)",
+        "ko-KR": "쿠파 (Super Mario World 2: Yoshi's Island)",
+        "zh-CN": "Bowser (Super Mario World 2: Yoshi's Island)",
+        "zh-TW": "Bowser（Super Mario World 2: Yoshi's Island）"
+      }
+    },
+    {
       "id": "ce330350-a661-4cce-8f87-f1eaef58abe0",
       "name": {
         "en-US": "File Select (Super Mario 64)",
@@ -4158,6 +4326,48 @@
         "ko-KR": "무지개 로드 (Mario Kart: Super Circuit)",
         "zh-CN": "彩虹之路（Mario Kart: Super Circuit）",
         "zh-TW": "彩虹之路（Mario Kart: Super Circuit）"
+      }
+    },
+    {
+      "id": "f26d39a6-93de-41bf-ab7c-b33d498f1c62",
+      "name": {
+        "en-US": "Title Theme (Humming) (Luigi's Mansion)",
+        "ja-JP": "メインテーマ（鼻歌）（ルイージマンション）",
+        "en-GB": "Title Theme (Humming) (Luigi's Mansion)",
+        "fr-FR": "Title Theme (Humming) (Luigi's Mansion)",
+        "fr-CA": "Title Theme (Humming) (Luigi's Mansion)",
+        "de-DE": "Title Theme (Humming) (Luigi's Mansion)",
+        "nl-NL": "Title Theme (Humming) (Luigi's Mansion)",
+        "it-IT": "Title Theme (Humming) (Luigi's Mansion)",
+        "pt-PT": "Title Theme (Humming) (Luigi's Mansion)",
+        "pt-BR": "Title Theme (Humming) (Luigi's Mansion)",
+        "es-ES": "Title Theme (Humming) (Luigi's Mansion)",
+        "es-MX": "Title Theme (Humming) (Luigi's Mansion)",
+        "ru-RU": "Title Theme (Humming) (Luigi's Mansion)",
+        "ko-KR": "Title Theme (Humming) (Luigi's Mansion)",
+        "zh-CN": "Title Theme (Humming) (Luigi's Mansion)",
+        "zh-TW": "Title Theme (Humming)（Luigi's Mansion）"
+      }
+    },
+    {
+      "id": "2b23dadd-97ba-4e9e-9a0c-a44547252faf",
+      "name": {
+        "en-US": "Voices Being Carried on the Waves (WarioWare, Inc.: Mega Microgame$!)",
+        "ja-JP": "声の漂う波間まで（メイド イン ワリオ）",
+        "en-GB": "Voices Being Carried on the Waves (WarioWare, Inc.: Minigame Mania)",
+        "fr-FR": "Voices Being Carried on the Waves (WarioWare, Inc.: Mega Mini-Jeux)",
+        "fr-CA": "Voices Being Carried on the Waves (WarioWare, Inc.: Mega Microgame$!)",
+        "de-DE": "Voices Being Carried on the Waves (WarioWare, Inc.: Minigame Mania)",
+        "nl-NL": "Voices Being Carried on the Waves (WarioWare, Inc.: Minigame Mania)",
+        "it-IT": "Voices Being Carried on the Waves (WarioWare, Inc.: Minigame Mania)",
+        "pt-PT": "Voices Being Carried on the Waves (WarioWare, Inc.: Minigame Mania)",
+        "pt-BR": "Voices Being Carried on the Waves (WarioWare, Inc.: Mega Microgame$!)",
+        "es-ES": "Voices Being Carried on the Waves (WarioWare, Inc.: Minigame Mania)",
+        "es-MX": "Voices Being Carried on the Waves (WarioWare, Inc.: Mega Microgame$!)",
+        "ru-RU": "Voices Being Carried on the Waves (WarioWare, Inc.: Minigame Mania)",
+        "ko-KR": "Voices Being Carried on the Waves (WarioWare, Inc.: Mega Microgame$!)",
+        "zh-CN": "Voices Being Carried on the Waves (WarioWare, Inc.: Mega Microgame$!)",
+        "zh-TW": "Voices Being Carried on the Waves（WarioWare, Inc.: Mega Microgame$!）"
       }
     },
     {
@@ -5061,6 +5271,27 @@
         "ko-KR": "만든 사람들 A (마리오 카트 Wii)",
         "zh-CN": "制作人员名单A（Mario Kart Wii）",
         "zh-TW": "工作人員名單A（Mario Kart Wii）"
+      }
+    },
+    {
+      "id": "e213c260-58fe-4c2d-9f3a-c3e052b2d191",
+      "name": {
+        "en-US": "Mario Drawing Song (Flipnote Studio)",
+        "ja-JP": "マリオ絵描き歌（うごくメモ帳）",
+        "en-GB": "Mario Drawing Song (Flipnote Studio)",
+        "fr-FR": "Mario Drawing Song (Flipnote Studio)",
+        "fr-CA": "Mario Drawing Song (Flipnote Studio)",
+        "de-DE": "Mario Drawing Song (Flipnote Studio)",
+        "nl-NL": "Mario Drawing Song (Flipnote Studio)",
+        "it-IT": "Mario Drawing Song (Flipnote Studio)",
+        "pt-PT": "Mario Drawing Song (Flipnote Studio)",
+        "pt-BR": "Mario Drawing Song (Flipnote Studio)",
+        "es-ES": "Mario Drawing Song (Flipnote Studio)",
+        "es-MX": "Canción para dibujar a Mario (Flipnote Studio)",
+        "ru-RU": "Mario Drawing Song (Flipnote Studio)",
+        "ko-KR": "Mario Drawing Song (Flipnote Studio)",
+        "zh-CN": "Mario Drawing Song (Flipnote Studio)",
+        "zh-TW": "Mario Drawing Song（Flipnote Studio）"
       }
     },
     {
