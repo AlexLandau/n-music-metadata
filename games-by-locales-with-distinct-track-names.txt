@@ -39,6 +39,7 @@
 2: Fire Emblem Engage
 2: Fire Emblem: Path of Radiance
 2: Fire Emblem: The Blazing Blade
+2: Galactic Pinball
 2: Golden Sun
 2: Golden Sun: The Lost Age
 2: Golf
@@ -57,9 +58,11 @@
 2: Mah-Jong
 2: Mario & Luigi: Brothership
 2: Mario Bros.
+2: Mario Clash
 2: Mario Kart 64
 2: Mario Paint
 2: Mario Tennis Aces
+2: Mario's Tennis
 2: Metroid
 2: Metroid (Famicom Disk System)
 2: Metroid II - Return of Samus
@@ -99,6 +102,7 @@
 2: Super Mario World
 2: Super Mario World 2: Yoshi's Island
 2: Super Metroid
+2: Teleroboxer
 2: Tennis
 2: Tetris® (Game Boy)
 2: Tetris® (NES)
@@ -116,6 +120,7 @@
 2: Tomodachi Collection
 2: Tomodachi Life
 2: Urban Champion
+2: Virtual Boy Wario Land
 2: WarioWare, Inc.: Mega Microgame$!
 2: Wave Race 64
 2: Wii Fit Plus

@@ -1,0 +1,452 @@
+{
+  "nameEnUS": "Mario's Tennis",
+  "id": "de71264c-2126-442c-940f-03cae6707be5",
+  "hardware": "Virtual Boy",
+  "timestamp": 1730325600,
+  "name": {
+    "en-US": "Mario's Tennis",
+    "ja-JP": "マリオズテニス",
+    "en-GB": "Mario's Tennis",
+    "fr-FR": "Mario's Tennis",
+    "fr-CA": "Mario's Tennis",
+    "de-DE": "Mario's Tennis",
+    "nl-NL": "Mario's Tennis",
+    "it-IT": "Mario's Tennis",
+    "pt-PT": "Mario's Tennis",
+    "pt-BR": "Mario's Tennis",
+    "es-ES": "Mario's Tennis",
+    "es-MX": "Mario's Tennis",
+    "ru-RU": "Mario's Tennis",
+    "ko-KR": "Mario's Tennis",
+    "zh-CN": "Mario's Tennis",
+    "zh-TW": "Mario's Tennis"
+  },
+  "allTracksPlaylistId": "c825b341-369c-4c78-9417-de70bb94eb75",
+  "tracks": [
+    {
+      "id": "fc0591e1-1325-4c31-9c6e-0ff63e6d320a",
+      "name": {
+        "en-US": "Game Startup",
+        "ja-JP": "ゲーム起動",
+        "en-GB": "Game Startup",
+        "fr-FR": "Game Startup",
+        "fr-CA": "Game Startup",
+        "de-DE": "Game Startup",
+        "nl-NL": "Game Startup",
+        "it-IT": "Game Startup",
+        "pt-PT": "Game Startup",
+        "pt-BR": "Game Startup",
+        "es-ES": "Game Startup",
+        "es-MX": "Game Startup",
+        "ru-RU": "Game Startup",
+        "ko-KR": "Game Startup",
+        "zh-CN": "Game Startup",
+        "zh-TW": "Game Startup"
+      }
+    },
+    {
+      "id": "a7f74b2c-5819-4e12-a200-8ea88b4c8620",
+      "name": {
+        "en-US": "Title Screen",
+        "ja-JP": "タイトル",
+        "en-GB": "Title Screen",
+        "fr-FR": "Title Screen",
+        "fr-CA": "Title Screen",
+        "de-DE": "Title Screen",
+        "nl-NL": "Title Screen",
+        "it-IT": "Title Screen",
+        "pt-PT": "Title Screen",
+        "pt-BR": "Title Screen",
+        "es-ES": "Title Screen",
+        "es-MX": "Title Screen",
+        "ru-RU": "Title Screen",
+        "ko-KR": "Title Screen",
+        "zh-CN": "Title Screen",
+        "zh-TW": "Title Screen"
+      }
+    },
+    {
+      "id": "50c3cf6c-072f-4d02-ba09-e8acf196952f",
+      "name": {
+        "en-US": "Mode Select",
+        "ja-JP": "モードセレクト",
+        "en-GB": "Mode Select",
+        "fr-FR": "Mode Select",
+        "fr-CA": "Mode Select",
+        "de-DE": "Mode Select",
+        "nl-NL": "Mode Select",
+        "it-IT": "Mode Select",
+        "pt-PT": "Mode Select",
+        "pt-BR": "Mode Select",
+        "es-ES": "Mode Select",
+        "es-MX": "Mode Select",
+        "ru-RU": "Mode Select",
+        "ko-KR": "Mode Select",
+        "zh-CN": "Mode Select",
+        "zh-TW": "Mode Select"
+      }
+    },
+    {
+      "id": "2ee4cd35-582d-4632-86cd-50c13a47c873",
+      "name": {
+        "en-US": "Match Start",
+        "ja-JP": "試合開始",
+        "en-GB": "Match Start",
+        "fr-FR": "Match Start",
+        "fr-CA": "Match Start",
+        "de-DE": "Match Start",
+        "nl-NL": "Match Start",
+        "it-IT": "Match Start",
+        "pt-PT": "Match Start",
+        "pt-BR": "Match Start",
+        "es-ES": "Match Start",
+        "es-MX": "Match Start",
+        "ru-RU": "Match Start",
+        "ko-KR": "Match Start",
+        "zh-CN": "Match Start",
+        "zh-TW": "Match Start"
+      }
+    },
+    {
+      "id": "c8dbf1e1-913b-41cd-a75e-fcc64890b870",
+      "name": {
+        "en-US": "Singles 1",
+        "ja-JP": "シングルス 1",
+        "en-GB": "Singles 1",
+        "fr-FR": "Singles 1",
+        "fr-CA": "Singles 1",
+        "de-DE": "Singles 1",
+        "nl-NL": "Singles 1",
+        "it-IT": "Singles 1",
+        "pt-PT": "Singles 1",
+        "pt-BR": "Singles 1",
+        "es-ES": "Singles 1",
+        "es-MX": "Singles 1",
+        "ru-RU": "Singles 1",
+        "ko-KR": "Singles 1",
+        "zh-CN": "Singles 1",
+        "zh-TW": "Singles 1"
+      }
+    },
+    {
+      "id": "92b68a3f-af37-49a3-a8f3-d4c8db04a8d7",
+      "name": {
+        "en-US": "Singles 2",
+        "ja-JP": "シングルス 2",
+        "en-GB": "Singles 2",
+        "fr-FR": "Singles 2",
+        "fr-CA": "Singles 2",
+        "de-DE": "Singles 2",
+        "nl-NL": "Singles 2",
+        "it-IT": "Singles 2",
+        "pt-PT": "Singles 2",
+        "pt-BR": "Singles 2",
+        "es-ES": "Singles 2",
+        "es-MX": "Singles 2",
+        "ru-RU": "Singles 2",
+        "ko-KR": "Singles 2",
+        "zh-CN": "Singles 2",
+        "zh-TW": "Singles 2"
+      }
+    },
+    {
+      "id": "a0304254-5781-4760-b651-8ea4d53c2d45",
+      "name": {
+        "en-US": "Doubles 1",
+        "ja-JP": "ダブルス 1",
+        "en-GB": "Doubles 1",
+        "fr-FR": "Doubles 1",
+        "fr-CA": "Doubles 1",
+        "de-DE": "Doubles 1",
+        "nl-NL": "Doubles 1",
+        "it-IT": "Doubles 1",
+        "pt-PT": "Doubles 1",
+        "pt-BR": "Doubles 1",
+        "es-ES": "Doubles 1",
+        "es-MX": "Doubles 1",
+        "ru-RU": "Doubles 1",
+        "ko-KR": "Doubles 1",
+        "zh-CN": "Doubles 1",
+        "zh-TW": "Doubles 1"
+      }
+    },
+    {
+      "id": "162d87e1-583c-43d7-aecc-7ec3109eef99",
+      "name": {
+        "en-US": "Doubles 2",
+        "ja-JP": "ダブルス 2",
+        "en-GB": "Doubles 2",
+        "fr-FR": "Doubles 2",
+        "fr-CA": "Doubles 2",
+        "de-DE": "Doubles 2",
+        "nl-NL": "Doubles 2",
+        "it-IT": "Doubles 2",
+        "pt-PT": "Doubles 2",
+        "pt-BR": "Doubles 2",
+        "es-ES": "Doubles 2",
+        "es-MX": "Doubles 2",
+        "ru-RU": "Doubles 2",
+        "ko-KR": "Doubles 2",
+        "zh-CN": "Doubles 2",
+        "zh-TW": "Doubles 2"
+      }
+    },
+    {
+      "id": "0ffc2121-02c5-4ccb-96a2-04f9b1319f40",
+      "name": {
+        "en-US": "Tie Break",
+        "ja-JP": "タイブレーク",
+        "en-GB": "Tie Break",
+        "fr-FR": "Tie Break",
+        "fr-CA": "Tie Break",
+        "de-DE": "Tie Break",
+        "nl-NL": "Tie Break",
+        "it-IT": "Tie Break",
+        "pt-PT": "Tie Break",
+        "pt-BR": "Tie Break",
+        "es-ES": "Tie Break",
+        "es-MX": "Tie Break",
+        "ru-RU": "Tie Break",
+        "ko-KR": "Tie Break",
+        "zh-CN": "Tie Break",
+        "zh-TW": "Tie Break"
+      }
+    },
+    {
+      "id": "834a2e0d-c147-4226-a5fd-27ac181f4da6",
+      "name": {
+        "en-US": "Tournament Bracket",
+        "ja-JP": "トーナメント表",
+        "en-GB": "Tournament Bracket",
+        "fr-FR": "Tournament Bracket",
+        "fr-CA": "Tournament Bracket",
+        "de-DE": "Tournament Bracket",
+        "nl-NL": "Tournament Bracket",
+        "it-IT": "Tournament Bracket",
+        "pt-PT": "Tournament Bracket",
+        "pt-BR": "Tournament Bracket",
+        "es-ES": "Tournament Bracket",
+        "es-MX": "Tournament Bracket",
+        "ru-RU": "Tournament Bracket",
+        "ko-KR": "Tournament Bracket",
+        "zh-CN": "Tournament Bracket",
+        "zh-TW": "Tournament Bracket"
+      }
+    },
+    {
+      "id": "5e8e0b89-764e-4b43-9584-15b780e72d29",
+      "name": {
+        "en-US": "Singles Tournament 1",
+        "ja-JP": "トーナメント シングルス 1",
+        "en-GB": "Singles Tournament 1",
+        "fr-FR": "Singles Tournament 1",
+        "fr-CA": "Singles Tournament 1",
+        "de-DE": "Singles Tournament 1",
+        "nl-NL": "Singles Tournament 1",
+        "it-IT": "Singles Tournament 1",
+        "pt-PT": "Singles Tournament 1",
+        "pt-BR": "Singles Tournament 1",
+        "es-ES": "Singles Tournament 1",
+        "es-MX": "Singles Tournament 1",
+        "ru-RU": "Singles Tournament 1",
+        "ko-KR": "Singles Tournament 1",
+        "zh-CN": "Singles Tournament 1",
+        "zh-TW": "Singles Tournament 1"
+      }
+    },
+    {
+      "id": "34256a01-6494-42a7-9fe4-fb7a9154e119",
+      "name": {
+        "en-US": "Singles Tournament 2",
+        "ja-JP": "トーナメント シングルス 2",
+        "en-GB": "Singles Tournament 2",
+        "fr-FR": "Singles Tournament 2",
+        "fr-CA": "Singles Tournament 2",
+        "de-DE": "Singles Tournament 2",
+        "nl-NL": "Singles Tournament 2",
+        "it-IT": "Singles Tournament 2",
+        "pt-PT": "Singles Tournament 2",
+        "pt-BR": "Singles Tournament 2",
+        "es-ES": "Singles Tournament 2",
+        "es-MX": "Singles Tournament 2",
+        "ru-RU": "Singles Tournament 2",
+        "ko-KR": "Singles Tournament 2",
+        "zh-CN": "Singles Tournament 2",
+        "zh-TW": "Singles Tournament 2"
+      }
+    },
+    {
+      "id": "5a480e08-6f3c-4420-8620-9bbdc2e38598",
+      "name": {
+        "en-US": "Doubles Tournament 1",
+        "ja-JP": "トーナメント ダブルス 1",
+        "en-GB": "Doubles Tournament 1",
+        "fr-FR": "Doubles Tournament 1",
+        "fr-CA": "Doubles Tournament 1",
+        "de-DE": "Doubles Tournament 1",
+        "nl-NL": "Doubles Tournament 1",
+        "it-IT": "Doubles Tournament 1",
+        "pt-PT": "Doubles Tournament 1",
+        "pt-BR": "Doubles Tournament 1",
+        "es-ES": "Doubles Tournament 1",
+        "es-MX": "Doubles Tournament 1",
+        "ru-RU": "Doubles Tournament 1",
+        "ko-KR": "Doubles Tournament 1",
+        "zh-CN": "Doubles Tournament 1",
+        "zh-TW": "Doubles Tournament 1"
+      }
+    },
+    {
+      "id": "5051f070-2ade-4b68-ad16-b26c6f7b47bd",
+      "name": {
+        "en-US": "Doubles Tournament 2",
+        "ja-JP": "トーナメント ダブルス 2",
+        "en-GB": "Doubles Tournament 2",
+        "fr-FR": "Doubles Tournament 2",
+        "fr-CA": "Doubles Tournament 2",
+        "de-DE": "Doubles Tournament 2",
+        "nl-NL": "Doubles Tournament 2",
+        "it-IT": "Doubles Tournament 2",
+        "pt-PT": "Doubles Tournament 2",
+        "pt-BR": "Doubles Tournament 2",
+        "es-ES": "Doubles Tournament 2",
+        "es-MX": "Doubles Tournament 2",
+        "ru-RU": "Doubles Tournament 2",
+        "ko-KR": "Doubles Tournament 2",
+        "zh-CN": "Doubles Tournament 2",
+        "zh-TW": "Doubles Tournament 2"
+      }
+    },
+    {
+      "id": "5dcdee49-b857-49b3-8fa5-de8e6a536db0",
+      "name": {
+        "en-US": "Tournament Won",
+        "ja-JP": "トーナメント 優勝",
+        "en-GB": "Tournament Won",
+        "fr-FR": "Tournament Won",
+        "fr-CA": "Tournament Won",
+        "de-DE": "Tournament Won",
+        "nl-NL": "Tournament Won",
+        "it-IT": "Tournament Won",
+        "pt-PT": "Tournament Won",
+        "pt-BR": "Tournament Won",
+        "es-ES": "Tournament Won",
+        "es-MX": "Tournament Won",
+        "ru-RU": "Tournament Won",
+        "ko-KR": "Tournament Won",
+        "zh-CN": "Tournament Won",
+        "zh-TW": "Tournament Won"
+      }
+    },
+    {
+      "id": "6c3f8443-b36c-46cc-840a-88a539a5a548",
+      "name": {
+        "en-US": "Tournament Lost",
+        "ja-JP": "トーナメント 敗退",
+        "en-GB": "Tournament Lost",
+        "fr-FR": "Tournament Lost",
+        "fr-CA": "Tournament Lost",
+        "de-DE": "Tournament Lost",
+        "nl-NL": "Tournament Lost",
+        "it-IT": "Tournament Lost",
+        "pt-PT": "Tournament Lost",
+        "pt-BR": "Tournament Lost",
+        "es-ES": "Tournament Lost",
+        "es-MX": "Tournament Lost",
+        "ru-RU": "Tournament Lost",
+        "ko-KR": "Tournament Lost",
+        "zh-CN": "Tournament Lost",
+        "zh-TW": "Tournament Lost"
+      }
+    },
+    {
+      "id": "234e884a-8ca9-49f0-b9a8-0c96c6485816",
+      "name": {
+        "en-US": "Match Results",
+        "ja-JP": "試合結果",
+        "en-GB": "Match Results",
+        "fr-FR": "Match Results",
+        "fr-CA": "Match Results",
+        "de-DE": "Match Results",
+        "nl-NL": "Match Results",
+        "it-IT": "Match Results",
+        "pt-PT": "Match Results",
+        "pt-BR": "Match Results",
+        "es-ES": "Match Results",
+        "es-MX": "Match Results",
+        "ru-RU": "Match Results",
+        "ko-KR": "Match Results",
+        "zh-CN": "Match Results",
+        "zh-TW": "Match Results"
+      }
+    },
+    {
+      "id": "d37b3da9-6a2a-4d29-a5b7-7a0f7effeaf7",
+      "name": {
+        "en-US": "Staff Credits 1",
+        "ja-JP": "スタッフクレジット 1",
+        "en-GB": "Staff Credits 1",
+        "fr-FR": "Staff Credits 1",
+        "fr-CA": "Staff Credits 1",
+        "de-DE": "Staff Credits 1",
+        "nl-NL": "Staff Credits 1",
+        "it-IT": "Staff Credits 1",
+        "pt-PT": "Staff Credits 1",
+        "pt-BR": "Staff Credits 1",
+        "es-ES": "Staff Credits 1",
+        "es-MX": "Staff Credits 1",
+        "ru-RU": "Staff Credits 1",
+        "ko-KR": "Staff Credits 1",
+        "zh-CN": "Staff Credits 1",
+        "zh-TW": "Staff Credits 1"
+      }
+    },
+    {
+      "id": "4ee29cc8-d263-4c82-a54a-fc976e6e49c2",
+      "name": {
+        "en-US": "Staff Credits 2",
+        "ja-JP": "スタッフクレジット 2",
+        "en-GB": "Staff Credits 2",
+        "fr-FR": "Staff Credits 2",
+        "fr-CA": "Staff Credits 2",
+        "de-DE": "Staff Credits 2",
+        "nl-NL": "Staff Credits 2",
+        "it-IT": "Staff Credits 2",
+        "pt-PT": "Staff Credits 2",
+        "pt-BR": "Staff Credits 2",
+        "es-ES": "Staff Credits 2",
+        "es-MX": "Staff Credits 2",
+        "ru-RU": "Staff Credits 2",
+        "ko-KR": "Staff Credits 2",
+        "zh-CN": "Staff Credits 2",
+        "zh-TW": "Staff Credits 2"
+      }
+    },
+    {
+      "id": "9eac3ccc-2340-4ff8-ac7f-273be7533ce5",
+      "name": {
+        "en-US": "Mode Select (Special)",
+        "ja-JP": "モードセレクト（スペシャル）",
+        "en-GB": "Mode Select (Special)",
+        "fr-FR": "Mode Select (Special)",
+        "fr-CA": "Mode Select (Special)",
+        "de-DE": "Mode Select (Special)",
+        "nl-NL": "Mode Select (Special)",
+        "it-IT": "Mode Select (Special)",
+        "pt-PT": "Mode Select (Special)",
+        "pt-BR": "Mode Select (Special)",
+        "es-ES": "Mode Select (Special)",
+        "es-MX": "Mode Select (Special)",
+        "ru-RU": "Mode Select (Special)",
+        "ko-KR": "Mode Select (Special)",
+        "zh-CN": "Mode Select (Special)",
+        "zh-TW": "Mode Select (Special)"
+      }
+    }
+  ],
+  "localesWithDistinctTrackNames": [
+    "en-US",
+    "ja-JP"
+  ],
+  "localesWithDistinctTrackNamesCount": 2
+}
