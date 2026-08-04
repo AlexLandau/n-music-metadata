@@ -2,7 +2,7 @@
   "nameEnUS": "Mario Kart World",
   "id": "dbadc5dd-73a5-482d-9aaa-c87b1b64d7dd",
   "hardware": "Nintendo Switch 2",
-  "timestamp": 1785200459,
+  "timestamp": 1785805259,
   "name": {
     "en-US": "Mario Kart World",
     "ja-JP": "マリオカート ワールド",
@@ -5652,6 +5652,195 @@
       }
     },
     {
+      "id": "e20dd0b0-53c4-4630-9093-359fae271986",
+      "name": {
+        "en-US": "Toad Circuit (Mario Kart 7)",
+        "ja-JP": "キノピオサーキット（マリオカート7）",
+        "en-GB": "Toad Circuit (Mario Kart 7)",
+        "fr-FR": "Circuit Toad (Mario Kart 7)",
+        "fr-CA": "Circuit Toad (Mario Kart 7)",
+        "de-DE": "Toads Piste (Mario Kart 7)",
+        "nl-NL": "Toads Circuit (Mario Kart 7)",
+        "it-IT": "Circuito di Toad (Mario Kart 7)",
+        "pt-PT": "Circuito do Toad (Mario Kart 7)",
+        "pt-BR": "Circuito Toad (Mario Kart 7)",
+        "es-ES": "Circuito Toad (Mario Kart 7)",
+        "es-MX": "Circuito Toad (Mario Kart 7)",
+        "ru-RU": "Трасса Тоада (Mario Kart 7)",
+        "ko-KR": "키노피오 서킷 (마리오 카트 7)",
+        "zh-CN": "奇诺比奥赛道（马力欧卡丁车7）",
+        "zh-TW": "奇諾比奧賽道（瑪利歐賽車7）"
+      }
+    },
+    {
+      "id": "0beda8bc-f520-492d-97ed-8faa940006b2",
+      "name": {
+        "en-US": "Daisy Hills (Mario Kart 7)",
+        "ja-JP": "デイジーヒルズ（マリオカート7）",
+        "en-GB": "Daisy Hills (Mario Kart 7)",
+        "fr-FR": "Vallée Daisy (Mario Kart 7)",
+        "fr-CA": "Vallée Daisy (Mario Kart 7)",
+        "de-DE": "Daisyhausen (Mario Kart 7)",
+        "nl-NL": "Daisy's Bergdorp (Mario Kart 7)",
+        "it-IT": "Villaggio di Daisy (Mario Kart 7)",
+        "pt-PT": "Vila da Daisy (Mario Kart 7)",
+        "pt-BR": "Vila da Daisy (Mario Kart 7)",
+        "es-ES": "Colinas Daisy (Mario Kart 7)",
+        "es-MX": "Colinas Daisy (Mario Kart 7)",
+        "ru-RU": "Холмы Дейзи (Mario Kart 7)",
+        "ko-KR": "데이지 힐즈 (마리오 카트 7)",
+        "zh-CN": "黛西丘陵（马力欧卡丁车7）",
+        "zh-TW": "黛西丘陵（瑪利歐賽車7）"
+      }
+    },
+    {
+      "id": "09ca2789-ef99-49e4-8198-3aabfbfa9bb5",
+      "name": {
+        "en-US": "Music Park (Mario Kart 7)",
+        "ja-JP": "ミュージックパーク（マリオカート7）",
+        "en-GB": "Melody Motorway (Mario Kart 7)",
+        "fr-FR": "Piste musicale (Mario Kart 7)",
+        "fr-CA": "Piste musicale (Mario Kart 7)",
+        "de-DE": "Instrumentalpiste (Mario Kart 7)",
+        "nl-NL": "Muziekcircuit (Mario Kart 7)",
+        "it-IT": "Melodiodromo (Mario Kart 7)",
+        "pt-PT": "Autoestrada Musical (Mario Kart 7)",
+        "pt-BR": "Autoestrada Musical (Mario Kart 7)",
+        "es-ES": "Circuito Musical (Mario Kart 7)",
+        "es-MX": "Autopista Musical (Mario Kart 7)",
+        "ru-RU": "Мелодиодром (Mario Kart 7)",
+        "ko-KR": "뮤직 파크 (마리오 카트 7)",
+        "zh-CN": "音乐公园（马力欧卡丁车7）",
+        "zh-TW": "音樂公園（瑪利歐賽車7）"
+      }
+    },
+    {
+      "id": "f88f3ca3-4a61-453a-9840-8c5bdc23caa4",
+      "name": {
+        "en-US": "Rock Rock Mountain (Mario Kart 7)",
+        "ja-JP": "ロックロックマウンテン（マリオカート7）",
+        "en-GB": "Alpine Pass (Mario Kart 7)",
+        "fr-FR": "Mont Éboulis (Mario Kart 7)",
+        "fr-CA": "Mont Éboulis (Mario Kart 7)",
+        "de-DE": "Gebirgspfad (Mario Kart 7)",
+        "nl-NL": "Kampioensberg (Mario Kart 7)",
+        "it-IT": "Monte Roccioso (Mario Kart 7)",
+        "pt-PT": "Passagem Montanhosa (Mario Kart 7)",
+        "pt-BR": "Passagem Montanhosa (Mario Kart 7)",
+        "es-ES": "Montaña Roqui-Roque (Mario Kart 7)",
+        "es-MX": "Montaña Roqui-Roque (Mario Kart 7)",
+        "ru-RU": "Крутой перевал (Mario Kart 7)",
+        "ko-KR": "록 록 마운틴 (마리오 카트 7)",
+        "zh-CN": "岩岩山（马力欧卡丁车7）",
+        "zh-TW": "岩岩山（瑪利歐賽車7）"
+      }
+    },
+    {
+      "id": "cac5b66f-e27e-4268-ade9-4efe19960c77",
+      "name": {
+        "en-US": "Piranha Plant Slide (Mario Kart 7)",
+        "ja-JP": "パックンスライダー（マリオカート7）",
+        "en-GB": "Piranha Plant Pipeway (Mario Kart 7)",
+        "fr-FR": "Égout Piranha (Mario Kart 7)",
+        "fr-CA": "Égout Piranha (Mario Kart 7)",
+        "de-DE": "Röhrenraserei (Mario Kart 7)",
+        "nl-NL": "Piranha Plant-Parkoers (Mario Kart 7)",
+        "it-IT": "Tubirinto Piranha (Mario Kart 7)",
+        "pt-PT": "Canos Planta Piranha (Mario Kart 7)",
+        "pt-BR": "Canos Planta Piranha (Mario Kart 7)",
+        "es-ES": "Tuberías Planta Piraña (Mario Kart 7)",
+        "es-MX": "Tuberías Planta Piraña (Mario Kart 7)",
+        "ru-RU": "Канал растения-пираньи (Mario Kart 7)",
+        "ko-KR": "뻐끔 슬라이더 (마리오 카트 7)",
+        "zh-CN": "吞食花滑道（马力欧卡丁车7）",
+        "zh-TW": "吞食花滑道（瑪利歐賽車7）"
+      }
+    },
+    {
+      "id": "5f540e5e-8f59-42ac-8a36-127dc544c34a",
+      "name": {
+        "en-US": "DK Jungle (Mario Kart 7)",
+        "ja-JP": "DKジャングル（マリオカート7）",
+        "en-GB": "DK Jungle (Mario Kart 7)",
+        "fr-FR": "Forêt tropicale DK (Mario Kart 7)",
+        "fr-CA": "Jungle DK (Mario Kart 7)",
+        "de-DE": "DK Dschungel (Mario Kart 7)",
+        "nl-NL": "DK's Jungle (Mario Kart 7)",
+        "it-IT": "Giungla DK (Mario Kart 7)",
+        "pt-PT": "Selva DK (Mario Kart 7)",
+        "pt-BR": "Selva DK (Mario Kart 7)",
+        "es-ES": "Jungla DK (Mario Kart 7)",
+        "es-MX": "Jungla DK (Mario Kart 7)",
+        "ru-RU": "Джунгли ДК (Mario Kart 7)",
+        "ko-KR": "DK 정글 (마리오 카트 7)",
+        "zh-CN": "DK丛林（马力欧卡丁车7）",
+        "zh-TW": "DK叢林（瑪利歐賽車7）"
+      }
+    },
+    {
+      "id": "6bf7f327-29ee-4ef8-95b6-e4e3f4c3fab2",
+      "name": {
+        "en-US": "Rosalina's Ice World (Mario Kart 7)",
+        "ja-JP": "ロゼッタプラネット（マリオカート7）",
+        "en-GB": "Rosalina's Ice World (Mario Kart 7)",
+        "fr-FR": "Monde glacé d'Harmonie (Mario Kart 7)",
+        "fr-CA": "Monde glacé de Rosalina (Mario Kart 7)",
+        "de-DE": "Rosalinas Eisplanet (Mario Kart 7)",
+        "nl-NL": "Rosalina's IJsplaneet (Mario Kart 7)",
+        "it-IT": "Ghiacciaio di Rosalinda (Mario Kart 7)",
+        "pt-PT": "Glaciar da Rosalina (Mario Kart 7)",
+        "pt-BR": "Geleira Rosalina (Mario Kart 7)",
+        "es-ES": "Glaciar de Estela (Mario Kart 7)",
+        "es-MX": "Glaciar de Rosalina (Mario Kart 7)",
+        "ru-RU": "Ледяной мир Розалины (Mario Kart 7)",
+        "ko-KR": "로젤리나 플래닛 (마리오 카트 7)",
+        "zh-CN": "罗莎塔行星（马力欧卡丁车7）",
+        "zh-TW": "羅潔塔行星（瑪利歐賽車7）"
+      }
+    },
+    {
+      "id": "9d69ded4-8a73-43a2-9d38-ca9d27b63d11",
+      "name": {
+        "en-US": "Rainbow Road (Mario Kart 7)",
+        "ja-JP": "レインボーロード（マリオカート7）",
+        "en-GB": "Rainbow Road (Mario Kart 7)",
+        "fr-FR": "Route Arc-en-ciel (Mario Kart 7)",
+        "fr-CA": "Route Arc-en-ciel (Mario Kart 7)",
+        "de-DE": "Regenbogen-Boulevard (Mario Kart 7)",
+        "nl-NL": "Regenboogbaan (Mario Kart 7)",
+        "it-IT": "Pista Arcobaleno (Mario Kart 7)",
+        "pt-PT": "Estrada Arco-Íris (Mario Kart 7)",
+        "pt-BR": "Estrada Arco-Íris (Mario Kart 7)",
+        "es-ES": "Senda Arco Iris (Mario Kart 7)",
+        "es-MX": "Senda Arco Iris (Mario Kart 7)",
+        "ru-RU": "Трасса Радуга (Mario Kart 7)",
+        "ko-KR": "무지개 로드 (마리오 카트 7)",
+        "zh-CN": "彩虹之路（马力欧卡丁车7）",
+        "zh-TW": "彩虹之路（瑪利歐賽車7）"
+      }
+    },
+    {
+      "id": "de21259c-e318-4ee4-a253-aaca1035cef8",
+      "name": {
+        "en-US": "Staff Credits (Mario Kart 7)",
+        "ja-JP": "スタッフクレジット（マリオカート7）",
+        "en-GB": "Staff Credits (Mario Kart 7)",
+        "fr-FR": "Crédits (Mario Kart 7)",
+        "fr-CA": "Générique (Mario Kart 7)",
+        "de-DE": "Mitwirkende (Mario Kart 7)",
+        "nl-NL": "Credits (Mario Kart 7)",
+        "it-IT": "Riconoscimenti (Mario Kart 7)",
+        "pt-PT": "Créditos (Mario Kart 7)",
+        "pt-BR": "Créditos (Mario Kart 7)",
+        "es-ES": "Créditos (Mario Kart 7)",
+        "es-MX": "Créditos (Mario Kart 7)",
+        "ru-RU": "Над игрой работали (Mario Kart 7)",
+        "ko-KR": "만든 사람들 (마리오 카트 7)",
+        "zh-CN": "制作人员名单（马力欧卡丁车7）",
+        "zh-TW": "工作人員名單（瑪利歐賽車7）"
+      }
+    },
+    {
       "id": "48449f05-e09a-44ff-a3de-e80a39e352b2",
       "name": {
         "en-US": "Ground Theme (New Super Mario Bros. U)",
@@ -5691,6 +5880,195 @@
         "ko-KR": "Title Screen (Super Mario Maker)",
         "zh-CN": "Title Screen (Super Mario Maker)",
         "zh-TW": "Title Screen（Super Mario Maker）"
+      }
+    },
+    {
+      "id": "56785d44-dfc3-468c-a3cb-13ef39eb7d77",
+      "name": {
+        "en-US": "Tokyo Blur (Mario Kart Tour)",
+        "ja-JP": "トーキョースクランブル（マリオカート ツアー）",
+        "en-GB": "Tokyo Blur (Mario Kart Tour)",
+        "fr-FR": "Traversée de Tokyo (Mario Kart Tour)",
+        "fr-CA": "Traversée de Tokyo (Mario Kart Tour)",
+        "de-DE": "Tokio-Tempotour (Mario Kart Tour)",
+        "nl-NL": "Tokio-Toer (Mario Kart Tour)",
+        "it-IT": "Neon di Tokyo (Mario Kart Tour)",
+        "pt-PT": "Velocidade em Tóquio (Mario Kart Tour)",
+        "pt-BR": "Velocidade em Tóquio (Mario Kart Tour)",
+        "es-ES": "Circuito Tokio (Mario Kart Tour)",
+        "es-MX": "Circuito Tokio (Mario Kart Tour)",
+        "ru-RU": "Токийское ралли (Mario Kart Tour)",
+        "ko-KR": "도쿄 블러 (마리오 카트 투어)",
+        "zh-CN": "东京赛道（马力欧卡丁车巡回赛）",
+        "zh-TW": "東京賽道（瑪利歐賽車巡迴賽）"
+      }
+    },
+    {
+      "id": "518a0e59-a71b-4b88-bea6-ecbdcb9d3962",
+      "name": {
+        "en-US": "Vancouver Velocity (Mario Kart Tour)",
+        "ja-JP": "バンクーバーバレー（マリオカート ツアー）",
+        "en-GB": "Vancouver Velocity (Mario Kart Tour)",
+        "fr-FR": "Virages à Vancouver (Mario Kart Tour)",
+        "fr-CA": "Virages à Vancouver (Mario Kart Tour)",
+        "de-DE": "Vancouver-Wildpfad (Mario Kart Tour)",
+        "nl-NL": "Vancouver-Route (Mario Kart Tour)",
+        "it-IT": "Scorci di Vancouver (Mario Kart Tour)",
+        "pt-PT": "Volta a Vancouver (Mario Kart Tour)",
+        "pt-BR": "Vancouver Veloz (Mario Kart Tour)",
+        "es-ES": "Vuelta por Vancouver (Mario Kart Tour)",
+        "es-MX": "Vuelta por Vancouver (Mario Kart Tour)",
+        "ru-RU": "Ванкувер-вояж (Mario Kart Tour)",
+        "ko-KR": "밴쿠버 벨로시티 (마리오 카트 투어)",
+        "zh-CN": "温哥华速度（马力欧卡丁车巡回赛）",
+        "zh-TW": "溫哥華速度（瑪利歐賽車巡迴賽）"
+      }
+    },
+    {
+      "id": "63294d92-7e40-4f2b-a53c-056654030fb9",
+      "name": {
+        "en-US": "Los Angeles Laps (Mario Kart Tour)",
+        "ja-JP": "ロサンゼルスコースト（マリオカート ツアー）",
+        "en-GB": "Los Angeles Laps (Mario Kart Tour)",
+        "fr-FR": "Road-trip à Los Angeles (Mario Kart Tour)",
+        "fr-CA": "Road-trip à Los Angeles (Mario Kart Tour)",
+        "de-DE": "Los-Angeles-Strandpartie (Mario Kart Tour)",
+        "nl-NL": "Los Angeles-Boulevard (Mario Kart Tour)",
+        "it-IT": "Panorama di Los Angeles (Mario Kart Tour)",
+        "pt-PT": "Litoral de Los Angeles (Mario Kart Tour)",
+        "pt-BR": "Litoral de Los Angeles (Mario Kart Tour)",
+        "es-ES": "A tope en Los Ángeles (Mario Kart Tour)",
+        "es-MX": "A tope en Los Ángeles (Mario Kart Tour)",
+        "ru-RU": "Виды Лос-Анджелеса (Mario Kart Tour)",
+        "ko-KR": "로스앤젤레스 랩 (마리오 카트 투어)",
+        "zh-CN": "洛杉矶环圈（马力欧卡丁车巡回赛）",
+        "zh-TW": "洛杉磯環圈（瑪利歐賽車巡迴賽）"
+      }
+    },
+    {
+      "id": "713fc665-caec-4c65-9418-e96b6ab6cf99",
+      "name": {
+        "en-US": "Merry Mountain (Mario Kart Tour)",
+        "ja-JP": "メリーメリーマウンテン（マリオカート ツアー）",
+        "en-GB": "Merry Mountain (Mario Kart Tour)",
+        "fr-FR": "Mont festif (Mario Kart Tour)",
+        "fr-CA": "Mont festif (Mario Kart Tour)",
+        "de-DE": "Bergbescherung (Mario Kart Tour)",
+        "nl-NL": "Dennenboomdorp (Mario Kart Tour)",
+        "it-IT": "Valico Addobbo (Mario Kart Tour)",
+        "pt-PT": "Montanha Festiva (Mario Kart Tour)",
+        "pt-BR": "Vila dos Presentes (Mario Kart Tour)",
+        "es-ES": "Aldea de los Regalos (Mario Kart Tour)",
+        "es-MX": "Aldea de los Regalos (Mario Kart Tour)",
+        "ru-RU": "Праздничные горы (Mario Kart Tour)",
+        "ko-KR": "메리 마운틴 (마리오 카트 투어)",
+        "zh-CN": "欢乐山（马力欧卡丁车巡回赛）",
+        "zh-TW": "歡樂山（瑪利歐賽車巡迴賽）"
+      }
+    },
+    {
+      "id": "a991ef69-93a3-49dc-8aa5-493619c03898",
+      "name": {
+        "en-US": "Ninja Hideaway (Mario Kart Tour)",
+        "ja-JP": "ニンニンドージョー（マリオカート ツアー）",
+        "en-GB": "Ninja Hideaway (Mario Kart Tour)",
+        "fr-FR": "Dojo ninja (Mario Kart Tour)",
+        "fr-CA": "Dojo ninja (Mario Kart Tour)",
+        "de-DE": "Ninja-Dojo (Mario Kart Tour)",
+        "nl-NL": "Ninjaschool (Mario Kart Tour)",
+        "it-IT": "Covo ninja (Mario Kart Tour)",
+        "pt-PT": "Mansão Ninja (Mario Kart Tour)",
+        "pt-BR": "Mansão Ninja (Mario Kart Tour)",
+        "es-ES": "Mansión Ninja (Mario Kart Tour)",
+        "es-MX": "Mansión Ninja (Mario Kart Tour)",
+        "ru-RU": "Дом ниндзя (Mario Kart Tour)",
+        "ko-KR": "닌자 도장 (마리오 카트 투어)",
+        "zh-CN": "忍者道场（马力欧卡丁车巡回赛）",
+        "zh-TW": "忍者道場（瑪利歐賽車巡迴賽）"
+      }
+    },
+    {
+      "id": "0498337c-779c-44f5-853b-4caa9e799d6e",
+      "name": {
+        "en-US": "Singapore Speedway (Mario Kart Tour)",
+        "ja-JP": "シンガポールスプラッシュ（マリオカート ツアー）",
+        "en-GB": "Singapore Speedway (Mario Kart Tour)",
+        "fr-FR": "Poursuite à Singapour (Mario Kart Tour)",
+        "fr-CA": "Poursuite à Singapour (Mario Kart Tour)",
+        "de-DE": "Überholspur-Singapur (Mario Kart Tour)",
+        "nl-NL": "Singapore-Skyline (Mario Kart Tour)",
+        "it-IT": "Singapore a tutto gas (Mario Kart Tour)",
+        "pt-PT": "Vertigem em Singapura (Mario Kart Tour)",
+        "pt-BR": "Singapura Sublime (Mario Kart Tour)",
+        "es-ES": "Acelerón en Singapur (Mario Kart Tour)",
+        "es-MX": "Acelerón en Singapur (Mario Kart Tour)",
+        "ru-RU": "Суета в Сингапуре (Mario Kart Tour)",
+        "ko-KR": "싱가포르 스피드웨이 (마리오 카트 투어)",
+        "zh-CN": "新加坡竞速赛道（马力欧卡丁车巡回赛）",
+        "zh-TW": "新加坡競速賽道（瑪利歐賽車巡迴賽）"
+      }
+    },
+    {
+      "id": "576fe7d1-d4a1-4bfa-97ab-f018c9995b8b",
+      "name": {
+        "en-US": "Bangkok Rush (Mario Kart Tour)",
+        "ja-JP": "バンコクラッシュ（マリオカート ツアー）",
+        "en-GB": "Bangkok Rush (Mario Kart Tour)",
+        "fr-FR": "Bousculade à Bangkok (Mario Kart Tour)",
+        "fr-CA": "Bousculade à Bangkok (Mario Kart Tour)",
+        "de-DE": "Bangkok-Abendrot (Mario Kart Tour)",
+        "nl-NL": "Bangkok-Break (Mario Kart Tour)",
+        "it-IT": "Bangkok a manetta (Mario Kart Tour)",
+        "pt-PT": "Ocaso em Banguecoque (Mario Kart Tour)",
+        "pt-BR": "Agito em Bangkok (Mario Kart Tour)",
+        "es-ES": "Atardecer en Bangkok (Mario Kart Tour)",
+        "es-MX": "Atardecer en Bangkok (Mario Kart Tour)",
+        "ru-RU": "Час пик в Бангкоке (Mario Kart Tour)",
+        "ko-KR": "방콕 러시 (마리오 카트 투어)",
+        "zh-CN": "曼谷飙速（马力欧卡丁车巡回赛）",
+        "zh-TW": "曼谷飆速（瑪利歐賽車巡迴賽）"
+      }
+    },
+    {
+      "id": "ffced0c5-67e6-43d3-b924-c00d42b3cad1",
+      "name": {
+        "en-US": "Piranha Plant Pipeline (Mario Kart Tour)",
+        "ja-JP": "ドカンキャニオン（マリオカート ツアー）",
+        "en-GB": "Piranha Plant Pipeline (Mario Kart Tour)",
+        "fr-FR": "Tunnel Plante Piranha (Mario Kart Tour)",
+        "fr-CA": "Tunnel Plante Piranha (Mario Kart Tour)",
+        "de-DE": "Piranha-Pflanzen-Pipeline (Mario Kart Tour)",
+        "nl-NL": "Piranha Plant-Buizenbaan (Mario Kart Tour)",
+        "it-IT": "Tubodotto Piranha (Mario Kart Tour)",
+        "pt-PT": "Tobogã Planta Piranha (Mario Kart Tour)",
+        "pt-BR": "Tobogã Planta Piranha (Mario Kart Tour)",
+        "es-ES": "Tobogán Planta Piraña (Mario Kart Tour)",
+        "es-MX": "Tobogán Planta Piraña (Mario Kart Tour)",
+        "ru-RU": "Трубопровод растений-пираний (Mario Kart Tour)",
+        "ko-KR": "토관 캐니언 (마리오 카트 투어)",
+        "zh-CN": "水管峡谷（马力欧卡丁车巡回赛）",
+        "zh-TW": "水管峽谷（瑪利歐賽車巡迴賽）"
+      }
+    },
+    {
+      "id": "924fcdbc-a4a2-43ba-a517-eb256ce8929a",
+      "name": {
+        "en-US": "Title Screen (Mario Kart Live: Home Circuit)",
+        "ja-JP": "タイトル（マリオカート ライブ ホームサーキット）",
+        "en-GB": "Title Screen (Mario Kart Live: Home Circuit)",
+        "fr-FR": "Écran titre (Mario Kart Live: Home Circuit)",
+        "fr-CA": "Écran titre (Mario Kart Live: Home Circuit)",
+        "de-DE": "Titelbildschirm (Mario Kart Live: Home Circuit)",
+        "nl-NL": "Title Screen (Mario Kart Live: Home Circuit)",
+        "it-IT": "Schermo del titolo (Mario Kart Live: Home Circuit)",
+        "pt-PT": "Ecrã de título (Mario Kart Live: Home Circuit)",
+        "pt-BR": "Tela inicial (Mario Kart Live: Home Circuit)",
+        "es-ES": "Pantalla del título (Mario Kart Live: Home Circuit)",
+        "es-MX": "Pantalla del título (Mario Kart Live: Home Circuit)",
+        "ru-RU": "Начальный экран (Mario Kart Live: Home Circuit)",
+        "ko-KR": "타이틀 (마리오 카트 라이브: 홈 서킷)",
+        "zh-CN": "标题（马力欧卡丁车实况:家庭赛车场）",
+        "zh-TW": "標題（瑪利歐賽車實況: 家庭賽車場）"
       }
     }
   ],
