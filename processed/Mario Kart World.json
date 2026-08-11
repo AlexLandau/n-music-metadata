@@ -2,7 +2,7 @@
   "nameEnUS": "Mario Kart World",
   "id": "dbadc5dd-73a5-482d-9aaa-c87b1b64d7dd",
   "hardware": "Nintendo Switch 2",
-  "timestamp": 1785805259,
+  "timestamp": 1786323659,
   "name": {
     "en-US": "Mario Kart World",
     "ja-JP": "マリオカート ワールド",
@@ -1669,7 +1669,7 @@
         "en-GB": "Thwomp Desert (Mario Kart Wii)",
         "fr-FR": "Désert Thwomp (Mario Kart Wii)",
         "fr-CA": "Désert Thwomp (Mario Kart Wii)",
-        "de-DE": "Steinblock-Ruinen (Mario Kart Wii)",
+        "de-DE": "Steinwüste (Mario Kart Wii)",
         "nl-NL": "Thwomp-Woestijn (Mario Kart Wii)",
         "it-IT": "Deserto Twomp (Mario Kart Wii)",
         "pt-PT": "Deserto do Granitão (Mario Kart Wii)",
@@ -4350,6 +4350,90 @@
       }
     },
     {
+      "id": "e8e67b85-ba1e-45b1-99bf-caac8229a3b4",
+      "name": {
+        "en-US": "Delfino Plaza (Super Mario Sunshine)",
+        "ja-JP": "ドルピックタウン（スーパーマリオサンシャイン）",
+        "en-GB": "Delfino Plaza (Super Mario Sunshine)",
+        "fr-FR": "Place Delfino (Super Mario Sunshine)",
+        "fr-CA": "Place Delfino (Super Mario Sunshine)",
+        "de-DE": "Piazza Delfino (Super Mario Sunshine)",
+        "nl-NL": "Delfino Plaza (Super Mario Sunshine)",
+        "it-IT": "Delfinia (Super Mario Sunshine)",
+        "pt-PT": "Delfino Plaza (Super Mario Sunshine)",
+        "pt-BR": "Delfino Plaza (Super Mario Sunshine)",
+        "es-ES": "Ciudad Delfino (Super Mario Sunshine)",
+        "es-MX": "Delfino Plaza (Super Mario Sunshine)",
+        "ru-RU": "Delfino Plaza (Super Mario Sunshine)",
+        "ko-KR": "돌픽 타운 (Super Mario Sunshine)",
+        "zh-CN": "Delfino Plaza (Super Mario Sunshine)",
+        "zh-TW": "Delfino Plaza（Super Mario Sunshine）"
+      }
+    },
+    {
+      "id": "34bc5122-2cec-4178-8680-6963240eff57",
+      "name": {
+        "en-US": "Bianco Hills (Super Mario Sunshine)",
+        "ja-JP": "ビアンコヒルズ（スーパーマリオサンシャイン）",
+        "en-GB": "Bianco Hills (Super Mario Sunshine)",
+        "fr-FR": "Collines Bianco (Super Mario Sunshine)",
+        "fr-CA": "Collines Bianco (Super Mario Sunshine)",
+        "de-DE": "Monte Bianco (Super Mario Sunshine)",
+        "nl-NL": "Bianco Hills (Super Mario Sunshine)",
+        "it-IT": "Colli Ariosi (Super Mario Sunshine)",
+        "pt-PT": "Bianco Hills (Super Mario Sunshine)",
+        "pt-BR": "Bianco Hills (Super Mario Sunshine)",
+        "es-ES": "Monte Bianco (Super Mario Sunshine)",
+        "es-MX": "Bianco Hills (Super Mario Sunshine)",
+        "ru-RU": "Bianco Hills (Super Mario Sunshine)",
+        "ko-KR": "Bianco Hills (Super Mario Sunshine)",
+        "zh-CN": "Bianco Hills (Super Mario Sunshine)",
+        "zh-TW": "Bianco Hills（Super Mario Sunshine）"
+      }
+    },
+    {
+      "id": "2875bbb4-f418-4934-93dd-a548598bddb4",
+      "name": {
+        "en-US": "Ricco Harbor (Super Mario Sunshine)",
+        "ja-JP": "リコハーバー（スーパーマリオサンシャイン）",
+        "en-GB": "Ricco Harbor (Super Mario Sunshine)",
+        "fr-FR": "Port Ricco (Super Mario Sunshine)",
+        "fr-CA": "Port Ricco (Super Mario Sunshine)",
+        "de-DE": "Porto d'Oro (Super Mario Sunshine)",
+        "nl-NL": "Ricco Harbor (Super Mario Sunshine)",
+        "it-IT": "Porto Giocondo (Super Mario Sunshine)",
+        "pt-PT": "Ricco Harbor (Super Mario Sunshine)",
+        "pt-BR": "Ricco Harbor (Super Mario Sunshine)",
+        "es-ES": "Puerto Espresso (Super Mario Sunshine)",
+        "es-MX": "Ricco Harbor (Super Mario Sunshine)",
+        "ru-RU": "Ricco Harbor (Super Mario Sunshine)",
+        "ko-KR": "리코 하버 (Super Mario Sunshine)",
+        "zh-CN": "Ricco Harbor (Super Mario Sunshine)",
+        "zh-TW": "Ricco Harbor（Super Mario Sunshine）"
+      }
+    },
+    {
+      "id": "679eefc1-f757-4df1-b36e-cda18a8a2d99",
+      "name": {
+        "en-US": "Secret Course - Sky and Sea (Super Mario Sunshine)",
+        "ja-JP": "ヒミツコース 空と海（スーパーマリオサンシャイン）",
+        "en-GB": "Secret Course - Sky and Sea (Super Mario Sunshine)",
+        "fr-FR": "Secret Course - Sky and Sea (Super Mario Sunshine)",
+        "fr-CA": "Secret Course - Sky and Sea (Super Mario Sunshine)",
+        "de-DE": "Secret Course - Sky and Sea (Super Mario Sunshine)",
+        "nl-NL": "Secret Course - Sky and Sea (Super Mario Sunshine)",
+        "it-IT": "Secret Course - Sky and Sea (Super Mario Sunshine)",
+        "pt-PT": "Secret Course - Sky and Sea (Super Mario Sunshine)",
+        "pt-BR": "Secret Course - Sky and Sea (Super Mario Sunshine)",
+        "es-ES": "Secret Course - Sky and Sea (Super Mario Sunshine)",
+        "es-MX": "Secret Course - Sky and Sea (Super Mario Sunshine)",
+        "ru-RU": "Secret Course - Sky and Sea (Super Mario Sunshine)",
+        "ko-KR": "Secret Course - Sky and Sea (Super Mario Sunshine)",
+        "zh-CN": "Secret Course - Sky and Sea (Super Mario Sunshine)",
+        "zh-TW": "Secret Course - Sky and Sea（Super Mario Sunshine）"
+      }
+    },
+    {
       "id": "2b23dadd-97ba-4e9e-9a0c-a44547252faf",
       "name": {
         "en-US": "Voices Being Carried on the Waves (WarioWare, Inc.: Mega Microgame$!)",
@@ -5880,6 +5964,216 @@
         "ko-KR": "Title Screen (Super Mario Maker)",
         "zh-CN": "Title Screen (Super Mario Maker)",
         "zh-TW": "Title Screen（Super Mario Maker）"
+      }
+    },
+    {
+      "id": "3c365f52-3fee-483d-8ee9-8b5258272b6e",
+      "name": {
+        "en-US": "Fossil Falls (Super Mario Odyssey)",
+        "ja-JP": "ダイナフォー（スーパーマリオ オデッセイ）",
+        "en-GB": "Fossil Falls (Super Mario Odyssey)",
+        "fr-FR": "Fossil Falls (Super Mario Odyssey)",
+        "fr-CA": "Fossil Falls (Super Mario Odyssey)",
+        "de-DE": "Fossil Falls (Super Mario Odyssey)",
+        "nl-NL": "Fossil Falls (Super Mario Odyssey)",
+        "it-IT": "Fossil Falls (Super Mario Odyssey)",
+        "pt-PT": "Fossil Falls (Super Mario Odyssey)",
+        "pt-BR": "Fossil Falls (Super Mario Odyssey)",
+        "es-ES": "Fossil Falls (Super Mario Odyssey)",
+        "es-MX": "Salto del Fósil (Super Mario Odyssey)",
+        "ru-RU": "Fossil Falls (Super Mario Odyssey)",
+        "ko-KR": "다이너폴 (슈퍼 마리오 오디세이)",
+        "zh-CN": "恐龙瀑（超级马力欧 奥德赛）",
+        "zh-TW": "恐龍瀑（超級瑪利歐 奧德賽）"
+      }
+    },
+    {
+      "id": "6bde18d3-0262-42ed-8a2e-5c4544e31dae",
+      "name": {
+        "en-US": "Tostarena Ruins (Super Mario Odyssey)",
+        "ja-JP": "アッチーニャ遺跡（スーパーマリオ オデッセイ）",
+        "en-GB": "Tostarena Ruins (Super Mario Odyssey)",
+        "fr-FR": "Tostarena Ruins (Super Mario Odyssey)",
+        "fr-CA": "Tostarena Ruins (Super Mario Odyssey)",
+        "de-DE": "Tostarena Ruins (Super Mario Odyssey)",
+        "nl-NL": "Tostarena Ruins (Super Mario Odyssey)",
+        "it-IT": "Tostarena Ruins (Super Mario Odyssey)",
+        "pt-PT": "Tostarena Ruins (Super Mario Odyssey)",
+        "pt-BR": "Tostarena Ruins (Super Mario Odyssey)",
+        "es-ES": "Tostarena Ruins (Super Mario Odyssey)",
+        "es-MX": "Ruinas de Soltitlán (Super Mario Odyssey)",
+        "ru-RU": "Tostarena Ruins (Super Mario Odyssey)",
+        "ko-KR": "아뜨레나 유적 (슈퍼 마리오 오디세이)",
+        "zh-CN": "阿炽尼亚遗迹（超级马力欧 奥德赛）",
+        "zh-TW": "阿熾尼亞遺跡（超級瑪利歐 奧德賽）"
+      }
+    },
+    {
+      "id": "f6760758-2dee-4591-9909-0fcc3e6e445e",
+      "name": {
+        "en-US": "Steam Gardens (Rock) (Super Mario Odyssey)",
+        "ja-JP": "スチームガーデン ロックVer.（スーパーマリオ オデッセイ）",
+        "en-GB": "Steam Gardens (Rock) (Super Mario Odyssey)",
+        "fr-FR": "Steam Gardens (Rock) (Super Mario Odyssey)",
+        "fr-CA": "Steam Gardens (Rock Ver.) (Super Mario Odyssey)",
+        "de-DE": "Steam Gardens (Rock) (Super Mario Odyssey)",
+        "nl-NL": "Steam Gardens (Rock) (Super Mario Odyssey)",
+        "it-IT": "Steam Gardens (Rock) (Super Mario Odyssey)",
+        "pt-PT": "Steam Gardens (Rock) (Super Mario Odyssey)",
+        "pt-BR": "Steam Gardens (Rock) (Super Mario Odyssey)",
+        "es-ES": "Steam Gardens (Rock) (Super Mario Odyssey)",
+        "es-MX": "Jardín de Vapor (versión rock) (Super Mario Odyssey)",
+        "ru-RU": "Steam Gardens (Rock) (Super Mario Odyssey)",
+        "ko-KR": "Steam Gardens (Rock Ver.) (슈퍼 마리오 오디세이)",
+        "zh-CN": "Steam Gardens (Rock Ver.)（超级马力欧 奥德赛）",
+        "zh-TW": "Steam Gardens (Rock Ver.)（超級瑪利歐 奧德賽）"
+      }
+    },
+    {
+      "id": "b1a400bf-8acb-4220-a9c4-10664550dbd9",
+      "name": {
+        "en-US": "Steam Gardens (Soul) (Super Mario Odyssey)",
+        "ja-JP": "スチームガーデン ソウルVer.（スーパーマリオ オデッセイ）",
+        "en-GB": "Steam Gardens (Soul) (Super Mario Odyssey)",
+        "fr-FR": "Steam Gardens (Soul) (Super Mario Odyssey)",
+        "fr-CA": "Steam Gardens (Soul Ver.) (Super Mario Odyssey)",
+        "de-DE": "Steam Gardens (Soul) (Super Mario Odyssey)",
+        "nl-NL": "Steam Gardens (Soul) (Super Mario Odyssey)",
+        "it-IT": "Steam Gardens (Soul) (Super Mario Odyssey)",
+        "pt-PT": "Steam Gardens (Soul) (Super Mario Odyssey)",
+        "pt-BR": "Steam Gardens (Soul) (Super Mario Odyssey)",
+        "es-ES": "Steam Gardens (Soul) (Super Mario Odyssey)",
+        "es-MX": "Jardín de Vapor (versión soul) (Super Mario Odyssey)",
+        "ru-RU": "Steam Gardens (Soul) (Super Mario Odyssey)",
+        "ko-KR": "Steam Gardens (Soul Ver.) (슈퍼 마리오 오디세이)",
+        "zh-CN": "Steam Gardens (Soul Ver.)（超级马力欧 奥德赛）",
+        "zh-TW": "Steam Gardens (Soul Ver.)（超級瑪利歐 奧德賽）"
+      }
+    },
+    {
+      "id": "051f6bce-00b6-4ac9-8f9e-bf7226e1ce0f",
+      "name": {
+        "en-US": "Lake Lamode (Super Mario Odyssey)",
+        "ja-JP": "ドレッシーバレー（スーパーマリオ オデッセイ）",
+        "en-GB": "Lake Lamode (Super Mario Odyssey)",
+        "fr-FR": "Lake Lamode (Super Mario Odyssey)",
+        "fr-CA": "Lake Lamode (Super Mario Odyssey)",
+        "de-DE": "Lake Lamode (Super Mario Odyssey)",
+        "nl-NL": "Lake Lamode (Super Mario Odyssey)",
+        "it-IT": "Lake Lamode (Super Mario Odyssey)",
+        "pt-PT": "Lake Lamode (Super Mario Odyssey)",
+        "pt-BR": "Lake Lamode (Super Mario Odyssey)",
+        "es-ES": "Lake Lamode (Super Mario Odyssey)",
+        "es-MX": "Lago Kutur (Super Mario Odyssey)",
+        "ru-RU": "Lake Lamode (Super Mario Odyssey)",
+        "ko-KR": "드레시 호수 (슈퍼 마리오 오디세이)",
+        "zh-CN": "德莱西山谷（超级马力欧 奥德赛）",
+        "zh-TW": "德萊西山谷（超級瑪利歐 奧德賽）"
+      }
+    },
+    {
+      "id": "d6d91360-da6a-4038-b980-99d2cebc8c53",
+      "name": {
+        "en-US": "Jump Up, Super Star! (Super Mario Odyssey)",
+        "ja-JP": "Jump Up, Super Star!（スーパーマリオ オデッセイ）",
+        "en-GB": "Jump Up, Super Star! (Super Mario Odyssey)",
+        "fr-FR": "Jump Up, Super Star! (Super Mario Odyssey)",
+        "fr-CA": "Jump Up, Super Star! (Super Mario Odyssey)",
+        "de-DE": "Jump Up, Super Star! (Super Mario Odyssey)",
+        "nl-NL": "Jump Up, Super Star! (Super Mario Odyssey)",
+        "it-IT": "Jump Up, Super Star! (Super Mario Odyssey)",
+        "pt-PT": "Jump Up, Super Star! (Super Mario Odyssey)",
+        "pt-BR": "Jump Up, Super Star! (Super Mario Odyssey)",
+        "es-ES": "Jump Up, Super Star! (Super Mario Odyssey)",
+        "es-MX": "Jump Up, Super Star! (Super Mario Odyssey)",
+        "ru-RU": "Jump Up, Super Star! (Super Mario Odyssey)",
+        "ko-KR": "Jump Up, Super Star! (슈퍼 마리오 오디세이)",
+        "zh-CN": "Jump Up, Super Star!（超级马力欧 奥德赛）",
+        "zh-TW": "Jump Up, Super Star!（超級瑪利歐 奧德賽）"
+      }
+    },
+    {
+      "id": "0be546ca-2094-470d-b62f-2f8b1c2e09e7",
+      "name": {
+        "en-US": "Shiveria Town (Super Mario Odyssey)",
+        "ja-JP": "パウダーボウル 町（スーパーマリオ オデッセイ）",
+        "en-GB": "Shiveria Town (Super Mario Odyssey)",
+        "fr-FR": "Shiveria Town (Super Mario Odyssey)",
+        "fr-CA": "Shiveria Town (Super Mario Odyssey)",
+        "de-DE": "Shiveria Town (Super Mario Odyssey)",
+        "nl-NL": "Shiveria Town (Super Mario Odyssey)",
+        "it-IT": "Shiveria Town (Super Mario Odyssey)",
+        "pt-PT": "Shiveria Town (Super Mario Odyssey)",
+        "pt-BR": "Shiveria Town (Super Mario Odyssey)",
+        "es-ES": "Shiveria Town (Super Mario Odyssey)",
+        "es-MX": "Ciudad de Friolandia (Super Mario Odyssey)",
+        "ru-RU": "Shiveria Town (Super Mario Odyssey)",
+        "ko-KR": "파우더볼 마을 (슈퍼 마리오 오디세이)",
+        "zh-CN": "帕达博乌尔 城市（超级马力欧 奥德赛）",
+        "zh-TW": "帕達博爾 城鎮（超級瑪利歐 奧德賽）"
+      }
+    },
+    {
+      "id": "f09420ce-7ad3-4490-9f3a-f2878df031ac",
+      "name": {
+        "en-US": "Peronza Plaza (Super Mario Odyssey)",
+        "ja-JP": "ペロンツァ広場（スーパーマリオ オデッセイ）",
+        "en-GB": "Peronza Plaza (Super Mario Odyssey)",
+        "fr-FR": "Peronza Plaza (Super Mario Odyssey)",
+        "fr-CA": "Peronza Plaza (Super Mario Odyssey)",
+        "de-DE": "Peronza Plaza (Super Mario Odyssey)",
+        "nl-NL": "Peronza Plaza (Super Mario Odyssey)",
+        "it-IT": "Peronza Plaza (Super Mario Odyssey)",
+        "pt-PT": "Peronza Plaza (Super Mario Odyssey)",
+        "pt-BR": "Peronza Plaza (Super Mario Odyssey)",
+        "es-ES": "Peronza Plaza (Super Mario Odyssey)",
+        "es-MX": "Plaza Pera (Super Mario Odyssey)",
+        "ru-RU": "Peronza Plaza (Super Mario Odyssey)",
+        "ko-KR": "페론짜 광장 (슈퍼 마리오 오디세이)",
+        "zh-CN": "培笼扎广场（超级马力欧 奥德赛）",
+        "zh-TW": "培籠扎廣場（超級瑪利歐 奧德賽）"
+      }
+    },
+    {
+      "id": "c5f9dbc8-01be-4728-b4ab-21d8ef9fc5d4",
+      "name": {
+        "en-US": "Bowser's Castle: Main Courtyard (Super Mario Odyssey)",
+        "ja-JP": "クッパ城 本丸（スーパーマリオ オデッセイ）",
+        "en-GB": "Bowser's Castle: Main Courtyard (Super Mario Odyssey)",
+        "fr-FR": "Bowser's Castle: Main Courtyard (Super Mario Odyssey)",
+        "fr-CA": "Bowser's Castle: Main Courtyard (Super Mario Odyssey)",
+        "de-DE": "Bowser's Castle: Main Courtyard (Super Mario Odyssey)",
+        "nl-NL": "Bowser's Castle: Main Courtyard (Super Mario Odyssey)",
+        "it-IT": "Bowser's Castle: Main Courtyard (Super Mario Odyssey)",
+        "pt-PT": "Bowser's Castle: Main Courtyard (Super Mario Odyssey)",
+        "pt-BR": "Bowser's Castle: Main Courtyard (Super Mario Odyssey)",
+        "es-ES": "Bowser's Castle: Main Courtyard (Super Mario Odyssey)",
+        "es-MX": "Castillo de Bowser: Patio central (Super Mario Odyssey)",
+        "ru-RU": "Bowser's Castle: Main Courtyard (Super Mario Odyssey)",
+        "ko-KR": "Bowser's Castle: Main Courtyard (슈퍼 마리오 오디세이)",
+        "zh-CN": "Bowser's Castle: Main Courtyard（超级马力欧 奥德赛）",
+        "zh-TW": "Bowser's Castle: Main Courtyard（超級瑪利歐 奧德賽）"
+      }
+    },
+    {
+      "id": "9afa20e0-834b-4ac0-9216-6fd9c79623ff",
+      "name": {
+        "en-US": "Break Free (Lead the Way) (Super Mario Odyssey)",
+        "ja-JP": "Break Free (Lead The Way)（スーパーマリオ オデッセイ）",
+        "en-GB": "Break Free (Lead the Way) (Super Mario Odyssey)",
+        "fr-FR": "Break Free (Lead the Way) (Super Mario Odyssey)",
+        "fr-CA": "Break Free (Lead the Way) (Super Mario Odyssey)",
+        "de-DE": "Break Free (Lead the Way) (Super Mario Odyssey)",
+        "nl-NL": "Break Free (Lead the Way) (Super Mario Odyssey)",
+        "it-IT": "Break Free (Lead the Way) (Super Mario Odyssey)",
+        "pt-PT": "Break Free (Lead the Way) (Super Mario Odyssey)",
+        "pt-BR": "Break Free (Lead the Way) (Super Mario Odyssey)",
+        "es-ES": "Break Free (Lead the Way) (Super Mario Odyssey)",
+        "es-MX": "Break Free (Lead the Way) (Super Mario Odyssey)",
+        "ru-RU": "Break Free (Lead the Way) (Super Mario Odyssey)",
+        "ko-KR": "Break Free (Lead The Way) (슈퍼 마리오 오디세이)",
+        "zh-CN": "Break Free (Lead The Way)（超级马力欧 奥德赛）",
+        "zh-TW": "Break Free (Lead The Way)（超級瑪利歐 奧德賽）"
       }
     },
     {
