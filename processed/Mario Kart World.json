@@ -2,7 +2,7 @@
   "nameEnUS": "Mario Kart World",
   "id": "dbadc5dd-73a5-482d-9aaa-c87b1b64d7dd",
   "hardware": "Nintendo Switch 2",
-  "timestamp": 1786323659,
+  "timestamp": 1787014859,
   "name": {
     "en-US": "Mario Kart World",
     "ja-JP": "マリオカート ワールド",
@@ -5736,6 +5736,90 @@
       }
     },
     {
+      "id": "6fd0ead8-284a-4308-9459-43d543d5ffdc",
+      "name": {
+        "en-US": "Ground Theme (Super Mario 3D Land)",
+        "ja-JP": "地上のテーマ（スーパーマリオ 3Dランド）",
+        "en-GB": "Ground Theme (Super Mario 3D Land)",
+        "fr-FR": "Ground Theme (Super Mario 3D Land)",
+        "fr-CA": "Ground Theme (Super Mario 3D Land)",
+        "de-DE": "Ground Theme (Super Mario 3D Land)",
+        "nl-NL": "Ground Theme (Super Mario 3D Land)",
+        "it-IT": "Ground Theme (Super Mario 3D Land)",
+        "pt-PT": "Ground Theme (Super Mario 3D Land)",
+        "pt-BR": "Ground Theme (Super Mario 3D Land)",
+        "es-ES": "Ground Theme (Super Mario 3D Land)",
+        "es-MX": "Ground Theme (Super Mario 3D Land)",
+        "ru-RU": "Ground Theme (Super Mario 3D Land)",
+        "ko-KR": "Ground Theme (슈퍼 마리오 3D랜드)",
+        "zh-CN": "Ground Theme (Super Mario 3D Land)",
+        "zh-TW": "Ground Theme（超級瑪利歐 3D樂園）"
+      }
+    },
+    {
+      "id": "daa409eb-17cc-424f-8737-c01d5e58085b",
+      "name": {
+        "en-US": "Beach Theme (Jazz) (Super Mario 3D Land)",
+        "ja-JP": "海のテーマ ジャズVer.（スーパーマリオ 3Dランド）",
+        "en-GB": "Beach Theme (Jazz) (Super Mario 3D Land)",
+        "fr-FR": "Beach Theme (Jazz) (Super Mario 3D Land)",
+        "fr-CA": "Beach Theme (Jazz Ver.) (Super Mario 3D Land)",
+        "de-DE": "Beach Theme (Jazz) (Super Mario 3D Land)",
+        "nl-NL": "Beach Theme (Jazz) (Super Mario 3D Land)",
+        "it-IT": "Beach Theme (Jazz) (Super Mario 3D Land)",
+        "pt-PT": "Beach Theme (Jazz) (Super Mario 3D Land)",
+        "pt-BR": "Beach Theme (Jazz) (Super Mario 3D Land)",
+        "es-ES": "Beach Theme (Jazz) (Super Mario 3D Land)",
+        "es-MX": "Beach Theme (versión jazz) (Super Mario 3D Land)",
+        "ru-RU": "Beach Theme (Jazz) (Super Mario 3D Land)",
+        "ko-KR": "Beach Theme (Jazz Ver.) (슈퍼 마리오 3D랜드)",
+        "zh-CN": "Beach Theme (Jazz Ver.) (Super Mario 3D Land)",
+        "zh-TW": "Beach Theme (Jazz Ver.)（超級瑪利歐 3D樂園）"
+      }
+    },
+    {
+      "id": "43638712-eea1-4762-853c-e8453dbdb1ac",
+      "name": {
+        "en-US": "Beach Theme (Bossa Nova) (Super Mario 3D Land)",
+        "ja-JP": "海のテーマ ボサノヴァVer.（スーパーマリオ 3Dランド）",
+        "en-GB": "Beach Theme (Bossa Nova) (Super Mario 3D Land)",
+        "fr-FR": "Beach Theme (Bossa Nova) (Super Mario 3D Land)",
+        "fr-CA": "Beach Theme (Bossa Nova Ver.) (Super Mario 3D Land)",
+        "de-DE": "Beach Theme (Bossa Nova) (Super Mario 3D Land)",
+        "nl-NL": "Beach Theme (Bossa Nova) (Super Mario 3D Land)",
+        "it-IT": "Beach Theme (Bossa Nova) (Super Mario 3D Land)",
+        "pt-PT": "Beach Theme (Bossa Nova) (Super Mario 3D Land)",
+        "pt-BR": "Beach Theme (Bossa Nova) (Super Mario 3D Land)",
+        "es-ES": "Beach Theme (Bossa Nova) (Super Mario 3D Land)",
+        "es-MX": "Beach Theme (versión bossa nova) (Super Mario 3D Land)",
+        "ru-RU": "Beach Theme (Bossa Nova) (Super Mario 3D Land)",
+        "ko-KR": "Beach Theme (Bossa Nova Ver.) (슈퍼 마리오 3D랜드)",
+        "zh-CN": "Beach Theme (Bossa Nova Ver.) (Super Mario 3D Land)",
+        "zh-TW": "Beach Theme (Bossa Nova Ver.)（超級瑪利歐 3D樂園）"
+      }
+    },
+    {
+      "id": "390ea841-5290-412f-a33c-5877555b6231",
+      "name": {
+        "en-US": "Snow Mountain Theme (Super Mario 3D Land)",
+        "ja-JP": "雪山のテーマ（スーパーマリオ 3Dランド）",
+        "en-GB": "Snow Mountain Theme (Super Mario 3D Land)",
+        "fr-FR": "Snow Mountain Theme (Super Mario 3D Land)",
+        "fr-CA": "Snow Mountain Theme (Super Mario 3D Land)",
+        "de-DE": "Snow Mountain Theme (Super Mario 3D Land)",
+        "nl-NL": "Snow Mountain Theme (Super Mario 3D Land)",
+        "it-IT": "Snow Mountain Theme (Super Mario 3D Land)",
+        "pt-PT": "Snow Mountain Theme (Super Mario 3D Land)",
+        "pt-BR": "Snow Mountain Theme (Super Mario 3D Land)",
+        "es-ES": "Snow Mountain Theme (Super Mario 3D Land)",
+        "es-MX": "Snow Mountain Theme (Super Mario 3D Land)",
+        "ru-RU": "Snow Mountain Theme (Super Mario 3D Land)",
+        "ko-KR": "Snow Mountain Theme (슈퍼 마리오 3D랜드)",
+        "zh-CN": "Snow Mountain Theme (Super Mario 3D Land)",
+        "zh-TW": "Snow Mountain Theme（超級瑪利歐 3D樂園）"
+      }
+    },
+    {
       "id": "e20dd0b0-53c4-4630-9093-359fae271986",
       "name": {
         "en-US": "Toad Circuit (Mario Kart 7)",
@@ -5943,6 +6027,258 @@
         "ko-KR": "Ground Theme (New Super Mario Bros. U)",
         "zh-CN": "Ground Theme (New Super Mario Bros. U)",
         "zh-TW": "Ground Theme（New Super Mario Bros. U）"
+      }
+    },
+    {
+      "id": "82249229-857a-4494-b9be-27282efb2d80",
+      "name": {
+        "en-US": "Super Bell Hill (Super Mario 3D World)",
+        "ja-JP": "スーパーベルの丘（スーパーマリオ 3Dワールド）",
+        "en-GB": "Super Bell Hill (Super Mario 3D World)",
+        "fr-FR": "Colline aux super clochettes (Super Mario 3D World)",
+        "fr-CA": "Colline aux super clochettes (Super Mario 3D World)",
+        "de-DE": "Der Superglockenhügel (Super Mario 3D World)",
+        "nl-NL": "Superstart met een staartje (Super Mario 3D World)",
+        "it-IT": "Colle super campanella (Super Mario 3D World)",
+        "pt-PT": "Encosta dos superguizos (Super Mario 3D World)",
+        "pt-BR": "Encosta dos supersinos (Super Mario 3D World)",
+        "es-ES": "La colina de la supercampana felina (Super Mario 3D World)",
+        "es-MX": "La colina de la supercampana felina (Super Mario 3D World)",
+        "ru-RU": "Холм суперколокольчиков (Super Mario 3D World)",
+        "ko-KR": "슈퍼벨 언덕 (Super Mario 3D World)",
+        "zh-CN": "Super Bell Hill (Super Mario 3D World)",
+        "zh-TW": "Super Bell Hill（Super Mario 3D World）"
+      }
+    },
+    {
+      "id": "5e0aebb3-d34a-41f4-830f-8ffac9779188",
+      "name": {
+        "en-US": "Shifty Boo Mansion (Super Mario 3D World)",
+        "ja-JP": "オバケ屋敷のうごく床（スーパーマリオ 3Dワールド）",
+        "en-GB": "Shifty Boo Mansion (Super Mario 3D World)",
+        "fr-FR": "Manoir hanté et mouvementé (Super Mario 3D World)",
+        "fr-CA": "Manoir hanté et mouvementé (Super Mario 3D World)",
+        "de-DE": "Auf und ab im Gruselhaus (Super Mario 3D World)",
+        "nl-NL": "Boo's roltraphuis (Super Mario 3D World)",
+        "it-IT": "Tappeti fantasma (Super Mario 3D World)",
+        "pt-PT": "Mansão dos corredores movediços (Super Mario 3D World)",
+        "pt-BR": "Mansão dos corredores movediços (Super Mario 3D World)",
+        "es-ES": "La mansión horripilante de suelos deslizantes (Super Mario 3D World)",
+        "es-MX": "La mansión horripilante de suelos deslizantes (Super Mario 3D World)",
+        "ru-RU": "Вверх и вниз в особняке бу (Super Mario 3D World)",
+        "ko-KR": "유령 저택의 움직이는 바닥 (Super Mario 3D World)",
+        "zh-CN": "Shifty Boo Mansion (Super Mario 3D World)",
+        "zh-TW": "Shifty Boo Mansion（Super Mario 3D World）"
+      }
+    },
+    {
+      "id": "af4afeff-6db2-4002-9b8e-0c77a2e235be",
+      "name": {
+        "en-US": "Captain Toad Goes Forth (Super Mario 3D World)",
+        "ja-JP": "キノピオ隊長のさいしょの冒険（スーパーマリオ 3Dワールド）",
+        "en-GB": "Captain Toad Goes Forth (Super Mario 3D World)",
+        "fr-FR": "Le Capitaine Toad part à l'aventure (Super Mario 3D World)",
+        "fr-CA": "Le Capitaine Toad part à l'aventure (Super Mario 3D World)",
+        "de-DE": "Kapitän Toad will hoch hinaus (Super Mario 3D World)",
+        "nl-NL": "Toad-baas gaat op sterrenjacht (Super Mario 3D World)",
+        "it-IT": "Capitan Toad e il parco dei Coccinelli (Super Mario 3D World)",
+        "pt-PT": "Capitão Toad, o aventureiro (Super Mario 3D World)",
+        "pt-BR": "Capitão Toad, o aventureiro (Super Mario 3D World)",
+        "es-ES": "Primera expedición del Capitán Toad (Super Mario 3D World)",
+        "es-MX": "Primera expedición del Capitán Toad (Super Mario 3D World)",
+        "ru-RU": "Капитан Тоад отправляется в путь (Super Mario 3D World)",
+        "ko-KR": "키노피오대장 최초의 모험 (Super Mario 3D World)",
+        "zh-CN": "Captain Toad Goes Forth (Super Mario 3D World)",
+        "zh-TW": "Captain Toad Goes Forth（Super Mario 3D World）"
+      }
+    },
+    {
+      "id": "8c67cb5c-c76d-49e2-84ae-23b86df18b4e",
+      "name": {
+        "en-US": "Athletic Theme (Jazz) (Super Mario 3D World)",
+        "ja-JP": "アスレチック ジャズVer.（スーパーマリオ 3Dワールド）",
+        "en-GB": "Athletic Theme (Jazz) (Super Mario 3D World)",
+        "fr-FR": "Athletic Theme (Jazz) (Super Mario 3D World)",
+        "fr-CA": "Athletic Theme (Jazz Ver.) (Super Mario 3D World)",
+        "de-DE": "Athletic Theme (Jazz) (Super Mario 3D World)",
+        "nl-NL": "Athletic Theme (Jazz) (Super Mario 3D World)",
+        "it-IT": "Athletic Theme (Jazz) (Super Mario 3D World)",
+        "pt-PT": "Athletic Theme (Jazz) (Super Mario 3D World)",
+        "pt-BR": "Athletic Theme (Jazz) (Super Mario 3D World)",
+        "es-ES": "Athletic Theme (Jazz) (Super Mario 3D World)",
+        "es-MX": "Athletic Theme (versión jazz) (Super Mario 3D World)",
+        "ru-RU": "Athletic Theme (Jazz) (Super Mario 3D World)",
+        "ko-KR": "Athletic Theme (Jazz Ver.) (Super Mario 3D World)",
+        "zh-CN": "Athletic Theme (Jazz Ver.) (Super Mario 3D World)",
+        "zh-TW": "Athletic Theme (Jazz Ver.)（Super Mario 3D World）"
+      }
+    },
+    {
+      "id": "18884fc0-1654-462b-8ba7-252e789f5f93",
+      "name": {
+        "en-US": "Athletic Theme (Soul) (Super Mario 3D World)",
+        "ja-JP": "アスレチック ソウルVer.（スーパーマリオ 3Dワールド）",
+        "en-GB": "Athletic Theme (Soul) (Super Mario 3D World)",
+        "fr-FR": "Athletic Theme (Soul) (Super Mario 3D World)",
+        "fr-CA": "Athletic Theme (Soul Ver.) (Super Mario 3D World)",
+        "de-DE": "Athletic Theme (Soul) (Super Mario 3D World)",
+        "nl-NL": "Athletic Theme (Soul) (Super Mario 3D World)",
+        "it-IT": "Athletic Theme (Soul) (Super Mario 3D World)",
+        "pt-PT": "Athletic Theme (Soul) (Super Mario 3D World)",
+        "pt-BR": "Athletic Theme (Soul) (Super Mario 3D World)",
+        "es-ES": "Athletic Theme (Soul) (Super Mario 3D World)",
+        "es-MX": "Athletic Theme (versión soul) (Super Mario 3D World)",
+        "ru-RU": "Athletic Theme (Soul) (Super Mario 3D World)",
+        "ko-KR": "Athletic Theme (Soul Ver.) (Super Mario 3D World)",
+        "zh-CN": "Athletic Theme (Soul Ver.) (Super Mario 3D World)",
+        "zh-TW": "Athletic Theme (Soul Ver.)（Super Mario 3D World）"
+      }
+    },
+    {
+      "id": "a39b64d1-1f19-4055-a478-0486013f4fd2",
+      "name": {
+        "en-US": "Hisstocrat (Super Mario 3D World)",
+        "ja-JP": "ヘビースネーク（スーパーマリオ 3Dワールド）",
+        "en-GB": "Hisstocrat (Super Mario 3D World)",
+        "fr-FR": "Mambaristo (Super Mario 3D World)",
+        "fr-CA": "Mambaristo (Super Mario 3D World)",
+        "de-DE": "Von Zischel (Super Mario 3D World)",
+        "nl-NL": "Hisstocrat (Super Mario 3D World)",
+        "it-IT": "Sua Sibilanza (Super Mario 3D World)",
+        "pt-PT": "Sua Serpenteza (Super Mario 3D World)",
+        "pt-BR": "Sua Serpenteza (Super Mario 3D World)",
+        "es-ES": "Su Serpenteza (Super Mario 3D World)",
+        "es-MX": "Su Serpenteza (Super Mario 3D World)",
+        "ru-RU": "Гадейшество (Super Mario 3D World)",
+        "ko-KR": "헤비스네이크 (Super Mario 3D World)",
+        "zh-CN": "Hisstocrat (Super Mario 3D World)",
+        "zh-TW": "Hisstocrat（Super Mario 3D World）"
+      }
+    },
+    {
+      "id": "ef01d4c4-1017-4942-bd20-9b049b584d7d",
+      "name": {
+        "en-US": "Sprawling Savanna (Super Mario 3D World)",
+        "ja-JP": "ワイルドサバンナ（スーパーマリオ 3Dワールド）",
+        "en-GB": "Sprawling Savanna (Super Mario 3D World)",
+        "fr-FR": "L'appel de la savane (Super Mario 3D World)",
+        "fr-CA": "L'appel de la savane (Super Mario 3D World)",
+        "de-DE": "Grandiose Grassteppe (Super Mario 3D World)",
+        "nl-NL": "Avond op de savanne (Super Mario 3D World)",
+        "it-IT": "Savana selvaggia (Super Mario 3D World)",
+        "pt-PT": "Corrida pelo planalto das formigas (Super Mario 3D World)",
+        "pt-BR": "Corrida pelo planalto das formigas (Super Mario 3D World)",
+        "es-ES": "Viaje por la sabana salvaje (Super Mario 3D World)",
+        "es-MX": "Viaje por la pradera salvaje (Super Mario 3D World)",
+        "ru-RU": "Вечер в саванне (Super Mario 3D World)",
+        "ko-KR": "와일드 사바나 (Super Mario 3D World)",
+        "zh-CN": "Sprawling Savanna (Super Mario 3D World)",
+        "zh-TW": "Sprawling Savanna（Super Mario 3D World）"
+      }
+    },
+    {
+      "id": "2f32b311-2e65-4920-a2da-8d4f7ab2ca6b",
+      "name": {
+        "en-US": "Bowser's Highway Showdown (Super Mario 3D World)",
+        "ja-JP": "ハイウェイ・バトル（スーパーマリオ 3Dワールド）",
+        "en-GB": "Bowser's Highway Showdown (Super Mario 3D World)",
+        "fr-FR": "Châteautoroute de Bowser (Super Mario 3D World)",
+        "fr-CA": "Châteautoroute de Bowser (Super Mario 3D World)",
+        "de-DE": "Bowser gibt Gas (Super Mario 3D World)",
+        "nl-NL": "Bowsers kartkasteel (Super Mario 3D World)",
+        "it-IT": "Scontro al castello di Bowser (Super Mario 3D World)",
+        "pt-PT": "Castelo do Bowser: confronto a todo o gás (Super Mario 3D World)",
+        "pt-BR": "Castelo do Bowser: confronto a todo o gás (Super Mario 3D World)",
+        "es-ES": "Asalto a la autopista de Bowser (Super Mario 3D World)",
+        "es-MX": "Asalto a la autopista de Bowser (Super Mario 3D World)",
+        "ru-RU": "Битва на дороге Боузера (Super Mario 3D World)",
+        "ko-KR": "Bowser's Highway Showdown (Super Mario 3D World)",
+        "zh-CN": "Bowser's Highway Showdown (Super Mario 3D World)",
+        "zh-TW": "Bowser's Highway Showdown（Super Mario 3D World）"
+      }
+    },
+    {
+      "id": "5136e967-d4fd-479e-8b12-3ea19a7a9be8",
+      "name": {
+        "en-US": "Double Cherry Pass (Super Mario 3D World)",
+        "ja-JP": "ダブルチェリー峠（スーパーマリオ 3Dワールド）",
+        "en-GB": "Double Cherry Pass (Super Mario 3D World)",
+        "fr-FR": "Gorge aux doubles cerises (Super Mario 3D World)",
+        "fr-CA": "Gorge aux doubles cerises (Super Mario 3D World)",
+        "de-DE": "Auf dem Doppelkirschenberg (Super Mario 3D World)",
+        "nl-NL": "Doorgang der dubbele kersen (Super Mario 3D World)",
+        "it-IT": "Valico doppia ciliegia (Super Mario 3D World)",
+        "pt-PT": "Desfiladeiro das duplicerejas (Super Mario 3D World)",
+        "pt-BR": "Desfiladeiro das duplicerejas (Super Mario 3D World)",
+        "es-ES": "El desfiladero de las cerezas (Super Mario 3D World)",
+        "es-MX": "El desfiladero de las cerezas (Super Mario 3D World)",
+        "ru-RU": "Прогулка с двойной вишней (Super Mario 3D World)",
+        "ko-KR": "더블체리 고개 (Super Mario 3D World)",
+        "zh-CN": "Double Cherry Pass (Super Mario 3D World)",
+        "zh-TW": "Double Cherry Pass（Super Mario 3D World）"
+      }
+    },
+    {
+      "id": "810e2784-b252-41d4-a286-4f64ab0d95c7",
+      "name": {
+        "en-US": "Hands-On Hall (Super Mario 3D World)",
+        "ja-JP": "謎のからくり城（スーパーマリオ 3Dワールド）",
+        "en-GB": "Hands-On Hall (Super Mario 3D World)",
+        "fr-FR": "Château tactile (Super Mario 3D World)",
+        "fr-CA": "Château tactile (Super Mario 3D World)",
+        "de-DE": "Das Haus der tausend Touchscreen-Türen (Super Mario 3D World)",
+        "nl-NL": "Huis van de duizend schuifdeuren (Super Mario 3D World)",
+        "it-IT": "Castello delle porte scorrevoli (Super Mario 3D World)",
+        "pt-PT": "O castelo das portas misteriosas (Super Mario 3D World)",
+        "pt-BR": "O castelo das portas misteriosas (Super Mario 3D World)",
+        "es-ES": "El castillo de las trampillas (Super Mario 3D World)",
+        "es-MX": "El castillo de las trampillas (Super Mario 3D World)",
+        "ru-RU": "Раскрываем тайны замка (Super Mario 3D World)",
+        "ko-KR": "수수께끼의 기계 장치 성 (Super Mario 3D World)",
+        "zh-CN": "Hands-On Hall (Super Mario 3D World)",
+        "zh-TW": "Hands-On Hall（Super Mario 3D World）"
+      }
+    },
+    {
+      "id": "1428b938-f351-434b-ac65-3188b7c60338",
+      "name": {
+        "en-US": "Piranha Creeper Creek (Super Mario 3D World)",
+        "ja-JP": "のびのびパックンの沼（スーパーマリオ 3Dワールド）",
+        "en-GB": "Piranha Creeper Creek (Super Mario 3D World)",
+        "fr-FR": "Bourbe aux Piranhas rampantes (Super Mario 3D World)",
+        "fr-CA": "Bourbe aux Piranhas rampantes (Super Mario 3D World)",
+        "de-DE": "Der Sumpf der Kriech-Piranhas (Super Mario 3D World)",
+        "nl-NL": "Krioelende Piranha Creepers (Super Mario 3D World)",
+        "it-IT": "Palude delle Piante Serpiranha (Super Mario 3D World)",
+        "pt-PT": "Pântano das Plantas Piranha Rastejantes (Super Mario 3D World)",
+        "pt-BR": "Pântano das Plantas Piranha Rastejantes (Super Mario 3D World)",
+        "es-ES": "La ciénaga de las Pirañas Reptantes (Super Mario 3D World)",
+        "es-MX": "La ciénaga de las Pirañas Reptantes (Super Mario 3D World)",
+        "ru-RU": "Болото пираний-выползков (Super Mario 3D World)",
+        "ko-KR": "쭉쭉뻐끔의 늪 (Super Mario 3D World)",
+        "zh-CN": "Piranha Creeper Creek (Super Mario 3D World)",
+        "zh-TW": "Piranha Creeper Creek（Super Mario 3D World）"
+      }
+    },
+    {
+      "id": "c64fcae4-ecc0-45a9-af17-0fc3a1ef7e07",
+      "name": {
+        "en-US": "World 8 (Super Mario 3D World)",
+        "ja-JP": "WORLD8（スーパーマリオ 3Dワールド）",
+        "en-GB": "World 8 (Super Mario 3D World)",
+        "fr-FR": "World 8 (Super Mario 3D World)",
+        "fr-CA": "World 8 (Super Mario 3D World)",
+        "de-DE": "World 8 (Super Mario 3D World)",
+        "nl-NL": "World 8 (Super Mario 3D World)",
+        "it-IT": "World 8 (Super Mario 3D World)",
+        "pt-PT": "World 8 (Super Mario 3D World)",
+        "pt-BR": "World 8 (Super Mario 3D World)",
+        "es-ES": "World 8 (Super Mario 3D World)",
+        "es-MX": "MUNDO 8 (Super Mario 3D World)",
+        "ru-RU": "World 8 (Super Mario 3D World)",
+        "ko-KR": "World 8 (Super Mario 3D World)",
+        "zh-CN": "World 8 (Super Mario 3D World)",
+        "zh-TW": "World 8（Super Mario 3D World）"
       }
     },
     {
@@ -6363,6 +6699,48 @@
         "ko-KR": "타이틀 (마리오 카트 라이브: 홈 서킷)",
         "zh-CN": "标题（马力欧卡丁车实况:家庭赛车场）",
         "zh-TW": "標題（瑪利歐賽車實況: 家庭賽車場）"
+      }
+    },
+    {
+      "id": "dac4b40a-80c5-4a9a-8928-014c65d0d080",
+      "name": {
+        "en-US": "Plessie Ride! (Super Mario 3D World + Bowser's Fury)",
+        "ja-JP": "プレッシー搭乗！（スーパーマリオ 3Dワールド + フューリーワールド）",
+        "en-GB": "Plessie Ride! (Super Mario 3D World + Bowser's Fury)",
+        "fr-FR": "Plessie Ride! (Super Mario 3D World + Bowser's Fury)",
+        "fr-CA": "Plessie Ride! (Super Mario 3D World + Bowser's Fury)",
+        "de-DE": "Plessie Ride! (Super Mario 3D World + Bowser's Fury)",
+        "nl-NL": "Plessie Ride! (Super Mario 3D World + Bowser's Fury)",
+        "it-IT": "Plessie Ride! (Super Mario 3D World + Bowser's Fury)",
+        "pt-PT": "Plessie Ride! (Super Mario 3D World + Bowser's Fury)",
+        "pt-BR": "Plessie Ride! (Super Mario 3D World + Bowser's Fury)",
+        "es-ES": "Plessie Ride! (Super Mario 3D World + Bowser's Fury)",
+        "es-MX": "Plessie Ride! (Super Mario 3D World + Bowser's Fury)",
+        "ru-RU": "Plessie Ride! (Super Mario 3D World + Bowser's Fury)",
+        "ko-KR": "Plessie Ride! (슈퍼 마리오 3D 월드 + 퓨리 월드)",
+        "zh-CN": "Plessie Ride!（超级马力欧 3D世界 + 狂怒世界）",
+        "zh-TW": "Plessie Ride!（超級瑪利歐 3D世界 + 狂怒世界）"
+      }
+    },
+    {
+      "id": "efbeba5f-b0e3-4d9c-b5a8-030746a8beae",
+      "name": {
+        "en-US": "Attack! Bowser's Fury (Super Mario 3D World + Bowser's Fury)",
+        "ja-JP": "襲来！フューリークッパ（スーパーマリオ 3Dワールド + フューリーワールド）",
+        "en-GB": "Attack! Bowser's Fury (Super Mario 3D World + Bowser's Fury)",
+        "fr-FR": "Attack! Bowser's Fury (Super Mario 3D World + Bowser's Fury)",
+        "fr-CA": "Attack! Bowser's Fury (Super Mario 3D World + Bowser's Fury)",
+        "de-DE": "Attack! Bowser's Fury (Super Mario 3D World + Bowser's Fury)",
+        "nl-NL": "Attack! Bowser's Fury (Super Mario 3D World + Bowser's Fury)",
+        "it-IT": "Attack! Bowser's Fury (Super Mario 3D World + Bowser's Fury)",
+        "pt-PT": "Attack! Bowser's Fury (Super Mario 3D World + Bowser's Fury)",
+        "pt-BR": "Attack! Bowser's Fury (Super Mario 3D World + Bowser's Fury)",
+        "es-ES": "Attack! Bowser's Fury (Super Mario 3D World + Bowser's Fury)",
+        "es-MX": "Attack! Bowser's Fury (Super Mario 3D World + Bowser's Fury)",
+        "ru-RU": "Attack! Bowser's Fury (Super Mario 3D World + Bowser's Fury)",
+        "ko-KR": "Attack! Bowser's Fury (슈퍼 마리오 3D 월드 + 퓨리 월드)",
+        "zh-CN": "Attack! Bowser's Fury（超级马力欧 3D世界 + 狂怒世界）",
+        "zh-TW": "Attack! Bowser's Fury（超級瑪利歐 3D世界 + 狂怒世界）"
       }
     }
   ],
