@@ -1,0 +1,473 @@
+{
+  "nameEnUS": "SimCity",
+  "id": "0b3f719e-ca86-41a1-82c9-d3d2c8460b80",
+  "hardware": "Super Nintendo Entertainment System",
+  "timestamp": 1787274000,
+  "name": {
+    "en-US": "SimCity",
+    "ja-JP": "シムシティー",
+    "en-GB": "SimCity",
+    "fr-FR": "SimCity",
+    "fr-CA": "SimCity",
+    "de-DE": "SimCity",
+    "nl-NL": "SimCity",
+    "it-IT": "SimCity",
+    "pt-PT": "SimCity",
+    "pt-BR": "SimCity",
+    "es-ES": "SimCity",
+    "es-MX": "SimCity",
+    "ru-RU": "SimCity",
+    "ko-KR": "SimCity",
+    "zh-CN": "SimCity",
+    "zh-TW": "SimCity"
+  },
+  "allTracksPlaylistId": "5439735f-af61-4033-8f26-b46be322461d",
+  "tracks": [
+    {
+      "id": "e9a1f39e-e5f0-47bf-8397-bd381e9b1b9f",
+      "name": {
+        "en-US": "Title Screen",
+        "ja-JP": "タイトル",
+        "en-GB": "Title Screen",
+        "fr-FR": "Title Screen",
+        "fr-CA": "Title Screen",
+        "de-DE": "Title Screen",
+        "nl-NL": "Title Screen",
+        "it-IT": "Title Screen",
+        "pt-PT": "Title Screen",
+        "pt-BR": "Title Screen",
+        "es-ES": "Title Screen",
+        "es-MX": "Title Screen",
+        "ru-RU": "Title Screen",
+        "ko-KR": "Title Screen",
+        "zh-CN": "Title Screen",
+        "zh-TW": "Title Screen"
+      }
+    },
+    {
+      "id": "37ee38a5-48ef-4326-9247-2f75fba24568",
+      "name": {
+        "en-US": "Menu",
+        "ja-JP": "メニュー",
+        "en-GB": "Menu",
+        "fr-FR": "Menu",
+        "fr-CA": "Menu",
+        "de-DE": "Menu",
+        "nl-NL": "Menu",
+        "it-IT": "Menu",
+        "pt-PT": "Menu",
+        "pt-BR": "Menu",
+        "es-ES": "Menu",
+        "es-MX": "Menu",
+        "ru-RU": "Menu",
+        "ko-KR": "Menu",
+        "zh-CN": "Menu",
+        "zh-TW": "Menu"
+      }
+    },
+    {
+      "id": "2d739af3-3581-43ab-9a25-a9e8cfc1b09a",
+      "name": {
+        "en-US": "Village",
+        "ja-JP": "ビレッジ",
+        "en-GB": "Village",
+        "fr-FR": "Village",
+        "fr-CA": "Village",
+        "de-DE": "Village",
+        "nl-NL": "Village",
+        "it-IT": "Village",
+        "pt-PT": "Village",
+        "pt-BR": "Village",
+        "es-ES": "Village",
+        "es-MX": "Village",
+        "ru-RU": "Village",
+        "ko-KR": "Village",
+        "zh-CN": "Village",
+        "zh-TW": "Village"
+      }
+    },
+    {
+      "id": "d8b5bc27-26e9-4944-a603-25aa25b091a8",
+      "name": {
+        "en-US": "Dr. Wright",
+        "ja-JP": "Dr.ライト",
+        "en-GB": "Dr. Wright",
+        "fr-FR": "Dr. Wright",
+        "fr-CA": "Dr. Wright",
+        "de-DE": "Dr. Wright",
+        "nl-NL": "Dr. Wright",
+        "it-IT": "Dr. Wright",
+        "pt-PT": "Dr. Wright",
+        "pt-BR": "Dr. Wright",
+        "es-ES": "Dr. Wright",
+        "es-MX": "Dr. Wright",
+        "ru-RU": "Dr. Wright",
+        "ko-KR": "Dr. Wright",
+        "zh-CN": "Dr. Wright",
+        "zh-TW": "Dr. Wright"
+      }
+    },
+    {
+      "id": "5ad5b460-a3ea-4ed4-a4a2-0e457ec9e290",
+      "name": {
+        "en-US": "Urban Expansion",
+        "ja-JP": "都市の発展",
+        "en-GB": "Urban Expansion",
+        "fr-FR": "Urban Expansion",
+        "fr-CA": "Urban Expansion",
+        "de-DE": "Urban Expansion",
+        "nl-NL": "Urban Expansion",
+        "it-IT": "Urban Expansion",
+        "pt-PT": "Urban Expansion",
+        "pt-BR": "Urban Expansion",
+        "es-ES": "Urban Expansion",
+        "es-MX": "Urban Expansion",
+        "ru-RU": "Urban Expansion",
+        "ko-KR": "Urban Expansion",
+        "zh-CN": "Urban Expansion",
+        "zh-TW": "Urban Expansion"
+      }
+    },
+    {
+      "id": "498e3ec6-ee14-4b6c-9307-6f84a9d87e5b",
+      "name": {
+        "en-US": "Town",
+        "ja-JP": "タウン",
+        "en-GB": "Town",
+        "fr-FR": "Town",
+        "fr-CA": "Town",
+        "de-DE": "Town",
+        "nl-NL": "Town",
+        "it-IT": "Town",
+        "pt-PT": "Town",
+        "pt-BR": "Town",
+        "es-ES": "Town",
+        "es-MX": "Town",
+        "ru-RU": "Town",
+        "ko-KR": "Town",
+        "zh-CN": "Town",
+        "zh-TW": "Town"
+      }
+    },
+    {
+      "id": "22ab87f8-9a16-4126-b48a-2a900f00555c",
+      "name": {
+        "en-US": "City Evaluation (Bad)",
+        "ja-JP": "都市の評価（悪い）",
+        "en-GB": "City Evaluation (Bad)",
+        "fr-FR": "City Evaluation (Bad)",
+        "fr-CA": "City Evaluation (Bad)",
+        "de-DE": "City Evaluation (Bad)",
+        "nl-NL": "City Evaluation (Bad)",
+        "it-IT": "City Evaluation (Bad)",
+        "pt-PT": "City Evaluation (Bad)",
+        "pt-BR": "City Evaluation (Bad)",
+        "es-ES": "City Evaluation (Bad)",
+        "es-MX": "City Evaluation (Bad)",
+        "ru-RU": "City Evaluation (Bad)",
+        "ko-KR": "City Evaluation (Bad)",
+        "zh-CN": "City Evaluation (Bad)",
+        "zh-TW": "City Evaluation (Bad)"
+      }
+    },
+    {
+      "id": "30875695-29de-42f2-a616-bfd34cdcf7c9",
+      "name": {
+        "en-US": "Gift",
+        "ja-JP": "プレゼント",
+        "en-GB": "Gift",
+        "fr-FR": "Gift",
+        "fr-CA": "Gift",
+        "de-DE": "Gift",
+        "nl-NL": "Gift",
+        "it-IT": "Gift",
+        "pt-PT": "Gift",
+        "pt-BR": "Gift",
+        "es-ES": "Gift",
+        "es-MX": "Gift",
+        "ru-RU": "Gift",
+        "ko-KR": "Gift",
+        "zh-CN": "Gift",
+        "zh-TW": "Gift"
+      }
+    },
+    {
+      "id": "592d17c5-3782-4522-b8d8-c12a9e12890f",
+      "name": {
+        "en-US": "Amusement Park",
+        "ja-JP": "遊園地建設",
+        "en-GB": "Amusement Park",
+        "fr-FR": "Amusement Park",
+        "fr-CA": "Amusement Park",
+        "de-DE": "Amusement Park",
+        "nl-NL": "Amusement Park",
+        "it-IT": "Amusement Park",
+        "pt-PT": "Amusement Park",
+        "pt-BR": "Amusement Park",
+        "es-ES": "Amusement Park",
+        "es-MX": "Amusement Park",
+        "ru-RU": "Amusement Park",
+        "ko-KR": "Amusement Park",
+        "zh-CN": "Amusement Park",
+        "zh-TW": "Amusement Park"
+      }
+    },
+    {
+      "id": "123a6a03-6323-4854-b374-32472f3e635d",
+      "name": {
+        "en-US": "City Evaluation (Good)",
+        "ja-JP": "都市の評価（良い）",
+        "en-GB": "City Evaluation (Good)",
+        "fr-FR": "City Evaluation (Good)",
+        "fr-CA": "City Evaluation (Good)",
+        "de-DE": "City Evaluation (Good)",
+        "nl-NL": "City Evaluation (Good)",
+        "it-IT": "City Evaluation (Good)",
+        "pt-PT": "City Evaluation (Good)",
+        "pt-BR": "City Evaluation (Good)",
+        "es-ES": "City Evaluation (Good)",
+        "es-MX": "City Evaluation (Good)",
+        "ru-RU": "City Evaluation (Good)",
+        "ko-KR": "City Evaluation (Good)",
+        "zh-CN": "City Evaluation (Good)",
+        "zh-TW": "City Evaluation (Good)"
+      }
+    },
+    {
+      "id": "993724c9-4030-4e6c-beca-1d7c29d47361",
+      "name": {
+        "en-US": "City",
+        "ja-JP": "シティー",
+        "en-GB": "City",
+        "fr-FR": "City",
+        "fr-CA": "City",
+        "de-DE": "City",
+        "nl-NL": "City",
+        "it-IT": "City",
+        "pt-PT": "City",
+        "pt-BR": "City",
+        "es-ES": "City",
+        "es-MX": "City",
+        "ru-RU": "City",
+        "ko-KR": "City",
+        "zh-CN": "City",
+        "zh-TW": "City"
+      }
+    },
+    {
+      "id": "4c8c63fc-17cc-4293-a187-610a542e8970",
+      "name": {
+        "en-US": "Fiscal Budget (Japanese Ver.)",
+        "ja-JP": "予算設定（日本版）",
+        "en-GB": "Fiscal Budget (Japanese Ver.)",
+        "fr-FR": "Fiscal Budget (Japanese Ver.)",
+        "fr-CA": "Fiscal Budget (Japanese Ver.)",
+        "de-DE": "Fiscal Budget (Japanese Ver.)",
+        "nl-NL": "Fiscal Budget (Japanese Ver.)",
+        "it-IT": "Fiscal Budget (Japanese Ver.)",
+        "pt-PT": "Fiscal Budget (Japanese Ver.)",
+        "pt-BR": "Fiscal Budget (Japanese Ver.)",
+        "es-ES": "Fiscal Budget (Japanese Ver.)",
+        "es-MX": "Fiscal Budget (Japanese Ver.)",
+        "ru-RU": "Fiscal Budget (Japanese Ver.)",
+        "ko-KR": "Fiscal Budget (Japanese Ver.)",
+        "zh-CN": "Fiscal Budget (Japanese Ver.)",
+        "zh-TW": "Fiscal Budget (Japanese Ver.)"
+      }
+    },
+    {
+      "id": "42fc062d-344a-45a5-ab03-6f8d6f09fcba",
+      "name": {
+        "en-US": "Capital",
+        "ja-JP": "キャピタル",
+        "en-GB": "Capital",
+        "fr-FR": "Capital",
+        "fr-CA": "Capital",
+        "de-DE": "Capital",
+        "nl-NL": "Capital",
+        "it-IT": "Capital",
+        "pt-PT": "Capital",
+        "pt-BR": "Capital",
+        "es-ES": "Capital",
+        "es-MX": "Capital",
+        "ru-RU": "Capital",
+        "ko-KR": "Capital",
+        "zh-CN": "Capital",
+        "zh-TW": "Capital"
+      }
+    },
+    {
+      "id": "5d38a480-5a50-4265-b7ee-e0611f3ccc7b",
+      "name": {
+        "en-US": "Disaster",
+        "ja-JP": "災害",
+        "en-GB": "Disaster",
+        "fr-FR": "Disaster",
+        "fr-CA": "Disaster",
+        "de-DE": "Disaster",
+        "nl-NL": "Disaster",
+        "it-IT": "Disaster",
+        "pt-PT": "Disaster",
+        "pt-BR": "Disaster",
+        "es-ES": "Disaster",
+        "es-MX": "Disaster",
+        "ru-RU": "Disaster",
+        "ko-KR": "Disaster",
+        "zh-CN": "Disaster",
+        "zh-TW": "Disaster"
+      }
+    },
+    {
+      "id": "ebdc0c47-c099-4dc2-a20c-5185a3fd3a2c",
+      "name": {
+        "en-US": "Game Over",
+        "ja-JP": "ゲームオーバー",
+        "en-GB": "Game Over",
+        "fr-FR": "Game Over",
+        "fr-CA": "Game Over",
+        "de-DE": "Game Over",
+        "nl-NL": "Game Over",
+        "it-IT": "Game Over",
+        "pt-PT": "Game Over",
+        "pt-BR": "Game Over",
+        "es-ES": "Game Over",
+        "es-MX": "Game Over",
+        "ru-RU": "Game Over",
+        "ko-KR": "Game Over",
+        "zh-CN": "Game Over",
+        "zh-TW": "Game Over"
+      }
+    },
+    {
+      "id": "77d24793-fad8-4b18-9f68-966f142c66a5",
+      "name": {
+        "en-US": "Metropolis",
+        "ja-JP": "メトロポリス",
+        "en-GB": "Metropolis",
+        "fr-FR": "Metropolis",
+        "fr-CA": "Metropolis",
+        "de-DE": "Metropolis",
+        "nl-NL": "Metropolis",
+        "it-IT": "Metropolis",
+        "pt-PT": "Metropolis",
+        "pt-BR": "Metropolis",
+        "es-ES": "Metropolis",
+        "es-MX": "Metropolis",
+        "ru-RU": "Metropolis",
+        "ko-KR": "Metropolis",
+        "zh-CN": "Metropolis",
+        "zh-TW": "Metropolis"
+      }
+    },
+    {
+      "id": "0aed0650-325a-47f3-8a49-69fede764bc4",
+      "name": {
+        "en-US": "Scenario Clear",
+        "ja-JP": "シナリオクリア",
+        "en-GB": "Scenario Clear",
+        "fr-FR": "Scenario Clear",
+        "fr-CA": "Scenario Clear",
+        "de-DE": "Scenario Clear",
+        "nl-NL": "Scenario Clear",
+        "it-IT": "Scenario Clear",
+        "pt-PT": "Scenario Clear",
+        "pt-BR": "Scenario Clear",
+        "es-ES": "Scenario Clear",
+        "es-MX": "Scenario Clear",
+        "ru-RU": "Scenario Clear",
+        "ko-KR": "Scenario Clear",
+        "zh-CN": "Scenario Clear",
+        "zh-TW": "Scenario Clear"
+      }
+    },
+    {
+      "id": "90258a47-71c5-4620-9bec-bf03ebe21260",
+      "name": {
+        "en-US": "Megalopolis",
+        "ja-JP": "メガロポリス",
+        "en-GB": "Megalopolis",
+        "fr-FR": "Megalopolis",
+        "fr-CA": "Megalopolis",
+        "de-DE": "Megalopolis",
+        "nl-NL": "Megalopolis",
+        "it-IT": "Megalopolis",
+        "pt-PT": "Megalopolis",
+        "pt-BR": "Megalopolis",
+        "es-ES": "Megalopolis",
+        "es-MX": "Megalopolis",
+        "ru-RU": "Megalopolis",
+        "ko-KR": "Megalopolis",
+        "zh-CN": "Megalopolis",
+        "zh-TW": "Megalopolis"
+      }
+    },
+    {
+      "id": "227caefd-6304-4d3c-aa8c-34abb1e82be1",
+      "name": {
+        "en-US": "Mario Statue Erected",
+        "ja-JP": "マリオ像設置",
+        "en-GB": "Mario Statue Erected",
+        "fr-FR": "Mario Statue Erected",
+        "fr-CA": "Mario Statue Erected",
+        "de-DE": "Mario Statue Erected",
+        "nl-NL": "Mario Statue Erected",
+        "it-IT": "Mario Statue Erected",
+        "pt-PT": "Mario Statue Erected",
+        "pt-BR": "Mario Statue Erected",
+        "es-ES": "Mario Statue Erected",
+        "es-MX": "Mario Statue Erected",
+        "ru-RU": "Mario Statue Erected",
+        "ko-KR": "Mario Statue Erected",
+        "zh-CN": "Mario Statue Erected",
+        "zh-TW": "Mario Statue Erected"
+      }
+    },
+    {
+      "id": "67c3361d-6a78-46e4-a1b8-22604c492bb2",
+      "name": {
+        "en-US": "Population of 600,000",
+        "ja-JP": "人口60万人達成",
+        "en-GB": "Population of 600,000",
+        "fr-FR": "Population of 600,000",
+        "fr-CA": "Population of 600,000",
+        "de-DE": "Population of 600,000",
+        "nl-NL": "Population of 600,000",
+        "it-IT": "Population of 600,000",
+        "pt-PT": "Population of 600,000",
+        "pt-BR": "Population of 600,000",
+        "es-ES": "Population of 600,000",
+        "es-MX": "Population of 600,000",
+        "ru-RU": "Population of 600,000",
+        "ko-KR": "Population of 600,000",
+        "zh-CN": "Population of 600,000",
+        "zh-TW": "Population of 600,000"
+      }
+    },
+    {
+      "id": "da694b31-67aa-4100-90b5-74532afab7d6",
+      "name": {
+        "en-US": "Save Complete",
+        "ja-JP": "セーブ完了",
+        "en-GB": "Save Complete",
+        "fr-FR": "Save Complete",
+        "fr-CA": "Save Complete",
+        "de-DE": "Save Complete",
+        "nl-NL": "Save Complete",
+        "it-IT": "Save Complete",
+        "pt-PT": "Save Complete",
+        "pt-BR": "Save Complete",
+        "es-ES": "Save Complete",
+        "es-MX": "Save Complete",
+        "ru-RU": "Save Complete",
+        "ko-KR": "Save Complete",
+        "zh-CN": "Save Complete",
+        "zh-TW": "Save Complete"
+      }
+    }
+  ],
+  "localesWithDistinctTrackNames": [
+    "en-US",
+    "ja-JP"
+  ],
+  "localesWithDistinctTrackNamesCount": 2
+}
