@@ -2,7 +2,7 @@
   "nameEnUS": "Mario Kart World",
   "id": "dbadc5dd-73a5-482d-9aaa-c87b1b64d7dd",
   "hardware": "Nintendo Switch 2",
-  "timestamp": 1787014859,
+  "timestamp": 1787619659,
   "name": {
     "en-US": "Mario Kart World",
     "ja-JP": "マリオカート ワールド",
@@ -2246,7 +2246,7 @@
         "ru-RU": "Экран результатов C",
         "ko-KR": "결과 C",
         "zh-CN": "结果C",
-        "zh-TW": "終果C"
+        "zh-TW": "結果C"
       }
     },
     {
@@ -6282,6 +6282,552 @@
       }
     },
     {
+      "id": "943fd076-fe44-48d4-a186-2892d7d301ba",
+      "name": {
+        "en-US": "Mario Kart 8 (Jazz Fusion 1) (Mario Kart 8 Deluxe)",
+        "ja-JP": "Mario Kart 8 フュージョンVer.1（マリオカート8 デラックス）",
+        "en-GB": "Mario Kart 8 (Jazz Fusion 1) (Mario Kart 8 Deluxe)",
+        "fr-FR": "Mario Kart 8 (version jazz fusion 1) (Mario Kart 8 Deluxe)",
+        "fr-CA": "Mario Kart 8 (version jazz fusion 1) (Mario Kart 8 Deluxe)",
+        "de-DE": "Mario Kart 8 (Jazz-Fusion-Version 1) (Mario Kart 8 Deluxe)",
+        "nl-NL": "Mario Kart 8 (jazzfusion-versie 1) (Mario Kart 8 Deluxe)",
+        "it-IT": "Mario Kart 8 (versione jazz fusion 1) (Mario Kart 8 Deluxe)",
+        "pt-PT": "Mario Kart 8 (versão jazz fusion 1) (Mario Kart 8 Deluxe)",
+        "pt-BR": "Mario Kart 8 (versão jazz fusion 1) (Mario Kart 8 Deluxe)",
+        "es-ES": "Mario Kart 8 (Jazz Fusion Ver. 1) (Mario Kart 8 Deluxe)",
+        "es-MX": "Mario Kart 8 (versión jazz fusión 1) (Mario Kart 8 Deluxe)",
+        "ru-RU": "Mario Kart 8 (джаз-фьюжен-версия 1) (Mario Kart 8 Deluxe)",
+        "ko-KR": "마리오 카트 8 (퓨전 Ver. 1) (마리오 카트 8 디럭스)",
+        "zh-CN": "马力欧卡丁车8 融合爵士乐Ver.1（马力欧卡丁车8 豪华版）",
+        "zh-TW": "瑪利歐賽車8 融合爵士樂Ver.1（瑪利歐賽車8 豪華版）"
+      }
+    },
+    {
+      "id": "80999821-f7f5-49f4-9c75-8912fd1cf06b",
+      "name": {
+        "en-US": "Mario Kart 8 (Jazz Fusion 2) (Mario Kart 8 Deluxe)",
+        "ja-JP": "Mario Kart 8 フュージョンVer.2（マリオカート8 デラックス）",
+        "en-GB": "Mario Kart 8 (Jazz Fusion 2) (Mario Kart 8 Deluxe)",
+        "fr-FR": "Mario Kart 8 (version jazz fusion 2) (Mario Kart 8 Deluxe)",
+        "fr-CA": "Mario Kart 8 (version jazz fusion 2) (Mario Kart 8 Deluxe)",
+        "de-DE": "Mario Kart 8 (Jazz-Fusion-Version 2) (Mario Kart 8 Deluxe)",
+        "nl-NL": "Mario Kart 8 (jazzfusion-versie 2) (Mario Kart 8 Deluxe)",
+        "it-IT": "Mario Kart 8 (versione jazz fusion 2) (Mario Kart 8 Deluxe)",
+        "pt-PT": "Mario Kart 8 (versão jazz fusion 2) (Mario Kart 8 Deluxe)",
+        "pt-BR": "Mario Kart 8 (versão jazz fusion 2) (Mario Kart 8 Deluxe)",
+        "es-ES": "Mario Kart 8 (Jazz Fusion Ver. 2) (Mario Kart 8 Deluxe)",
+        "es-MX": "Mario Kart 8 (versión jazz fusión 2)",
+        "ru-RU": "Mario Kart 8 (джаз-фьюжен-версия 2) (Mario Kart 8 Deluxe)",
+        "ko-KR": "마리오 카트 8 (퓨전 Ver. 2) (마리오 카트 8 디럭스)",
+        "zh-CN": "马力欧卡丁车8 融合爵士乐Ver.2（马力欧卡丁车8 豪华版）",
+        "zh-TW": "瑪利歐賽車8 融合爵士樂Ver.2（瑪利歐賽車8 豪華版）"
+      }
+    },
+    {
+      "id": "5fef3b70-b160-49e9-91c1-2e1409036086",
+      "name": {
+        "en-US": "Water Park (Mario Kart 8 Deluxe)",
+        "ja-JP": "ウォーターパーク（マリオカート8 デラックス）",
+        "en-GB": "Water Park (Mario Kart 8 Deluxe)",
+        "fr-FR": "Parc Glougloop (Mario Kart 8 Deluxe)",
+        "fr-CA": "Parc Aquatique (Mario Kart 8 Deluxe)",
+        "de-DE": "Wasserpark (Mario Kart 8 Deluxe)",
+        "nl-NL": "Waterpretpark (Mario Kart 8 Deluxe)",
+        "it-IT": "Parco Acquatico (Mario Kart 8 Deluxe)",
+        "pt-PT": "Parque Aquático (Mario Kart 8 Deluxe)",
+        "pt-BR": "Parque Aquático (Mario Kart 8 Deluxe)",
+        "es-ES": "Parque Acuático (Mario Kart 8 Deluxe)",
+        "es-MX": "Parque Acuático (Mario Kart 8 Deluxe)",
+        "ru-RU": "Аквапарк (Mario Kart 8 Deluxe)",
+        "ko-KR": "워터 파크 (마리오 카트 8 디럭스)",
+        "zh-CN": "水上乐园（马力欧卡丁车8 豪华版）",
+        "zh-TW": "水上樂園（瑪利歐賽車8 豪華版）"
+      }
+    },
+    {
+      "id": "9d0e231b-a7ee-42b6-82ec-fc87e9f5eb55",
+      "name": {
+        "en-US": "Sweet Sweet Canyon (Electro) (Mario Kart 8 Deluxe)",
+        "ja-JP": "スイーツキャニオン エレクトロVer.（マリオカート8 デラックス）",
+        "en-GB": "Sweet Sweet Canyon (Electro) (Mario Kart 8 Deluxe)",
+        "fr-FR": "Piste aux délices (version électro) (Mario Kart 8 Deluxe)",
+        "fr-CA": "Canyon Gourmand (version électro) (Mario Kart 8 Deluxe)",
+        "de-DE": "Zuckersüßer Canyon (Electro-Version) (Mario Kart 8 Deluxe)",
+        "nl-NL": "Zoetekauwcanyon (electroversie) (Mario Kart 8 Deluxe)",
+        "it-IT": "Dolce Dolce Canyon (versione electro) (Mario Kart 8 Deluxe)",
+        "pt-PT": "Desfiladeiro Doce (versão eletrónica) (Mario Kart 8 Deluxe)",
+        "pt-BR": "Desfiladeiro Doce (versão eletrônica) (Mario Kart 8 Deluxe)",
+        "es-ES": "Barranco Goloso (versión electrónica) (Mario Kart 8 Deluxe)",
+        "es-MX": "Barranco Goloso (versión electrónica) (Mario Kart 8 Deluxe)",
+        "ru-RU": "Каньон сладостей (электро-версия) (Mario Kart 8 Deluxe)",
+        "ko-KR": "스위트 캐니언 (일렉트로 Ver.) (마리오 카트 8 디럭스)",
+        "zh-CN": "甜点峡谷 电子乐Ver.（马力欧卡丁车8 豪华版）",
+        "zh-TW": "甜點峽谷 電子音樂Ver.（瑪利歐賽車8 豪華版）"
+      }
+    },
+    {
+      "id": "406320a7-0989-4124-9488-dc85c230cf4b",
+      "name": {
+        "en-US": "Sweet Sweet Canyon (Jazz) (Mario Kart 8 Deluxe)",
+        "ja-JP": "スイーツキャニオン ジャズVer.（マリオカート8 デラックス）",
+        "en-GB": "Sweet Sweet Canyon (Jazz) (Mario Kart 8 Deluxe)",
+        "fr-FR": "Piste aux délices (version jazz) (Mario Kart 8 Deluxe)",
+        "fr-CA": "Canyon Gourmand (version jazz) (Mario Kart 8 Deluxe)",
+        "de-DE": "Zuckersüßer Canyon (Jazz-Version) (Mario Kart 8 Deluxe)",
+        "nl-NL": "Zoetekauwcanyon (jazzversie) (Mario Kart 8 Deluxe)",
+        "it-IT": "Dolce Dolce Canyon (versione jazz) (Mario Kart 8 Deluxe)",
+        "pt-PT": "Desfiladeiro Doce (versão jazz) (Mario Kart 8 Deluxe)",
+        "pt-BR": "Desfiladeiro Doce (versão jazz) (Mario Kart 8 Deluxe)",
+        "es-ES": "Barranco Goloso (versión jazz) (Mario Kart 8 Deluxe)",
+        "es-MX": "Barranco Goloso (versión jazz) (Mario Kart 8 Deluxe)",
+        "ru-RU": "Каньон сладостей (джаз-версия) (Mario Kart 8 Deluxe)",
+        "ko-KR": "스위트 캐니언 (재즈 Ver.) (마리오 카트 8 디럭스)",
+        "zh-CN": "甜点峡谷 爵士乐Ver.（马力欧卡丁车8 豪华版）",
+        "zh-TW": "甜點峽谷 爵士樂Ver.（瑪利歐賽車8 豪華版）"
+      }
+    },
+    {
+      "id": "c8717f2a-8fa7-49c6-8c6b-a924bfc744b0",
+      "name": {
+        "en-US": "Thwomp Ruins (Mario Kart 8 Deluxe)",
+        "ja-JP": "ドッスンいせき（マリオカート8 デラックス）",
+        "en-GB": "Thwomp Ruins (Mario Kart 8 Deluxe)",
+        "fr-FR": "Temple Thwomp (Mario Kart 8 Deluxe)",
+        "fr-CA": "Temple Ka-Bang (Mario Kart 8 Deluxe)",
+        "de-DE": "Steinblock-Ruinen (Mario Kart 8 Deluxe)",
+        "nl-NL": "Thwomps Tempel (Mario Kart 8 Deluxe)",
+        "it-IT": "Rovine di Twomp (Mario Kart 8 Deluxe)",
+        "pt-PT": "Ruínas do Granitão (Mario Kart 8 Deluxe)",
+        "pt-BR": "Ruínas do Tumbo (Mario Kart 8 Deluxe)",
+        "es-ES": "Ruinas Roca Picuda (Mario Kart 8 Deluxe)",
+        "es-MX": "Ruinas Don Pisotón (Mario Kart 8 Deluxe)",
+        "ru-RU": "Руины бамсов (Mario Kart 8 Deluxe)",
+        "ko-KR": "쿵쿵 유적 (마리오 카트 8 디럭스)",
+        "zh-CN": "咚咚遗迹（马力欧卡丁车8 豪华版）",
+        "zh-TW": "咚咚遺跡（瑪利歐賽車8 豪華版）"
+      }
+    },
+    {
+      "id": "cb69c994-3abd-456e-b232-01e4aa490ee8",
+      "name": {
+        "en-US": "Mario Circuit (Mario Kart 8 Deluxe)",
+        "ja-JP": "マリオサーキット（マリオカート8 デラックス）",
+        "en-GB": "Mario Circuit (Mario Kart 8 Deluxe)",
+        "fr-FR": "Circuit Mario (Mario Kart 8 Deluxe)",
+        "fr-CA": "Circuit Mario (Mario Kart 8 Deluxe)",
+        "de-DE": "Marios Piste (Mario Kart 8 Deluxe)",
+        "nl-NL": "Mario's Circuit (Mario Kart 8 Deluxe)",
+        "it-IT": "Circuito di Mario (Mario Kart 8 Deluxe)",
+        "pt-PT": "Circuito do Mario (Mario Kart 8 Deluxe)",
+        "pt-BR": "Circuito Mario (Mario Kart 8 Deluxe)",
+        "es-ES": "Circuito Mario (Mario Kart 8 Deluxe)",
+        "es-MX": "Circuito Mario (Mario Kart 8 Deluxe)",
+        "ru-RU": "Трасса Марио (Mario Kart 8 Deluxe)",
+        "ko-KR": "마리오 서킷 (마리오 카트 8 디럭스)",
+        "zh-CN": "马力欧赛道（马力欧卡丁车8 豪华版）",
+        "zh-TW": "瑪利歐賽道（瑪利歐賽車8 豪華版）"
+      }
+    },
+    {
+      "id": "8bfd03f8-1b10-4021-ae0c-b62311114910",
+      "name": {
+        "en-US": "Toad Harbor (Electro) (Mario Kart 8 Deluxe)",
+        "ja-JP": "キノピオハーバー エレクトロVer.（マリオカート8 デラックス）",
+        "en-GB": "Toad Harbour (Electro) (Mario Kart 8 Deluxe)",
+        "fr-FR": "Promenade Toad (version électro) (Mario Kart 8 Deluxe)",
+        "fr-CA": "Promenade Toad (version électro) (Mario Kart 8 Deluxe)",
+        "de-DE": "Toads Hafenstadt (Electro-Version) (Mario Kart 8 Deluxe)",
+        "nl-NL": "Toad-Baai (electroversie) (Mario Kart 8 Deluxe)",
+        "it-IT": "Riviera di Toad (versione electro) (Mario Kart 8 Deluxe)",
+        "pt-PT": "Baía do Toad (versão eletrónica) (Mario Kart 8 Deluxe)",
+        "pt-BR": "Baía do Toad (versão eletrônica) (Mario Kart 8 Deluxe)",
+        "es-ES": "Puerto Toad (versión electrónica) (Mario Kart 8 Deluxe)",
+        "es-MX": "Puerto Toad (versión electrónica) (Mario Kart 8 Deluxe)",
+        "ru-RU": "Порт тоадов (электро-версия) (Mario Kart 8 Deluxe)",
+        "ko-KR": "키노피오 하버 (일렉트로 Ver.) (마리오 카트 8 디럭스)",
+        "zh-CN": "奇诺比奥海港 电子乐Ver.（马力欧卡丁车8 豪华版）",
+        "zh-TW": "奇諾比奧海港 電子音樂Ver.（瑪利歐賽車8 豪華版）"
+      }
+    },
+    {
+      "id": "acfeb08e-712a-48ff-b88a-deb9040bfdf0",
+      "name": {
+        "en-US": "Toad Harbor (Rock) (Mario Kart 8 Deluxe)",
+        "ja-JP": "キノピオハーバー ロックVer.（マリオカート8 デラックス）",
+        "en-GB": "Toad Harbour (Rock) (Mario Kart 8 Deluxe)",
+        "fr-FR": "Promenade Toad (version rock) (Mario Kart 8 Deluxe)",
+        "fr-CA": "Promenade Toad (version rock) (Mario Kart 8 Deluxe)",
+        "de-DE": "Toads Hafenstadt (Rock-Version) (Mario Kart 8 Deluxe)",
+        "nl-NL": "Toad-Baai (rockversie) (Mario Kart 8 Deluxe)",
+        "it-IT": "Riviera di Toad (versione rock) (Mario Kart 8 Deluxe)",
+        "pt-PT": "Baía do Toad (versão rock) (Mario Kart 8 Deluxe)",
+        "pt-BR": "Baía do Toad (versão rock) (Mario Kart 8 Deluxe)",
+        "es-ES": "Puerto Toad (versión rock) (Mario Kart 8 Deluxe)",
+        "es-MX": "Puerto Toad (versión rock) (Mario Kart 8 Deluxe)",
+        "ru-RU": "Порт тоадов (рок-версия) (Mario Kart 8 Deluxe)",
+        "ko-KR": "키노피오 하버 (록 Ver.) (마리오 카트 8 디럭스)",
+        "zh-CN": "奇诺比奥海港 摇滚Ver.（马力欧卡丁车8 豪华版）",
+        "zh-TW": "奇諾比奧海港 搖滾Ver.（瑪利歐賽車8 豪華版）"
+      }
+    },
+    {
+      "id": "04d0096f-aa7a-43e3-bdd4-d9a0ffc8b1ff",
+      "name": {
+        "en-US": "Twisted Mansion (Mario Kart 8 Deluxe)",
+        "ja-JP": "ねじれマンション（マリオカート8 デラックス）",
+        "en-GB": "Twisted Mansion (Mario Kart 8 Deluxe)",
+        "fr-FR": "Manoir trempé (Mario Kart 8 Deluxe)",
+        "fr-CA": "Manoir Englouti (Mario Kart 8 Deluxe)",
+        "de-DE": "Gruselwusel-Villa (Mario Kart 8 Deluxe)",
+        "nl-NL": "Boo's Duizelhuis (Mario Kart 8 Deluxe)",
+        "it-IT": "Cittadella Tremarella (Mario Kart 8 Deluxe)",
+        "pt-PT": "Mansão Revolta (Mario Kart 8 Deluxe)",
+        "pt-BR": "Mansão Revolta (Mario Kart 8 Deluxe)",
+        "es-ES": "Mansión Retorcida (Mario Kart 8 Deluxe)",
+        "es-MX": "Mansión Retorcida (Mario Kart 8 Deluxe)",
+        "ru-RU": "Коварный особняк (Mario Kart 8 Deluxe)",
+        "ko-KR": "비틀어진 맨션 (마리오 카트 8 디럭스)",
+        "zh-CN": "扭曲洋馆（马力欧卡丁车8 豪华版）",
+        "zh-TW": "扭曲洋樓（瑪利歐賽車8 豪華版）"
+      }
+    },
+    {
+      "id": "bfa0a459-8c89-4db8-9a6a-d9e7f08b2f4d",
+      "name": {
+        "en-US": "Shy Guy Falls (Mario Kart 8 Deluxe)",
+        "ja-JP": "ヘイホーこうざん（マリオカート8 デラックス）",
+        "en-GB": "Shy Guy Falls (Mario Kart 8 Deluxe)",
+        "fr-FR": "Cascades Maskass (Mario Kart 8 Deluxe)",
+        "fr-CA": "Chutes Maskache (Mario Kart 8 Deluxe)",
+        "de-DE": "Shy Guys Wasserfälle (Mario Kart 8 Deluxe)",
+        "nl-NL": "Shy Guys Kristalmijn (Mario Kart 8 Deluxe)",
+        "it-IT": "Cascate di Tipo Timido (Mario Kart 8 Deluxe)",
+        "pt-PT": "Cascata do Masquito (Mario Kart 8 Deluxe)",
+        "pt-BR": "Cascata do Shy Guy (Mario Kart 8 Deluxe)",
+        "es-ES": "Cataratas Shy Guy (Mario Kart 8 Deluxe)",
+        "es-MX": "Cataratas Shy Guy (Mario Kart 8 Deluxe)",
+        "ru-RU": "Водопады скромняг (Mario Kart 8 Deluxe)",
+        "ko-KR": "헤이호 광산 (마리오 카트 8 디럭스)",
+        "zh-CN": "嘿呵矿山（马力欧卡丁车8 豪华版）",
+        "zh-TW": "嘿呵礦山（瑪利歐賽車8 豪華版）"
+      }
+    },
+    {
+      "id": "d9ae624f-d37a-4d77-8b83-1e8161088bbc",
+      "name": {
+        "en-US": "Sunshine Airport (Electro) (Mario Kart 8 Deluxe)",
+        "ja-JP": "サンシャインくうこう エレクトロVer.（マリオカート8 デラックス）",
+        "en-GB": "Sunshine Airport (Electro) (Mario Kart 8 Deluxe)",
+        "fr-FR": "Aéroport Azur (version électro) (Mario Kart 8 Deluxe)",
+        "fr-CA": "Aéroport Azur (version électro) (Mario Kart 8 Deluxe)",
+        "de-DE": "Sonnenflughafen (Electro-Version) (Mario Kart 8 Deluxe)",
+        "nl-NL": "Sunshine Airport (electroversie) (Mario Kart 8 Deluxe)",
+        "it-IT": "Aeroporto del Sole (versione electro) (Mario Kart 8 Deluxe)",
+        "pt-PT": "Aeroporto Alvorada (versão eletrónica) (Mario Kart 8 Deluxe)",
+        "pt-BR": "Aeroporto Alvorada (versão eletrônica) (Mario Kart 8 Deluxe)",
+        "es-ES": "Aeropuerto Soleado (versión electrónica) (Mario Kart 8 Deluxe)",
+        "es-MX": "Aeropuerto Soleado (versión electrónica) (Mario Kart 8 Deluxe)",
+        "ru-RU": "Солнечный аэропорт (электро-версия) (Mario Kart 8 Deluxe)",
+        "ko-KR": "선샤인 공항 (일렉트로 Ver.) (마리오 카트 8 디럭스)",
+        "zh-CN": "阳光机场 电子乐Ver.（马力欧卡丁车8 豪华版）",
+        "zh-TW": "陽光機場 電子音樂Ver.（瑪利歐賽車8 豪華版）"
+      }
+    },
+    {
+      "id": "7ada2717-67e8-4b72-8e52-c6bf2b4f9a9d",
+      "name": {
+        "en-US": "Sunshine Airport (Lounge Pop) (Mario Kart 8 Deluxe)",
+        "ja-JP": "サンシャインくうこう ラウンジポップVer.（マリオカート8 デラックス）",
+        "en-GB": "Sunshine Airport (Lounge Pop) (Mario Kart 8 Deluxe)",
+        "fr-FR": "Aéroport Azur (version pop lounge) (Mario Kart 8 Deluxe)",
+        "fr-CA": "Aéroport Azur (version pop lounge) (Mario Kart 8 Deluxe)",
+        "de-DE": "Sonnenflughafen (Lounge-Pop-Version) (Mario Kart 8 Deluxe)",
+        "nl-NL": "Sunshine Airport (loungepop-versie) (Mario Kart 8 Deluxe)",
+        "it-IT": "Aeroporto del Sole (versione lounge pop) (Mario Kart 8 Deluxe)",
+        "pt-PT": "Aeroporto Alvorada (versão lounge pop) (Mario Kart 8 Deluxe)",
+        "pt-BR": "Aeroporto Alvorada (versão lounge pop) (Mario Kart 8 Deluxe)",
+        "es-ES": "Aeropuerto Soleado (versión lounge pop) (Mario Kart 8 Deluxe)",
+        "es-MX": "Aeropuerto Soleado (versión lounge pop) (Mario Kart 8 Deluxe)",
+        "ru-RU": "Солнечный аэропорт (лаундж-поп-версия) (Mario Kart 8 Deluxe)",
+        "ko-KR": "선샤인 공항 (라운지 팝 Ver.) (마리오 카트 8 디럭스)",
+        "zh-CN": "阳光机场 休闲流行乐Ver.（马力欧卡丁车8 豪华版）",
+        "zh-TW": "陽光機場 休閒流行樂Ver.（瑪利歐賽車8 豪華版）"
+      }
+    },
+    {
+      "id": "dbb6395b-a751-4b3c-b8ba-a80faca50ece",
+      "name": {
+        "en-US": "Dolphin Shoals (Electro) (Mario Kart 8 Deluxe)",
+        "ja-JP": "ドルフィンみさき エレクトロVer.（マリオカート8 デラックス）",
+        "en-GB": "Dolphin Shoals (Electro) (Mario Kart 8 Deluxe)",
+        "fr-FR": "Lagon Tourbillon (version électro) (Mario Kart 8 Deluxe)",
+        "fr-CA": "Lagon Tourbillon (version électro) (Mario Kart 8 Deluxe)",
+        "de-DE": "Delfinlagune (Electro-Version) (Mario Kart 8 Deluxe)",
+        "nl-NL": "Dolfijnenparadijs (electroversie) (Mario Kart 8 Deluxe)",
+        "it-IT": "Laguna Delfino (versione electro) (Mario Kart 8 Deluxe)",
+        "pt-PT": "Lagoa do Golfinho (versão eletrónica) (Mario Kart 8 Deluxe)",
+        "pt-BR": "Lagoa do Golfinho (versão eletrônica) (Mario Kart 8 Deluxe)",
+        "es-ES": "Cala Delfín (versión electrónica) (Mario Kart 8 Deluxe)",
+        "es-MX": "Cala Delfín (versión electrónica) (Mario Kart 8 Deluxe)",
+        "ru-RU": "Дельфиньи отмели (электро-версия) (Mario Kart 8 Deluxe)",
+        "ko-KR": "돌핀 케이프 (일렉트로 Ver.) (마리오 카트 8 디럭스)",
+        "zh-CN": "海豚海角 电子乐Ver.（马力欧卡丁车8 豪华版）",
+        "zh-TW": "海豚海角 電子音樂Ver.（瑪利歐賽車8 豪華版）"
+      }
+    },
+    {
+      "id": "bdc96149-6900-4e26-b448-0403316fd95a",
+      "name": {
+        "en-US": "Dolphin Shoals (Jazz Fusion) (Mario Kart 8 Deluxe)",
+        "ja-JP": "ドルフィンみさき フュージョンVer.（マリオカート8 デラックス）",
+        "en-GB": "Dolphin Shoals (Jazz Fusion) (Mario Kart 8 Deluxe)",
+        "fr-FR": "Lagon Tourbillon (version jazz fusion) (Mario Kart 8 Deluxe)",
+        "fr-CA": "Lagon Tourbillon (version jazz fusion) (Mario Kart 8 Deluxe)",
+        "de-DE": "Delfinlagune (Jazz-Fusion-Version) (Mario Kart 8 Deluxe)",
+        "nl-NL": "Dolfijnenparadijs (jazzfusion-versie) (Mario Kart 8 Deluxe)",
+        "it-IT": "Laguna Delfino (versione jazz fusion) (Mario Kart 8 Deluxe)",
+        "pt-PT": "Lagoa do Golfinho (versão jazz fusion) (Mario Kart 8 Deluxe)",
+        "pt-BR": "Lagoa do Golfinho (versão jazz fusion) (Mario Kart 8 Deluxe)",
+        "es-ES": "Cala Delfín (versión jazz fusión) (Mario Kart 8 Deluxe)",
+        "es-MX": "Cala Delfín (versión jazz fusión) (Mario Kart 8 Deluxe)",
+        "ru-RU": "Дельфиньи отмели (джаз-фьюжен-версия) (Mario Kart 8 Deluxe)",
+        "ko-KR": "돌핀 케이프 (퓨전 Ver.) (마리오 카트 8 디럭스)",
+        "zh-CN": "海豚海角 融合爵士乐Ver.（马力欧卡丁车8 豪华版）",
+        "zh-TW": "海豚海角 融合爵士樂Ver.（瑪利歐賽車8 豪華版）"
+      }
+    },
+    {
+      "id": "cbb8b5d8-76c0-4d95-adef-c14ac47c0acf",
+      "name": {
+        "en-US": "Electrodrome (Mario Kart 8 Deluxe)",
+        "ja-JP": "エレクトロドリーム（マリオカート8 デラックス）",
+        "en-GB": "Electrodrome (Mario Kart 8 Deluxe)",
+        "fr-FR": "Club Mario (Mario Kart 8 Deluxe)",
+        "fr-CA": "Électrodrome (Mario Kart 8 Deluxe)",
+        "de-DE": "Discodrom (Mario Kart 8 Deluxe)",
+        "nl-NL": "Electrodome (Mario Kart 8 Deluxe)",
+        "it-IT": "Elettrodromo (Mario Kart 8 Deluxe)",
+        "pt-PT": "Circuito Elétrico (Mario Kart 8 Deluxe)",
+        "pt-BR": "Circuito Elétrico (Mario Kart 8 Deluxe)",
+        "es-ES": "Discoestadio (Mario Kart 8 Deluxe)",
+        "es-MX": "Electródromo (Mario Kart 8 Deluxe)",
+        "ru-RU": "Электродром (Mario Kart 8 Deluxe)",
+        "ko-KR": "일렉트로 드림 (마리오 카트 8 디럭스)",
+        "zh-CN": "电子幻界（马力欧卡丁车8 豪华版）",
+        "zh-TW": "電子幻界（瑪利歐賽車8 豪華版）"
+      }
+    },
+    {
+      "id": "ab5db8f5-67e6-4439-b889-79fd516e28ab",
+      "name": {
+        "en-US": "Mount Wario (Mario Kart 8 Deluxe)",
+        "ja-JP": "ワリオスノーマウンテン（マリオカート8 デラックス）",
+        "en-GB": "Mount Wario (Mario Kart 8 Deluxe)",
+        "fr-FR": "Descente givrée (Mario Kart 8 Deluxe)",
+        "fr-CA": "Descente Givrée (Mario Kart 8 Deluxe)",
+        "de-DE": "Wario-Abfahrt (Mario Kart 8 Deluxe)",
+        "nl-NL": "Wario's Winterberg (Mario Kart 8 Deluxe)",
+        "it-IT": "Monte Wario (Mario Kart 8 Deluxe)",
+        "pt-PT": "Monte Wario (Mario Kart 8 Deluxe)",
+        "pt-BR": "Monte Wario (Mario Kart 8 Deluxe)",
+        "es-ES": "Cumbre Wario (Mario Kart 8 Deluxe)",
+        "es-MX": "Cumbre Wario (Mario Kart 8 Deluxe)",
+        "ru-RU": "Гора Варио (Mario Kart 8 Deluxe)",
+        "ko-KR": "와리오 스노 마운틴 (마리오 카트 8 디럭스)",
+        "zh-CN": "瓦力欧雪山（马力欧卡丁车8 豪华版）",
+        "zh-TW": "瓦利歐雪山（瑪利歐賽車8 豪華版）"
+      }
+    },
+    {
+      "id": "32076431-f066-44a9-8582-c15e659531b8",
+      "name": {
+        "en-US": "Cloudtop Cruise (Mario Kart 8 Deluxe)",
+        "ja-JP": "スカイガーデン（マリオカート8 デラックス）",
+        "en-GB": "Cloudtop Cruise (Mario Kart 8 Deluxe)",
+        "fr-FR": "Voie céleste (Mario Kart 8 Deluxe)",
+        "fr-CA": "Dans les nuages (Mario Kart 8 Deluxe)",
+        "de-DE": "Wolkenstraße (Mario Kart 8 Deluxe)",
+        "nl-NL": "Wildewolkenweg (Mario Kart 8 Deluxe)",
+        "it-IT": "Vascello Nuvolante (Mario Kart 8 Deluxe)",
+        "pt-PT": "Via Nublada (Mario Kart 8 Deluxe)",
+        "pt-BR": "Via Nublada (Mario Kart 8 Deluxe)",
+        "es-ES": "Ruta Celeste (Mario Kart 8 Deluxe)",
+        "es-MX": "Ruta Celeste (Mario Kart 8 Deluxe)",
+        "ru-RU": "Заоблачный круиз (Mario Kart 8 Deluxe)",
+        "ko-KR": "스카이 가든 (마리오 카트 8 디럭스)",
+        "zh-CN": "空中花园（马力欧卡丁车8 豪华版）",
+        "zh-TW": "空中花園（瑪利歐賽車8 豪華版）"
+      }
+    },
+    {
+      "id": "174da9fe-d3a4-49d9-be8a-d3d768a5158f",
+      "name": {
+        "en-US": "Bone-Dry Dunes (Mario Kart 8 Deluxe)",
+        "ja-JP": "ホネホネさばく（マリオカート8 デラックス）",
+        "en-GB": "Bone Dry Dunes (Mario Kart 8 Deluxe)",
+        "fr-FR": "Désert Toussec (Mario Kart 8 Deluxe)",
+        "fr-CA": "Désert Toussec (Mario Kart 8 Deluxe)",
+        "de-DE": "Knochentrockene Dünen (Mario Kart 8 Deluxe)",
+        "nl-NL": "Dry Bowsers Woestijn (Mario Kart 8 Deluxe)",
+        "it-IT": "Deserto di Tartosso (Mario Kart 8 Deluxe)",
+        "pt-PT": "Dunas Caveirinha (Mario Kart 8 Deluxe)",
+        "pt-BR": "Dunas Quebra-ossos (Mario Kart 8 Deluxe)",
+        "es-ES": "Dunas Huesitos (Mario Kart 8 Deluxe)",
+        "es-MX": "Dunas Huesitos (Mario Kart 8 Deluxe)",
+        "ru-RU": "Дюны скелетов (Mario Kart 8 Deluxe)",
+        "ko-KR": "뼈다귀 사막 (마리오 카트 8 디럭스)",
+        "zh-CN": "骨骨沙漠（马力欧卡丁车8 豪华版）",
+        "zh-TW": "骨骨沙漠（瑪利歐賽車8 豪華版）"
+      }
+    },
+    {
+      "id": "ac7cafd6-3b42-4220-9b00-02674b43a560",
+      "name": {
+        "en-US": "Bowser's Castle (Mario Kart 8 Deluxe)",
+        "ja-JP": "クッパキャッスル（マリオカート8 デラックス）",
+        "en-GB": "Bowser's Castle (Mario Kart 8 Deluxe)",
+        "fr-FR": "Château de Bowser (Mario Kart 8 Deluxe)",
+        "fr-CA": "Château de Bowser (Mario Kart 8 Deluxe)",
+        "de-DE": "Bowsers Festung (Mario Kart 8 Deluxe)",
+        "nl-NL": "Bowsers Kasteel (Mario Kart 8 Deluxe)",
+        "it-IT": "Castello di Bowser (Mario Kart 8 Deluxe)",
+        "pt-PT": "Castelo do Bowser (Mario Kart 8 Deluxe)",
+        "pt-BR": "Castelo do Bowser (Mario Kart 8 Deluxe)",
+        "es-ES": "Castillo de Bowser (Mario Kart 8 Deluxe)",
+        "es-MX": "Castillo de Bowser (Mario Kart 8 Deluxe)",
+        "ru-RU": "Замок Боузера (Mario Kart 8 Deluxe)",
+        "ko-KR": "쿠파 성 (마리오 카트 8 디럭스)",
+        "zh-CN": "酷霸城堡（马力欧卡丁车8 豪华版）",
+        "zh-TW": "庫巴城堡（瑪利歐賽車8 豪華版）"
+      }
+    },
+    {
+      "id": "18b9f90d-30c4-474e-8b1e-da7197c6302c",
+      "name": {
+        "en-US": "Rainbow Road (Mario Kart 8 Deluxe)",
+        "ja-JP": "レインボーロード（マリオカート8 デラックス）",
+        "en-GB": "Rainbow Road (Mario Kart 8 Deluxe)",
+        "fr-FR": "Route Arc-en-ciel (Mario Kart 8 Deluxe)",
+        "fr-CA": "Route Arc-en-ciel (Mario Kart 8 Deluxe)",
+        "de-DE": "Regenbogen-Boulevard (Mario Kart 8 Deluxe)",
+        "nl-NL": "Regenboogbaan (Mario Kart 8 Deluxe)",
+        "it-IT": "Pista Arcobaleno (Mario Kart 8 Deluxe)",
+        "pt-PT": "Estrada Arco-Íris (Mario Kart 8 Deluxe)",
+        "pt-BR": "Estrada Arco-Íris (Mario Kart 8 Deluxe)",
+        "es-ES": "Senda Arco Iris (Mario Kart 8 Deluxe)",
+        "es-MX": "Senda Arco Iris (Mario Kart 8 Deluxe)",
+        "ru-RU": "Трасса Радуга (Mario Kart 8 Deluxe)",
+        "ko-KR": "무지개 로드 (마리오 카트 8 디럭스)",
+        "zh-CN": "彩虹之路（马力欧卡丁车8 豪华版）",
+        "zh-TW": "彩虹之路（瑪利歐賽車8 豪華版）"
+      }
+    },
+    {
+      "id": "defb87da-a1e1-4c0e-a600-18624fd6473f",
+      "name": {
+        "en-US": "Dragon Driftway (Mario Kart 8 Deluxe)",
+        "ja-JP": "ドラゴンロード（マリオカート8 デラックス）",
+        "en-GB": "Dragon Driftway (Mario Kart 8 Deluxe)",
+        "fr-FR": "Route du dragon (Mario Kart 8 Deluxe)",
+        "fr-CA": "Route du dragon (Mario Kart 8 Deluxe)",
+        "de-DE": "Große Drachenmauer (Mario Kart 8 Deluxe)",
+        "nl-NL": "Drakendreef (Mario Kart 8 Deluxe)",
+        "it-IT": "Muraglia del Drago (Mario Kart 8 Deluxe)",
+        "pt-PT": "Estrada do Dragão (Mario Kart 8 Deluxe)",
+        "pt-BR": "Estrada do Dragão (Mario Kart 8 Deluxe)",
+        "es-ES": "Ruta Dragón (Mario Kart 8 Deluxe)",
+        "es-MX": "Ruta Dragón (Mario Kart 8 Deluxe)",
+        "ru-RU": "Дорога дракона (Mario Kart 8 Deluxe)",
+        "ko-KR": "드래곤 드리프트 로드 (마리오 카트 8 디럭스)",
+        "zh-CN": "龙盘之路（马力欧卡丁车8 豪华版）",
+        "zh-TW": "龍盤之路（瑪利歐賽車8 豪華版）"
+      }
+    },
+    {
+      "id": "b9dca940-6adf-4c44-8e4e-7726ff1c429e",
+      "name": {
+        "en-US": "Ice Ice Outpost (Mario Kart 8 Deluxe)",
+        "ja-JP": "ツルツルツイスター（マリオカート8 デラックス）",
+        "en-GB": "Ice Ice Outpost (Mario Kart 8 Deluxe)",
+        "fr-FR": "Station Glagla (Mario Kart 8 Deluxe)",
+        "fr-CA": "Station Glagla (Mario Kart 8 Deluxe)",
+        "de-DE": "Polarkreis-Parcours (Mario Kart 8 Deluxe)",
+        "nl-NL": "Toads Poolbasis (Mario Kart 8 Deluxe)",
+        "it-IT": "Pista Polare (Mario Kart 8 Deluxe)",
+        "pt-PT": "Circuito Ártico (Mario Kart 8 Deluxe)",
+        "pt-BR": "Circuito Ártico (Mario Kart 8 Deluxe)",
+        "es-ES": "Base Polar (Mario Kart 8 Deluxe)",
+        "es-MX": "Base Polar (Mario Kart 8 Deluxe)",
+        "ru-RU": "Полярный пробег (Mario Kart 8 Deluxe)",
+        "ko-KR": "미끌미끌 트위스터 (마리오 카트 8 디럭스)",
+        "zh-CN": "滑滑扭扭乐（马力欧卡丁车8 豪华版）",
+        "zh-TW": "滑滑扭扭樂（瑪利歐賽車8 豪華版）"
+      }
+    },
+    {
+      "id": "ad91218b-537f-454f-9f42-e1bdaccd80ae",
+      "name": {
+        "en-US": "Wild Woods (Mario Kart 8 Deluxe)",
+        "ja-JP": "ネイチャーロード（マリオカート8 デラックス）",
+        "en-GB": "Wild Woods (Mario Kart 8 Deluxe)",
+        "fr-FR": "Passage Feuillage (Mario Kart 8 Deluxe)",
+        "fr-CA": "Passage Feuillage (Mario Kart 8 Deluxe)",
+        "de-DE": "Wilder Wipfelweg (Mario Kart 8 Deluxe)",
+        "nl-NL": "Wervelwoud (Mario Kart 8 Deluxe)",
+        "it-IT": "Boscodromo (Mario Kart 8 Deluxe)",
+        "pt-PT": "Floresta Misteriosa (Mario Kart 8 Deluxe)",
+        "pt-BR": "Floresta Misteriosa (Mario Kart 8 Deluxe)",
+        "es-ES": "Bosque Mágico (Mario Kart 8 Deluxe)",
+        "es-MX": "Bosque Mágico (Mario Kart 8 Deluxe)",
+        "ru-RU": "Лихие леса (Mario Kart 8 Deluxe)",
+        "ko-KR": "네이처 로드 (마리오 카트 8 디럭스)",
+        "zh-CN": "自然之路（马力欧卡丁车8 豪华版）",
+        "zh-TW": "自然之路（瑪利歐賽車8 豪華版）"
+      }
+    },
+    {
+      "id": "68c62e95-703c-45ad-b708-7cbacd6c37f4",
+      "name": {
+        "en-US": "Super Bell Subway (Mario Kart 8 Deluxe)",
+        "ja-JP": "リンリンメトロ（マリオカート8 デラックス）",
+        "en-GB": "Super Bell Subway (Mario Kart 8 Deluxe)",
+        "fr-FR": "Métro Turbo (Mario Kart 8 Deluxe)",
+        "fr-CA": "Métro Turbo (Mario Kart 8 Deluxe)",
+        "de-DE": "Marios Metro (Mario Kart 8 Deluxe)",
+        "nl-NL": "Mario's Metro (Mario Kart 8 Deluxe)",
+        "it-IT": "Mariopolitana (Mario Kart 8 Deluxe)",
+        "pt-PT": "Metro Mario (Mario Kart 8 Deluxe)",
+        "pt-BR": "Metro Mario (Mario Kart 8 Deluxe)",
+        "es-ES": "Estación Tilín-Tolón (Mario Kart 8 Deluxe)",
+        "es-MX": "Metro Campana (Mario Kart 8 Deluxe)",
+        "ru-RU": "Метро Марио (Mario Kart 8 Deluxe)",
+        "ko-KR": "슈퍼 벨 메트로 (마리오 카트 8 디럭스)",
+        "zh-CN": "铃铃地铁（马力欧卡丁车8 豪华版）",
+        "zh-TW": "鈴鈴地鐵（瑪利歐賽車8 豪華版）"
+      }
+    },
+    {
+      "id": "68fa1c39-141b-4950-b162-9dd7787fba3a",
+      "name": {
+        "en-US": "Squeaky Clean Sprint (Mario Kart 8 Deluxe)",
+        "ja-JP": "シャボンロード（マリオカート8 デラックス）",
+        "en-GB": "Squeaky Clean Sprint (Mario Kart 8 Deluxe)",
+        "fr-FR": "Course à la propreté (Mario Kart 8 Deluxe)",
+        "fr-CA": "Course à la propreté (Mario Kart 8 Deluxe)",
+        "de-DE": "Bad-Parcours (Mario Kart 8 Deluxe)",
+        "nl-NL": "Badderbaan (Mario Kart 8 Deluxe)",
+        "it-IT": "Corsa in bagno (Mario Kart 8 Deluxe)",
+        "pt-PT": "Percurso Sanitário (Mario Kart 8 Deluxe)",
+        "pt-BR": "Percurso Sanitário (Mario Kart 8 Deluxe)",
+        "es-ES": "Escusado Acelerado (Mario Kart 8 Deluxe)",
+        "es-MX": "Bañódromo (Mario Kart 8 Deluxe)",
+        "ru-RU": "Гонка в ванной (Mario Kart 8 Deluxe)",
+        "ko-KR": "비눗방울 로드 (마리오 카트 8 디럭스)",
+        "zh-CN": "肥皂泡之路（马力欧卡丁车8 豪华版）",
+        "zh-TW": "肥皂泡之路（瑪利歐賽車8 豪華版）"
+      }
+    },
+    {
       "id": "57c774b6-9a67-4db0-a03f-c37b4a36a695",
       "name": {
         "en-US": "Title Screen (Super Mario Maker)",
@@ -6741,6 +7287,48 @@
         "ko-KR": "Attack! Bowser's Fury (슈퍼 마리오 3D 월드 + 퓨리 월드)",
         "zh-CN": "Attack! Bowser's Fury（超级马力欧 3D世界 + 狂怒世界）",
         "zh-TW": "Attack! Bowser's Fury（超級瑪利歐 3D世界 + 狂怒世界）"
+      }
+    },
+    {
+      "id": "2733e63f-06e4-414a-9184-dafe503a6b3b",
+      "name": {
+        "en-US": "Title Theme (Bonus Track)",
+        "ja-JP": "メインテーマ（Bonus Track）",
+        "en-GB": "Title Theme (Bonus Track)",
+        "fr-FR": "Thème principal (morceau bonus)",
+        "fr-CA": "Thème principal (morceau bonus)",
+        "de-DE": "Titelmusik (Bonus-Track)",
+        "nl-NL": "Titelnummer (bonusnummer)",
+        "it-IT": "Tema del titolo (brano bonus)",
+        "pt-PT": "Tema principal (faixa bónus)",
+        "pt-BR": "Tema de título (música bônus)",
+        "es-ES": "Tema principal (tema extra)",
+        "es-MX": "Tema principal (tema extra)",
+        "ru-RU": "Основной мотив (бонусный трек)",
+        "ko-KR": "메인 테마 (보너스 트랙)",
+        "zh-CN": "Main Theme（追加曲）",
+        "zh-TW": "Main Theme（追加曲）"
+      }
+    },
+    {
+      "id": "6c777aad-4efc-4d09-bbc2-ed0d1f4704b9",
+      "name": {
+        "en-US": "Crown City (Bonus Track)",
+        "ja-JP": "トロフィーシティ（Bonus Track）",
+        "en-GB": "Crown City (Bonus Track)",
+        "fr-FR": "Trophéopolis (morceau bonus)",
+        "fr-CA": "Trophéopolis (morceau bonus)",
+        "de-DE": "Kronen-Metropole (Bonus-Track)",
+        "nl-NL": "Kroonstad (bonusnummer)",
+        "it-IT": "Trofea (brano bonus)",
+        "pt-PT": "Metrópole Coroada (faixa bónus)",
+        "pt-BR": "Metrópole Coroada (música bônus)",
+        "es-ES": "Ciudad Corona (tema extra)",
+        "es-MX": "Ciudad Corona (tema extra)",
+        "ru-RU": "Кронбридж (бонусный трек)",
+        "ko-KR": "트로피 시티 (보너스 트랙)",
+        "zh-CN": "奖杯城（追加曲）",
+        "zh-TW": "獎盃城（追加曲）"
       }
     }
   ],
