@@ -39,6 +39,7 @@
 2: Fire Emblem Engage
 2: Fire Emblem: Path of Radiance
 2: Fire Emblem: The Blazing Blade
+2: Fire Emblem: Three Houses
 2: Galactic Pinball
 2: Golden Sun
 2: Golden Sun: The Lost Age
