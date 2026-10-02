@@ -89,6 +89,7 @@
 2: SimCity
 2: Soccer
 2: Stack-Up
+2: Star Fox
 2: Star Fox 64
 2: Super Mario 3D World + Bowser’s Fury
 2: Super Mario 64
