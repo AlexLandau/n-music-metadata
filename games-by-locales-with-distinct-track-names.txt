@@ -11,6 +11,7 @@
 3: WarioWare: Move It!
 3: Wii Channels
 3: Wii Party
+2: ARMS
 2: Animal Crossing
 2: Animal Crossing: New Leaf
 2: Balloon Fight
