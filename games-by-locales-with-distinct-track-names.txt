@@ -84,6 +84,7 @@
 2: Pinball
 2: Pokémon FireRed Version and Pokémon LeafGreen Version
 2: Pokémon Legends: Arceus
+2: Pokémon Legends: Z-A
 2: Pokémon Scarlet and Pokémon Violet
 2: Pokémon Sword and Pokémon Shield
 2: Princess Peach: Showtime!
