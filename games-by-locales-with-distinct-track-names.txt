@@ -63,6 +63,7 @@
 2: Mario Bros.
 2: Mario Clash
 2: Mario Kart 64
+2: Mario Kart DS
 2: Mario Paint
 2: Mario Tennis Aces
 2: Mario's Tennis
